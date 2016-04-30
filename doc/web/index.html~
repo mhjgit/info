@@ -17,7 +17,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>Welcome to Morten's website</h1>
+        <h1>Aboutme</h1>
         <p>Here you can find information of my different activities, research interests etc etc</p>
         <p class="view"><a href="https://github.com/mhjgit/info">View the Project on GitHub <small>mhjgit/info</small></a></p>
         <ul>
@@ -27,7 +27,7 @@
         </ul>
       </header>
       <section>
-        <p>Scientific  profile</p>
+        <p>Academic Interests</p>
 
 <p>I am a theoretical  physicist with a strong interest in computational physics and many-body theory in general, and the nuclear many-body problem and nuclear structure problems in particular. This means that I study various methods for solving either Schrödinger's equation or Dirac's equation for many interacting particles, spanning from algorithmic aspects to the mathematical properties of such methods. The latter also leads to a strong interest in computational physics as well as computational aspects of quantum mechanical methods. A large fraction of my work, in close collaboration with colleagues at Michigan State University, the University of Oslo, Oak Ridge National Laboratory  as well as many other institutions worldwide, is devoted to a better understanding of various quantum mechanical algorithms. This activity leads to strong overlaps with other scientific fields. Although the main focus has been and is on many-body methods for nuclear structure problems, I have also done, and continue to do, research on solid state physics systems in addition to studies of the mathematical properties of various many-body methods.</p>
 
