@@ -1,0 +1,547 @@
+TITLE: Biographical Information
+AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
+DATE: 2016
+
+===== Professional preparation, education  and personal data: =====
+
+* Professor of Physics at Michigan State University, USA and the University of Oslo, Norway
+* Norwegian citizen, born in Haugesund, July 29, 1961
+* Norwegian University of Science and Technology, Trondheim, Norway,  Siv.Ing. in Theoretical Physics (Master of Science equivalent),  1988 
+* University of Oslo, Norway,  Ph.D in Theoretical Nuclear Physics, 1993
+* ECT*, Trento, Italy,  Postdoctoral Researcher in Theoretical Nuclear Physics,  1994-1996
+* Nordita, Copenhagen, Denmark, Postdoctoral Researcher in Theoretical Nuclear Physics, 1996-1998
+
+===== Appointments: =====
+
+|---------------------------------------------------------------------|
+| Position | Institution  | Dates |
+|---------------------------------------------------------------------|
+| Associate Professor of Physics | University of Oslo| 1999-2001 | 
+| Professor of Physics | University of Oslo| 2001-present |
+| Adjunct Professor of Physics | Michigan State University| 2003-2011 |
+| Professor of Physics | Michigan State University| 2012-present |
+|---------------------------------------------------------------------|
+
+===== Awards: =====
+
+o University of Oslo award for excellence in teaching, 2000
+o Fellow of the American Physical Society, 2007
+o Oak Ridge National Laboratory excellence in research award, 2008
+o Outstanding referee award of the American Physical Society, 2008
+o University of Oslo award for excellence in teaching for the _Computing in Science Education_ project, 2011
+o NOKUT (Norwegian entity of quality assessment in higher education) award for excellence in teaching for the _Computing in Science Education_ project, 2012
+o Elected member of the Norwegian Academy of Sciences and Letters, 2013
+o Elected member of the Royal Norwegian Society of Sciences and Letters, 2015 
+o University of Oslo award for excellence in teaching for developing the Computational Physics group, 2015
+o Favorite graduate teacher at Michigan State University, 2016 
+
+===== Citation metrics and highly cited articles: =====
+
+o "Google scholar h-index=47, 8014 citations (April 2016)":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en"
+o ISI web of science h-index=41 Search hjorth-jensen or hjorthjensen 
+o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126", cited 668 times (Google Scholar)
+o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106", cited 379 times (Google Scholar)
+o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607", cited 321 times (Google Scholar)
+
+===== Synergistic Activities: =====
+
+* Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last fifteen years I have guided  50 Master of Science of students (28 have continued with PhD studies) and ten PhD students.  I currently supervise twelve Master of Science students at the University of Oslo. I supervise four PhD students at Michigan State University.
+
+* With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computation with the traditional science amd mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
+
+* With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2016 the initiative has run and developing eleven courses. I chaired the steering committee from its beginning in 2010 till 2015. 
+
+* Together with colleagues in the USA, I am, due to my shared position at Michigan State University, deeply involved in the set up of a large center in theoretical nuclear physics that will be linked up with the coming Facility for Radioactive Ion Beams at Michigan State university. 
+
+
+
+===== Service through the years =====
+
+=== Editorial boards and committees ===
+
+* Member of the Physics Advisory Comittee at the National Superconducting Cyclotron Laboratory, Michigan State University, East Lansing, USA, 2003-2008
+
+* Member of the Canadian research council's evaluation board on subatomic physics 2012-2015.
+
+* Member of the Swedish research council's evaluation board on subatomic physics 2007-2008.
+
+* Editorial Board member of Physical Review C
+
+* Editorial Board member of European Physical Journal A
+
+* Editorial Board member of European Physical Journal Special Topics.
+
+* Editorial Board member of Springer's Lecture Notes in Physics
+
+* Editorial Board member of Springer's Undergraduate Lecture Notes in Physics
+
+* Editorial board member of Computers in Science and Discovery journal, a journal by IOP, UK.
+
+* "Steering Committee member of the FRIB theory alliance at Michigan State University (2013-2016)":"http://fribtheoryalliance.org/"
+
+* "Initiated and led the Nuclear Talent initiative from 2010 till 2015, now member of the Steering committee":"http://www.nucleartalent.org/"
+
+* Member of the Board of Usit at UiO (Center for information technology at the University of Oslo), 2002-2004
+
+* Project leader for High-performance computing courses at UiO, 2000-2003
+
+* Board member of the Bachelor program Mathematics, Information theory and Technology at the University of Oslo, 2002-2008
+
+* Leader of the Bachelor program Physics, Astronomy and Meteorology at the University of Oslo, 2002-2011
+
+* Together with colleagues from the Department of Physics, Department of Mathematics and Department of Informatics at the University of Oslo, we started   the Computers in Science Education project in 2004. This project, which we conceived back in 2003,  has changed totally changed the way Science is taught.
+
+* Member of the OECD working group in nuclear physics 2006-2008
+
+* January 2009-December 2011, leader of the Nuclear Physics group at the University of Oslo
+
+
+=== Referee for International Journals ===
+
+* Referee for Reviews of Modern Physics
+
+* Referee for Physical Review Letters
+
+* Referee for Nature
+ 
+* Referee for Physical Review _C_
+
+* Referee for Physical Review _D_
+
+* Referee for Nuclear Physics _A_
+
+* Referee for Physics Letters _B_
+
+* Referee for Astrophysical Journal
+
+* Referee for Journal of Chemical Physics
+
+* Referee for Journal of Physics _A_: Mathematical Physics
+
+* Referee for Journal of Physics _G_: Nuclear and Particle Physics
+
+* Referee for European Journal of Physics _A_
+
+* Referee for European Physics Letters
+
+* Referee for Few Body Systems
+
+* Referee for Modern Journal of Physics E
+
+* Referee for Physica Scripta
+
+* Referee for Annals of Physics
+
+* Referee for SIAM
+
+* Referee for Computer Physics Communications
+
+* Referee for Computers in Science and Discovery
+
+* Referee for Journal of Mathematics Physics
+
+
+
+=== Other Referee Activities ===
+
+* Referee for the Canadian Research Council
+
+* Referee for the Israelian Research Council
+
+* Referee for the South African Research Council
+
+* Referee for the British Research Council
+
+* Referee for the German Research Council
+
+* Referee for the American Department of Energy (DOE)
+
+* Referee for the American National Science Foundation (NSF)
+
+* Referee for INFN, Istituto Nazionale di Fisica Nucleare, Italy
+
+* Referee for ESF, European Science Foundation
+
+* Referee for Vetenskapsradet, the Swedish Research Council
+
+* Referee for the Danish Resource Council
+
+* Referee for the Serbian Research Ministry
+
+* Referee for the Russian Research Council
+
+* Opponent at several PhD dissertations.
+  
+* Member of more than 20 PhD guidance committees at Michigan State University
+
+* Several expert evaluations on promotion applications.
+
+* Member or leader of several job assessment committees in Norway and the USA
+
+
+===== Master of Science, PhD and Post-doctoral fellows =====
+
+In total, since I was hired at the University of Oslo in 1999, I have guided and co-guided a total of 60 Master of Science and PhD students. I presently guide four graduate students at Michigan State University  and twelve (four co-supervised) Master of Science students at the University of Oslo.
+
+
+=== Present PhD students ===
+o John Bower, Michigan State University, started in 2014
+o Justin Lietz, Michigan State University, started in 2013
+o Sam Novario, Michigan State University, started in 2014
+o Fei Yuan, Michigan State University, started in 2013
+
+=== Present Master of Science Students ===
+o Wihelm Holmen, University of Oslo (2014-2016)
+o Roger Kjøde, University of Oslo, (2014-2016)
+o Håkon Sebatian Mørk, University of Oslo, (2014-2016)
+o Jonas van den Brink, University of Oslo, (2014-2016), co-supervisor
+o Marte Julie Sætra, University of Oslo, (2014-2016), co-supervisor
+o Morten Ledum, University of Oslo, (2015-2017), co-supervisor
+o Håkon Emil Kristiansen, University of Oslo, (2015-2017)
+o Christian Fleischer, University of Oslo, (2015-2017)
+o Håkon Treider Vikør, University of Oslo, (2015-2017)
+o Jon-Andreas Stende, University of Oslo, (2015-2017), co-supervisor
+o Sean Bruce Snagholt Miller, University of Oslo, (2015-2017)
+o Alexander Fleischer, University of Oslo, (2015-2017)
+
+=== Former PhD students and their present positions ===
+o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014), now post-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo 
+o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (PhD UiO 2009), now associate professor of chemistry, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
+o "Gustav Jansen":"https://www.ornl.gov/staff-profile/gustav-r-jansen" (PhD UiO 2012), now permanent position as scientist at the Computational Science Division of Oak Ridge National Laboratory  
+o "Torquil MacDonald Sorensen":"http://www.mn.uio.no/math/english/people/aca/tmac/" (PhD UiO 2012), post-doctoral fellow at the Department of Mathematics, UiO
+o "Jon Kerr Nilsen":"http://www.usit.uio.no/english/about/organisation/bps/rc/ris/staff/jonkni/" (PhD UiO 2010), senior engineer at the University of Oslo center for information technologies (co-supervisor)
+o "Marius Lysebo":"https://www.hioa.no/tilsatt/marlys" (PhD UiO 2010), now Associate Professor at Oslo University College, (co-supervisor)
+o "Elise Bergli":"http://www.aas.vgs.no/om-oss/organisasjon/alle-ansatte/" (PhD UiO 2010), teacher Ås high school, Norway
+o "Eirik Ovrum":"https://www.hbv.no/om-hbv-kontakt-oss-ansatte/eirik-ovrum-article125026-6688.html" (PhD UiO 2007), now Associate Professor at the University College of Southeast of Norway
+o "Gaute Hagen":"https://www.ornl.gov/staff-profile/gaute-hagen" (PhD UiB and UiO 2005), now permanent position as scientist at the Physics Division of Oak Ridge National Laboratory. Recipient of the Department of Energy Early career award
+o Maxim Kartamyshev (PhD UiO), now at the Bank of Norway as senior analyst
+
+=== Post-doctoral fellows and their present positions ===
+o Andreas Ekstrom (UiO and MSU 2010-2014), now researcher at Chalmers Technological University in Gothenburg, Sweden
+o Oyvind Jensen (UiO 2011), now researcher at the "Institute for Energy Technology":"https://www.ife.no/en"
+o Simen Kvaal (UiO 2008-2012), now associate professor of chemistry, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
+o Elise Bergli (UiO 2010-2011), now teacher at Ås high school, Norway
+o Solve Selsto (UiO 2008-2010), now Associate Professor at Oslo University College 
+o Nicolas Michel (MSU 2013), now senior researcher at Michigan State University
+
+=== Former Mastr of Science Students ===
+In total 50, names and present occupations to be added
+
+=====  Publications, books and refereed scientific articles =====
+
+=== Books: ===
+o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2016.
+o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2016.
+o Morten Hjorth-Jensen, *Nuclear many-body physics, a computational perspective*, in preparation for Taylor Francis.
+o M. Hjorth-Jensen, Maria Paola Lambardo, and Ubirajara Van Kolck (editors), *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, to be published in Lectures Notes in Physics by Springer in 2016.
+
+=== Publications in journals with a referee system: ===
+
+
+oErich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen, *First principles calculations for coefficients of the isobaric
+mass multiplet equation in the fp shell*, in preparation for *Physical Review C*, 2016 
+
+
+o Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jensen, 
+
+o Fei Yuan, Jørgen Høgberget, Titus Morris, Sam Novario, Nathan Parzuchowski, Sarah Reimann, Scott K. Bogner and Morten Hjorth-Jensen,   *First principle calculations of quantum dot systems*, in preparation
+
+o G. Hagen, M. Hjorth-Jensen, G. R. Jansen, T. Papenbrock, *Emergent properties of nuclei from ab initio coupled-cluster calculations*, *Physica Scripta*, in press (2016)
+
+o Naofumi Tsunoda, Takaharu Otsuka, Noritaka Shimizu, Morten Hjorth-Jensen, Kazuo Takayanagi, Toshio Suzuki, *Exotic neutron-rich medium-mass nuclei with realistic nuclear forces*, *Physical Review Letters*, submitted
+
+o G. Hagen, A. Ekstrom, C. Forssen , G. R. Jansen, W. Nazarewicz, T. Papenbrock, K. A. Wendt, S. Bacca, N. Barnea, B. Carlsson, C. Drischler, K. Hebeler, M. Hjorth-Jensen, M. Miorelli, G. Orlandini, A. Schwenk, and J. Simonis,  *Charge, neutron, and weak size of the atomic nucleus*,  *Nature Physics*, 12:186–190 (2016).
+
+o A. Ekstrom, G. R. Jansen, K. A. Wendt, G. Hagen, T. Papenbrock, B. D. Carlsson, C. Forssen, M. Hjorth-Jensen, P. Navratil, W. Nazarewicz,   *Accurate nuclear radii and binding energies from a chiral interaction*, *Physical Review C*, 91, 051301(R) (2015).
+
+o A. Ekstrom, B. D. Carlsson, K. A. Wendt, C. Forssén, M. Hjorth-Jensen, R. Machleidt, S. M. Wild,  *Statistical uncertainties of a chiral interaction at next-to-next-to leading order*,   *Journal of Physics G*, 42:034003 (2015).
+
+o A. B. Balantekin, J. Carlson, D. J. Dean, G. M. Fuller, R. J. Furnstahl, M. Hjorth-Jensen, R. V. F. Janssens, Bao-An Li, W. Nazarewicz, F. M. Nunes, W. E. Ormand, S. Reddy, B. M. Sherrill ,  *Nuclear Theory and Science of the Facility for Rare Isotope Beams*,   *Modern Physics Letters A*, 29:1430010 (2014).
+
+o Zs. Vajta, M. Stanoiu, D. Sohler, G. R. Jansen, F. Azaiez, Zs. Dombrádi, O. Sorlin, B. A. Brown, M. Belleguic, C. Borcea, C. Bourgeois, Z. Dlouhy, Z. Elekes, Zs. Fülöp, S. Grévy, D. Guillemaud-Mueller, G. Hagen, M. Hjorth-Jensen, F. Ibrahim, A. Kerek, A. Krasznahorkay, M. Lewitowicz, S. M. Lukyanov, S. Mandal, P. Mayet, J. Mrázek, F. Negoita, Yu.-E. Penionzhkevich, Zs. Podolyák, P. Roussel-Chomaz, M. G. Saint-Laurent, H. Savajols, G. Sletten, J. Timár, C. Timis, and A. Yamamoto,   *Excited states in the neutron-rich nucleus 25F,   *Physical Review C*, 89:054323 (2014).
+
+o A. Sanetullaev, M.B. Tsang, W.G. Lynch, Jenny Lee, D. Bazin, K.P. Chan, D. Coupland, V. Henzl, D. Henzlova, M. Kilburn, A.M. Rogers, Z.Y. Sun, M. Youngs, R.J. Charity, L.G. Sobotka, M. Famiano, S. Hudan, D. Shapira, W.A. Peters, C. Barbieri, M. Hjorth-Jensen, M. Horoi, T. Otsuka, T. Suzuki, Y. Utsuno  *Neutron spectroscopic factors of 55Ni hole-states from (p,d) transfer reactions*,   *Physics Letters B*, 736:137 (2014).
+
+o G. Hagen, T. Papenbrock,   A. Ekstrom, G. Baardsen, S. Gandolfi, K. A. Wendt, M. Hjorth-Jensen, and C. Horowitz,  *Coupled-cluster calculations of nucleonic matter*,   *Physical Review C*,  89:014319 (2014).
+
+o T. Papenbrock, G. Hagen, M. Hjorth-Jensen, and  D. J. Dean,   *Coupled-cluster computations of atomic nuclei*,   *Reports on Progress in Physics*, 77:096302 (2014).
+
+o N. Tsunoda, K. Takayanagi, M. Hjorth-Jensen and T. Otsuka,  *Multi-shell effective interactions*,   *Physical Review C*,    89:024313 (2014).
+
+
+o G. Baardsen, A. Ekstrom, G. Hagen, and M. Hjorth-Jensen,  *Coupled-cluster studies of infinite  nuclear matter*,   *Physical Review C*, 88:054312 (2013).  
+
+o V. M. Bader, A. Gade, D. Weisshaar, T. Baugher, D. Bazin, J. S. Berryman, B. A. Brown, A. Ekstrom, M. Hjorth-Jensen, S. R. Stroberg, W. B. Walters, K. Wimmer, and R. Winkler,   *Quadrupole collectivity in neutron-deficient Sn nuclei: 104Sn and the role of proton excitations*,   *Physical Review C*,  88:051301(R) (2013). 
+
+o A. Ekstrom, G. Baardsen, C. Forss'en, G. Hagen, M. Hjorth-Jensen, G. R. Jansen, R. Machleidt, W. Nazarewicz, T. Papenbrock, J. Sarich, and S. M. Wild,   *An optimal chiral interaction at next-to-next-to leading order*,   *Physical Review Letters*,  110:192502 (2013).  
+
+o Lepailleur, A. and Sorlin, O. and Caceres, L. and Bastin, B. and Borcea, C. and Borcea, R. and Brown, B. A. and Gaudefroy, L. and Gr'evy, S. and Grinyer, G. F. and Hagen, G. and Hjorth-Jensen, M. and Jansen, G. R. and Llidoo, O. and Negoita, F. and de Oliveira, F. and Porquet, M.-G. and Rotaru, F. and Saint-Laurent, M.-G. and Sohler, D. and Stanoiu, M. and Thomas, J. C.,  *Spectroscopy of 26F to Probe Proton-Neutron Forces Close to the Drip Line*,   *Physical Review Letters*,  110:082502 (2013). 
+
+o D. D. DiJulio, J. Cederkall, C. Fahlander, A. Ekstrom, M. Hjorth-Jensen, M. Albers, V. Bildstein, A. Blazhev, I. Darby, T. Davinson, H. De Witte, J. Diriken, Ch. Fransen, K. Geibel, R. Gernhäuser, A. Görgen, H. Hess, K. Heyde, J. Iwanicki, R. Lutter, P. Reiter, M. Scheck, M. Seidlitz, S. Siem, J. Taprogge, G. M. Tveten, J. Van de Walle, D. Voulot, N. Warr, F. Wenander, and K. Wimmer  *Coulomb excitation of 107In*,   *Physical Review C*,  87:017301 (2013).   
+
+o C. Forssen, G. Hagen, M. Hjorth-Jensen, W. Nazarewicz, and J. Rotureau,  *Living on the edge of stability, the limits of the nuclear landscape*,   *Physica Scripta*,  T152:014022 (2013). 
+
+o Liddick, S. N. and Abromeit, B. and Ayres, A. and Bey, A. and Bingham, C. R. and Brown, B. A. and Cartegni, L. and Crawford, H. L. and Darby, I. G. and Grzywacz, R. and Ilyushkin, S. and Hjorth-Jensen, M. and Larson, N. and Madurga, M. and Miller, D. and Padgett, S. and Paulauskas, S. V. and Rajabali, M. M. and Rykaczewski, K. and Suchyta, S.,  * Low-energy level schemes of 66,68Fe and inferred proton and neutron excitations across $Z=28$ and $N=40$*,   *Physical Review C*,  87:014325, 2013.  
+
+o D. D. DiJulio, J. Cederkall, C. Fahlander, A. Ekstrom, M. Hjorth-Jensen, M. Albers, V. Bildstein, A. Blazhev, I. Darby, T. Davinson, H. De Witte, J. Diriken, Ch. Fransen, K. Geibel, R. Gernhauser, A. Gorgen, H. Hess, J. Iwanicki, R. Lutter, P. Reiter, M. Scheck, M. Seidlitz, S. Siem, J. Taprogge, G.M. Tveten, J. Van de Walle, D. Voulot, N. Warr, F. Wenander, and K. Wimmer,  *Excitation strengths in 109Sn: Single-neutron and collective excitations near 100Sn*,   *Physical Review C*,  86:031302(R), 2012. 
+
+o D. D. DiJulio, J. Cederkall, C. Fahlander, A. Ekstrom, M. Hjorth-Jensen, M. Albers, V. Bildstein, A. Blazhev, I. Darby, T. Davinson, H. De Witte, J. Diriken, Ch. Fransen, K. Geibel, R. Gernhauser, A. Gorgen, H. Hess, J. Iwanicki, R. Lutter, P. Reiter, M. Scheck, M. Seidlitz, S. Siem, J. Taprogge, G.M. Tveten, J. Van de Walle, D. Voulot, N. Warr, F. Wenander, and K. Wimmer,  *Coulomb excitation of 107Sn*,   *European Journal of Physics A*, 48:105,  2012.  
+
+o Gaute Hagen, Morten Hjorth-Jensen, Gustav Ragnar Jansen, Ruprecht Machleidt, and Thomas Papenbrock, *Evolution of shell structure in neutron-rich calcium isotopes*,   *Physical Review Letters*, 109:032502, 2012. 
+
+o Gaute Hagen, Morten Hjorth-Jensen, Gustav Ragnar Jansen, Ruprecht Machleidt, and Thomas Papenbrock, *Continuum effects and three-nucleon forces in neutron-rich  oxygen isotopes*,   *Physical Review Letters*, 108:242501, 2012.  
+
+o Torres, D. A. and Kumbartzki, G. J. and Sharon, Y. Y. and Zamick, 	L. and Manning, B. and Benczer-Koller, N. and Speidel, K.-H. and 	Ahn, T. and Anagnostatou, V. and Elvers, M. and Goddard, P. and Heinz, 	A. and Ilie, G. and Radeck, D. and Savran, D. and Werner, V. and 	Gurdal, G. and Taylor, M. J. and Maier-Komor, P. and Hjorth-Jensen, 	M. and Robinson, S. J. Q.  *Measurement of the 96Ru g-factor and its nuclear structure interpretation*.  *Physical Review C*, 85:017305, 2012.  
+
+o Torres, D. A. and Kumbartzki, G. J. and Sharon, Y. Y. and Zamick, 	L. and Manning, B. and Benczer-Koller, N. and Gurdal, G. and Speidel, 	K.-H. and Hjorth-Jensen, M. and Maier-Komor, P. and Robinson, S. J. Q. and Ahn, T. and Anagnostatou, V. and Elvers, M. and Goddard, 	P. and Heinz, A. and Ilie, G. and Radeck, D. and Savran, D. and Werner, V.  *First g-factor measurements of the 2+ and the 4+ states of radioactive 100Pd*.  *Physical Review C*, 84:044327, 2011.  
+
+o Naofumi Tsunoda, Takaharu Otsuka, Koshiroh Tsukiyama, and Morten Hjorth-Jensen  *Renormalization persistency of the tensor force in nuclei*.  *Physical Review C*, 84:044322, 2011.  
+
+o O. Jensen, Gaute Hagen, Morten Hjorth-Jensen, Alex Boyd Brown, and Alexandra Gade  *Quenching of spectroscopic factors for proton removal in oxygen isotopes*,   *Physical Review Letters*, 107:032501, 2011. 
+
+o Magnus Pedersen Lohne, Gaute Hagen, Morten Hjorth-Jensen, Simen Kvaal, and Francesco Pederiva,  *Ab initio calculations of Circular quantum dots*.  *Physical Review B*, 84:032501, 2011.    
+
+o Elise Bergli and Morten Hjorth-Jensen,  *Summation of Parquet diagrams as an *ab initio* method in nuclear structure calculations*,  *Annals of Physics*, 326:1125, 2011.   
+
+o Gustav Ragnar Jansen, Morten Hjorth-Jensen, Gaute Hagen, and Thomas Papenbrock,  *Toward open-shell nuclei with coupled-cluster theory*.  *Physical Review C*, 83:054306, 2011. 
+
+o Morten Hjorth-Jensen,  *The Carbon Challenge*,  *Physics*, 4:38, 2011.  
+
+o O. Jensen, G. Hagen, M. Hjorth-Jensen, and J. S. Vaagen,  *Closed-shell properties of 24O with ab initio coupled-cluster theory*,  *Physical Review C*, 83:021305, 2011. 
+
+o Angelo Signoracci, B. Alex Brown, and Morten Hjorth-Jensen,  *Renormalized interactions with a realistic single-particle   basis*,  *Physical Review C*, 83:024315, 2011.   
+
+o Boyd Alexander Brown, Angelo Signoracci, and Morten Hjorth-Jensen,  *Configuration interactions constrained by energy density  functionals*,  *Physics Letters B*, 695:507, 2011.  
+
+o G. Hagen, T. Papenbrock, D. J. Dean, and M. Hjorth-Jensen,  *Ab initio coupled-cluster approach to nuclear structure with modern   nucleon-nucleon interactions,  *Phys. Rev. C*, 82(3):034330, 2010.  
+
+o L. Atanasova, Dimiter Balabanski, S. K. Chamoli, M. Hass, G. S. Simpson,   D. Bazzacco, F. Becker, P. Bednarczyk, G. Benzoni, N. Blasi, A. Blazhev,   A. Bracco, C. Brandau, L. Caceres, F. Camera, F. C. L. Crespi, P. Detistov,   P. Doornenbal, C. Fahlander, E. Farnea, G. Georgiev, J. Gerl, K. A.   Gladnishki, M. Gorska, J. Grebosz, R. Hoischen, G. Ilie, M. Ionescu-Bujor,   A. Iordachescu, A. Jungclaus, G. Bianco, M. Kmiecik, I. Kojouharov, N. Kurz,   S. Lakshmi, R. Lozeva, A. Maj, D. Montanari, G. Neyens, M. Pfuetzner,   S. Pietri, Z. Podolyak, W. Prokopowicz, D. Rudolph, G. Rusev, T. Saito,   A. Saltarelli, H. Schaffner, R. Schwengner, S. Tashenov, J. J.   Valiente-Dobon, N. Vermeulen, J. Walker, E. Werner-Malento, O. Wieland, H. J.   Wollersheim, H. Grawe, and Morten Hjorth-Jensen.  *g-factor measurements at RISING: The cases of 127Sn and   128Sn*.  *Europhysics letters*, 91:42001, 2010. 
+
+o I. Darby, R. Grzywacz, J. C. Batchelder, C. R. Bingham, L. Cartegni, C. J.   Gross, Morten Hjorth-Jensen, D. T. Joss, S. N. Liddick, W. Nazarewicz,   S. Padgett, R. D. Page, Thomas Papenbrock, M. M. Rajabali, J. Rotureau, and   K. P. Rykaczewski, *Orbital Dependent Nucleonic Pairing in the Lightest Known   Isotopes of Tin*.  *Physical Review Letters*, 105:162502, 2010. 
+
+o A. Ekstrom, Joakim Cederkall, Claes Fahlander, Morten Hjorth-Jensen, Torgeir   Engeland, Peter Butler, P. A. Butler, T. Davinson, J. Eberth, F. Finke,   Andreas Gorgen, M. Gorska, A. M. Hurst, O. Ivanov, J. Iwanicki, U. Koster,   B. A. Marsh, J. Mierzejewski, P. Reiter, Sunniva Siem, G. Sletten,   I. Stefanescu, Gry Merete Tveten, J. Van de Walle, D. Voulot, N. Warr,   D. Weisshaar, F. Wenander, and M. Zielinska, *Coulomb excitation of the odd-odd isotopes 106In and 108In*,  *European Physical Journal A*, 44:355, 2010. 
+
+o Gaute Hagen, Thomas Papenbrock, and Morten Hjorth-Jensen,  *Ab Initio Computation of the 17F Proton Halo State and Resonances in A=17 Nuclei*,  *Physical Review Letters*, 104:182501, 2010. 
+
+o Morten Hjorth-Jensen, David Jarvis Dean, G. Hagen, and Simen Kvaal,  *Many-body interactions and nuclear structure*,  *Journal of Physics G: Nuclear and Particle Physics*, 37:064035,   2010. 
+
+o N. Hoteling, C. Chiara, R. Broda, W. B. Walters, R. V. F. Janssens, Morten   Hjorth-Jensen, M. B. Carpenter, B. Fornal, A. A. Hecht, W. Krolas,   T. Lauritsen, T. Pawlat, D. Seweryniak, X. Wang, A. Wohr, J. Wrzesinski, and   S. Zhu.  *Structure of 60,62Fe and the onset of $nu g(9/2)$ occupancy*,  *Physical Review C*, 82:044305, 2010. 
+
+o Takahuro Otsuka, Toshio Suzuki, Micho Honma, Yutaka Utsuno, Naofumi Tsunoda,   Koshiroh Tsukiyama, and Morten Hjorth-Jensen,  *Novel Features of Nuclear Forces and Shell Evolution in Exotic Nuclei*,  *Physical Review Letters*, 104:012501, 2010. 
+
+o C. Barbieri and Morten Hjorth-Jensen,  *Quasiparticle and quasihole states of nuclei around 56Ni*,  *Physical Review C*, 79:064313, 2009. 
+
+o A. Ekstrom, J. Cederkall, D. D. DiJulio, C. Fahlander, Morten Hjorth-Jensen,   A. Blazhev, B. Bruyneel, P. A. Butler, T. Davinson, J. Eberth, C. Fransen,   K. Geibel, H. Hess, O. Ivanov, J. Iwanicki, O. Kester, J. Kownacki,   U. Koster, B. A. Marsh, P. reiter, M. Scheck, B. Siebeck, Sunniva Siem,   I. Stefanescu, Heidi Kristine Toft, Gry Merete Tveten, J. Van de Walle,   D. Voulot, N. Warr, D. Weisshaar, F. Wenander, K. Wrzosek, and M. Zielinska,  *Electric quadrupole moments of the 2+ states in  100,102,104Cd*,  *Physical Review C*, 80:054302, 2009. 
+
+o G. Hagen, T. Papenbrock, D. J. Dean, Morten Hjorth-Jensen, and B. V. Asokan,  *Ab initio computation of neutron-rich oxygen isotopes*,  *Physical Review C*, 80:021306, 2009. 
+
+o Micho Honma, Takahuro Otsuka, T. Mizusaki, and Morten Hjorth-Jensen,  *New effective interaction for fpg-shell nuclei*.  *Physical Review C*, 80:064323, 2009. 
+
+o Koshiroh Tsukiyama, Morten Hjorth-Jensen, and Gaute Hagen,  *Gamow shell-model calculations of drip-line oxygen isotopes*.  *Physical Review C*, 80:051301(R), 2009. 
+
+o David J. Dean, Gaute Hagen, Morten Hjorth-Jensen, and Thomas Papenbrock,  * Computational aspects of nuclear coupled-cluster theory*.  *Computational Science and Discovery*, 1:015008, 2008. 
+
+o David J. Dean, Gaute Hagen, Morten Hjorth-Jensen, Thomas Papenbrock, and Achim Schwenk,  *Comment on Ab initio study of 40Ca with an   importance-truncated no-core shell model*.  *Physical Review Letters*, 101:119201, 2008. 
+
+o A. Ekstrom, J. Cederkall, C. Fahlander, Morten Hjorth-Jensen, F. Ames, P. A.   Butler, T. Davinson, J. Eberth, F. Fincke, A. Gorgen, M. Gorska, D. Habs,   A. M. Hurst, M. Huyse, O. Ivanov, J. Iwanicki, O. Kester, U. Koster, B. A.   Marsh, J. Mierzejewski, P. Reiter, H. Scheit, D. Schwalm, Sunniva Siem,   G. Sletten, I. Stefanescu, Gry Merete Tveten, J. V. de Walle, P. Van Duppen,   D. Voulot, N. Warr, D. Weisshaar, F. Wenander, and M. Zielinska.  *Transition strengths in 106Sn and 108Sn*,  *Physical Review Letters*, 101:01250, 2008. 
+
+o Gaute Hagen, Thomas Papenbrock, David J. Dean, and Morten Hjorth-Jensen,  *Medium-Mass Nuclei from Chiral Nucleon-Nucleon Interactions*,  *Physical Review Letters*, 101:092502, 2008. 
+
+o N. Hoteling, W. B. Walters, R. V. F. Janssens, R. Broda, M. P. Carpenter,   B. Fornal, A. A. Hecht, Morten Hjorth-Jensen, W. Krolas, T. Lauritsen,   T. Pawlat, D. Seweryniak, J. R. Stone, X. Wang, A. Wohr, J. Wrzesinski, and   S. Zhu,  *Rotation-aligned coupling in 61Fe*,  *Physical Review C*, 77:044314, 2008. 
+
+o J. Cederkall, A. Ekstrom, C. Fahlander, A. M. Hurst, Morten Hjorth-Jensen,   F. Ames, A. Banu, P. A. Butler, T. Davinson, U. D. Pramanik, J. Eberth,   S. Franchoo, G. Georgiev, M. Gorska, D. Habs, M. Huyse, O. Ivanov,   J. Iwanicki, O. Kester, U. Koster, B. A. Marsh, O. Niedermaier, T. Nilsson,   P. Reiter, H. Scheit, D. Schwalm, T. Sieber, G. Sletten, I. Stefanescu, J. V.   de Walle, P. Van Duppen, N. Warr, D. Weisshaar, and F. Wenander, *Sub-barrier Coulomb excitation of 110Sn and its   implications for the 100Sn shell closure*,  *Physical Review Letters*, 98:172501, 2007. 
+
+o Gaute Hagen, David J. Dean, Morten Hjorth-Jensen, and Thomas Papenbrock,  *Complex coupled-cluster approach to an ab-initio description of   open quantum systems*,  *Physics Letters B*, 656:169, 2007. 
+
+o Gaute Hagen, David J. Dean, Morten Hjorth-Jensen, Thomas Papenbrock, and Achim   Schwenk,  *Benchmark calculations for 3H, 4He, 16O, and 40Ca with ab initio coupled-cluster theory*.  *Physical Review C*, 76:044305, 2007. 
+
+o Maxim Kartamychev, Torgeir Engeland, Morten Hjorth-Jensen, and Eivind Osnes,  *Effective interactions and shell model studies of heavy tin isotopes*,  *Physical Review C*, 76:024313, 2007. 
+
+o Simen Kvaal, Morten Hjorth-Jensen, and Halvor Moll Nilsen,  *Effective interactions, large-scale diagonalization, and   one-dimensional quantum dots*,  *Physical Review B*, 76:085421, 2007. 
+
+o C. Vaman, C. Andreoiu, D. Bazin, A. Becerril, B. A. Brown, C. M. Campbell,   A. Chester, J. M. Cook, D. C. Dinca, A. Gade, D. Galaviz, T. Glasmacher,   Morten Hjorth-Jensen, M. Horoi, D. Miller, V. Moeller, W. F. Mueller,   A. Schiller, K. Starosta, A. Stolz, J. R. Terry, A. Volya, V. Zelevinsky, and   H. Zwahlen.  *Z=50 shell gap near 100Sn from intermediate-energy coulomb excitations in even-mass 106-112Sn isotopes*,  *Physical Review Letters*, 99:162501, 2007. 
+
+o Jeffrey Grour, Piotr Piecuch, Morten Hjorth-Jensen, Marta Wloch, and   David Jarvis Dean, *Coupled-cluster calculations for valence systems around 16O*, *Physical Review C*, 74:024310, 2006. 
+
+o Gaute Hagen, Morten Hjorth-Jensen, and Michel Nicolas,  *Gamow shell model and realistic nucleon-nucleon interactions*,  *Physical Review C*, 73:064307, 2006. 
+
+o Nathan Hoteling, W. B. Walters, R. V. F. Janssens, R. Broda, M. F. Carpenter,   B. Fornal, A. A. Hecht, Morten Hjorth-Jensen, W. Krolas, T. Lauritzen,   T. Pawlat, D. Seweryniak, X. Wang, A. Wohr, J. Wrzesinski, and S. Zhu.  *Yrast structure of 64Fe*.  *Physical Review C*, 74:064313, 2006. 
+
+o J. Leske, K. H. Speidel, S. Schielke, J. Gerber, P. Maier-Komor, Torgeir   Engeland, and Morten Hjorth-Jensen,  *Experimental g-factor and B(E2) value of the 4+ state in Coulomb-excited 66Zn compared to shell-model predictions*.  *Physical Review C*, 73:064305, 2006.   
+
+o A. Banu, J. Gerl, C. Fahlander, M. Gorska, H. Grawe, H. J. Wollersheim,   E. Caurier, Torgeir Engeland, A. Gniady, Morten Hjorth-Jensen, F. Nowacki,   T. Beck, F. Becker, P. Bednarczyk, M. A. Bentley, A. Burger, F. Cristancho,   G. de Angelis, Z. Dombradi, P. Doornenbal, H. Geissel, J. Grebosz,   G. Hammond, M. Hellstrom, J. Jolie, I. Kojouharov, N. Kurz, R. Lozeva,   S. Mandal, N. Marginean, S. Muralithar, J. Nyberg, J. Pochodzalla,   W. Prokopowicz, P. Reiter, D. Rudolph, C. Rusu, N. Saito, H. Schaffner,   D. Sohler, H. Weick, C. Wheldon, and M. Winkler,  *108Sn studied with intermediate-energy Coulomb excitation*,  *Physical Review C*, 72:061305, 2005. 
+
+o Boyd Alexander Brown, Nick Stone, Irena Stone, Ian Towner, and Morten Hjorth-Jensen,  *Magnetic moments of the 2+ states around 132Sn*,  *Physical Review C*, 71:044317, 2005. 
+
+o Paul Ellis, Torgeir Engeland, Morten Hjorth-Jensen, Maximx Kartamyshev, and   Eivind Osnes, *Model calculation of effective three-body forces*,   *Physical Review C*, 71:034301, 2005. 
+
+o Gaute Hagen, Morten Hjorth-Jensen, and Jan S. Vaagen, *Effective interaction techniques for the Gamow shell model*,  *Physical Review C*, 71:044314, 2005. 
+
+o J. K. Leske, Karl-heinz Speidel, S. Schielke, J. Gerber, P. Maier-komor, Morten   Hjorth-Jensen, and Torgeir Engeland,  *Physical Review C*, 72:044301, 2005. 
+
+o Jon Kristian Nilsen, Jordi Mur-Petit, Muntsa Guilleumas, Morten Hjorth-Jensen,   and Artur Polls,  *Vortices in atomic Bose-Einstein condensates in the  large-gas-parameter region*,  *Physical Review A*, 71:053610, 2005. 
+
+o D. Sohler, M. Palacz, Z. Dombradi, Morten Hjorth-Jensen, C. Fahlander, L. O.   Norlin, J. Nyberg, T. Back, K. Lagergren, D. Rudolph, A. Algora, C. Andreoiu,   G. de Angelis, A. Atac, D. Bazzacco, J. Cederkall, B. Cederwall, B. Fant,   E. Farnea, A. Gadea, M. Gorska, H. Grawe, N. Hashimito-Saitoh, A. Johnson,   A. Kerek, W. Klamra, J. Kownacki, S. M. Lenzi, A. Likar, M. Lipoglavsek,   M. Moszynski, D. R. Napoli, C. Rossi-Alvarez, H. A. Roth, T. Saitoh,   D. Seweryniak, O. Skeppstedt, J. Timar, M. Weisflog, and M. Wolinska, *Maximally aligned states in the proton drip line nucleus 106Sb*,  *Nuclear Physics A*, 753:251, 2005. 
+
+o Marta Wloch, David J. Dean, Jeffrey Grour, Morten Hjorth-Jensen, Karol   Kowalski, Thomas Papenbrock, and Piotr Piecuch, *Ab-initio coupled-cluster study of 16O*,  *Physical Review Letters*, 94:212501, 2005. 
+
+o David J. Dean, Torgeir Engeland, Morten Hjorth-Jensen, Maxim Kartamychev, and   Eivind Osnes, *Effective interactions and the nuclear shell-model*,  *Progress in Particle and Nuclear Physics*, 53:419, 2004. 
+
+o Haavar Gausemel, Birger Fogelberg, Torgeir Engeland, Morten Hjorth-Jensen,   Per Hoff, Hendryk Mach, K. A. Mezilev, and Jon Petter Omtvedt, *Decay of 127In and 129In*,  *Physical Review C*, 69:054307, 2004. 
+
+o Gaute Hagen, Jan S. Vaagen, and Morten Hjorth-Jensen,  *The contour deformation method in momentum space, applied to   subatomic physics*,  *Journal of Physics A: Mathematical and General*, 37:8991, 2004. 
+
+o Karol Kowalski, David J. Dean, Morten Hjorth-Jensen, Thomas Papenbrock, and   Piotr Piecuch, *Coupled cluster calculations of ground and excited states of nuclei*,  *Physical Review Letters*, 92:132501, 2004. 
+
+o David J. Dean and Morten Hjorth-Jensen,  *Pairing in nuclear systems: from neutron stars to finite nuclei*, *Reviews of Modern Physics*, 75:607, 2003. 
+
+o I. Dillmann, K. L. Kratz, A. Wohr, O. Arndt, B. A. Brown, Per Hoff, Morten   Hjorth-Jensen, U. Koster, A. Ostrowski, B. Pfeiffer, D. Seweryniak,   J. Shergur, and W. B. Walters,  *N=82 shell-quenching of the classical r-process waiting-point 130Cd*.  *Physical Review Letters*, 91:162503, 2003. 
+
+o Magne Guttormsen, Rositsa Chankova, Morten Hjorth-Jensen, John Bernhard   Rekstad, Sunniva Siem, Andreas Schiller, and David J. Dean, *Free energy and criticality in the nucleon pair breaking   process*,  *Physical Review C*, 68:034311, 2003. 
+
+o A. Schiller, Emel Algin, Lee Bernstein, P. E. Garrett, Magne Guttormsen, Morten   Hjorth-Jensen, C. W. Johnson, Gary Mitchell, John Bernhard Rekstad, Sunniva   Siem, Alexander Voinov, and William Younes, *Level densities in 56,57Fe and 96,97Mo*,  *Physical Review C*, 68:054326, 2003. 
+
+o N. Fotiades, J. A. Cizewski, J. A. Becker, A. Bernstein, D. P. Mcnabb, William   Younes, R. M. Clark, P. Fallon, I. Y. Lee, A. O. Macchiavelli, Anne Holt, and   Morten Hjorth-Jensen, *High-spin excitations in 92,93,94,95Zr*, *Physical Review C*, 65:044303, 2002. 
+
+o M. Lipoglavsek, C. Baktash, Jan Blomqvist, David J. Dean, Torgeir Engeland,   C. Fahlander, Morten Hjorth-Jensen, Robert V. F. Janssens, A. Likar, Eivind   Osnes, and S. D. Paul, *Break-up of the Doubly-magic 100Sn core*,  *Physical Review C*, 66:011302, 2002. 
+
+o M. Lipoglavsek, C. Baktash, M. P. Carpenter, David J. Dean, Torgeir Engeland,   C. Fahlander, Morten Hjorth-Jensen, and Eivind Osnes, *Excited states of the proton emitter 105Sb, *Physical Review C*, 65:051037, 2002. 
+
+o M. Lipoglavsek, C. Baktash, M. P. Carpenter, David J. Dean, Torgeir Engeland,   Morten Hjorth-Jensen, and Eivind Osnes, *Core excitations in 102In*,  *Physical Review C*, 65:021302(R), 2002. 
+
+o J. J. Ressler, W. B. Walters, C. N. Davids, David J. Dean, Andreas Heinz,   Morten Hjorth-Jensen, D. Seweryniak, and J. Shergur, *First observation of 109Te $\beta^+$ and electron capture  decay of 109Sb*,  *Physical Review C*, 66:024308, 2002. 
+
+o Andreas Schiller, Magne Guttormsen, Morten Hjorth-Jensen, John Bernhard   Rekstad, and Sunniva Siem, *Model for pairing phase transition in atomic nuclei*,   *Physical Review C*, page 024315, 2002. 
+
+o J. Shergur, B. A. Brown, V. N. Fedosseev, U. K?ster, K. L. Kratz,   D. Seweryniak, W. B. Walters, A. Wohr, D. Fedorov, M. Hannawald, Morten   Hjorth-Jensen, V. Mishin, B. Pfeiffer, J. J. Ressler, H. O. U. Fynbo, and Per   Hoff, *Beta decay studies of 135-137Sn using selective reonace   laser ionization techniques*, *Physical Review C*, 65:034313, 2002. 
+
+o Magne Guttormsen, Morten Hjorth-Jensen, Elin Melby, John Bernhard Rekstad,   Andreas Schiller, and Sunniva Siem, *Heat capacity and pairing transition in nuclei*,  *Physical Review C*, 64:034319, 2001. 
+
+o Andreas Schiller, Amund Bjerve, Magne Guttormsen, Morten Hjorth-Jensen, Finn   Ingebretsen, Elin Melby, John Bernhard Rekstad, Sunniva Siem, and   Stein Westad Odegaard, *The critical temperature for quenching of pair correlations*,  *Physical Review C*, 63:021306, 2001. 
+
+o Teemu Siiskonen, Morten Hjorth-Jensen, and Jouni Suhonen, *Renormalization of the weak hadronic current in the nuclear medium*,  *Physical Review C*, 63:024315, 2001. 
+
+o Torgeir Engeland, Morten Hjorth-Jensen, and Eivind Osnes, *Shell model studies of the proton drip line nucleus 106Sb*,  *Physical Review C*, 61:00010(R), 2000. 
+
+o Magne Guttormsen, Amund Bjerve, Morten Hjorth-Jensen, Elin Melby, John Bernhard   Rekstad, Andreas Schiller, Sunniva Siem, and Alexandar Belic, *Entropy in hot 161,162Dy and 171,172Yb nuclei*,  *Physical Review C*, C62:024306, 2000. 
+
+o Magne Guttormsen, Morten Hjorth-Jensen, Elin Melby, John Bernhard Rekstad,   Andreas Schiller, and Sunniva Siem, *Energy shifted level density in the rare earth region*, *Physical Review C*, 61:067302, 2000. 
+
+o Magne Guttormsen, Morten Hjorth-Jensen, Elin Melby, John Bernhard Rekstad,   Andreas Schiller, and Sunniva Siem, *Entropy of thermally excited particles in nuclei*,  *Physical Review C*, 63:024315, 2000. 
+
+o Henning Heiselberg and Morten Hjorth-Jensen, *Phases of dense matter in neutron stars*,  *Physics Reports*, 328:237, 2000. 
+
+o Anne Holt, Torgeir Engeland, Morten Hjorth-Jensen, and Eivind Osnes, *Applications of realistic effective interactions to the structure of Zr isotopes*,  *Physical Review C*, 61:024315, 2000. 
+
+o M. Tomaselli, M. Hjorth-Jensen, S. Fritzsche, P. Egelhof, S. R. Neumaier,   M. Mutterer, T. Kuhl, A. Dax, and H. Wang, *Matter and charge distributions of 6He and 5,6,7,9Li   within the dynamic-correlation model*,  *Physical Review C*, 62:067305, 2000. 
+
+o Isaac Vidanya, Artur Polls, Angels Ramos, Lars Engvik, and Morten   Hjorth-Jensen, *Properties of $beta$-stable neutron star matter with hyperons*,  *Physical Review C*, 62:024315, 2000. 
+
+o Isaac Vidanya, Artur Polls, Angels Ramos, Morten Hjorth-Jensen, and V. G. J. Stoks, *Strange nuclear matter within the Brueckner-Hartree-Fock   theory*,  *Physical Review C*, 61:024315, 2000. 
+
+o David J. Dean, M. T. Ressell, Morten Hjorth-Jensen, S. E. Koonin, K. Langanke,  and A. P. Zuker, *Shell model Monte Carlo studies of neutron-rich nuclei in the   1s0d-1p0f shells*,  *Physical Review C*, 59:2474, 1999. 
+
+o Henning Heiselberg and Morten Hjorth-Jensen, *Phase transitions in neutron stars and maximum masses*,  *Astrophysical Journal Letters*, 525:L45, 1999. 
+
+o S. M. Vincent, P. H. Regan, S. Mohammadi, D. Blumenthal, M. Carpenter, C. N.   Davids, W. Gelletly, S. S. Ghugre, D. J. Henderson, R. V. F. Janssens,   M. Hjorth-Jensen, B. Kharraja, C. J. Lister, C. J. Pearson, D. Seweryniak,   J. Schwartz, J. Simpson, and D. D. Warner, *Near yrast study of the fpg shell nuclei 58Ni,  61Cu and 61Zn*,  *Physical Review C*, 60:064308, 1999. 
+
+o Elin Melby, Lisbeth Bergholt, Magne Guttormsen, Morten Hjorth-Jensen, Finn   Ingebretsen, Svein Messelt, John Bernhard Rekstad, Andreas Schiller, Sunniva   Siem, and Stein Westad Odegaard, *Observation of thermodynamical properties in the 162Dy,  166Er, 172Yb nuclei*,  *Physical Review Letters*, 83:3150, 1999. 
+
+o Teemu Siiskonen, Jouni Suhonen, and Morten Hjorth-Jensen, *Shell-model effective operators for muon capture in 20Ne*,  *Journal of Physics G: Nuclear and Particle Physics*, 25:L55,   1999. 
+
+o Teemu Siiskonen, Jouni Suhonen, and Morten Hjorth-Jensen, *Towards the solution of the $C_P/C_A$ anomaly in shell-model calculations of muon capture*, *Physical Review C*, 59:R1839, 1999. 
+
+o Marcello Baldo, Oystein Elgaroy, Lars Engvik, Morten Hjorth-Jensen, and   Hans-Josef Schulze, *Modern nucleon-nucleon potentials and $^3P_2$--$^3F_2$ pairing   in neutron matter*,  *Physical Review C*, 58:1921, 1998. 
+
+o Oystein Elgaroy, Lars Engvik, Morten Hjorth-Jensen, and Eivind Osnes, *Minimal relativity and $^3S_1$--$^3D_1$ pairing in symmetric   nuclear matter*,  *Physical Review C*, 57:1069, 1998. 
+
+o Oystein Elgaroy and Morten Hjorth-Jensen, *Nucleon-nucleon phase shifts and pairing in infinite matter*,  *Physical Review C*, 57:1174, 1998. 
+
+o R. Grzywacz, R. Beraud, C. Borcea, A. Ensallem, M. Glogowski, H. Grawe,   D. Guillemaud-Mueller, Morten Hjorth-Jensen, M. Houry, M. Lewitowicz, A. C.   Mueller, A. Nowak, and A. Plochocki, *New island of $mu s$-isomers in neutron-rich nuclei around the   $Z=28$ and $N=40$ shell closures*, *Physical Review Letters*, 81:766, 1998. 
+
+o Henning Heiselberg and Morten Hjorth-Jensen, *Phase transitions in rotating neutron stars*,  *Physical Review Letters*, 80:5485, 1998. 
+
+o Anne Holt, Torgeir Engeland, Morten Hjorth-Jensen, and Eivind Osnes, *Shell-model calculations of heavy Sn isotopes*,  *Nuclear Physics A*, 634:41, 1998. 
+
+o Artur Polls, Herbert Muther, Ruprecht Machleidt, and Morten Hjorth-Jensen, *Phaseshift equivalent NN potentials and the deuteron*,  *Physics Letters B*, 432:1, 1998. 
+
+o Jouni Suhonen, Jussi Toivanen, Torgeir Engeland, Morten Hjorth-Jensen, Anne   Holt, and Eivind Osnes, *Study of odd-mass $N=82$ isotones: comparison of the microscopic   quasiparticle-phonon model and the nuclear shell model*,  *Nuclear Physics A*, 628:41, 1998. 
+
+o Isaac Vidanya, Artur Polls, Angels Ramos, and Morten Hjorth-Jensen, *Hyperon properties in finite nuclei using realistic $YN$ interactions*,  *Nuclear Physics A*, 644:201, 1998. 
+
+o G. N. White, N. J. Stone, J. Rikovska, Y. Koh, J. Copell, T. J. Giles, I. S. Towner, B. A. Brown, S. Ohya, Birger Fogelberg, L. Jacobsson, P. Rahkila, and Morten Hjorth-Jensen, *Ground state magnetic dipole moment of 135I*,  *Nuclear Physics A*, 644:277, 1998. 
+
+o Fabio V. de Blasio, Morten Hjorth-Jensen, Oystein Elgaroy, Lars Engvik,   Gianluca Lazzari, Marcello Baldo, and Hans-Josef Schulze, *Coherence lengths of neutron superfluids*,  *Physical Review C*, 56:2332, 1997. 
+
+o Lars Engvik, Morten Hjorth-Jensen, Ruprecht Machleidt, Herbert Muther, and   Artur Polls, *Modern nucleon-nucleon potentials and symmetry energy in   infinite matter*,  *Nuclear Physics A*, 627:85, 1997. 
+
+o Lars Engvik, Morten Hjorth-Jensen, Eivind Osnes, and T. Kuo, *Ring-diagram calculations of nuclear matter with different model   spaces*,  *Nuclear Physics A*, 622:553, 1997. 
+
+o Anne Holt, Torgeir Engeland, Morten Hjorth-Jensen, Eivind Osnes, and Jouni   Suhonen, *The structure of the $N=82$ isotones with realistic effective   interactions*,  *Nuclear Physics A*, 618:107, 1997. 
+
+o N. Sandulescu, Roberto Liotta, Jan Blomqvist, Torgeir Engeland, Morten   Hjorth-Jensen, Anne Holt, and Eivind Osnes, *Generalized seniority scheme in light tin isotopes*,  *Physical Review C*, 55:2708, 1997. 
+
+o Lars Engvik, Morten Hjorth-Jensen, Eivind Osnes, G. Bao, and Erlend Ostgaard, *Asymmetric Nuclear Matter and Neutron Star Properties*,  *Astrophysical Journal*, 469:794, 1996. 
+
+o Alessandro Drago, Umberto Tambini, and Morten Hjorth-Jensen, *Massive quarks in neutron stars*,  *Physics Letters B*, 380:13, 1996. 
+
+o Oystein Elgaroy, Lars Engvik, Morten Hjorth-Jensen, and Eivind Osnes,  *Model-space approach to $^1S_0$ neutron and proton pairing in   neutron star matter with the Bonn meson-exchange potentials*,  *Nuclear Physics A*, 604:466, 1996. 
+
+o Oystein Elgaroy, Lars Engvik, Morten Hjorth-Jensen, and Eivind Osnes, *Superfluidity in beta-stable neutron star matter*,  *Physical Review Letters*, 77:1428, 1996. 
+
+o Oystein Elgaroy, Lars Engvik, Morten Hjorth-Jensen, and Eivind Osnes, *Triplet pairing of neutrons in $beta$-stable neutron star   matter*.  *Nuclear Physics A*, 607:425, 1996. 
+
+o Oystein Elgaroy, Lars Engvik, Eivind Osnes, Fabio V. de Blasio, Gianluca Lazzari, and Morten Hjorth-Jensen, *Emissivities of neutrinos in neutron stars*,  *Physical Review Letters*, 76:1994, 1996. 
+
+o Oystein Elgaroy, Lars Engvik, Eivind Osnes, Fabio V. de Blasio, Gianluca   Lazzari, and Morten Hjorth-Jensen, *Superfluidity and neutron star crust matter*,  *Physical Review D. Particles and fields*, 54:1848, 1996. 
+
+o Morten Hjorth-Jensen, Herbert Muther, Artur Polls, and Angels Ramos, *Self-energy of $Lambda$ in finite nuclei*,  *Nuclear Physics A*, 605:458, 1996. 
+
+o Morten Hjorth-Jensen, Eivind Osnes, Herbert Muther, and Artur Polls, *Comparison of the effective interaction to various orders in   different mass regions*, *Journal of Physics G: Nuclear and Particle Physics*, 22:321,   1996. 
+
+o Morten Hjorth-Jensen, T. Kuo, and Eivind Osnes, *Realistic effective interactions for nuclear systems*,  *Physics Reports*, 261:125, 1995. 
+
+o G. Bao, Lars Engvik, Morten Hjorth-Jensen, Eivind Osnes, and Erlend Ostgaard, *New equations of state for neutron stars*,  *Nuclear Physics A*, 575:707, 1994. 
+
+o P. J. Ellis, Torgeir Engeland, Morten Hjorth-Jensen, Anne Holt, and Eivind   Osnes, *Convergence properties of the effective interaction*,  *Nuclear Physics A*, 573:216, 1994. 
+
+o Lars Engvik, Morten Hjorth-Jensen, Eivind Osnes, G. Bao, and Erlend Ostgaard, *Asymmetric nuclear matter and neutron star properties*,  *Physical Review Letters*, 73:2650, 1994. 
+
+o Morten Hjorth-Jensen, Herbert Muther, and Artur Polls, *Width of the $\Delta$ resonance in nuclei*,  *Physical Review C*, 50:501, 1994. 
+
+o Torgeir Engeland, Morten Hjorth-Jensen, Anne Holt, and Eivind Osnes, *The structure of the neutron deficient Sn isotopes*,  *Physical Review C*, 48:R535, 1993. 
+
+o Morten Hjorth-Jensen, Marcello Borromeo, Herbert Muther, and Artur Polls, *Isobar contributions to the imaginary part of the optical-model   potential for finite nuclei*,  *Nuclear Physics A*, 551:580, 1993. 
+
+o Morten Hjorth-Jensen, Mariana Kirchbach, Dan Olof Riska, and Kazuo Tsushima, *Nuclear renormalization of the isoscalar axial coupling   constants*,  *Nuclear Physics A*, 563:525, 1993. 
+
+o Morten Hjorth-Jensen, Torgeir Engeland, Anne Holt, and Eivind Osnes, *Effective interactions for valence-hole nuclei with modern   meson-exchange potential models*,  *Nuclear Physics A*, 541:105, 1992. 
+
+o Morten Hjorth-Jensen, Eivind Osnes, and T. Kuo, *Effective interactions for valence-hole nuclei with modern   meson-exchange potential models*,  *Nuclear Physics A*, 540:145, 1992. 
+
+o Morten Hjorth-Jensen, Eivind Osnes, and Herbert Muther, *Folded-Diagram effective interaction with the Bonn meson-exchange potential model*,  *Annals of Physics*, 213:102, 1992. 
+
+o Morten Hjorth-Jensen and Kjell Aashamar, *Oscillator strengths and lifetimes for low-lying terms in the Al isoelectronic sequence*.  *Physica Scripta*, 42:309, 1990. 
+
+o Morten Hjorth-Jensen and Eivind Osnes, *Number-conserving sets and effective interactions through third order for mass-18 with the Bonn potential*,  *Physica Scripta*, 41:207, 1990. 
+
+o Morten Hjorth-Jensen, Eivind Osnes, Herbert Muther, and K. W. Schmid, *Choice of single-particle potential and the convergence of the   effective interaction*, *Physics Letters B*, 248:243, 1990. 
+
+o Morten Hjorth-Jensen and Eivind Osnes, *Effective interactions through third order for mass-18 nuclei with the Paris potential*, *Physics Letters B*, 228:281, 1989.   
+
+
+
+=== Contributions to Conference and Workshop Proceedings (refereed and non-refereed) ===
+TBA
+=== Talks and seminar at workshops, conferences and institute colloquiua ===
+TBA
+=== Organization of workshops, schools and advanced courses ===
+TBA
+===  Member of Advisory Committees ===
+TBA
+
+
+
+
+
+
