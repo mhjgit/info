@@ -18,15 +18,15 @@
 		<div id="nav" class="sixteen columns">
 			<ul>
           <li><a href="https://github.com/mhjgit/info/doc/pub/teaching/html">Teaching and thesis projects</a></li>
-          <li><a href="https://github.com/mhjgit/info/doc/pub/research/html/research-bs.html">Research</a></li>
-          <li><a href="https://github.com/mhjgit/info/doc/pub/service/html/software-bs.html">Software</a></li>
-          <li><a href="https://github.com/mhjgit/info/doc/pub/service/html/service-bs.html">Service to community</a></li>
-          <li><a href="https://github.com/mhjgit/info/doc/pub/books/html/books-bs.html">Books</a></li>
-          <li><a href="https://github.com/mhjgit/info/doc/pub/cv/html/cv-bs.html">CV</a></li>
-          <li><a href="https://github.com/mhjgit/info/doc/pub/publications/html/publications-bs.html">Publications</a></li>
-          <li><a href="https://github.com/mhjgit/info/doc/pub/students/html/students-bs.html">Students</a></li>
+          <li><a href="https://github.com/mhjgit/info/doc/pub/research/html/research-reveal.html">Research</a></li>
+          <li><a href="https://github.com/mhjgit/info/doc/pub/service/html/software-reveal.html">Software</a></li>
+          <li><a href="https://github.com/mhjgit/info/doc/pub/service/html/service-reveal.html">Service to community</a></li>
+          <li><a href="https://github.com/mhjgit/info/doc/pub/books/html/books-reveal.html">Books</a></li>
+          <li><a href="https://github.com/mhjgit/info/doc/pub/cv/html/cv-reveal.html">CV</a></li>
+          <li><a href="https://github.com/mhjgit/info/doc/pub/publications/html/publications-reveal.html">Publications</a></li>
+          <li><a href="https://github.com/mhjgit/info/doc/pub/students/html/students-reveal.html">Students</a></li>
           <li><a href="http://mhjensen.github.io/CPMLS/doc/pub/Masterprogram/html/Masterprogram.html">Computational Science program</a></li>
-          <li><a href="https://github.com/mhjgit/info/doc/pub/contact/html/contact-bs.html">Contact</a></li>
+          <li><a href="https://github.com/mhjgit/info/doc/pub/contact/html/contact-reveal.html">Contact</a></li>
 			</ul>
 		</div>
 		<div id="theText" class="eight columns">
