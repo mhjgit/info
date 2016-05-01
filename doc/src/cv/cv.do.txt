@@ -45,7 +45,7 @@ o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M 
 
 ===== Synergistic Activities: =====
 
-* Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last fifteen years I have guided  50 Master of Science of students (28 have continued with PhD studies) and ten PhD students.  I currently supervise twelve Master of Science students at the University of Oslo. I supervise four PhD students at Michigan State University.
+* Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last fifteen years I have guided  48 Master of Science of students (28 have continued with PhD studies) and twelve PhD students.  I currently supervise twelve Master of Science students at the University of Oslo. I supervise four PhD students at Michigan State University.
 
 * With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computation with the traditional science amd mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
 
@@ -181,7 +181,7 @@ o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M 
 
 ===== Master of Science, PhD and Post-doctoral fellows =====
 
-In total, since I was hired at the University of Oslo in 1999, I have guided and co-guided a total of 60 Master of Science and PhD students. I presently guide four graduate students at Michigan State University  and twelve (four co-supervised) Master of Science students at the University of Oslo.
+I have guided and co-guided a total of 60 Master of Science and PhD students. I presently guide four graduate students at Michigan State University  and twelve (four co-supervised) Master of Science students at the University of Oslo.
 
 
 === Present PhD students ===
@@ -215,6 +215,8 @@ o "Elise Bergli":"http://www.aas.vgs.no/om-oss/organisasjon/alle-ansatte/" (PhD 
 o "Eirik Ovrum":"https://www.hbv.no/om-hbv-kontakt-oss-ansatte/eirik-ovrum-article125026-6688.html" (PhD UiO 2007), now Associate Professor at the University College of Southeast of Norway
 o "Gaute Hagen":"https://www.ornl.gov/staff-profile/gaute-hagen" (PhD UiB and UiO 2005), now permanent position as scientist at the Physics Division of Oak Ridge National Laboratory. Recipient of the Department of Energy Early career award
 o Maxim Kartamyshev (PhD UiO), now at the Bank of Norway as senior analyst
+o Øystein Elgarøy (PhD UiO 1999), now professor of Theoretical Astrophysics at the University of Oslo, Norway (co-supervisor)
+o Lars Engvik (PhD UiO 1999), now Associate Professor at Sør-Trøndelag University College, Trondheim, Norway, (co-supervisor)
 
 === Post-doctoral fellows and their present positions ===
 o Andreas Ekstrom (UiO and MSU 2010-2014), now researcher at Chalmers Technological University in Gothenburg, Sweden
@@ -224,8 +226,8 @@ o Elise Bergli (UiO 2010-2011), now teacher at Ås high school, Norway
 o Solve Selsto (UiO 2008-2010), now Associate Professor at Oslo University College 
 o Nicolas Michel (MSU 2013), now senior researcher at Michigan State University
 
-=== Former Mastr of Science Students ===
-In total 50, names and present occupations to be added
+=== Former Master of Science Students ===
+In total 48, names and present occupations to be added
 
 =====  Publications, books and refereed scientific articles =====
 

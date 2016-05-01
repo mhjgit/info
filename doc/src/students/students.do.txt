@@ -4,7 +4,7 @@ DATE: 2016
 
 ===== Master of Science, PhD and Post-doctoral fellows =====
 
-In total, since I was hired at the University of Oslo in 1999, I have guided and co-guided a total of 60 Master of Science and PhD students. I presently guide four graduate students at Michigan State University  and twelve (four co-supervised) Master of Science students at the University of Oslo.
+I have guided and co-guided a total of 60 Master of Science and PhD students. I presently guide four graduate students at Michigan State University  and twelve (four co-supervised) Master of Science students at the University of Oslo.
 
 
 === Present PhD students ===
@@ -33,11 +33,13 @@ o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.htm
 o "Gustav Jansen":"https://www.ornl.gov/staff-profile/gustav-r-jansen" (PhD UiO 2012), now permanent position as scientist at the Computational Science Division of Oak Ridge National Laboratory  
 o "Torquil MacDonald Sorensen":"http://www.mn.uio.no/math/english/people/aca/tmac/" (PhD UiO 2012), post-doctoral fellow at the Department of Mathematics, UiO
 o "Jon Kerr Nilsen":"http://www.usit.uio.no/english/about/organisation/bps/rc/ris/staff/jonkni/" (PhD UiO 2010), senior engineer at the University of Oslo center for information technologies (co-supervisor)
-o "Marius Lysebo":"https://www.hioa.no/tilsatt/marlys" (PhD UiO 2010), now Associate Professor at Oslo University College, (co-supervisor)
+o "Marius Lysebo":"https://www.hioa.no/tilsatt/marlys" (PhD UiO 2010), now Associate Professor at Oslo University College, Norway (co-supervisor)
 o "Elise Bergli":"http://www.aas.vgs.no/om-oss/organisasjon/alle-ansatte/" (PhD UiO 2010), teacher Ås high school, Norway
 o "Eirik Ovrum":"https://www.hbv.no/om-hbv-kontakt-oss-ansatte/eirik-ovrum-article125026-6688.html" (PhD UiO 2007), now Associate Professor at the University College of Southeast of Norway
 o "Gaute Hagen":"https://www.ornl.gov/staff-profile/gaute-hagen" (PhD UiB and UiO 2005), now permanent position as scientist at the Physics Division of Oak Ridge National Laboratory. Recipient of the Department of Energy Early career award
 o Maxim Kartamyshev (PhD UiO), now at the Bank of Norway as senior analyst
+o Øystein Elgarøy (PhD UiO 1999), now professor of Theoretical Astrophysics at the University of Oslo, Norway (co-supervisor)
+o Lars Engvik (PhD UiO 1999), now Associate Professor at Sør-Trøndelag University College, Trondheim, Norway, (co-supervisor)
 
 === Post-doctoral fellows and their present positions ===
 o Andreas Ekstrom (UiO and MSU 2010-2014), now researcher at Chalmers Technological University in Gothenburg, Sweden
