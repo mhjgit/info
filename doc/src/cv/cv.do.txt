@@ -238,8 +238,7 @@ o M. Hjorth-Jensen, Maria Paola Lambardo, and Ubirajara Van Kolck (editors), *Co
 === Publications in journals with a referee system: ===
 
 
-oErich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen, *First principles calculations for coefficients of the isobaric
-mass multiplet equation in the fp shell*, in preparation for *Physical Review C*, 2016. 
+o Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen, *First principles calculations for coefficients of the isobaric mass multiplet equation in the fp shell*, in preparation for *Physical Review C*, 2016. 
 
 
 o Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jensen, *High-performance computing and infinite nuclear matter*, *Lecture Notes in Physics*, in press, 2016.
@@ -532,8 +531,8 @@ o Morten Hjorth-Jensen and Eivind Osnes, *Effective interactions through third o
 
 
 === Contributions to Conference and Workshop Proceedings (refereed and non-refereed) ===
-TBA
-=== Talks and seminar at workshops, conferences and institute colloquiua ===
+To be added
+=== Talks and seminars at workshops, conferences and institute colloquiua ===
 TBA
 === Organization of workshops, schools and advanced courses ===
 TBA
