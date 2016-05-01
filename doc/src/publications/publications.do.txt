@@ -4,16 +4,19 @@ DATE: 2016
 
 =====  Publications, books and refereed scientific articles =====
 
-=== Books: ===
-o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2016.
-o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2016.
-o Morten Hjorth-Jensen, *Nuclear many-body physics, a computational perspective*, in preparation for Taylor Francis.
-o M. Hjorth-Jensen, Maria Paola Lambardo, and Ubirajara Van Kolck (editors), *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, to be published in Lectures Notes in Physics by Springer in 2016.
+===== Forthcoming Books: =====
+o "Morten Hjorth-Jensen, _Computational Physics, an introduction_, to be published by IOP in 2016":"https://github.com/CompPhysics/ComputationalPhysicsMSU/tree/master/doc/Lectures"
+o "Morten Hjorth-Jensen, _Computational Physics, an advanced course_, to be published by IOP in 2016":"https://github.com/CompPhysics/ComputationalPhysicsMSU/tree/master/doc/Lectures"
+o "Morten Hjorth-Jensen, _Nuclear many-body physics, a computational perspective_, in preparation for Taylor Francis":"https://github.com/ManyBodyPhysics/NuclearManyBody/blob/master/doc/src/book/book.pdf"
+o "M. Hjorth-Jensen, Maria Paola Lambardo, and Ubirajara Van Kolck (editors), _Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars_, to be published in Lectures Notes in Physics by Springer in 2016":"https://github.com/ManyBodyPhysics/LectureNotesPhysics"
+
+===== Planned texts for 2017 and later =====
+To be added
 
 === Publications in journals with a referee system: ===
 
 
-oErich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen, *First principles calculations for coefficients of the isobaric mass multiplet equation in the fp shell*, in preparation for *Physical Review C*, 2016. 
+o Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen, *First principles calculations for coefficients of the isobaric mass multiplet equation in the fp shell*, in preparation for *Physical Review C*, 2016. 
 
 
 o Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jensen, *High-performance computing and infinite nuclear matter*, *Lecture Notes in Physics*, in press, 2016.
@@ -307,7 +310,7 @@ o Morten Hjorth-Jensen and Eivind Osnes, *Effective interactions through third o
 
 === Contributions to Conference and Workshop Proceedings (refereed and non-refereed) ===
 TBA
-=== Talks and seminar at workshops, conferences and institute colloquiua ===
+=== Talks and seminars at workshops, conferences and institute colloquiua ===
 TBA
 === Organization of workshops, schools and advanced courses ===
 TBA
