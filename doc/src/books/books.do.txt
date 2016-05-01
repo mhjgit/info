@@ -1,0 +1,12 @@
+TITLE: Books
+AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
+DATE: 2016
+
+===== Forthcoming Books: =====
+o "Morten Hjorth-Jensen, _Computational Physics, an introduction_, to be published by IOP in 2016":"https://github.com/CompPhysics/ComputationalPhysicsMSU/tree/master/doc/Lectures"
+o "Morten Hjorth-Jensen, _Computational Physics, an advanced course_, to be published by IOP in 2016":"https://github.com/CompPhysics/ComputationalPhysicsMSU/tree/master/doc/Lectures"
+o "Morten Hjorth-Jensen, _Nuclear many-body physics, a computational perspective_, in preparation for Taylor Francis":"https://github.com/ManyBodyPhysics/NuclearManyBody/blob/master/doc/src/book/book.pdf"
+o "M. Hjorth-Jensen, Maria Paola Lambardo, and Ubirajara Van Kolck (editors), _Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars_, to be published in Lectures Notes in Physics by Springer in 2016":"https://github.com/ManyBodyPhysics/LectureNotesPhysics"
+
+===== Planned texts for 2017 and later =====
+TBA
