@@ -580,8 +580,7 @@ o Morten Hjorth-Jensen and Eivind Osnes, *Effective interactions through third o
 
 
 === Contributions to Conference and Workshop Proceedings (refereed and non-refereed) ===
-o Malthe-Sørenssen, Anders; Hjorth-Jensen, Morten; Langtangen, Hans Petter; Mørken, Knut Martin. 
-Integrasjon av beregninger i fysikkundervisningen. UNIPED 2015 ;Volum 38.(4) p. 303-310
+o Malthe-Sørenssen, Anders; Hjorth-Jensen, Morten; Langtangen, Hans Petter; Mørken, Knut Martin. Integrasjon av beregninger i fysikkundervisningen. UNIPED 2015 ;Volum 38.(4) p. 303-310
  
 o Engeland, Torgeir; Hjorth-Jensen, Morten; Kartamyshev, Maxim; Osnes, Eivind.  The Kuo–Brown effective interaction: From 18O to the Sn isotopes. Nuclear Physics A 2014 ;Volum 928. 
  
@@ -664,12 +663,10 @@ o Schiller, Andreas; Guttormsen, Magne; Hjorth-Jensen, Morten; Melby, Elin; Reks
 o Elgarøy, Øystein; Engeland, Torgeir; Hjorth-Jensen, Morten; Osnes, Eivind.  Pairing correlations in nuclear systems, from infinite nuclear matter to finite nuclei. International journal of modern physics B 2001 ;Volum 15. p. 1501-1509
  
  
-o Vidanya, Isaac; Polls, Artur; Ramos, Angels; Engvik, Lars; Hjorth-Jensen, Morten. 
-Hyperon effects on the properties of beta-stable neutron star matter. Nuclear Physics A 2001 ;Volum 691. p. 443-446
+o Vidanya, Isaac; Polls, Artur; Ramos, Angels; Engvik, Lars; Hjorth-Jensen, Morten. Hyperon effects on the properties of beta-stable neutron star matter. Nuclear Physics A 2001 ;Volum 691. p. 443-446
  
  
-o Rekstad, John Bernhard; Bergholt, Lisbeth; Guttormsen, Magne; Hjorth-Jensen, Morten; Ingebretsen, Finn; Melby, Elin; Messelt, Svein; Schiller, Andreas; Siem, Sunniva; Ødegård, Stein Westad. 
-Measurement of level densities and gamma ray strength functions. AIP Conference Proceedings 2000 ;Volum 529.(1) p. 144-151
+o Rekstad, John Bernhard; Bergholt, Lisbeth; Guttormsen, Magne; Hjorth-Jensen, Morten; Ingebretsen, Finn; Melby, Elin; Messelt, Svein; Schiller, Andreas; Siem, Sunniva; Ødegård, Stein Westad. Measurement of level densities and gamma ray strength functions. AIP Conference Proceedings 2000 ;Volum 529.(1) p. 144-151
  
  
 o Siiskonen, Teemu; Suhonen, Jouni; Hjorth-Jensen, Morten.  Effective Shell-Model Transition Operators for Muon-Capture Calculations. Physics of Atomic Nuclei 2000 ;Volum 63.(7) p. 1182-1186
@@ -692,11 +689,9 @@ o Hjorth-Jensen, Morten; Engeland, Torgeir; Holt, Anne; Osnes, Eivind.  Perturba
 o Holt, Anne; Engeland, Torgeir; Hjorth-Jensen, Morten; Osnes, Eivind.  The structure of the neutron deficient Sn isotopes. Nuclear Physics A 1994 ;Volum 570. p. 137c-144c
 
 === Talks and seminars at workshops, conferences and institute colloquiua ===
-o Mørken, Knut Martin; Hjorth-Jensen, Morten; Langtangen, Hans Petter; Malthe-Sørenssen, Anders. 
-Some reflections on the impact of computers in science education. Mathematical Simulation and Visualization Symposium; 2015
+o Mørken, Knut Martin; Hjorth-Jensen, Morten; Langtangen, Hans Petter; Malthe-Sørenssen, Anders. Some reflections on the impact of computers in science education. Mathematical Simulation and Visualization Symposium; 2015
  
-o Mørken, Knut Martin; Hjorth-Jensen, Morten; Langtangen, Hans Petter; Malthe-Sørenssen, Anders. 
-Tanker om digital realfagsundervisning. Nordic Physics Days 2015; 2015-06-10 - 2015-06-12 
+o Mørken, Knut Martin; Hjorth-Jensen, Morten; Langtangen, Hans Petter; Malthe-Sørenssen, Anders. Tanker om digital realfagsundervisning. Nordic Physics Days 2015; 2015-06-10 - 2015-06-12 
  
 o Hjorth-Jensen, Morten.  Educating the next generation of nuclear scientists; how can a center like the ECT* aid in developing modern nuclear physics educational programs?. ECT* 20th anniversary colloquium; 2013-09-14 - 2013-09-14
  
@@ -752,8 +747,7 @@ o Hjorth-Jensen, Morten.  Why is matter stable?. Theory of Nuclear Physics Relat
 o Hjorth-Jensen, Morten.  Why is matter stable? Understanding the limits of stability of nuclear matter. Nobel Symposium 152; 2012-06-10 - 2012-06-15
  
  
-o Hjorth-Jensen, Morten. 
-Computational environment for Nuclear Structure, Lectures I-V. Lecture series in Nuclear Physics at Universidad Complutense Madrid; 2011-01-17 - 2011-02-09
+o Hjorth-Jensen, Morten. Computational environment for Nuclear Structure, Lectures I-V. Lecture series in Nuclear Physics at Universidad Complutense Madrid; 2011-01-17 - 2011-02-09
  
  
 o Hjorth-Jensen, Morten.  Computers in Science Education; a new way to teach Science?. Institute seminar; 2011-03-21 - 2011-03-21
@@ -765,8 +759,7 @@ o Hjorth-Jensen, Morten.  Computers in Science Education; a new way to teach Sci
 o Hjorth-Jensen, Morten.  From few to many nucleons; a tale on recent advances (and challenges) in nuclear many-body theory. Institute seminar; 2011-03-25 - 2011-03-25
  
  
-o Hjorth-Jensen, Morten. 
-Linking nuclear forces with many-body methods, Lecture II. Second MSU--UT/ORNL winter school in nuclear physics; 2011-01-03 - 2011-01-07
+o Hjorth-Jensen, Morten. Linking nuclear forces with many-body methods, Lecture II. Second MSU--UT/ORNL winter school in nuclear physics; 2011-01-03 - 2011-01-07
  
  
 o Hjorth-Jensen, Morten.  Many-body interactions and nuclear structure. Institute seminar National Superconducting Cyclotron laboratory; 2011-01-05 - 2011-01-05
@@ -903,8 +896,7 @@ o Hjorth-Jensen, Morten.  Lecture 6: Nuclear interactions and the shell model. 8
 o Hjorth-Jensen, Morten.  Many-body methods and multiscale physics: A nuclear physics story. Seminar at CTCC, University of oslo; 2009-11-04 - 2009-11-04
  
  
-o Hjorth-Jensen, Morten. 
-School on Nuclear Physics at the University of Oslo. 15lectures in total. Nuclear Physics School; 2009-08-10 - 2009-08-14
+o Hjorth-Jensen, Morten. School on Nuclear Physics at the University of Oslo. 15 lectures in total. Nuclear Physics School; 2009-08-10 - 2009-08-14
  
  
 o Hjorth-Jensen, Morten.  Shell structure around 100Sn. Gordon conference:Frontiers Of Nuclear Structure Through Spectroscopy And Reactions; 2009-06-21 - 2009-06-26
@@ -913,8 +905,7 @@ o Hjorth-Jensen, Morten.  Shell structure around 100Sn. Gordon conference:Fronti
 o Hjorth-Jensen, Morten.  Shell-model interactions around 100Sn. American Physical Society April meeting; 2009-05-01 - 2009-05-05
  
  
-o Hjorth-Jensen, Morten. 
-Structure of very neutron-rich nuclei and some key questions in nuclear structure theory. HRIBF, Upgrade for the FRIB Era An HRIBF Users Workshop; 2009-11-13 - 2009-11-14
+o Hjorth-Jensen, Morten.  Structure of very neutron-rich nuclei and some key questions in nuclear structure theory. HRIBF, Upgrade for the FRIB Era An HRIBF Users Workshop; 2009-11-13 - 2009-11-14
  
  
 o Hjorth-Jensen, Morten; Kvaal, Simen. Effective interactions and convergence criteria for configuration interaction methods. Effective Field Theories and the Many-Body Problem; 2009-03-23 - 2009-06-05
@@ -1037,7 +1028,7 @@ o Hjorth-Jensen, Morten.  Lecture 4: Effective interactions for various mass are
 o Hjorth-Jensen, Morten.  Lecture 5: From stable to weakly bound nuclei. Lectures in Nuclear Physics, From basic nuclear interactions to nuclear structure; 2007-02-23 - 2007-02-23
  
  
-0 Hjorth-Jensen, Morten.  Lecture 5: From stable to weakly bound nuclei. ECT* Doctoral Training Programme 2007; 2007-04-20 - 2007-04-20
+o Hjorth-Jensen, Morten.  Lecture 5: From stable to weakly bound nuclei. ECT* Doctoral Training Programme 2007; 2007-04-20 - 2007-04-20
  
  
 o Hjorth-Jensen, Morten.  Random numbers, Markov chains, Diffusion and the Metropolis algorithm. eScience Winther School 2007; 2007-01-28 - 2007-02-02
@@ -1061,8 +1052,7 @@ o Hjorth-Jensen, Morten; Kvaal, Simen. Similarity Transformations, Flow Equation
 o Hjorth-Jensen, Morten; Mørken, Knut Martin.  A uniﬁed renewal of mathematics and science education. HPCIA07 (opening of new supercomputer i Tromsø); 2007-12-12 - 2007-12-13
  
  
-o Hjorth-Jensen, Morten; Mørken, Knut Martin. 
-"Computers in Science Education" – realfag på en ny måte?. Realfag – nøkkelen til fremtidens kunnskapssamfunn; 2007-03-23 - 2007-03-23
+o Hjorth-Jensen, Morten; Mørken, Knut Martin. Computers in Science Education, realfag på en ny måte?. Realfag – nøkkelen til fremtidens kunnskapssamfunn; 2007-03-23 - 2007-03-23
  
  
 o Hjorth-Jensen, Morten; Mørken, Knut Martin.  Computers in Science Education: Realfagsundervisning på en ny måte?. Presentasjon for Abelia og NHO; 2007-08-14 - 2007-08-14
@@ -1403,8 +1393,7 @@ o Melby, Elin; Bergholt, Lisbeth; Guttormsen, Magne; Hjorth-Jensen, Morten; Inge
 o Rekstad, John Bernhard; Bergholt, Lisbeth; Guttormsen, Magne; Hjorth-Jensen, Morten; Ingebretsen, Finn; Melby, Elin; Messelt, Svein; Schiller, Andreas; Siem, Sunniva; Ødegård, Stein Westad.  Measurements of level densities and gamma ray strength functions. The X International Symposium on capture gamma-ray; 1999-09-03
  
  
-o Elgarøy, Øystein; Hjorth-Jensen, Morten. 
-Properties of Pairing Correlations in Infinite Nuclear Matter. Condensed Matter theories 21; 1998-01-01
+o Elgarøy, Øystein; Hjorth-Jensen, Morten. Properties of Pairing Correlations in Infinite Nuclear Matter. Condensed Matter theories 21; 1998-01-01
  
  
 o Engeland, Torgeir; Hjorth-Jensen, Morten; Holt, Anne; Osnes, Eivind.  Realistic Effective Interactions and Large-Scale Nuclear Structure Calculation. Highlights of modern nuclear structure; 1998-05-01
@@ -1429,7 +1418,7 @@ o Osnes, Eivind; Hjorth-Jensen, Morten; Engeland, Torgeir; Holt, Anne. Shell mod
  
  
 
-o Hjorth-Jensen, Morten; Osnes, Eivind; Muther, Herbert; Schmid, K.W.; Kuo, T..  Microscopic nuclear structure calculations with modern meson-exchange potentials}. Understanding the variety of nuclear excitations; 1991-01-01
+o Hjorth-Jensen, Morten; Osnes, Eivind; Muther, Herbert; Schmid, K.W.; Kuo, T..  Microscopic nuclear structure calculations with modern meson-exchange potentials. Understanding the variety of nuclear excitations; 1991-01-01
  
 
 === Organization of workshops, schools and advanced courses ===
