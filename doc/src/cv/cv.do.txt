@@ -678,8 +678,7 @@ o Papenbrock, T.; Dean, David Jarvis; Gour, J. R.; Hagen, G.; Hjorth-Jensen, Mor
  
 o Schiller, Andreas; Agvaanluvsan, Undraa; Algin, Emel; Bagheri, Asadolla; Chankova, Rosita; Guttormsen, Magne; Hjorth-Jensen, Morten; Rekstad, John Bernhard; Siem, Sunniva; Sunde, Ann-Cecilie; Voinov, Alexander.  Nuclear thermodynamics below particle threshold. AIP Conference Proceedings 2005 (777) p. 216-228
  
-o Wloch, Marta; Dean, David J.; Grour, Jeffrey; Piecuch, Piotr; Hjorth-Jensen, Morten; Papenbrock, Thomas; Kowalski, Karol.  Ab Initio Coupled-Cluster calculations for Nuclei using Methods of Quantum Chemistry. European Physical Journal A 2005 
-EUROPEAN PHYSICAL JOURNAL A  Volume: 25  485-488   Published: 2005
+o Wloch, Marta; Dean, David J.; Grour, Jeffrey; Piecuch, Piotr; Hjorth-Jensen, Morten; Papenbrock, Thomas; Kowalski, Karol.  Ab Initio Coupled-Cluster calculations for Nuclei using Methods of Quantum Chemistry. EUROPEAN PHYSICAL JOURNAL A  Volume: 25  485-488   Published: 2005
 
 o Dean, DJ, Hjorth-Jensen, M, Kowalski, K, Piecuch, P, Wloch, M, Coupled-cluster theory for nuclei, CONDENSED MATTER THEORIES, VOL 20, Volume: 20  Pages: 89-97, Published: 2006
  
@@ -700,7 +699,7 @@ o Wloch, Marta; Grour, Jeffrey; Piecuch, Piotr; Dean, David J.; Hjorth-Jensen, M
  
 o Belic, Alexandar; Dean, David J.; Hjorth-Jensen, Morten.  Pairing correlations and transitions in nuclear systems. Nuclear Physics A 2004 ;Volum 731. p. 381-391
  
-o  Dean, DJ, Gour, JR, Hagen, G, Hjorth-Jensen, M, Kowalski K, Papenbrock, T, Piecuch, P, Wloch, M, Nuclear structure calculations with coupled cluster methods from quantum chemistry, NUCLEAR PHYSICS A, Volume: 752  Pages: 299C-308C, DOI: 10.1016/j.nuclphysa.2005.02.041, Published: APR 18 2005
+o Dean, DJ, Gour, JR, Hagen, G, Hjorth-Jensen, M, Kowalski K, Papenbrock, T, Piecuch, P, Wloch, M, Nuclear structure calculations with coupled cluster methods from quantum chemistry, NUCLEAR PHYSICS A, Volume: 752  Pages: 299C-308C, DOI: 10.1016/j.nuclphysa.2005.02.041, Published: APR 18 2005
 
 o Dean, DJ, Hjorth-Jensen, M, Kowalski, K, Papenbrock, T, Wloch, M, Piecuch, P, Coupled cluster approaches to nuclei, ground states and excited states, Edited by:Covello, A, KEY TOPICS IN NUCLEAR STRUCTURE, Pages: 147-157, DOI: 10.1142/9789812702265_0015, Published: 2005, Conference: 8th International Spring Seminar on Nuclear Physics, Location: Paestum, ITALY, MAY 23-27, 2004
 
@@ -773,8 +772,7 @@ o Hjorth-Jensen, Morten, "Computational Physics and Quantum Mechanical Systems":
 
 o Hjorth-Jensen, Morten, "Correlations in many-body systems; from condensed matter physics to nuclear physics":"https://t2.lanl.gov/seminars/?section=abstract&number=-10&year=2016", T-2, Nuclear and Particle Physics, Astrophysics and Cosmology, Los Alamos National Laboratory, New Mexico, USA, Tuesday, April 12, 2016
 
-o Hjorth-Jensen, Morten, "Integrating a Computational Perspective in the Basic Science Education":"http://mhjensenseminars.github.io/EducationalSeminars/doc/pub/cse/html/cse-reveal.html", Department of Physics Colloquium at Central  Michigan University,  Kalamazoo, Michigan, USA, 
-Monday, April 4, 2016
+o Hjorth-Jensen, Morten, "Integrating a Computational Perspective in the Basic Science Education":"http://mhjensenseminars.github.io/EducationalSeminars/doc/pub/cse/html/cse-reveal.html", Department of Physics Colloquium at Central  Michigan University,  Kalamazoo, Michigan, USA, April 4, 2016
 
 
 o Mørken, Knut Martin; Hjorth-Jensen, Morten; Langtangen, Hans Petter; Malthe-Sørenssen, Anders. Some reflections on the impact of computers in science education. Mathematical Simulation and Visualization Symposium; 2015
