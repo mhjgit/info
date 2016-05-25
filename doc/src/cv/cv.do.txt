@@ -22,6 +22,18 @@ DATE: 2016
 | Professor of Physics | Michigan State University| 2012-present |
 |---------------------------------------------------------------------|
 
+
+===== Brief research overview =====
+
+I am a theoretical physicist with a strong interest in 
+computational physics and many-body theory in general, and 
+the nuclear many-body problem and nuclear structure problems in particular. 
+This means that I study various methods for solving either Schrödinger's equation or 
+Dirac's equation for many interacting particles, spanning from 
+algorithmic aspects to the mathematical properties of such methods. 
+The latter also leads to a strong interest in computational 
+physics as well as computational aspects of quantum mechanical methods. 
+
 ===== Awards: =====
 
 o University of Oslo award for excellence in teaching, 2000
@@ -33,29 +45,33 @@ o NOKUT (Norwegian entity of quality assessment in higher education) award for e
 o Elected member of the Norwegian Academy of Sciences and Letters, 2013
 o Elected member of the Royal Norwegian Society of Sciences and Letters, 2015 
 o University of Oslo award for excellence in teaching for developing the Computational Physics group, 2015
-o Favorite graduate teacher at Michigan State University, 2016 
+o Favorite graduate teacher at the Department of Physics and Astronomy at Michigan State University, 2016 
 
-===== Citation metrics and highly cited articles: =====
+===== Citation metrics, highly cited articles, and additional research highlights: =====
 
-o "Google scholar h-index=47, 8014 citations (April 2016)":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en"
+o "Google scholar h-index=47, 8078 citations (May 2016)":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en"
 o ISI web of science h-index=41 Search hjorth-jensen or hjorthjensen 
-o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126", cited 668 times (Google Scholar)
-o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106", cited 379 times (Google Scholar)
-o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607", cited 321 times (Google Scholar)
+o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126", cited 671 times (Google Scholar)
+o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106", cited 381 times (Google Scholar)
+o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607", cited 322 times (Google Scholar)
+o A total of 144 peer reviewed articles and four books to be published.
+o Supervised and co-supervised 60 graduate students (48 Master of Science and 12 PhD students)
+o Authored and co-authored 22 Physical Review Letters articles, 15 Rapid communications in Physical Review C, seven Physics Letters B articles, one Astrophysical Journal Letters article and one Nature Physics article
+o Written one Physics viewpoint and been highlighted in one other.
+o Taught and developed several courses in Computational Physics and many-body physics, courses in nuclears structure and quantum physics and mechanics and statistical mechanics.
+o More than two hundred invited talks, seminars, colloquia and lectures given worldwide.
+o Organized more than 30 conferences, workshops and schools and advanced courses.
+o Presently supervising 12 Master of Science students (University of Oslo) and four PhD students (MSU)
 
-===== Synergistic Activities: =====
+===== Synergistic Activities and service through the years: =====
 
 * Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last fifteen years I have guided  48 Master of Science of students (28 have continued with PhD studies) and twelve PhD students.  I currently supervise twelve Master of Science students at the University of Oslo. I supervise four PhD students at Michigan State University.
 
 * With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computation with the traditional science amd mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
 
-* With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2016 the initiative has run and developing eleven courses. I chaired the steering committee from its beginning in 2010 till 2015. 
+* With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2016 the initiative has run and developed eleven courses. I chaired the steering committee from its beginning in 2010 till 2015. I have taught two of these courses and been one of the organizers on five of the eleven courses.
 
 * Together with colleagues in the USA, I am, due to my shared position at Michigan State University, deeply involved in the set up of a large center in theoretical nuclear physics that will be linked up with the coming Facility for Radioactive Ion Beams at Michigan State university. 
-
-
-
-===== Service through the years =====
 
 === Editorial boards and committees ===
 
@@ -65,17 +81,17 @@ o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M 
 
 * Member of the Swedish research council's evaluation board on subatomic physics 2007-2008.
 
-* Editorial Board member of Physical Review C
+* Editorial Board member of Physical Review C (2014-2016)
 
-* Editorial Board member of European Physical Journal A
+* Editorial Board member of European Physical Journal A (2010-present)
 
-* Editorial Board member of European Physical Journal Special Topics.
+* Editorial Board member of European Physical Journal Special Topics (2010-present)
 
-* Editorial Board member of Springer's Lecture Notes in Physics
+* Editorial Board member of Springer's Lecture Notes in Physics (2010-present)
 
-* Editorial Board member of Springer's Undergraduate Lecture Notes in Physics
+* Editorial Board member of Springer's Undergraduate Lecture Notes in Physics (2014-present)
 
-* Editorial board member of Computers in Science and Discovery journal, a journal by IOP, UK.
+* Editorial board member of Computers in Science and Discovery journal, a journal by IOP, UK (2008-2014)
 
 * "Steering Committee member of the FRIB theory alliance at Michigan State University (2013-2016)":"http://fribtheoryalliance.org/"
 
@@ -179,9 +195,37 @@ o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M 
 * Member or leader of several job assessment committees in Norway and the USA
 
 
-===== Master of Science, PhD and Post-doctoral fellows =====
 
-I have guided and co-guided a total of 60 Master of Science and PhD students. I presently guide four graduate students at Michigan State University  and twelve (four co-supervised) Master of Science students at the University of Oslo.
+===== Courses, study programs and educational initiatives =====
+
+I am strongly involved in teaching at all levels. I have been heading the bachelor program Physics, Astronomy and Meteorology ( FAM ) in the period 2002-2011. I am also strongly involved in the project Computing in Science Education. Furthermore, with European and American colleagues, we have established the recent successful Nuclear Talent initiative.
+
+Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last fifteen years I have guided  48 Master of Science of students (28 have continued with PhD studies) and twelve PhD students.  I currently supervise twelve Master of Science students at the University of Oslo. I supervise four PhD students at Michigan State University.
+
+With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computation with the traditional science amd mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
+
+With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2016 the initiative has run and developing eleven courses. I chaired the steering committee from its beginning in 2010 till 2015. 
+
+I teach now the following courses at the University of Oslo and Michigan State University:
+
+* FYS3150/4150 Computational Physics I, Fall semester, senior undergraduate level (Oslo) 
+* FYS4411 Computational Physics II: Quantum mechanical systems, M.S and PhD level, Spring semester (Oslo) 
+* FYS-KJM4480 Quantum mechanics for many-particle systems, M.S. and PhD level, Fall semester (Oslo) 
+* PHYS981 Nuclear Structure, M.S. and PhD level, Spring semester (MSU) 
+* PHY480/905 Computational Physics (MSU), Spring semester
+
+
+=== Education awards: ===
+
+
+o University of Oslo award for excellence in teaching (all university), 2000
+o University of Oslo award for excellence in teaching for the _Computing in Science Education_ project (all university), 2011
+o NOKUT (Norwegian entity of quality assessment in higher education) award for excellence in teaching for the _Computing in Science Education_ project, 2012. National award.
+o University of Oslo award for excellence in teaching for developing the Computational Physics group (all university), 2015
+o Favorite graduate teacher at the Department of Physics and Astronomy of Michigan State University, 2016 
+
+
+
 
 
 === Present PhD students ===
@@ -276,7 +320,10 @@ o Eivind Brodal, University of Oslo, (2001-2003)
 o Eirik Ovrum, University of Oslo, (2001-2003)
 o Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)
 
-=====  Publications, books and refereed scientific articles =====
+
+
+
+=====  Research, Publications, books, refereed scientific articles, talks and organization of meetings =====
 
 === Books: ===
 o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2016.
@@ -294,7 +341,7 @@ o Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jens
 
 o Fei Yuan, Jørgen Høgberget, Titus Morris, Sam Novario, Nathan Parzuchowski, Sarah Reimann, Scott K. Bogner and Morten Hjorth-Jensen,   *First principle calculations of quantum dot systems*, in preparation for Journal of Chemical Physics, 2016.
 
-o G. Hagen, M. Hjorth-Jensen, G. R. Jansen, T. Papenbrock, *Emergent properties of nuclei from ab initio coupled-cluster calculations*, *Physica Scripta*, in press (2016).
+o G. Hagen, M. Hjorth-Jensen, G. R. Jansen, T. Papenbrock, *Emergent properties of nuclei from ab initio coupled-cluster calculations*, Focus issues of *Physica Scripta*, 91:063006 (2016).
 
 o Naofumi Tsunoda, Takaharu Otsuka, Noritaka Shimizu, Morten Hjorth-Jensen, Kazuo Takayanagi, Toshio Suzuki, *Exotic neutron-rich medium-mass nuclei with realistic nuclear forces*, *Physical Review C*, in press
 
@@ -1432,4 +1479,5 @@ TBA
 
  
  
+
 
