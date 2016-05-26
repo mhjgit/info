@@ -73,6 +73,8 @@ o Presently supervising 12 Master of Science students (University of Oslo) and f
 
 * Together with colleagues in the USA, I am, due to my shared position at Michigan State University, deeply involved in the set up of a large center in theoretical nuclear physics that will be linked up with the coming Facility for Radioactive Ion Beams at Michigan State university. 
 
+* I initiated and lead the new "Master of Science program on Computational Science at the University of Oslo":"http://mhjensen.github.io/CPMLS/doc/pub/Masterprogram/html/Masterprogram.html". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. It includes now six departments at the University of Oslo.
+
 === Editorial boards and committees ===
 
 * Member of the Physics Advisory Comittee at the National Superconducting Cyclotron Laboratory, Michigan State University, East Lansing, USA, 2003-2008
@@ -237,6 +239,8 @@ With colleagues at the University of Oslo, I have   been strongly involved in th
 
 With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2016 the initiative has run and developing eleven courses. I chaired the steering committee from its beginning in 2010 till 2015. 
 
+I initiated in 2015 and chair the new "Master of Science program on Computational Science at the University of Oslo":"http://mhjensen.github.io/CPMLS/doc/pub/Masterprogram/html/Masterprogram.html". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. 
+
 I teach now the following courses at the University of Oslo and Michigan State University:
 
 * "FYS3150/4150 Computational Physics I":"http://www.uio.no/studier/emner/matnat/fys/FYS3150/", Fall semester, senior undergraduate level (Oslo) 
@@ -298,7 +302,7 @@ o Elise Bergli (UiO 2010-2011), now teacher at Ås high school, Norway
 o Sølve Selstø (UiO 2008-2010), now Associate Professor at Oslo University College 
 o Nicolas Michel (MSU 2013), now senior researcher at Michigan State University
 
-=== Former Master of Science Students ===
+=== Former Master of Science Students(links to their thesis will be added)  ===
 o Wilhelm Holmen, University of Oslo (2014-2016)
 o Roger Kjøde, University of Oslo, (2014-2016)
 o Håkon Sebatian Mørk, University of Oslo, (2014-2016)
@@ -432,7 +436,7 @@ o Hjorth-Jensen, Morten. CENS: A computational Environment for Nuclear Structure
 
 
 
-=====  Research, Publications, books, refereed scientific articles, talks and organization of meetings =====
+=====  Research, Publications, books, refereed scientific articles, talks and research grants  =====
 
 === Books: ===
 o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2016.
