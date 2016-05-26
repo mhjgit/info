@@ -194,7 +194,38 @@ o Presently supervising 12 Master of Science students (University of Oslo) and f
 
 * Member or leader of several job assessment committees in Norway and the USA
 
+=== Member of International Advisory committees ===
+o International Nuclear Physics Conference, member of IAC since 2008
+o Nuclear Structure 2010 and 2014, member of IAC
+o Program Advisor Committee for Recent Progress in Many-Body Theories, member since 2007
+o Scientific advisory committee for Nuclear Theory in the Supercomputing Era 
+o International Advisory committee of International Conference on Mathematical Modeling in Physical Sciences
+o International Advisory committee for XI Latin American Symposium on Nuclear Physics and Applications 
+o International Advisory Board for Conference on Computational Physics
+o International Advisory committee for EURORIB15
+o International Advisory committee for SIAM conference on Computational Science and Engineering in Boston, 2013
 
+===  Member of Advisory Committees at Michigan State University ===
+I am member or chair person of the following graduate  student committees at Michigan State University:
+o Justin Lietz, chair
+o Fei Yuan, chair together with Scott Bogner 
+o Sam Novario, chair
+o John Bower, chair together with Scott Bogner  
+o Adam Jones, committee member
+o Chris Sullivan, committee member
+o Thomas Redpath, committee member
+o Sean Sweany, committee member
+o Rachel Taverner, committee member
+o Nathan Parzuchowski, committee member
+o Titus Morris, committee member. Defended thesis May 2016
+o Kenneth Whitmore, committee member. Defends thesis June 2016
+o Alex Dombos, committee member
+o Josh Bradt, committee member
+o Charles Loelius, committee member
+o Safwan Shanab, committee member
+o Hao Lin, committee member
+o Mao Xingze, committee member
+o Amy Lovell, committee member
 
 ===== Courses, study programs and educational initiatives =====
 
@@ -208,20 +239,20 @@ With colleagues from the USA and other European countries, we have started the N
 
 I teach now the following courses at the University of Oslo and Michigan State University:
 
-* FYS3150/4150 Computational Physics I, Fall semester, senior undergraduate level (Oslo) 
-* FYS4411 Computational Physics II: Quantum mechanical systems, M.S and PhD level, Spring semester (Oslo) 
-* FYS-KJM4480 Quantum mechanics for many-particle systems, M.S. and PhD level, Fall semester (Oslo) 
-* PHYS981 Nuclear Structure, M.S. and PhD level, Spring semester (MSU) 
-* PHY480/905 Computational Physics (MSU), Spring semester
+* "FYS3150/4150 Computational Physics I":"http://www.uio.no/studier/emner/matnat/fys/FYS3150/", Fall semester, senior undergraduate level (Oslo) 
+* "FYS4411 Computational Physics II: Quantum mechanical systems":"http://www.uio.no/studier/emner/matnat/fys/FYS4411/", graduate level, Spring semester (Oslo) 
+* "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kjm4480/", graduate level, Fall semester (Oslo) 
+* "PHYS981 Nuclear Structure":"https://github.com/NuclearStructure/PHY981", graduate level, Spring semester (MSU) 
+* "PHY480/905 Computational Physics":"https://github.com/CompPhysics/ComputationalPhysicsMSU" (MSU), undergraduate and graduate level, Spring semester
 
+I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statistical Mechanics (FYS4130, 1990-1994) at the University of Oslo, Norway.
 
 === Teaching Awards: ===
 
-
-o University of Oslo award for excellence in teaching (all university), 2000
-o University of Oslo award for excellence in teaching for the _Computing in Science Education_ project (all university), 2011
-o NOKUT (Norwegian entity of quality assessment in higher education) award for excellence in teaching for the _Computing in Science Education_ project, 2012. National award.
-o University of Oslo award for excellence in teaching for developing the Computational Physics group (all university), 2015
+o University of Oslo award for excellence in teaching (all university), 2000, 250000 NOK
+o University of Oslo award for excellence in teaching for the _Computing in Science Education_ project (all university), 2011, 250000 NOK
+o NOKUT (Norwegian entity of quality assessment in higher education) award for excellence in teaching for the _Computing in Science Education_ project, 2012. National award. 300000 NOK
+o University of Oslo award for excellence in teaching for developing the Computational Physics group (all university), 2015. 250000 NOK
 o Favorite graduate teacher at the Department of Physics and Astronomy of Michigan State University, 2016 
 
 
@@ -317,6 +348,24 @@ o Eivind Brodal, University of Oslo, (2001-2003)
 o Eirik Ovrum, University of Oslo, (2001-2003)
 o Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)
 
+=== Lectures and organization of schools: ===
+
+o Hjorth-Jensen, Morten, "Computational Physics and Quantum Mechanical Systems":"http://compphysics.github.io/CompPhysUTunis/doc/web/course.html", one week course on Computational Physics at the University of Tunis El Manar, Tunis, Tunisia, May 16-20, 2016. In total 15 hours of lectures and 15 hours of computer lab and exercises. 
+
+
+o Co-organizer with Giuseppina Orlandini and Alejandro Kievsky of Nuclear Talent course "Few-body methods and nuclear reactions":"https://groups.nscl.msu.edu/jina/talent/wiki/Course_3", ECT*, Trento, Italy, July 20-August 7 2015
+
+o Carlo Barbieri, Wim Dickhoff, Gaute Hagen, Morten Hjorth-Jensen, and Artur Polls, Nuclear Talent course on Many-body methods for nuclear physics, GANIL, Caen, France, July 5-25 2015. "Main organizer and teacher with in total five hours of lectures":"http://nucleartalent.github.io/Course2ManyBodyMethods/doc/web/course.html". 
+
+o Hjorth-Jensen, Morten, ECT* "Doctoral Training Program 2015 on Computational Nuclear Physics":"http://www.ectstar.eu/node/1287", April 13- May 22, ECT*, Trento, Italy. I taught the last week of the lecture series. In total I have ten one hour lectures. 
+
+o Hjorth-Jensen, Morten, Nuclear Talent School in Nuclear Astrophysics, co-organizer with Richard Cyburt and Hendrik Schatz of the Nuclear Talent course on Nuclear Astrophysics,  Michigan State University, May 26 - June 13, 2014. 
+
+o Hjorth-Jensen, Morten, Nuclear Talent course on Density Functional theories, co-organizer with Scott Bogner, Nicolas Schunck, Dario Vretenar and Peter Ring, European Center for Theoretical Nuclear Physics and Related Areas, Trento, Italy, July 13 -August 1 2014.
+
+
+ 
+o Hjorth-Jensen, Morten, Nuclear Talent Course  Introduction on High-performance computing and computational tools for nuclear physics; ECT*, Trento, Italy, June 24 - July 13 2012. Main organizer and teacher together with Francesco Pederiva, Kevin Schmidt and Calvin Johnson. 
 
 
 
@@ -775,9 +824,6 @@ o Hjorth-Jensen, Morten, "Correlations in many-body systems; from condensed matt
 o Hjorth-Jensen, Morten, "Integrating a Computational Perspective in the Basic Science Education":"http://mhjensenseminars.github.io/EducationalSeminars/doc/pub/cse/html/cse-reveal.html", Department of Physics Colloquium at Central  Michigan University,  Kalamazoo, Michigan, USA, April 4, 2016
 
 
-o Mørken, Knut Martin; Hjorth-Jensen, Morten; Langtangen, Hans Petter; Malthe-Sørenssen, Anders. Some reflections on the impact of computers in science education. Mathematical Simulation and Visualization Symposium; 2015
- 
-o Mørken, Knut Martin; Hjorth-Jensen, Morten; Langtangen, Hans Petter; Malthe-Sørenssen, Anders. Tanker om digital realfagsundervisning. Nordic Physics Days 2015; 2015-06-10 - 2015-06-12 
 
 o Co-organizer with Giuseppina Orlandini and Alejandro Kievsky of Nuclear Talent course "Few-body methods and nuclear reactions":"https://groups.nscl.msu.edu/jina/talent/wiki/Course_3", ECT*, Trento, Italy, July 20-August 7 2015
 
@@ -1035,10 +1081,10 @@ o Hjorth-Jensen, Morten.  Shell-model interactions around 100Sn. American Physic
 o Hjorth-Jensen, Morten.  Structure of very neutron-rich nuclei and some key questions in nuclear structure theory. HRIBF, Upgrade for the FRIB Era An HRIBF Users Workshop; 2009-11-13 - 2009-11-14
  
  
-o Hjorth-Jensen, Morten; Kvaal, Simen. Effective interactions and convergence criteria for configuration interaction methods. Effective Field Theories and the Many-Body Problem; 2009-03-23 - 2009-06-05
+o Hjorth-Jensen, Morten. Effective interactions and convergence criteria for configuration interaction methods. Effective Field Theories and the Many-Body Problem; 2009-03-23 - 2009-06-05
  
  
-o Engeland, Torgeir; Hjorth-Jensen, Morten; Jansen, Gustav.  CENS, a computational environment for nuclear structure. April Meeting of the American Physical Society; 2008-04-11 - 2008-04-15
+o Hjorth-Jensen, Morten.  CENS, a computational environment for nuclear structure. April Meeting of the American Physical Society; 2008-04-11 - 2008-04-15
  
  
 o Hjorth-Jensen, Morten.  Cens lecture 1: Effective interactions for the nuclear shell model. Lecture series at the University of Padova and Legnaro National Laboratory, Padova Italy; 2008-07-15 - 2008-07-18
@@ -1088,8 +1134,6 @@ o Hjorth-Jensen, Morten; Mørken, Knut Martin.  Computers in Science Education A
  
 o Hjorth-Jensen, Morten; Mørken, Knut Martin.  Computers in Science Education A New Way to Teach Science?. Møte i Nasjonalt råd for teknologisk utdanning; 2008-11-11 - 2008-11-11
  
- 
-o Jansen, Gustav Ragnar; Hjorth-Jensen, Morten; Engeland, Torgeir.  CENS - Computational Environment for Nuclear Structure. CNS-EFES summer school (CNS-EFES08); 2008-08-25 - 2008-09-01
  
  
 o Hjorth-Jensen, Morten.  Challenges for nuclear many-body theories. CORRELATIONS IN NUCLEI: BEYOND-MEAN-FIELD AND SHELL-MODEL APPROACHES; 2007-06-04 - 2007-06-08
@@ -1242,15 +1286,6 @@ o Kartamychev, Maxim; Hjorth-Jensen, Morten; Engeland, Torgeir; Osnes, Eivind.  
 o Kartamychev, Maxim; Hjorth-Jensen, Morten; Engeland, Torgeir; Osnes, Eivind. Realistic Three-Nucleon Effective Interaction from the Folded-Diagram Theory. DNP 06; 2006-10-25 - 2006-10-28
  
  
-o Algin, Emel; Schiller, Andreas; Voinov, Alexander; Agvaanluvsan, Undraa; Belgya, Thomas; Bernstein, Lee; Chankova, Rositsa; Garrett, P.E.; Guttormsen, Magne; Hjorth-Jensen, Morten; Johnson, C.W.; Mitchell, Gary; Rekstad, John Bernhard; Siem, Sunniva; Younes, W..  Level densities and radiative strength functions in 56,57Fe and 96,97Mo. Second Workshop on Nuclear Structure Properties; 2005-11-07 - 2005-11-09
- 
- 
-o Algin, Emel; Schiller, Andreas; Voinov, Alexander; Agvaanluvsan, Undraa; Belgya, Thomas; Chankova, Rositsa; Guttormsen, Magne; Hjorth-Jensen, Morten; Johnson, C.W.; Mitchell, Gary; Rekstad, John Bernhard; Siem, Sunniva.  Level densities and radiative strength functions. 23. International Physics Congress; 2005-09-13 - 2005-09-16
- 
- 
-o Guttormsen, Magne; Agvaanluvsan, Undraa; Chankova, Rositsa; Hjorth-Jensen, Morten; Rekstad, John Bernhard; Schiller, Andreas; Siem, Sunniva; Sunde, Ann-Cecilie; Syed, Naeem Ul Hasan; Voinov, Alexander. Single particle entropy in heated nuclei. International Conference on Frontiers in Nuclear Structure, Astrophysics and Reactions; 2005-09-12 - 2005-09-17
- 
- 
 o Hjorth-Jensen, Morten.  Ab Initio nuclear structure methods: Monte Carlo methods and no-core shell model approaches. ISOLDE Physics Group Seminar; 2005-03-14 - 2005-03-14
  
  
@@ -1286,8 +1321,6 @@ o Honma, Micho; Otsuka, Takahuro; Mizusaki, T.; Hjorth-Jensen, Morten; Brown, Bo
  
 o Dean, David J.; Hjorth-Jensen, Morten; Kowalski, Karol; Piecuch, Piotr; Wloch, Marta. Coupled Cluster Theory for Nuclei. International Workshop on Condensed Matter Theories CMT28; 2004-09-27 - 2004-10-02
  
- 
-o Guttormsen, Magne; Chankova, Rosita; Hjorth-Jensen, Morten; Ingebretsen, Finn; Messelt, Svein; Rekstad, John Bernhard; Siem, Sunniva; Sunde, Ann-Cecilie; Ødegård, Stein Westad; Schiller, Andreas; Voinov, Alexander.  Heated nuclei and radiative strength functions. CMA-workshop on computational advances in the nuclear many-body problem, Oslo, March 11-13, 2004; 2004-03-11 - 2004-03-13
  
  
 o Hjorth-Jensen, Morten. CENS: A computational Environment for Nuclear Structure. Isolde Lecture series; 2004-11-11 - 2005-11-25
@@ -1332,22 +1365,12 @@ o Hjorth-Jensen, Morten.  Shell-Model Approaches and Effective Interactions for 
 o Hjorth-Jensen, Morten. Økt innsikt og læring ved hjelp av IKT i Fysikk. Det Umuliges kunst? IKT i utdanning - kvalitetetsreformen i praksis; 2004-04-28 - 2004-04-28
  
  
-o Piecuch, Piotr; Dean, David J.; Grour, Jeffrey; Hjorth-Jensen, Morten; Kowalski, Karol; Papenbrock, Thomas; Wloch, Marta. Coupled Cluster Calculations of Ground and Excited States of Nuclei. The Fourth International Conference on Exotic Nuclei and Atomic Masses; 2004-09-12 - 2004-09-16
- 
- 
-o Piecuch, Piotr; Wloch, Marta; Grour, Jeffrey; Dean, David J.; Hjorth-Jensen, Morten; Papenbrock, Thomas. Bridging quantum chemistry and nuclear structure theory: Coupled-cluster calculations for closed- and open-shell nuclei. NUCLEI AND MESOSCOPIC PHYSICS: Workshop on Nuclei and Mesoscopic Physics: WNMP 2004; 2004-10-23 - 2004-10-26
- 
  
 o Vistnes, Arnt Inge; Hjorth-Jensen, Morten. Numerical methods as an integrated part of physics education. 9th Workshop on Multimedia in Physics Teaching and Learning; 2004-09-09 - 2004-09-11
  
  
 o Ovrum, Eirik; Leinaas, Jon Magne; Hjorth-Jensen, Morten. Quantum Computation of Energy Levels in a Spin Chain: A Detailed Simulation for a Small no of Spins. Gordon Research Conference; 2004-02-22 - 2004-02-28
  
- 
-o Bagheri, Assadollah; Chankova, Rositsa; Guttormsen, Magne; Hjorth-Jensen, Morten; Ingebretsen, Finn; Messelt, Svein; Rekstad, John Bernhard; Schiller, Andreas; Siem, Sunniva; Sunde, Ann-Cecilie; Voinov, Alexander; Ødegård, Stein Westad. Electromagnetic and thermodynamic proprties of rare earth nuclei. The 10th Nordic Meeting on Nuclear Physics; 2003-05-12 - 2003-05-16
- 
- 
-o Guttormsen, Magne; Hjorth-Jensen, Morten; Rekstad, John Bernhard; Siem, Sunniva; Schiller, Andreas; Voinov, Alexander. MEASUREMENTS OF NUCLEAR LEVEL DENSITIES AND GAMMA-RAY STRENGTH FUNCTIONS AND THEIR INTERPRETATIONS. Invited talk at 10th International Seminar on Interaction of Neutrons with Nuclei (ISINN-10): Neutron Spectroscopy, Nuclear Structure, Related Topics, Dubna, Russia, 22-25 May 2002; 2002-05-22 - 2002-05-25
  
  
 o Hjorth-Jensen, Morten. Bruk av numeriske verktøy i undervisningen. Pedagogisk modul i 'Undervisning i matematiske og naturvitenskapelige fag'; 2003-05-23 - 2003-05-23
@@ -1379,23 +1402,6 @@ o Hjorth-Jensen, Morten. Pairing correlations in nuclear systems. COMEX1; 2003-0
 o Hjorth-Jensen, Morten. Pairing correlations in nuclear systems. Foredrag ved Oak Ridge National lab; 2003-08-12 - 2003-08-12
  
  
-o Schiller, Andreas; Becker, J.A.; Bernstein, Lee; Voinov, Alexander; Guttormsen, Magne; Hjorth-Jensen, Morten; Rekstad, John Bernhard; Siem, Sunniva; Agvaanluvsan, Undraa; Mitchell, Gary; Algin, Emel. Thermal aspects of the nuclear pairing process. The 10th Nordic Meeting on Nuclear Physics; 2003-05-12 - 2003-05-16
- 
- 
-o Schiller, Andreas; Bernstein, Lee; Voinov, Alexander; Guttormsen, Magne; Hjorth-Jensen, Morten; Rekstad, John Bernhard; Siem, Sunniva; Mitchell, Gary; Algin, Emel. Radiative strength functions and level densities. Eleventh International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics; 2002-09-02 - 2002-09-06
- 
- 
-o Schiller, Andreas; Guttormsen, Magne; Hjorth-Jensen, Morten; Rekstad, John Bernhard; Siem, Sunniva. Caloric curves of nuclei. The DNP02 Fall Meeting of the Division of Nuclear Physics of the American Physical Society; 2002-10-09 - 2002-10-12
- 
- 
-o Brown, B.A.; Clement, R.; Schatz, H.; Giansiracusa, J.; Richter, W.A.; Hjorth-Jensen, Morten; Kratz, K.L.; Pfeiffer, B.; Walters, W.B.. Nuclear structure theory for the astrophysical rp-process and r-process. XVIIth International Nuclear physics divisional conference; 2002-09-30
- 
- 
-o Dean, David J.; Hjorth-Jensen, Morten. Toward coupled-cluster implementations in nuclear structure. Frontiers of Nuclear Structure 2002; 2002-07-29
- 
- 
-o Guttormsen, Magne; Hjorth-Jensen, Morten; Rekstad, John Bernhard; Siem, Sunniva; Schiller, Andreas; Voinov, Alexander. Measurements of Nuclear Level Densities and Gamma-Ray Strength Functions and their Interpretations. X International Seminar on Interaction of Neutrons with Nuclei, May 22-25 2002,; 2002-05-22
- 
  
 o Hjorth-Jensen, Morten. Complex scaling and effective interactions for weakly bound nuclei. ; 2002
  
@@ -1417,8 +1423,6 @@ o Hjorth-Jensen, Morten. Pairing correlations in nuclear systems, from neutron s
  
 o Hjorth-Jensen, Morten. Theory of effective interactions. ; 2002
  
- 
-o Guttormsen, Magne; Hjorth-Jensen, Morten; Ingebretsen, Finn; Melby, Elin; Messelt, Svein; Rekstad, John Bernhard; Schiller, Andreas; Siem, Sunniva; Ødegård, Stein Westad. Thermodynamical properties in rare earth nuclei. North-West Europe Nuclear Physics Conference; 2001-04-17
  
  
 o Hjorth-Jensen, Morten. Brukerinformasjon om tungregneberegninger. Møte mellom Usit of Hewlett Packard; 2001-02-14
@@ -1451,19 +1455,8 @@ o Hjorth-Jensen, Morten. Pairing correlations in nuclear systems, from neutrons 
 o Hjorth-Jensen, Morten. Phases of dense matter in neutron stars. Graduate programme in nuclear physics, Copenhagen-Giessen; 2001-01-25
  
  
-o Schiller, Andreas; Guttormsen, Magne; Hjorth-Jensen, Morten; Melby, Elin; Rekstad, John Bernhard; Siem, Sunniva.Thermodynamical properties of rare earth nuclei: the melting of pair correlations. International Nuclear Physics Conference; 2001-07-30
+o Hjorth-Jensen, Morten, Effective interactions for medium heavy nuclei. 5th international conference on radioactive nuclear beams; 2000-04-03
  
- 
-o Schiller, Andreas; Guttormsen, Magne; Hjorth-Jensen, Morten; Melby, Elin; Rekstad, John Bernhard; Siem, Sunniva; Voinov, Alexander. Level density, thermodynamics and radiative strength. First Joint Meeting of the Nuclear Physicists of the American and Japanese Physical Societies; 2001-10-17
- 
- 
-o Engeland, Torgeir; Hjorth-Jensen, Morten; Osnes, Eivind. Effective interactions for medium heavy nuclei. 5th international conference on radioactive nuclear beams; 2000-04-03
- 
- 
-o Guttormsen, Magne; Hjorth-Jensen, Morten; Melby, Elin; Rekstad, John Bernhard; Schiller, Andreas; Siem, Sunniva. Single quasiparticle entropy in excited nuclei with T < 1MeV. Bologna 2000, Structure of the Nucleus at the Dawn of the Century; 2000-05-29
- 
- 
-o Guttormsen, Magne; Hjorth-Jensen, Morten; Melby, Elin; Rekstad, John Bernhard; Schiller, Andreas; Siem, Sunniva. Thermal quenching of pair correlations in rare earth nuclei. Bologna 2000, Structure of the Nucleus at the Dawn of the Century; 2000-05-29
  
  
 o Hjorth-Jensen, Morten. Effective interactions for finite nuclei. Physics with Radioactive Beams; 2000-11-27
@@ -1481,22 +1474,10 @@ o Hjorth-Jensen, Morten. Nuclear structure from finite nuclei to neutron stars. 
 o Hjorth-Jensen, Morten. Phases of dense matter in neutron stars. EOS2000; 2000-02-20
  
  
-o Schiller, Andreas; Guttormsen, Magne; Hjorth-Jensen, Morten; Melby, Elin; Rekstad, John Bernhard; Siem, Sunniva. Level density and thermal properties in rare earth nuclei. International Conference Nuclear Structure and Related Topics; 2000-06-01
- 
- 
-o Siem, Sunniva; Guttormsen, Magne; Hjorth-Jensen, Morten; Melby, Elin; Rekstad, John Bernhard; Schiller, Andreas. Level densities and the thermal quenching of pair correlations in rare earth nuclei. 7th int. conf. Nucleus Nucleus collisions; 2000-07-06
- 
- 
-o Siem, Sunniva; Schiller, Andreas; Guttormsen, Magne; Hjorth-Jensen, Morten; Melby, Elin; Rekstad, John Bernhard. Level density and thermal properties in rare earth nuclei. Symposium on exotic nuclear structures; 2000-05-17
- 
- 
-o Vidanya, Isaac; Polls, Artur; Ramos, Angels; Engvik, Lars; Hjorth-Jensen, Morten. Hyperon effects on the properties of beta-stable neutron star matter. HYP2000; 2000-10-23
  
  
 o Dean, David J.; Hjorth-Jensen, Morten; Liotta, Roberto; Zuker, A.P.. Advances in shell model studies in nuclei far from stability. Advances in shell model studies in nuclei far from stability; 1999-01-01
  
- 
-o Guttormsen, Magne; Bergholt, Lisbeth; Hjorth-Jensen, Morten; Ingebretsen, Finn; Melby, Elin; Messelt, Svein; Rekstad, John Bernhard; Schiller, Andreas; Siem, Sunniva; Ødegård, Stein Westad.  Level density extraction technique and applications. International workshop on nuclear densities; 1999-10-18
  
  
 o Hjorth-Jensen, Morten. Effective interactions for finite nuclei. Advances in nuclear many-body theory; 1999-08-01
@@ -1514,16 +1495,11 @@ o Hjorth-Jensen, Morten. Pairing correlations, from finite nuclei to infinite ma
 o Hjorth-Jensen, Morten.  Phases of dense matter in neutron stars. ; 1999
  
  
-o Melby, Elin; Bergholt, Lisbeth; Guttormsen, Magne; Hjorth-Jensen, Morten; Ingebretsen, Finn; Messelt, Svein; Rekstad, John Bernhard; Schiller, Andreas; Siem, Sunniva; Ødegård, Stein Westad.  Experimental temperature and heat capacity in rare earth nuclei. Int. Conf. on Achievements and Perspectives in Nuclear Structure; 1999-07-11
+ 
+o Hjorth-Jensen, Morten. Properties of Pairing Correlations in Infinite Nuclear Matter. Condensed Matter theories 21; 1998-01-01
  
  
-o Rekstad, John Bernhard; Bergholt, Lisbeth; Guttormsen, Magne; Hjorth-Jensen, Morten; Ingebretsen, Finn; Melby, Elin; Messelt, Svein; Schiller, Andreas; Siem, Sunniva; Ødegård, Stein Westad.  Measurements of level densities and gamma ray strength functions. The X International Symposium on capture gamma-ray; 1999-09-03
- 
- 
-o Elgarøy, Øystein; Hjorth-Jensen, Morten. Properties of Pairing Correlations in Infinite Nuclear Matter. Condensed Matter theories 21; 1998-01-01
- 
- 
-o Engeland, Torgeir; Hjorth-Jensen, Morten; Holt, Anne; Osnes, Eivind.  Realistic Effective Interactions and Large-Scale Nuclear Structure Calculation. Highlights of modern nuclear structure; 1998-05-01
+o Hjorth-Jensen, Morten.  Realistic Effective Interactions and Large-Scale Nuclear Structure Calculation. Highlights of modern nuclear structure; 1998-05-01
  
  
 o Heiselberg, Henning; Hjorth-Jensen, Morten. Phase transitions in neutron stars. Nuclear Astrophysics; 1998-01-01
@@ -1532,43 +1508,30 @@ o Heiselberg, Henning; Hjorth-Jensen, Morten. Phase transitions in neutron stars
 o Hjorth-Jensen, Morten. Nuclear structure from $N\approx Z$ to $N >>Z$. Highlightsof modern nuclear structure; 1998-05-01
  
  
-o Vidanya, Isaac; Polls, Artur; Ramos, Angels; Hjorth-Jensen, Morten. Binding energy of Lambda hypernuclei from realistic YN interactions. Mesons and Light Nuclei; 1998-09-01
- 
- 
 o Engeland, Torgeir; Hjorth-Jensen, Morten; Holt, Anne; Osnes, Eivind. Extensive Shell-Model calculations in the tin isotopes. workshop on double-beta decay; 1996-01-01
  
  
 o Engeland, Torgeir; Hjorth-Jensen, Morten; Holt, Anne; Osnes, Eivind. Realistic Large basis shell-model calculation in the low-mass tin isotopes. symposium on frontiers of nuclear structure physics; 1996-01-01
  
- 
-o Osnes, Eivind; Hjorth-Jensen, Morten; Engeland, Torgeir; Holt, Anne. Shell model calculations with realistic effective interactions. Nuclear structure models; 1993-01-01
- 
- 
+o Hjorth-Jensen, Morten.  Conference: International Conference on Realistic Nuclear Structure, to Celebrate the 60th Birthday of TTS (TOM) Kuo Location: SUNY Stony Brook, phys dept, STONY BROOK, NY, May 28-30, 1992
 
-o Hjorth-Jensen, Morten; Osnes, Eivind; Muther, Herbert; Schmid, K.W.; Kuo, T..  Microscopic nuclear structure calculations with modern meson-exchange potentials. Understanding the variety of nuclear excitations; 1991-01-01
+
+o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern meson-exchange potentials, Edited by A. Covello, 3rd international spring seminar on nuclear physics, Ischia, Italy, May 21-25, 1990
  
+=== Selected research grants as PI ===
+
+o 2014-2017 600 kUSD from the National Science Foundation for the project Computational Nuclear Many-body Physics, CO-PI with Scott Bogner. Grant number PHY-1404159
+o 2010-2015 15 MNOK from the Research Council of Norway, Multi-scale physics on the computer, Collaboration between Universities. Grant number ISP-Fysikk/216699
+in Trondheim, Ås, and Oslo on research and education in computational physics
+o 2003-2013 Principal investigator of the Norwegian Center of Excellence Mathematics for Applications, with annual funding from the Research Council of Norway of 15 MNOK.
+
 
 === Organization of workshops, schools and advanced courses ===
 TBA
 
-===  Member of Advisory Committees at Michigan State University ===
-I am member or chair person of the following graduate  student committees at Michigan State University:
-o Justin Lietz, chair
-o Fei Yuan, chair together with Scott Bogner 
-o Sam Novario, chair
-o John Bower, chair together with Scott Bogner  
-o Adam Jones, committee member
-o Chris Sullivan, committee member
-o Thomas Redpath, committee member
-o Sean Sweany, committee member
-o Rachel Taverner, committee member
-o Nathan Parzuchowski, committee member
-o Titus Morris, committee member. Defended thesis May 2016
-o Kenneth Whitmore, committee member. Defends thesis June 2016
-o Alex Dombos, committee member
-o Josh Bradt, committee member
-o Charles Loelius, committee member
-o Safwan Shanab, committee member
-o Hao Lin, committee member
-o Mao Xingze, committee member
-o Amy Lovell, committee member
+
+
+
+
+
+
