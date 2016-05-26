@@ -1564,14 +1564,9 @@ o Hjorth-Jensen, Morten. Properties of Pairing Correlations in Infinite Nuclear 
 o Hjorth-Jensen, Morten.  Realistic Effective Interactions and Large-Scale Nuclear Structure Calculation. Highlights of modern nuclear structure; 1998-05-01
  
  
-o Heiselberg, Henning; Hjorth-Jensen, Morten. Phase transitions in neutron stars. Nuclear Astrophysics; 1998-01-01
- .
- 
 o Hjorth-Jensen, Morten. Nuclear structure from $N\approx Z$ to $N >>Z$. Highlights of modern nuclear structure; 1998-05-01
  
- 
 o Engeland, Torgeir; Hjorth-Jensen, Morten; Holt, Anne; Osnes, Eivind. Extensive Shell-Model calculations in the tin isotopes. workshop on double-beta decay; 1996-01-01
- 1
  
 o Engeland, Torgeir; Hjorth-Jensen, Morten; Holt, Anne; Osnes, Eivind. Realistic Large basis shell-model calculation in the low-mass tin isotopes. symposium on frontiers of nuclear structure physics; 1996-01-01
  
