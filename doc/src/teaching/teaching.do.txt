@@ -1,29 +1,57 @@
-TITLE: Teaching philosophy, courses and thesis projects 
+TITLE: Thesis projects, Teaching philosophy and courses
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
-DATE: 
+DATE: August 2016
+
+===== Thesis projects =====
+Mst of the projects listed below can form the basis for a Master of Science thesis or a longer PhD thesis. The topics listed below reflect to  a large extent my own interests and research topics. 
+
+===  Large-scale diagonalization methods and quantum mechanical systems ===
+
+=== Studies of dense nuclear matter ===
+
+=== Time-evolution of quantum-mechanical systems ===
+
+=== Molecular dynamics and computational structural biology ===
+
+=== Many-body methods and quantum computing ===
+
+=== Theoretical aspects of many-body methods ===
+
+=== High-performance computing and quantum-mechanical systems ===
+
+=== Computing in science education research problems ===
+
+=== Quantum chromodynamics and effective field theories on the lattice ===
+
 
 
 ===== Courses, study programs and educational initiatives =====
 
-I am strongly involved in teaching at all levels. I have been heading the bachelor program Physics, Astronomy and Meteorology ( FAM ) in the period 2002-2011. I am also strongly involved in the project Computing in Science Education. Furthermore, with European and American colleagues, we have established the recent successful Nuclear Talent initiative.
+I am strongly involved in teaching at all levels. I have been heading the bachelor program Physics, Astronomy and Meteorology ( FAM ) in the period 2002-2011. I am also strongly involved in the project Computing in Science Education. Furthermore, with European and American colleagues, we have established the recent successful Nuclear Talent initiative.  Recently, with colleagues in Oslo, we have started a new multi-disciplinary Master of Science program in "Computational Science":"http://mhjensen.github.io/CPMLS/doc/pub/Masterprogram/html/Masterprogram.html".
 
 Please feel free to come by and discuss. I teach now the following courses at the University of Oslo and Michigan State University:
 
-* FYS3150/4150 Computational Physics I, Fall semester, senior undergraduate level (Oslo) 
-* FYS4411 Computational Physics II: Quantum mechanical systems, M.S and PhD level, Spring semester (Oslo) 
-* FYS-KJM4480 Quantum mechanics for many-particle systems, M.S. and PhD level, Fall semester (Oslo) 
+* "FYS3150/4150 Computational Physics I":"http://www.uio.no/studier/emner/matnat/fys/FYS3150/", Fall semester, senior undergraduate level (Oslo) 
+* "FYS4411 Computational Physics II: Quantum mechanical systems":"http://www.uio.no/studier/emner/matnat/fys/FYS4411/", M.S and PhD level, Spring semester (Oslo) 
+
 * PHYS981 Nuclear Structure, M.S. and PhD level, Spring semester (MSU) 
 * PHY480/905 Computational Physics (MSU), Spring semester
 
-More text to come
+I have also developed a course on many-body physics at the University of Oslo, 
+* "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-KJM4480/", M.S. and PhD level, Fall semester (Oslo) 
+
+I have also taught quantum physics, statistical mechanics and more specialized courses on Field theory during the last (almost) three decades as a university employee (as graduate student and permanent staff). 
+
+
 ===== Commitment to education: =====
-More text to come
+
+I have a strong commitment to education at all levels. This is reflected in several education recognitions during the last two decades:
 
 o University of Oslo award for excellence in teaching, 2000
 o University of Oslo award for excellence in teaching for the _Computing in Science Education_ project, 2011
 o NOKUT (Norwegian entity of quality assessment in higher education) award for excellence in teaching for the _Computing in Science Education_ project, 2012
 o University of Oslo award for excellence in teaching for developing the Computational Physics group, 2015
-o Favorite graduate teacher at Michigan State University, 2016 
+o Favorite graduate teacher, Department of Physics and Astronomy, Michigan State University, 2016 
 
 
 * Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last fifteen years I have guided  48 Master of Science of students (28 have continued with PhD studies) and twelve PhD students.  I currently supervise twelve Master of Science students at the University of Oslo. I supervise four PhD students at Michigan State University.
@@ -32,15 +60,5 @@ o Favorite graduate teacher at Michigan State University, 2016
 
 * With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2016 the initiative has run and developing eleven courses. I chaired the steering committee from its beginning in 2010 till 2015. 
 
+I have also chaired an initiative on, High-performance computing courses at UiO, 2000-2003, as well as having been  a board member of the Bachelor program Mathematics, Information theory and Technology at the University of Oslo, 2002-2008 and the Leader of the Bachelor program Physics, Astronomy and Meteorology at the University of Oslo, 2002-2011. 
 
-* "Initiated and led the Nuclear Talent initiative from 2010 till 2015, now member of the Steering committee":"http://www.nucleartalent.org/"
-
-
-* Project leader for High-performance computing courses at UiO, 2000-2003
-
-* Board member of the Bachelor program Mathematics, Information theory and Technology at the University of Oslo, 2002-2008
-
-* Leader of the Bachelor program Physics, Astronomy and Meteorology at the University of Oslo, 2002-2011
-
-===== Thesis projects =====
-To be added

@@ -1,0 +1,133 @@
+<!--
+Automatically generated HTML file from DocOnce source
+(https://github.com/hplgit/doconce/)
+-->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="DocOnce: https://github.com/hplgit/doconce/" />
+<meta name="description" content="Short description of many-body program">
+
+<title>Short description of many-body program</title>
+
+
+<style type="text/css">
+/* bloodish style */
+
+body {
+  font-family: Helvetica, Verdana, Arial, Sans-serif;
+  color: #404040;
+  background: #ffffff;
+}
+h1 { font-size: 1.8em;  color: #8A0808; }
+h2 { font-size: 1.6em;  color: #8A0808; }
+h3 { font-size: 1.4em;  color: #8A0808; }
+h4 { color: #8A0808; }
+a { color: #8A0808; text-decoration:none; }
+tt { font-family: "Courier New", Courier; }
+/* pre style removed because it will interfer with pygments */
+p { text-indent: 0px; }
+hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
+p.caption { width: 80%; font-style: normal; text-align: left; }
+hr.figure { border: 0; width: 80%; border-bottom: 1px solid #aaa}
+
+div { text-align: justify; text-justify: inter-word; }
+</style>
+
+
+</head>
+
+<!-- tocinfo
+{'highest level': 3,
+ 'sections': [('The many-body methods we have focused on are',
+               3,
+               None,
+               '___sec0'),
+              ('Strengths of the approaches', 3, None, '___sec1'),
+              ('Challenges and collaborative overlaps', 3, None, '___sec2'),
+              ('Selected References', 3, None, '___sec3')]}
+end of tocinfo -->
+
+<body>
+
+    
+<!-- ------------------- main content ---------------------- -->
+
+
+
+<center><h1>Short description of many-body program</h1></center>  <!-- document title -->
+
+<p>
+<!-- author(s): Morten Hjorth-Jensen -->
+
+<center>
+<b>Morten Hjorth-Jensen</b> [1, 2]
+</center>
+
+<p>
+<!-- institution(s) -->
+
+<center>[1] <b>Department of Physics, University of Oslo, Norway</b></center>
+<center>[2] <b>Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA</b></center>
+<br>
+<p>
+<center><h4>June 2016</h4></center> <!-- date -->
+<br>
+<p>
+Together with colleagues at Michigan State University and Oak Ridge National Laboratory and the University of Tennessee (Knoxville), I have during the last two decades been working on and developing several many-body methods tailored to the nuclear many-body problem. Many of these methods are widely used in 
+condensed matter physics, atomic and molecular physics and quantum chemistry. We have also applied these methods to condensed matter systems like quantum dots
+and the homogeneous electron gas in two and three dimensions. 
+The main focus has however been on applications to nuclear systems like nuclei and infinite and dense nuclear matter. The reasons for this is that 
+to understand why matter is stable, and thereby shed light on the limits of nuclear stability, is one of the overarching aims and intellectual challenges of basic research in nuclear physics and science. To relate the stability of matter to the underlying fundamental forces and particles of nature as manifested in nuclear matter is central to present and planned rare isotope facilities.
+Till now we have focused mainly on structure properties and less on dynamical properties and non-equilibrium physics.
+
+<h3 id="___sec0">The many-body methods we have focused on are </h3>
+
+<ul>
+<li> Coupled cluster theory, widely used as one of the standard many-body methods in quantum chemistry.</li>
+<li> Full configuration interaction (FCI) theory.</li>
+<li> Many-body perturbation theory.</li>
+<li> In-medium Similarity renormalization group (SRG) methods.</li>
+<li> We have also developed diffusion and variational Monte Carlo codes for condensed matter systems and atomic and molecular physics systems.</li>
+</ul>
+
+<h3 id="___sec1">Strengths of the approaches </h3>
+
+<ul>
+<li> If feasible (the limit is the exponential growth of basis states), full configuration interaction theory allows for numerically exact results and can be extended to time-dependent studies using approaches like multi-configuration time-dependent Hartree-Fock.</li>
+<li> FCI provides benchmarks for approximative many-body methods like coupled cluster theory or in-medium SRG.</li>
+<li> Coupled cluster (CC) theory and the in-medium SRG approches allow for systematic inclusions of more complicated correlations like three-particle-three-hole excitations.</li>
+<li> CC theory and the in-medium SRG provide results close to full FCI benchmarks at a much lower numerical expenditure than FCI theory.</li> 
+<li> The latter two methods can be extended to studies of time-dependencies and temperature dependence and the calculation of effective operators in a many-body medium in a systematic way. We are defining projects along these directions.</li> 
+</ul>
+
+<h3 id="___sec2">Challenges and collaborative overlaps </h3>
+
+<ul>
+<li> In the nuclear many-body problem, effective three-body interactions (due to the effective representation of quark degrees of freedom in terms of nucleons and pions) play an important role and need to be included in the input Hamiltonian. This complicates the many-body problem. These correlations need to be included and represent considerable computational challenges t the above methods.</li>
+<li> A proper understanding  of the truncation errors made both in terms of the truncation in the single-particle basis and the many-body excitations that are included is needed. There is much ongoing work on understanding how errors extrapolated to an infinite basis. Most many-body methods however cannot provide proper <em>a priori</em> estimates of the errors made in truncating the type of many-body correlations to be handled. Most CC applications include only in a perturbative way (due to computational limitations) three-particle-three-hole excitations.</li> 
+<li> We are presently developing our formalism in order to perform dense matter studies, of relevance for both neutron star physics and the physics of supernovae explosions. This requires studies of effective operators in dense matter and eventually the inclusion of temperature. This has important consequences for our understanding of the equation of state for dense matter as well as for the interaction of neutrinos with matter. A proper estimate of neutrino spectra in dense matter as has wide ranging consequences, from our understanding on how a neutron star cools to neutrino oscillations.</li> 
+<li> The dense matter studies will be performed with a main emphasis on CC theory, in-medium SRG and Monte Carlo methods. The formalism we aim at developing can easily be used for studies of electronic systems like the homogeneous electron gas and quantum dots.</li> 
+<li> These methods can also provide the basis for better constraints of DFT functionals.</li>
+</ul>
+
+<h3 id="___sec3">Selected References </h3>
+
+<ol>
+<li> G. Hagen et al, <em>Charge, neutron, and weak size of the atomic nucleus</em>, Nature Physics, 12:186&#8211;190 (2016).</li>
+<li> A. Ekstrom, G. R. Jansen, K. A. Wendt, G. Hagen, T. Papenbrock, B. D. Carlsson, C. Forssen, M. Hjorth-Jensen, P. Navratil, W. Nazarewicz, <em>Accurate nuclear radii and binding energies from a chiral interaction</em>, Physical Review C, 91, 051301(R) (2015).</li>
+<li> G. Hagen, T. Papenbrock, A. Ekstrom, G. Baardsen, S. Gandolfi, K. A. Wendt, M. Hjorth-Jensen, and C. Horowitz, <em>Coupled-cluster calculations of nucleonic matter</em>, Physical Review C, 89:014319 (2014).</li>
+<li> T. Papenbrock, G. Hagen, M. Hjorth-Jensen, and D. J. Dean, <em>Coupled-cluster computations of atomic nuclei</em>, Reports on Progress in Physics, 77:096302 (2014).</li>
+<li> G. Baardsen, A. Ekstrom, G. Hagen, and M. Hjorth-Jensen, <em>Coupled-cluster studies of infinite nuclear matter</em>, Physical Review C, 88:054312 (2013).</li>
+<li> M. Pedersen Lohne, G. Hagen, M. Hjorth-Jensen, S. Kvaal, and F. Pederiva, <em>Ab initio calculations of Circular quantum dots</em>. Physical Review B, 84:032501, 2011.</li>
+<li> E. Bergli and M. Hjorth-Jensen, <em>Summation of Parquet diagrams as an ab initio method in nuclear structure calculations</em>, Annals of Physics, 326:1125, 2011.</li>
+</ol>
+
+
+<!-- ------------------- end of main content --------------- -->
+
+
+</body>
+</html>
+    
+
