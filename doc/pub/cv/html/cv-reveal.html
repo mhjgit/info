@@ -18,6 +18,7 @@
 
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
 <link rel="stylesheet" href="reveal.js/css/reveal.css">
 <link rel="stylesheet" href="reveal.js/css/theme/beige.css" id="theme">
@@ -35,14 +36,21 @@
 <link rel="stylesheet" href="reveal.js/css/theme/default.css" id="theme">
 <link rel="stylesheet" href="reveal.js/css/theme/cbc.css" id="theme">
 <link rel="stylesheet" href="reveal.js/css/theme/simula.css" id="theme">
+<link rel="stylesheet" href="reveal.js/css/theme/black.css" id="theme">
+<link rel="stylesheet" href="reveal.js/css/theme/white.css" id="theme">
+<link rel="stylesheet" href="reveal.js/css/theme/league.css" id="theme">
 -->
 
 <!-- For syntax highlighting -->
 <link rel="stylesheet" href="reveal.js/lib/css/zenburn.css">
 
-<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+<!-- Printing and PDF exports -->
 <script>
-document.write( '<link rel="stylesheet" href="reveal.js/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+var link = document.createElement( 'link' );
+link.rel = 'stylesheet';
+link.type = 'text/css';
+link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+document.getElementsByTagName( 'head' )[0].appendChild( link );
 </script>
 
 <style type="text/css">
@@ -57,7 +65,7 @@ document.write( '<link rel="stylesheet" href="reveal.js/css/print/' + ( window.l
              text-shadow:0 1px 0 rgba(255,255,255,0.5);
              border:5px solid #bababa;
              -webkit-border-radius: 14px; -moz-border-radius: 14px;
-             border-radius:14px
+             border-radius:14px;
              background-position: 10px 10px;
              background-repeat: no-repeat;
              background-size: 38px;
@@ -123,25 +131,26 @@ MathJax.Hub.Config({
 
 
 
-<center><h1>Biographical  information</h1></center>  <!-- document title -->
+<center><h1 style="text-align: center;">Biographical  information</h1></center>  <!-- document title -->
 
 <p>
-<!-- author(s): Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} -->
+<!-- author(s): Morten Hjorth-Jensen -->
 
 <center>
-<b>Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC}</b> [1, 2]
+<b>Morten Hjorth-Jensen</b> [1, 2]
 </center>
-
 
 <p>&nbsp;<br>
 <!-- institution(s) -->
 
 <center>[1] <b>Department of Physics, University of Oslo, Norway</b></center>
 <center>[2] <b>Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA</b></center>
+<br>
 <p>&nbsp;<br>
 <center><h4>2016</h4></center> <!-- date -->
+<br>
 
-<h2>Professional preparation, education  and personal data:  <a name="___sec0"></a></h2>
+<h2 id="___sec0">Professional preparation, education  and personal data: </h2>
 
 <ul>
 <p><li> Professor of Physics at Michigan State University, USA and the University of Oslo, Norway</li>
@@ -151,10 +160,10 @@ MathJax.Hub.Config({
 <p><li> ECT*, Trento, Italy,  Postdoctoral Researcher in Theoretical Nuclear Physics,  1994-1996</li>
 <p><li> Nordita, Copenhagen, Denmark, Postdoctoral Researcher in Theoretical Nuclear Physics, 1996-1998</li>
 </ul>
+
+<h2 id="___sec1">Appointments: </h2>
+
 <p>
-
-<h2>Appointments:  <a name="___sec1"></a></h2>
-
 <table border="1">
 <thead>
 <tr><th align="center">           Position           </th> <th align="center">       Institution       </th> <th align="center">   Dates    </th> </tr>
@@ -167,8 +176,9 @@ MathJax.Hub.Config({
 </tbody>
 </table>
 
-<h2>Brief research overview  <a name="___sec2"></a></h2>
+<h2 id="___sec2">Brief research overview </h2>
 
+<p>
 I am a theoretical physicist with a strong interest in 
 computational physics and many-body theory in general, and 
 the nuclear many-body problem and nuclear structure problems in particular. 
@@ -178,7 +188,7 @@ algorithmic aspects to the mathematical properties of such methods.
 The latter also leads to a strong interest in computational 
 physics as well as computational aspects of quantum mechanical methods.
 
-<h2>Awards:  <a name="___sec3"></a></h2>
+<h2 id="___sec3">Awards: </h2>
 
 <ol>
 <p><li> University of Oslo award for excellence in teaching, 2000</li>
@@ -192,9 +202,8 @@ physics as well as computational aspects of quantum mechanical methods.
 <p><li> University of Oslo award for excellence in teaching for developing the Computational Physics group, 2015</li>
 <p><li> Favorite graduate teacher at the Department of Physics and Astronomy at Michigan State University, 2016</li> 
 </ol>
-<p>
 
-<h2>Citation metrics, highly cited articles, and additional research highlights:  <a name="___sec4"></a></h2>
+<h2 id="___sec4">Citation metrics, highly cited articles, and additional research highlights: </h2>
 
 <ol>
 <p><li> <a href="https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en" target="_blank">Google scholar h-index=47, 8292 citations (August 2016)</a></li>
@@ -211,9 +220,8 @@ physics as well as computational aspects of quantum mechanical methods.
 <p><li> Organized more than 30 conferences, workshops and schools and advanced courses.</li>
 <p><li> Presently supervising 12 Master of Science students (University of Oslo) and four PhD students (MSU)</li>
 </ol>
-<p>
 
-<h2>Synergistic Activities and service through the years:  <a name="___sec5"></a></h2>
+<h2 id="___sec5">Synergistic Activities and service through the years: </h2>
 
 <ul>
 <p><li> Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last fifteen years I have guided  48 Master of Science of students (28 have continued with PhD studies) and twelve PhD students.  I currently supervise twelve Master of Science students at the University of Oslo. I supervise four PhD students at Michigan State University.</li>
@@ -222,9 +230,8 @@ physics as well as computational aspects of quantum mechanical methods.
 <p><li> Together with colleagues in the USA, I am, due to my shared position at Michigan State University, deeply involved in the set up of a large center in theoretical nuclear physics that will be linked up with the coming Facility for Radioactive Ion Beams at Michigan State university.</li> 
 <p><li> I initiated and lead the new <a href="http://mhjensen.github.io/CPMLS/doc/pub/Masterprogram/html/Masterprogram.html" target="_blank">Master of Science program on Computational Science at the University of Oslo</a>. This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. It includes now six departments at the University of Oslo.</li>
 </ul>
-<p>
 
-<h3>Editorial boards and committees  <a name="___sec6"></a></h3>
+<h3 id="___sec6">Editorial boards and committees </h3>
 
 <ul>
 <p><li> Member of the Physics Advisory Comittee at the National Superconducting Cyclotron Laboratory, Michigan State University, East Lansing, USA, 2003-2008</li>
@@ -246,9 +253,8 @@ physics as well as computational aspects of quantum mechanical methods.
 <p><li> Member of the OECD working group in nuclear physics 2006-2008</li>
 <p><li> January 2009-December 2011, leader of the Nuclear Physics group at the University of Oslo</li>
 </ul>
-<p>
 
-<h3>Referee for International Journals  <a name="___sec7"></a></h3>
+<h3 id="___sec7">Referee for International Journals </h3>
 
 <ul>
 <p><li> Referee for Reviews of Modern Physics</li>
@@ -273,9 +279,8 @@ physics as well as computational aspects of quantum mechanical methods.
 <p><li> Referee for Computers in Science and Discovery</li>
 <p><li> Referee for Journal of Mathematics Physics</li>
 </ul>
-<p>
 
-<h3>Other Referee Activities  <a name="___sec8"></a></h3>
+<h3 id="___sec8">Other Referee Activities </h3>
 
 <ul>
 <p><li> Referee for the Canadian Research Council</li>
@@ -296,9 +301,8 @@ physics as well as computational aspects of quantum mechanical methods.
 <p><li> Several expert evaluations on promotion applications.</li>
 <p><li> Member or leader of several job assessment committees in Norway and the USA</li>
 </ul>
-<p>
 
-<h3>Member of International Advisory committees  <a name="___sec9"></a></h3>
+<h3 id="___sec9">Member of International Advisory committees </h3>
 
 <ol>
 <p><li> International Nuclear Physics Conference, member of IAC since 2008</li>
@@ -311,9 +315,8 @@ physics as well as computational aspects of quantum mechanical methods.
 <p><li> International Advisory committee for EURORIB15</li>
 <p><li> International Advisory committee for SIAM conference on Computational Science and Engineering in Boston, 2013</li>
 </ol>
-<p>
 
-<h3>Member of Advisory Committees at Michigan State University  <a name="___sec10"></a></h3>
+<h3 id="___sec10">Member of Advisory Committees at Michigan State University </h3>
 
 I am member or chair person of the following graduate  student committees at Michigan State University:
 
@@ -321,7 +324,8 @@ I am member or chair person of the following graduate  student committees at Mic
 <p><li> Justin Lietz, chair</li>
 <p><li> Fei Yuan, chair together with Scott Bogner</li> 
 <p><li> Sam Novario, chair</li>
-<p><li> John Bower, chair together with Scott Bogner</li>  
+<p><li> John Bower, chair together with Scott Bogner</li>
+
 <p><li> Adam Jones, committee member</li>
 <p><li> Chris Sullivan, committee member</li>
 <p><li> Thomas Redpath, committee member</li>
@@ -338,23 +342,23 @@ I am member or chair person of the following graduate  student committees at Mic
 <p><li> Mao Xingze, committee member</li>
 <p><li> Amy Lovell, committee member</li>
 </ol>
+
+<h2 id="___sec11">Courses, study programs and educational initiatives </h2>
+
 <p>
-
-<h2>Courses, study programs and educational initiatives  <a name="___sec11"></a></h2>
-
 I am strongly involved in teaching at all levels. I have been heading the bachelor program Physics, Astronomy and Meteorology ( FAM ) in the period 2002-2011. I am also strongly involved in the project Computing in Science Education. Furthermore, with European and American colleagues, we have established the recent successful Nuclear Talent initiative.
 
 <p>
 Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last fifteen years I have guided  48 Master of Science of students (28 have continued with PhD studies) and twelve PhD students.  I currently supervise twelve Master of Science students at the University of Oslo. I supervise four PhD students at Michigan State University.
 
 <p>
-With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computation with the traditional science amd mathematics curriculum . This project is called <a href="http://www.mn.uio.no/english/about/collaboration/cse/" target="_blank">Computing in Science Education</a> and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
+With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computation with the traditional science amd mathematics curriculum . This project is called <a href="http://www.mn.uio.no/english/about/collaboration/cse/" target="_blank">Computing in Science Education</a> and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012.
 
 <p>
-With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2016 the initiative has run and developing eleven courses. I chaired the steering committee from its beginning in 2010 till 2015. 
+With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2016 the initiative has run and developing eleven courses. I chaired the steering committee from its beginning in 2010 till 2015.
 
 <p>
-I initiated in 2015 and chair the new <a href="http://mhjensen.github.io/CPMLS/doc/pub/Masterprogram/html/Masterprogram.html" target="_blank">Master of Science program on Computational Science at the University of Oslo</a>. This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. 
+I initiated in 2015 and chair the new <a href="http://mhjensen.github.io/CPMLS/doc/pub/Masterprogram/html/Masterprogram.html" target="_blank">Master of Science program on Computational Science at the University of Oslo</a>. This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo.
 
 <p>
 I teach now the following courses at the University of Oslo and Michigan State University:
@@ -370,7 +374,7 @@ I teach now the following courses at the University of Oslo and Michigan State U
 
 I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statistical Mechanics (FYS4130, 1990-1994) at the University of Oslo, Norway.
 
-<h3>Teaching Awards:  <a name="___sec12"></a></h3>
+<h3 id="___sec12">Teaching Awards: </h3>
 
 <ol>
 <p><li> University of Oslo award for excellence in teaching (all university), 2000, 250000 NOK</li>
@@ -379,9 +383,8 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 <p><li> University of Oslo award for excellence in teaching for developing the Computational Physics group (all university), 2015. 250000 NOK</li>
 <p><li> Favorite graduate teacher at the Department of Physics and Astronomy of Michigan State University, 2016</li> 
 </ol>
-<p>
 
-<h3>Present PhD students  <a name="___sec13"></a></h3>
+<h3 id="___sec13">Present PhD students </h3>
 
 <ol>
 <p><li> John Bower, Michigan State University, started in 2014</li>
@@ -389,9 +392,8 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 <p><li> Sam Novario, Michigan State University, started in 2014</li>
 <p><li> Fei Yuan, Michigan State University, started in 2013</li>
 </ol>
-<p>
 
-<h3>Present Master of Science Students  <a name="___sec14"></a></h3>
+<h3 id="___sec14">Present Master of Science Students </h3>
 
 <ol>
 <p><li> Wilhelm Holmen, University of Oslo (2014-2016)</li>
@@ -407,14 +409,14 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 <p><li> Sean Bruce Sangholt Miller, University of Oslo, (2015-2017)</li>
 <p><li> Alexander Fleischer, University of Oslo, (2015-2017)</li>
 </ol>
-<p>
 
-<h3>Former PhD students and their present positions  <a name="___sec15"></a></h3>
+<h3 id="___sec15">Former PhD students and their present positions </h3>
 
 <ol>
 <p><li> <a href="http://www.ctcc.no/people/postdocs/gba/" target="_blank">Gustav Baardsen</a> (PhD UiO 2014), now post-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo</li> 
 <p><li> <a href="http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" target="_blank">Simen Kvaal</a> (PhD UiO 2009), now associate professor of chemistry, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant</li>
-<p><li> <a href="https://www.ornl.gov/staff-profile/gustav-r-jansen" target="_blank">Gustav Jansen</a> (PhD UiO 2012), now permanent position as scientist at the Computational Science Division of Oak Ridge National Laboratory</li>  
+<p><li> <a href="https://www.ornl.gov/staff-profile/gustav-r-jansen" target="_blank">Gustav Jansen</a> (PhD UiO 2012), now permanent position as scientist at the Computational Science Division of Oak Ridge National Laboratory</li>
+
 <p><li> <a href="http://www.mn.uio.no/math/english/people/aca/tmac/" target="_blank">Torquil MacDonald S&#248;rensen</a> (PhD UiO 2012), post-doctoral fellow at the Department of Mathematics, UiO</li>
 <p><li> <a href="http://www.usit.uio.no/english/about/organisation/bps/rc/ris/staff/jonkni/" target="_blank">Jon Kerr Nilsen</a> (PhD UiO 2010), senior engineer at the University of Oslo center for information technologies (co-supervisor)</li>
 <p><li> <a href="https://www.hioa.no/tilsatt/marlys" target="_blank">Marius Lysebo</a> (PhD UiO 2010), now Associate Professor at Oslo University College, (co-supervisor)</li>
@@ -425,9 +427,8 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 <p><li> &#216;ystein Elgar&#248;y (PhD UiO 1999), now professor of Theoretical Astrophysics at the University of Oslo, Norway (co-supervisor)</li>
 <p><li> Lars Engvik (PhD UiO 1999), now Associate Professor at S&#248;r-Tr&#248;ndelag University College, Trondheim, Norway, (co-supervisor)</li>
 </ol>
-<p>
 
-<h3>Post-doctoral fellows and their present positions  <a name="___sec16"></a></h3>
+<h3 id="___sec16">Post-doctoral fellows and their present positions </h3>
 
 <ol>
 <p><li> Andreas Ekstr&#248;m (UiO and MSU 2010-2014), now researcher at Chalmers Technological University in Gothenburg, Sweden</li>
@@ -437,9 +438,8 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 <p><li> S&#248;lve Selst&#248; (UiO 2008-2010), now Associate Professor at Oslo University College</li> 
 <p><li> Nicolas Michel (MSU 2013), now senior researcher at Michigan State University</li>
 </ol>
-<p>
 
-<h3>Former Master of Science Students(links to their thesis will be added)   <a name="___sec17"></a></h3>
+<h3 id="___sec17">Former Master of Science Students(links to their thesis will be added)  </h3>
 
 <ol>
 <p><li> Wilhelm Holmen, University of Oslo (2014-2016)</li>
@@ -491,9 +491,8 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 <p><li> Eirik Ovrum, University of Oslo, (2001-2003)</li>
 <p><li> Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)</li>
 </ol>
-<p>
 
-<h3>Lectures and organization of schools:  <a name="___sec18"></a></h3>
+<h3 id="___sec18">Lectures and organization of schools: </h3>
 
 <ol>
 <p><li> Hjorth-Jensen, Morten, <a href="http://compphysics.github.io/CompPhysUTunis/doc/web/course.html" target="_blank">Computational Physics and Quantum Mechanical Systems</a>, one week course on Computational Physics at the University of Tunis El Manar, Tunis, Tunisia, May 16-20, 2016. In total 15 hours of lectures and 15 hours of computer lab and exercises.</li> 
@@ -521,11 +520,10 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 <p><li> Hjorth-Jensen, Morten.  From the nucleon-nucleon interaction to a renormalized interaction for nuclear systems. Lecture series at Michigan State University; April 2005</li>
 <p><li> Hjorth-Jensen, Morten. CENS: A computational Environment for Nuclear Structure. Isolde Lecture series; 2004-11-11 - 2005-11-25</li>
 </ol>
-<p>
 
-<h2>Research, Publications, books, refereed scientific articles, talks and research grants   <a name="___sec19"></a></h2>
+<h2 id="___sec19">Research, Publications, books, refereed scientific articles, talks and research grants  </h2>
 
-<h3>Books:  <a name="___sec20"></a></h3>
+<h3 id="___sec20">Books: </h3>
 
 <ol>
 <p><li> Morten Hjorth-Jensen, <em>Computational Physics, an introduction</em>, to be published by IOP in 2016.</li>
@@ -533,9 +531,8 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 <p><li> Morten Hjorth-Jensen, <em>Nuclear many-body physics, a computational perspective</em>, in preparation for Taylor Francis.</li>
 <p><li> M. Hjorth-Jensen, Maria Paola Lambardo, and Ubirajara Van Kolck (editors), <em>Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars</em>, to be published in Lectures Notes in Physics by Springer in 2016.</li>
 </ol>
-<p>
 
-<h3>Publications in journals with a referee system:  <a name="___sec21"></a></h3>
+<h3 id="___sec21">Publications in journals with a referee system: </h3>
 
 <ol>
 <p><li> "Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen":https://arxiv.org/abs/1608.08127"", <em>First-principles calculations for c-coefficients of the isobaric mass multiplet equation in the 1p0f shell</em>, submitted to <em>Physical Review Letters</em>, <a href="https://arxiv.org/abs/1608.08127" target="_blank">arXiv1608.08127 (2016)</a>.</li> 
@@ -552,29 +549,44 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 <p><li> G. Hagen, T. Papenbrock,   A. Ekstrom, G. Baardsen, S. Gandolfi, K. A. Wendt, M. Hjorth-Jensen, and C. Horowitz,  <em>Coupled-cluster calculations of nucleonic matter</em>,   <em>Physical Review C</em>,  89:014319 (2014).</li>
 <p><li> T. Papenbrock, G. Hagen, M. Hjorth-Jensen, and  D. J. Dean,   <em>Coupled-cluster computations of atomic nuclei</em>,   <em>Reports on Progress in Physics</em>, 77:096302 (2014).</li>
 <p><li> N. Tsunoda, K. Takayanagi, M. Hjorth-Jensen and T. Otsuka,  <em>Multi-shell effective interactions</em>,   <em>Physical Review C</em>,    89:024313 (2014).</li>
-<p><li> G. Baardsen, A. Ekstrom, G. Hagen, and M. Hjorth-Jensen,  <em>Coupled-cluster studies of infinite  nuclear matter</em>,   <em>Physical Review C</em>, 88:054312 (2013).</li>  
+<p><li> G. Baardsen, A. Ekstrom, G. Hagen, and M. Hjorth-Jensen,  <em>Coupled-cluster studies of infinite  nuclear matter</em>,   <em>Physical Review C</em>, 88:054312 (2013).</li>
+
 <p><li> V. M. Bader, A. Gade, D. Weisshaar, T. Baugher, D. Bazin, J. S. Berryman, B. A. Brown, A. Ekstrom, M. Hjorth-Jensen, S. R. Stroberg, W. B. Walters, K. Wimmer, and R. Winkler,   <em>Quadrupole collectivity in neutron-deficient Sn nuclei: 104Sn and the role of proton excitations</em>,   <em>Physical Review C</em>,  88:051301(R) (2013).</li> 
-<p><li> A. Ekstrom, G. Baardsen, C. Forss'en, G. Hagen, M. Hjorth-Jensen, G. R. Jansen, R. Machleidt, W. Nazarewicz, T. Papenbrock, J. Sarich, and S. M. Wild,   <em>An optimal chiral interaction at next-to-next-to leading order</em>,   <em>Physical Review Letters</em>,  110:192502 (2013).</li>  
+<p><li> A. Ekstrom, G. Baardsen, C. Forss'en, G. Hagen, M. Hjorth-Jensen, G. R. Jansen, R. Machleidt, W. Nazarewicz, T. Papenbrock, J. Sarich, and S. M. Wild,   <em>An optimal chiral interaction at next-to-next-to leading order</em>,   <em>Physical Review Letters</em>,  110:192502 (2013).</li>
+
 <p><li> Lepailleur, A. and Sorlin, O. and Caceres, L. and Bastin, B. and Borcea, C. and Borcea, R. and Brown, B. A. and Gaudefroy, L. and Gr'evy, S. and Grinyer, G. F. and Hagen, G. and Hjorth-Jensen, M. and Jansen, G. R. and Llidoo, O. and Negoita, F. and de Oliveira, F. and Porquet, M.-G. and Rotaru, F. and Saint-Laurent, M.-G. and Sohler, D. and Stanoiu, M. and Thomas, J. C.,  <em>Spectroscopy of 26F to Probe Proton-Neutron Forces Close to the Drip Line</em>,   <em>Physical Review Letters</em>,  110:082502 (2013).</li> 
-<p><li> D. D. DiJulio, J. Cederkall, C. Fahlander, A. Ekstrom, M. Hjorth-Jensen, M. Albers, V. Bildstein, A. Blazhev, I. Darby, T. Davinson, H. De Witte, J. Diriken, Ch. Fransen, K. Geibel, R. Gernh&#228;user, A. G&#246;rgen, H. Hess, K. Heyde, J. Iwanicki, R. Lutter, P. Reiter, M. Scheck, M. Seidlitz, S. Siem, J. Taprogge, G. M. Tveten, J. Van de Walle, D. Voulot, N. Warr, F. Wenander, and K. Wimmer  <em>Coulomb excitation of 107In</em>,   <em>Physical Review C</em>,  87:017301 (2013).</li>   
+<p><li> D. D. DiJulio, J. Cederkall, C. Fahlander, A. Ekstrom, M. Hjorth-Jensen, M. Albers, V. Bildstein, A. Blazhev, I. Darby, T. Davinson, H. De Witte, J. Diriken, Ch. Fransen, K. Geibel, R. Gernh&#228;user, A. G&#246;rgen, H. Hess, K. Heyde, J. Iwanicki, R. Lutter, P. Reiter, M. Scheck, M. Seidlitz, S. Siem, J. Taprogge, G. M. Tveten, J. Van de Walle, D. Voulot, N. Warr, F. Wenander, and K. Wimmer  <em>Coulomb excitation of 107In</em>,   <em>Physical Review C</em>,  87:017301 (2013).</li>
+
 <p><li> C. Forssen, G. Hagen, M. Hjorth-Jensen, W. Nazarewicz, and J. Rotureau,  <em>Living on the edge of stability, the limits of the nuclear landscape</em>,   <em>Physica Scripta</em>,  T152:014022 (2013).</li> 
-<p><li> Liddick, S. N. and Abromeit, B. and Ayres, A. and Bey, A. and Bingham, C. R. and Brown, B. A. and Cartegni, L. and Crawford, H. L. and Darby, I. G. and Grzywacz, R. and Ilyushkin, S. and Hjorth-Jensen, M. and Larson, N. and Madurga, M. and Miller, D. and Padgett, S. and Paulauskas, S. V. and Rajabali, M. M. and Rykaczewski, K. and Suchyta, S.,  * Low-energy level schemes of 66,68Fe and inferred proton and neutron excitations across \( Z=28 \) and $N=40$*,   <em>Physical Review C</em>,  87:014325, 2013.</li>  
+<p><li> Liddick, S. N. and Abromeit, B. and Ayres, A. and Bey, A. and Bingham, C. R. and Brown, B. A. and Cartegni, L. and Crawford, H. L. and Darby, I. G. and Grzywacz, R. and Ilyushkin, S. and Hjorth-Jensen, M. and Larson, N. and Madurga, M. and Miller, D. and Padgett, S. and Paulauskas, S. V. and Rajabali, M. M. and Rykaczewski, K. and Suchyta, S.,  * Low-energy level schemes of 66,68Fe and inferred proton and neutron excitations across \( Z=28 \) and $N=40$*,   <em>Physical Review C</em>,  87:014325, 2013.</li>
+
 <p><li> D. D. DiJulio, J. Cederkall, C. Fahlander, A. Ekstrom, M. Hjorth-Jensen, M. Albers, V. Bildstein, A. Blazhev, I. Darby, T. Davinson, H. De Witte, J. Diriken, Ch. Fransen, K. Geibel, R. Gernhauser, A. Gorgen, H. Hess, J. Iwanicki, R. Lutter, P. Reiter, M. Scheck, M. Seidlitz, S. Siem, J. Taprogge, G.M. Tveten, J. Van de Walle, D. Voulot, N. Warr, F. Wenander, and K. Wimmer,  <em>Excitation strengths in 109Sn: Single-neutron and collective excitations near 100Sn</em>,   <em>Physical Review C</em>,  86:031302(R), 2012.</li> 
-<p><li> D. D. DiJulio, J. Cederkall, C. Fahlander, A. Ekstrom, M. Hjorth-Jensen, M. Albers, V. Bildstein, A. Blazhev, I. Darby, T. Davinson, H. De Witte, J. Diriken, Ch. Fransen, K. Geibel, R. Gernhauser, A. Gorgen, H. Hess, J. Iwanicki, R. Lutter, P. Reiter, M. Scheck, M. Seidlitz, S. Siem, J. Taprogge, G.M. Tveten, J. Van de Walle, D. Voulot, N. Warr, F. Wenander, and K. Wimmer,  <em>Coulomb excitation of 107Sn</em>,   <em>European Journal of Physics A</em>, 48:105,  2012.</li>  
+<p><li> D. D. DiJulio, J. Cederkall, C. Fahlander, A. Ekstrom, M. Hjorth-Jensen, M. Albers, V. Bildstein, A. Blazhev, I. Darby, T. Davinson, H. De Witte, J. Diriken, Ch. Fransen, K. Geibel, R. Gernhauser, A. Gorgen, H. Hess, J. Iwanicki, R. Lutter, P. Reiter, M. Scheck, M. Seidlitz, S. Siem, J. Taprogge, G.M. Tveten, J. Van de Walle, D. Voulot, N. Warr, F. Wenander, and K. Wimmer,  <em>Coulomb excitation of 107Sn</em>,   <em>European Journal of Physics A</em>, 48:105,  2012.</li>
+
 <p><li> Gaute Hagen, Morten Hjorth-Jensen, Gustav Ragnar Jansen, Ruprecht Machleidt, and Thomas Papenbrock, <em>Evolution of shell structure in neutron-rich calcium isotopes</em>,   <em>Physical Review Letters</em>, 109:032502, 2012.</li> 
-<p><li> Gaute Hagen, Morten Hjorth-Jensen, Gustav Ragnar Jansen, Ruprecht Machleidt, and Thomas Papenbrock, <em>Continuum effects and three-nucleon forces in neutron-rich  oxygen isotopes</em>,   <em>Physical Review Letters</em>, 108:242501, 2012.</li>  
-<p><li> Torres, D. A. and Kumbartzki, G. J. and Sharon, Y. Y. and Zamick, 	L. and Manning, B. and Benczer-Koller, N. and Speidel, K.-H. and 	Ahn, T. and Anagnostatou, V. and Elvers, M. and Goddard, P. and Heinz, 	A. and Ilie, G. and Radeck, D. and Savran, D. and Werner, V. and 	Gurdal, G. and Taylor, M. J. and Maier-Komor, P. and Hjorth-Jensen, 	M. and Robinson, S. J. Q.  <em>Measurement of the 96Ru g-factor and its nuclear structure interpretation</em>.  <em>Physical Review C</em>, 85:017305, 2012.</li>  
-<p><li> Torres, D. A. and Kumbartzki, G. J. and Sharon, Y. Y. and Zamick, 	L. and Manning, B. and Benczer-Koller, N. and Gurdal, G. and Speidel, 	K.-H. and Hjorth-Jensen, M. and Maier-Komor, P. and Robinson, S. J. Q. and Ahn, T. and Anagnostatou, V. and Elvers, M. and Goddard, 	P. and Heinz, A. and Ilie, G. and Radeck, D. and Savran, D. and Werner, V.  <em>First g-factor measurements of the 2+ and the 4+ states of radioactive 100Pd</em>.  <em>Physical Review C</em>, 84:044327, 2011.</li>  
-<p><li> Naofumi Tsunoda, Takaharu Otsuka, Koshiroh Tsukiyama, and Morten Hjorth-Jensen  <em>Renormalization persistency of the tensor force in nuclei</em>.  <em>Physical Review C</em>, 84:044322, 2011.</li>  
+<p><li> Gaute Hagen, Morten Hjorth-Jensen, Gustav Ragnar Jansen, Ruprecht Machleidt, and Thomas Papenbrock, <em>Continuum effects and three-nucleon forces in neutron-rich  oxygen isotopes</em>,   <em>Physical Review Letters</em>, 108:242501, 2012.</li>
+
+<p><li> Torres, D. A. and Kumbartzki, G. J. and Sharon, Y. Y. and Zamick, 	L. and Manning, B. and Benczer-Koller, N. and Speidel, K.-H. and 	Ahn, T. and Anagnostatou, V. and Elvers, M. and Goddard, P. and Heinz, 	A. and Ilie, G. and Radeck, D. and Savran, D. and Werner, V. and 	Gurdal, G. and Taylor, M. J. and Maier-Komor, P. and Hjorth-Jensen, 	M. and Robinson, S. J. Q.  <em>Measurement of the 96Ru g-factor and its nuclear structure interpretation</em>.  <em>Physical Review C</em>, 85:017305, 2012.</li>
+
+<p><li> Torres, D. A. and Kumbartzki, G. J. and Sharon, Y. Y. and Zamick, 	L. and Manning, B. and Benczer-Koller, N. and Gurdal, G. and Speidel, 	K.-H. and Hjorth-Jensen, M. and Maier-Komor, P. and Robinson, S. J. Q. and Ahn, T. and Anagnostatou, V. and Elvers, M. and Goddard, 	P. and Heinz, A. and Ilie, G. and Radeck, D. and Savran, D. and Werner, V.  <em>First g-factor measurements of the 2+ and the 4+ states of radioactive 100Pd</em>.  <em>Physical Review C</em>, 84:044327, 2011.</li>
+
+<p><li> Naofumi Tsunoda, Takaharu Otsuka, Koshiroh Tsukiyama, and Morten Hjorth-Jensen  <em>Renormalization persistency of the tensor force in nuclei</em>.  <em>Physical Review C</em>, 84:044322, 2011.</li>
+
 <p><li> O. Jensen, Gaute Hagen, Morten Hjorth-Jensen, Alex Boyd Brown, and Alexandra Gade  <em>Quenching of spectroscopic factors for proton removal in oxygen isotopes</em>,   <em>Physical Review Letters</em>, 107:032501, 2011.</li> 
-<p><li> Magnus Pedersen Lohne, Gaute Hagen, Morten Hjorth-Jensen, Simen Kvaal, and Francesco Pederiva,  <em>Ab initio calculations of Circular quantum dots</em>.  <em>Physical Review B</em>, 84:032501, 2011.</li>    
-<p><li> Elise Bergli and Morten Hjorth-Jensen,  *Summation of Parquet diagrams as an <em>ab initio</em> method in nuclear structure calculations*,  <em>Annals of Physics</em>, 326:1125, 2011.</li>   
+<p><li> Magnus Pedersen Lohne, Gaute Hagen, Morten Hjorth-Jensen, Simen Kvaal, and Francesco Pederiva,  <em>Ab initio calculations of Circular quantum dots</em>.  <em>Physical Review B</em>, 84:032501, 2011.</li>
+
+<p><li> Elise Bergli and Morten Hjorth-Jensen,  *Summation of Parquet diagrams as an <em>ab initio</em> method in nuclear structure calculations*,  <em>Annals of Physics</em>, 326:1125, 2011.</li>
+
 <p><li> Gustav Ragnar Jansen, Morten Hjorth-Jensen, Gaute Hagen, and Thomas Papenbrock,  <em>Toward open-shell nuclei with coupled-cluster theory</em>.  <em>Physical Review C</em>, 83:054306, 2011.</li> 
-<p><li> Morten Hjorth-Jensen,  <em>The Carbon Challenge</em>,  <em>Physics</em>, 4:38, 2011.</li>  
+<p><li> Morten Hjorth-Jensen,  <em>The Carbon Challenge</em>,  <em>Physics</em>, 4:38, 2011.</li>
+
 <p><li> O. Jensen, G. Hagen, M. Hjorth-Jensen, and J. S. Vaagen,  <em>Closed-shell properties of 24O with ab initio coupled-cluster theory</em>,  <em>Physical Review C</em>, 83:021305, 2011.</li> 
-<p><li> Angelo Signoracci, B. Alex Brown, and Morten Hjorth-Jensen,  <em>Renormalized interactions with a realistic single-particle   basis</em>,  <em>Physical Review C</em>, 83:024315, 2011.</li>   
-<p><li> Boyd Alexander Brown, Angelo Signoracci, and Morten Hjorth-Jensen,  <em>Configuration interactions constrained by energy density  functionals</em>,  <em>Physics Letters B</em>, 695:507, 2011.</li>  
-<p><li> G. Hagen, T. Papenbrock, D. J. Dean, and M. Hjorth-Jensen,  *Ab initio coupled-cluster approach to nuclear structure with modern   nucleon-nucleon interactions,  <em>Phys. Rev. C</em>, 82(3):034330, 2010.</li>  
+<p><li> Angelo Signoracci, B. Alex Brown, and Morten Hjorth-Jensen,  <em>Renormalized interactions with a realistic single-particle   basis</em>,  <em>Physical Review C</em>, 83:024315, 2011.</li>
+
+<p><li> Boyd Alexander Brown, Angelo Signoracci, and Morten Hjorth-Jensen,  <em>Configuration interactions constrained by energy density  functionals</em>,  <em>Physics Letters B</em>, 695:507, 2011.</li>
+
+<p><li> G. Hagen, T. Papenbrock, D. J. Dean, and M. Hjorth-Jensen,  *Ab initio coupled-cluster approach to nuclear structure with modern   nucleon-nucleon interactions,  <em>Phys. Rev. C</em>, 82(3):034330, 2010.</li>
+
 <p><li> L. Atanasova, Dimiter Balabanski, S. K. Chamoli, M. Hass, G. S. Simpson,   D. Bazzacco, F. Becker, P. Bednarczyk, G. Benzoni, N. Blasi, A. Blazhev,   A. Bracco, C. Brandau, L. Caceres, F. Camera, F. C. L. Crespi, P. Detistov,   P. Doornenbal, C. Fahlander, E. Farnea, G. Georgiev, J. Gerl, K. A.   Gladnishki, M. Gorska, J. Grebosz, R. Hoischen, G. Ilie, M. Ionescu-Bujor,   A. Iordachescu, A. Jungclaus, G. Bianco, M. Kmiecik, I. Kojouharov, N. Kurz,   S. Lakshmi, R. Lozeva, A. Maj, D. Montanari, G. Neyens, M. Pfuetzner,   S. Pietri, Z. Podolyak, W. Prokopowicz, D. Rudolph, G. Rusev, T. Saito,   A. Saltarelli, H. Schaffner, R. Schwengner, S. Tashenov, J. J.   Valiente-Dobon, N. Vermeulen, J. Walker, E. Werner-Malento, O. Wieland, H. J.   Wollersheim, H. Grawe, and Morten Hjorth-Jensen.  <em>g-factor measurements at RISING: The cases of 127Sn and   128Sn</em>.  <em>Europhysics letters</em>, 91:42001, 2010.</li> 
 <p><li> I. Darby, R. Grzywacz, J. C. Batchelder, C. R. Bingham, L. Cartegni, C. J.   Gross, Morten Hjorth-Jensen, D. T. Joss, S. N. Liddick, W. Nazarewicz,   S. Padgett, R. D. Page, Thomas Papenbrock, M. M. Rajabali, J. Rotureau, and   K. P. Rykaczewski, <em>Orbital Dependent Nucleonic Pairing in the Lightest Known   Isotopes of Tin</em>.  <em>Physical Review Letters</em>, 105:162502, 2010.</li> 
 <p><li> A. Ekstrom, Joakim Cederkall, Claes Fahlander, Morten Hjorth-Jensen, Torgeir   Engeland, Peter Butler, P. A. Butler, T. Davinson, J. Eberth, F. Finke,   Andreas Gorgen, M. Gorska, A. M. Hurst, O. Ivanov, J. Iwanicki, U. Koster,   B. A. Marsh, J. Mierzejewski, P. Reiter, Sunniva Siem, G. Sletten,   I. Stefanescu, Gry Merete Tveten, J. Van de Walle, D. Voulot, N. Warr,   D. Weisshaar, F. Wenander, and M. Zielinska, <em>Coulomb excitation of the odd-odd isotopes 106In and 108In</em>,  <em>European Physical Journal A</em>, 44:355, 2010.</li> 
@@ -601,7 +613,8 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 <p><li> Jeffrey Grour, Piotr Piecuch, Morten Hjorth-Jensen, Marta Wloch, and   David Jarvis Dean, <em>Coupled-cluster calculations for valence systems around 16O</em>, <em>Physical Review C</em>, 74:024310, 2006.</li> 
 <p><li> Gaute Hagen, Morten Hjorth-Jensen, and Michel Nicolas,  <em>Gamow shell model and realistic nucleon-nucleon interactions</em>,  <em>Physical Review C</em>, 73:064307, 2006.</li> 
 <p><li> Nathan Hoteling, W. B. Walters, R. V. F. Janssens, R. Broda, M. F. Carpenter,   B. Fornal, A. A. Hecht, Morten Hjorth-Jensen, W. Krolas, T. Lauritzen,   T. Pawlat, D. Seweryniak, X. Wang, A. Wohr, J. Wrzesinski, and S. Zhu.  <em>Yrast structure of 64Fe</em>.  <em>Physical Review C</em>, 74:064313, 2006.</li> 
-<p><li> J. Leske, K. H. Speidel, S. Schielke, J. Gerber, P. Maier-Komor, Torgeir   Engeland, and Morten Hjorth-Jensen,  <em>Experimental g-factor and B(E2) value of the 4+ state in Coulomb-excited 66Zn compared to shell-model predictions</em>.  <em>Physical Review C</em>, 73:064305, 2006.</li>   
+<p><li> J. Leske, K. H. Speidel, S. Schielke, J. Gerber, P. Maier-Komor, Torgeir   Engeland, and Morten Hjorth-Jensen,  <em>Experimental g-factor and B(E2) value of the 4+ state in Coulomb-excited 66Zn compared to shell-model predictions</em>.  <em>Physical Review C</em>, 73:064305, 2006.</li>
+
 <p><li> A. Banu, J. Gerl, C. Fahlander, M. Gorska, H. Grawe, H. J. Wollersheim,   E. Caurier, Torgeir Engeland, A. Gniady, Morten Hjorth-Jensen, F. Nowacki,   T. Beck, F. Becker, P. Bednarczyk, M. A. Bentley, A. Burger, F. Cristancho,   G. de Angelis, Z. Dombradi, P. Doornenbal, H. Geissel, J. Grebosz,   G. Hammond, M. Hellstrom, J. Jolie, I. Kojouharov, N. Kurz, R. Lozeva,   S. Mandal, N. Marginean, S. Muralithar, J. Nyberg, J. Pochodzalla,   W. Prokopowicz, P. Reiter, D. Rudolph, C. Rusu, N. Saito, H. Schaffner,   D. Sohler, H. Weick, C. Wheldon, and M. Winkler,  <em>108Sn studied with intermediate-energy Coulomb excitation</em>,  <em>Physical Review C</em>, 72:061305, 2005.</li> 
 <p><li> Boyd Alexander Brown, Nick Stone, Irena Stone, Ian Towner, and Morten Hjorth-Jensen,  <em>Magnetic moments of the 2+ states around 132Sn</em>,  <em>Physical Review C</em>, 71:044317, 2005.</li> 
 <p><li> Paul Ellis, Torgeir Engeland, Morten Hjorth-Jensen, Maximx Kartamyshev, and   Eivind Osnes, <em>Model calculation of effective three-body forces</em>,   <em>Physical Review C</em>, 71:034301, 2005.</li> 
@@ -643,8 +656,8 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 <p><li> Elin Melby, Lisbeth Bergholt, Magne Guttormsen, Morten Hjorth-Jensen, Finn   Ingebretsen, Svein Messelt, John Bernhard Rekstad, Andreas Schiller, Sunniva   Siem, and Stein Westad Odegaard, <em>Observation of thermodynamical properties in the 162Dy,  166Er, 172Yb nuclei</em>,  <em>Physical Review Letters</em>, 83:3150, 1999.</li> 
 <p><li> Teemu Siiskonen, Jouni Suhonen, and Morten Hjorth-Jensen, <em>Shell-model effective operators for muon capture in 20Ne</em>,  <em>Journal of Physics G: Nuclear and Particle Physics</em>, 25:L55,   1999.</li> 
 <p><li> Teemu Siiskonen, Jouni Suhonen, and Morten Hjorth-Jensen, <em>Towards the solution of the \( C_P/C_A \) anomaly in shell-model calculations of muon capture</em>, <em>Physical Review C</em>, 59:R1839, 1999.</li> 
-<p><li> Marcello Baldo, Oystein Elgaroy, Lars Engvik, Morten Hjorth-Jensen, and   Hans-Josef Schulze, <em>Modern nucleon-nucleon potentials and \( ^3P_2 \)--$^3F_2$ pairing   in neutron matter</em>,  <em>Physical Review C</em>, 58:1921, 1998.</li> 
-<p><li> Oystein Elgaroy, Lars Engvik, Morten Hjorth-Jensen, and Eivind Osnes, <em>Minimal relativity and \( ^3S_1 \)--$^3D_1$ pairing in symmetric   nuclear matter</em>,  <em>Physical Review C</em>, 57:1069, 1998.</li> 
+<p><li> Marcello Baldo, Oystein Elgaroy, Lars Engvik, Morten Hjorth-Jensen, and   Hans-Josef Schulze, <em>Modern nucleon-nucleon potentials and \( ^3P_2 \)--\( ^3F_2 \) pairing   in neutron matter</em>,  <em>Physical Review C</em>, 58:1921, 1998.</li> 
+<p><li> Oystein Elgaroy, Lars Engvik, Morten Hjorth-Jensen, and Eivind Osnes, <em>Minimal relativity and \( ^3S_1 \)--\( ^3D_1 \) pairing in symmetric   nuclear matter</em>,  <em>Physical Review C</em>, 57:1069, 1998.</li> 
 <p><li> Oystein Elgaroy and Morten Hjorth-Jensen, <em>Nucleon-nucleon phase shifts and pairing in infinite matter</em>,  <em>Physical Review C</em>, 57:1174, 1998.</li> 
 <p><li> R. Grzywacz, R. Beraud, C. Borcea, A. Ensallem, M. Glogowski, H. Grawe,   D. Guillemaud-Mueller, Morten Hjorth-Jensen, M. Houry, M. Lewitowicz, A. C.   Mueller, A. Nowak, and A. Plochocki, <em>New island of \( mu s \)-isomers in neutron-rich nuclei around the   \( Z=28 \) and \( N=40 \) shell closures</em>, <em>Physical Review Letters</em>, 81:766, 1998.</li> 
 <p><li> Henning Heiselberg and Morten Hjorth-Jensen, <em>Phase transitions in rotating neutron stars</em>,  <em>Physical Review Letters</em>, 80:5485, 1998.</li> 
@@ -683,15 +696,15 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 <p><li> Morten Hjorth-Jensen, Eivind Osnes, Herbert Muther, and K. W. Schmid, <em>Choice of single-particle potential and the convergence of the   effective interaction</em>, <em>Physics Letters B</em>, 248:243, 1990.</li> 
 <p><li> Morten Hjorth-Jensen and Eivind Osnes, <em>Effective interactions through third order for mass-18 nuclei with the Paris potential</em>, <em>Physics Letters B</em>, 228:281, 1989.</li>   
 </ol>
-<p>
 
-<h3>Contributions to Conference and Workshop Proceedings (refereed and non-refereed)  <a name="___sec22"></a></h3>
+<h3 id="___sec22">Contributions to Conference and Workshop Proceedings (refereed and non-refereed) </h3>
 
 <ol>
 <p><li> Osnes, E, Engeland, T, and Hjorth-Jensen, M, <em>Large-scale shell-model study of Sn Isotopes</em>, European Journal of Physics Web of Conferences <b>95</b>,01010 (2015)</li>
 <p><li> Malthe-S&#248;renssen, Anders; Hjorth-Jensen, Morten; Langtangen, Hans Petter; M&#248;rken, Knut Martin. <em>Integrasjon av beregninger i fysikkundervisningen</em>, UNIPED, 38:303, 2015.</li>
 <p><li> Engeland, Torgeir; Hjorth-Jensen, Morten; Kartamyshev, Maxim; Osnes, Eivind.  The Kuo&#8211;Brown effective interaction: From 18O to the Sn isotopes. Nuclear Physics A, 928:, 2014</li> 
-<p><li> Takayanagi, K, Tsunoda, N, Hjorth-Jensen, M, Otsuka, T, Effective Hamiltonian in non-degenerate model space. Journal of Physics, Conference Series, 445:012003, 2013, DOI: 10.1088/1742-6596/445/1/012003.</li>  
+<p><li> Takayanagi, K, Tsunoda, N, Hjorth-Jensen, M, Otsuka, T, Effective Hamiltonian in non-degenerate model space. Journal of Physics, Conference Series, 445:012003, 2013, DOI: 10.1088/1742-6596/445/1/012003.</li>
+
 <p><li> Hagen G., Papenbrock T., Hjorth-Jensen M., Jansen G., Machleidt R., Living at the edge of stability: the role of continuum and three-nucleon forces. Edited by: Hamilton, JH; Ramayya, AV.  FISSION AND PROPERTIES OF NEUTRON-RICH NUCLEI, ICFN5, Pages: 400-400, Published: 2013. Conference: 5th International Conference on Fission and Properties of Neutron-Rich Nuclei. Date: NOV 04-10, 2012, (World Scientific, Singapore, 2013)</li>
 <p><li> DiJulio D.D. et al, Shell model based Coulomb excitation gamma-ray intensity calculations in Sn-107, PHYSICA SCRIPTA, Volume: T150, Article Number: 014012, DOI: 10.1088/0031-8949/2012/T150/014012, Published: OCT 2012</li>
 <p><li> DiJulio D.D. et al, Sub-barrier Coulomb excitation of Sn-107. Edited by:Freeman, S; Andreyev, A; Bruce, A; Deacon, A; Jenkins, D; Joss, D; MacGregor, D; Regan, P; Simpson, J; Tungate, G; Wadsworth, R; Watts, D, RUTHERFORD CENTENNIAL CONFERENCE ON NUCLEAR PHYSICS, 2011, Journal of Physics Conference Series, Volume: 381, Article Number: 012073, DOI: 10.1088/1742-6596/381/1/012073, Published: 2012</li>
@@ -747,9 +760,8 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 <p><li> Holt, Anne; Engeland, Torgeir; Hjorth-Jensen, Morten; Osnes, Eivind.  The structure of the neutron deficient Sn isotopes. Nuclear Physics A 1994 ;Volume 570. p. 137c-144c Conference: International Symposium on Nuclear Structure Physics Today Location: Chung Yuan Christian Univ, Chungli, Taiwan Date: MAY 11-15, 1993</li> 
 <p><li> Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern meson-exchange potentials, Edited by A. Covello, 3rd international spring seminar on nuclear physics, Ischia, Italy, May 21-25, 1990, (World Scientific Singapore, 1991), pages 87-97</li> 
 </ol>
-<p>
 
-<h3>Talks and seminars at workshops, conferences and institute colloquiua  <a name="___sec23"></a></h3>
+<h3 id="___sec23">Talks and seminars at workshops, conferences and institute colloquiua </h3>
 
 <ol>
 <p><li> Hjorth-Jensen, Morten, <a href="http://compphysics.github.io/CompPhysUTunis/doc/web/course.html" target="_blank">Computational Physics and Quantum Mechanical Systems</a>, one week course on Computational Physics at the University of Tunis El Manar, Tunis, Tunisia, May 16-20, 2016. In total 15 hours of lectures and 15 hours of computer lab and exercises.</li> 
@@ -794,17 +806,17 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 <p><li> Hjorth-Jensen, Morten.  Computers in Science Education; a new way to teach Science?. Institute seminar; 2011-03-21 - 2011-03-21</li>
 <p><li> Hjorth-Jensen, Morten.  Computers in Science Education; a new way to teach Science?. Seminar at Universidad Complutense Madrid; 2011-01-24 - 2011-01-24</li>
 <p><li> Hjorth-Jensen, Morten.  From few to many nucleons; a tale on recent advances (and challenges) in nuclear many-body theory. Institute seminar; 2011-03-25 - 2011-03-25</li>
-<p><li> Hjorth-Jensen, Morten. Linking nuclear forces with many-body methods, Lecture II. Second MSU--UT/ORNL winter school in nuclear physics; 2011-01-03 - 2011-01-07</li>
+<p><li> Hjorth-Jensen, Morten. Linking nuclear forces with many-body methods, Lecture II. Second MSU&ndash;UT/ORNL winter school in nuclear physics; 2011-01-03 - 2011-01-07</li>
 <p><li> Hjorth-Jensen, Morten.  Many-body interactions and nuclear structure. Institute seminar National Superconducting Cyclotron laboratory; 2011-01-05 - 2011-01-05</li>
 <p><li> Hjorth-Jensen, Morten.  Many-body interactions and nuclear structure. Seminar at Universidad Complutense Madrid; 2011-01-18 - 2011-01-18</li>
 <p><li> Hjorth-Jensen, Morten.  Many-body interactions and nuclear structure at the limits of stability. Institute seminar; 2011-03-22 - 2011-03-22</li>
 <p><li> Hjorth-Jensen, Morten.  Many-body interactions and nuclear structure at the limits of stability. Nordic Nuclear Physics conference 2011; 2011-06-13 - 2011-06-17</li>
 <p><li> Hjorth-Jensen, Morten.  Many-body interactions and nuclear structure at the limits of stability. Nuclear Physics in Astrophysics - V; 2011-04-03 - 2011-04-09</li>
-<p><li> Hjorth-Jensen, Morten.  Many-body methods, Lecture III. Second MSU--UT/ORNL winter school in nuclear physics; 2011-01-03 - 2011-01-07</li>
-<p><li> Hjorth-Jensen, Morten.  Many-body methods, Lectures IV and V. Second MSU--UT/ORNL winter school in nuclear physics; 2011-01-03 - 2011-01-07</li>
+<p><li> Hjorth-Jensen, Morten.  Many-body methods, Lecture III. Second MSU&ndash;UT/ORNL winter school in nuclear physics; 2011-01-03 - 2011-01-07</li>
+<p><li> Hjorth-Jensen, Morten.  Many-body methods, Lectures IV and V. Second MSU&ndash;UT/ORNL winter school in nuclear physics; 2011-01-03 - 2011-01-07</li>
 <p><li> Hjorth-Jensen, Morten.  Nuclear structure at the limits of stability. Division of Nuclear Physics Meeting 2011; 2011-10-25 - 2011-10-29</li>
 <p><li> Hjorth-Jensen, Morten.  Parallel programming with MPI. The 10th Annual Meeting on High Performance Computing and Infrastructure in Norway; 2011-05-23 - 2011-05-27</li>
-<p><li> Hjorth-Jensen, Morten.  Renormalization of nuclear forces, Lecture set I. Second MSU--UT/ORNL winter school in nuclear physics; 2011-01-03 - 2011-01-07</li>
+<p><li> Hjorth-Jensen, Morten.  Renormalization of nuclear forces, Lecture set I. Second MSU&ndash;UT/ORNL winter school in nuclear physics; 2011-01-03 - 2011-01-07</li>
 <p><li> Hjorth-Jensen, Morten.  Computers in Science Education. Institute seminar at the university of Trento, Italy; 2010-05-05 - 2010-05-05</li>
 <p><li> Hjorth-Jensen, Morten.  Deriving nuclear forces. CERN/Isolde course on nuclear structure theory; 2010-03-01 - 2010-03-04</li>
 <p><li> Hjorth-Jensen, Morten.  From few to many nucleons; a tale on recent advances (and challenges) in nuclear many-body theory. Institute seminar; 2010-07-22 - 2010-07-22</li>
@@ -987,9 +999,8 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 <p><li> Hjorth-Jensen, Morten.  Conference: International Conference on Realistic Nuclear Structure, to Celebrate the 60th Birthday of TTS (TOM) Kuo Location: SUNY Stony Brook, phys dept, STONY BROOK, NY, May 28-30, 1992</li>
 <p><li> Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern meson-exchange potentials, 3rd international spring seminar on nuclear physics, Ischia, Italy, May 21-25, 1990</li>
 </ol>
-<p>
 
-<h3>Selected research grants as PI  <a name="___sec24"></a></h3>
+<h3 id="___sec24">Selected research grants as PI </h3>
 
 <ol>
 <p><li> 2014-2017 600 kUSD from the National Science Foundation for the project Computational Nuclear Many-body Physics, CO-PI with Scott Bogner. Grant number PHY-1404159</li>
@@ -1001,6 +1012,9 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 
 
 
+<center style="font-size:80%">
+<!-- copyright --> &copy; 1999-2016, Morten Hjorth-Jensen. Released under CC Attribution-NonCommercial 4.0 license
+</center>
 </section>
 
 
@@ -1009,7 +1023,7 @@ I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statist
 </div> <!-- class="reveal" -->
 
 <script src="reveal.js/lib/js/head.min.js"></script>
-<script src="reveal.js/js/reveal.min.js"></script>
+<script src="reveal.js/js/reveal.js"></script>
 
 <script>
 // Full list of configuration options available here:
