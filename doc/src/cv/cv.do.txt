@@ -158,7 +158,7 @@ o Presently supervising 12 Master of Science students (University of Oslo) and f
 
 * Referee for Journal of Mathematics Physics
 
-
+* Referee for Progress in Theoretical Physics
 
 === Other Referee Activities ===
 
@@ -247,7 +247,7 @@ I teach now the following courses at the University of Oslo and Michigan State U
 * "FYS4411 Computational Physics II: Quantum mechanical systems":"http://www.uio.no/studier/emner/matnat/fys/FYS4411/", graduate level, Spring semester (Oslo) 
 * "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kjm4480/", graduate level, Fall semester (Oslo) 
 * "PHYS981 Nuclear Structure":"https://github.com/NuclearStructure/PHY981", graduate level, Spring semester (MSU) 
-* "PHY480/905 Computational Physics":"https://github.com/CompPhysics/ComputationalPhysicsMSU" (MSU), undergraduate and graduate level, Spring semester
+* "PHY480/905 Computational Physics":"https://github.com/CompPhysics/ComputationalPhysics" (MSU), undergraduate and graduate level, Spring semester
 
 I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statistical Mechanics (FYS4130, 1990-1994) at the University of Oslo, Norway.
 
@@ -267,18 +267,15 @@ o Sam Novario, Michigan State University, started in 2014
 o Fei Yuan, Michigan State University, started in 2013
 
 === Present Master of Science Students ===
-o Wilhelm Holmen, University of Oslo (2014-2016)
-o Roger Kjøde, University of Oslo, (2014-2016)
-o Håkon Sebatian Mørk, University of Oslo, (2014-2016)
-o Jonas van den Brink, University of Oslo, (2014-2016), co-supervisor
-o Marte Julie Sætra, University of Oslo, (2014-2016), co-supervisor
-o Morten Ledum, University of Oslo, (2015-2017), co-supervisor
+
 o Håkon Emil Kristiansen, University of Oslo, (2015-2017)
 o Christian Fleischer, University of Oslo, (2015-2017)
-o Håkon Treider Vikør, University of Oslo, (2015-2017)
-o Jon-Andreas Stende, University of Oslo, (2015-2017), co-supervisor
 o Sean Bruce Sangholt Miller, University of Oslo, (2015-2017)
 o Alexander Fleischer, University of Oslo, (2015-2017)
+o Morten Ledum, University of Oslo, (2015-2017), co-supervisor
+o Håkon Treider Vikør, University of Oslo, (2015-2017), co-supervisor
+o Jon-Andreas Stende, University of Oslo, (2015-2017), co-supervisor
+
 
 === Former PhD students and their present positions ===
 o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014), now post-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo 
@@ -354,6 +351,8 @@ o Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)
 
 === Lectures and organization of schools: ===
 
+o Hjorth-Jensen, Morten, "Computational Nuclear Physics and Post Hartree-Fock Methods. Configuration Interaction Theory, Many-Body Perturbation Theory and Coupled Cluster Theory":"http://rafael.ujf.cas.cz/school", five lectures at 28th Indian-Summer School on Ab Initio Methods in Nuclear Physics, Prague, Czech Republic, August 29 - September 2, 2016.
+
 o Hjorth-Jensen, Morten, "Computational Physics and Quantum Mechanical Systems":"http://compphysics.github.io/CompPhysUTunis/doc/web/course.html", one week course on Computational Physics at the University of Tunis El Manar, Tunis, Tunisia, May 16-20, 2016. In total 15 hours of lectures and 15 hours of computer lab and exercises. 
 
 
@@ -382,9 +381,6 @@ o Hjorth-Jensen, Morten, organizer, First MSU-UT/ORNL-UiO winter school in nucle
 o Hjorth-Jensen, Morten.  Five lectures on Theory of shell-model studies for nuclei. CERN/Isolde course on nuclear structure theory; 2010-03-01 - 2010-03-04
  
 
- 
- 
- 
 o Hjorth-Jensen, Morten.  Six lectures on Nuclear interactions and the Shell Model. 8th CNS-EFES International Summer School, Riken, Tokyo, Japan, 2009-08-26 - 2009-09-01
  
  
@@ -884,14 +880,15 @@ o Holt, Anne; Engeland, Torgeir; Hjorth-Jensen, Morten; Osnes, Eivind.  The stru
 
 o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern meson-exchange potentials, Edited by A. Covello, 3rd international spring seminar on nuclear physics, Ischia, Italy, May 21-25, 1990, (World Scientific Singapore, 1991), pages 87-97 
 
-=== Talks and seminars at workshops, conferences and institute colloquiua ===
+=== Talks, lectures and seminars at workshops, conferences, schools  and institute colloquiua ===
+
+o Hjorth-Jensen, Morten, "Computational Nuclear Physics and Post Hartree-Fock Methods. Configuration Interaction Theory, Many-Body Perturbation Theory and Coupled Cluster Theory":"http://rafael.ujf.cas.cz/school", five lectures at 28th Indian-Summer School on Ab Initio Methods in Nuclear Physics, Prague, Czech Republic, August 29 - September 2, 2016.
 
 o Hjorth-Jensen, Morten, "Computational Physics and Quantum Mechanical Systems":"http://compphysics.github.io/CompPhysUTunis/doc/web/course.html", one week course on Computational Physics at the University of Tunis El Manar, Tunis, Tunisia, May 16-20, 2016. In total 15 hours of lectures and 15 hours of computer lab and exercises. 
 
 o Hjorth-Jensen, Morten, "Correlations in many-body systems; from condensed matter physics to nuclear physics":"https://t2.lanl.gov/seminars/?section=abstract&number=-10&year=2016", T-2, Nuclear and Particle Physics, Astrophysics and Cosmology, Los Alamos National Laboratory, New Mexico, USA, Tuesday, April 12, 2016
 
 o Hjorth-Jensen, Morten, "Integrating a Computational Perspective in the Basic Science Education":"http://mhjensenseminars.github.io/EducationalSeminars/doc/pub/cse/html/cse-reveal.html", Department of Physics Colloquium at Central  Michigan University,  Kalamazoo, Michigan, USA, April 4, 2016
-
 
 
 o Co-organizer with Giuseppina Orlandini and Alejandro Kievsky of Nuclear Talent course "Few-body methods and nuclear reactions":"https://groups.nscl.msu.edu/jina/talent/wiki/Course_3", ECT*, Trento, Italy, July 20-August 7 2015
