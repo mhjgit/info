@@ -449,7 +449,7 @@ o M. Hjorth-Jensen, Maria Paola Lambardo, and Ubirajara Van Kolck (editors), *Co
 
 
 
-o "Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen":https://arxiv.org/abs/1608.08127"", *First-principles calculations for c-coefficients of the isobaric mass multiplet equation in the 1p0f shell*, submitted to *Physical Review Letters*, "arXiv1608.08127 (2016)":"https://arxiv.org/abs/1608.08127". 
+o "Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen":"https://arxiv.org/abs/1608.08127", *First-principles calculations for c-coefficients of the isobaric mass multiplet equation in the 1p0f shell*, submitted to *Physical Review Letters*, "arXiv1608.08127 (2016)":"https://arxiv.org/abs/1608.08127". 
 
 
 o Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jensen, *High-performance computing and infinite nuclear matter*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, (Springer, in press, 2016).
