@@ -49,11 +49,11 @@ o Favorite graduate teacher at the Department of Physics and Astronomy at Michig
 
 ===== Citation metrics, highly cited articles, and additional research highlights: =====
 
-o "Google scholar h-index=47, 8078 citations (May 2016)":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en"
+o "Google scholar h-index=47, 8292 citations (August 2016)":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en"
 o ISI web of science h-index=41 Search hjorth-jensen or hjorthjensen 
-o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126", cited 671 times (Google Scholar)
-o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106", cited 381 times (Google Scholar)
-o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607", cited 322 times (Google Scholar)
+o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126", cited 676 times (Google Scholar)
+o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106", cited 393 times (Google Scholar)
+o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607", cited 334 times (Google Scholar)
 o A total of 144 peer reviewed articles and four books to be published.
 o Supervised and co-supervised 60 graduate students (48 Master of Science and 12 PhD students)
 o Authored and co-authored 22 Physical Review Letters articles, 15 Rapid communications in Physical Review C, seven Physics Letters B articles, one Astrophysical Journal Letters article and one Nature Physics article
@@ -447,16 +447,18 @@ o M. Hjorth-Jensen, Maria Paola Lambardo, and Ubirajara Van Kolck (editors), *Co
 === Publications in journals with a referee system: ===
 
 
-o Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen, *First principles calculations for coefficients of the isobaric mass multiplet equation in the fp shell*, in preparation for *Physical Review C*, 2016. 
 
 
-o Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jensen, *High-performance computing and infinite nuclear matter*, *Lecture Notes in Physics*, in press, 2016.
+o "Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen":https://arxiv.org/abs/1608.08127"", *First-principles calculations for c-coefficients of the isobaric mass multiplet equation in the 1p0f shell*, submitted to *Physical Review Letters*, "arXiv1608.08127 (2016)":"https://arxiv.org/abs/1608.08127". 
+
+
+o Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jensen, *High-performance computing and infinite nuclear matter*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, (Springer, in press, 2016).
 
 o Fei Yuan, Jørgen Høgberget, Titus Morris, Sam Novario, Nathan Parzuchowski, Sarah Reimann, Scott K. Bogner and Morten Hjorth-Jensen,   *First principle calculations of quantum dot systems*, in preparation for Journal of Chemical Physics, 2016.
 
 o G. Hagen, M. Hjorth-Jensen, G. R. Jansen, T. Papenbrock, *Emergent properties of nuclei from ab initio coupled-cluster calculations*, Focus issues of *Physica Scripta*, 91:063006 (2016).
 
-o Naofumi Tsunoda, Takaharu Otsuka, Noritaka Shimizu, Morten Hjorth-Jensen, Kazuo Takayanagi, Toshio Suzuki, *Exotic neutron-rich medium-mass nuclei with realistic nuclear forces*, *Physical Review C*, in press
+o Naofumi Tsunoda, Takaharu Otsuka, Noritaka Shimizu, Morten Hjorth-Jensen, Kazuo Takayanagi, Toshio Suzuki, *Exotic neutron-rich medium-mass nuclei with realistic nuclear forces*, submitted to *Physical Review C*, "arXiv1601.06442 (2016)":"https://arxiv.org/abs/1601.06442". 
 
 o G. Hagen, A. Ekstrom, C. Forssen , G. R. Jansen, W. Nazarewicz, T. Papenbrock, K. A. Wendt, S. Bacca, N. Barnea, B. Carlsson, C. Drischler, K. Hebeler, M. Hjorth-Jensen, M. Miorelli, G. Orlandini, A. Schwenk, and J. Simonis,  *Charge, neutron, and weak size of the atomic nucleus*,  *Nature Physics*, 12:186–190 (2016).
 
