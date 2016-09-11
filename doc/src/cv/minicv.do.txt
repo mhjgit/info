@@ -1,0 +1,71 @@
+TITLE: Biographical  information
+AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
+DATE: 2016
+
+===== Professional preparation, education  and personal data: =====
+
+* Professor of Physics at Michigan State University, USA and the University of Oslo, Norway
+* Norwegian citizen, born in Haugesund, July 29, 1961
+* Norwegian University of Science and Technology, Trondheim, Norway,  Siv.Ing. in Theoretical Physics (Master of Science equivalent),  1988 
+* University of Oslo, Norway,  Ph.D in Theoretical Nuclear Physics, 1993
+* ECT*, Trento, Italy,  Postdoctoral Researcher in Theoretical Nuclear Physics,  1994-1996
+* Nordita, Copenhagen, Denmark, Postdoctoral Researcher in Theoretical Nuclear Physics, 1996-1998
+
+===== Appointments: =====
+
+|---------------------------------------------------------------------|
+| Position | Institution  | Dates |
+|---------------------------------------------------------------------|
+| Associate Professor of Physics | University of Oslo| 1999-2001 | 
+| Professor of Physics | University of Oslo| 2001-present |
+| Adjunct Professor of Physics | Michigan State University| 2003-2011 |
+| Professor of Physics | Michigan State University| 2012-present |
+|---------------------------------------------------------------------|
+
+
+===== Brief research overview =====
+
+I am a theoretical physicist with a strong interest in 
+computational physics and many-body theory in general, and 
+the nuclear many-body problem and nuclear structure problems in particular. 
+This means that I study various methods for solving either Schrödinger's equation or 
+Dirac's equation for many interacting particles, spanning from 
+algorithmic aspects to the mathematical properties of such methods. 
+The latter also leads to a strong interest in computational 
+physics as well as computational aspects of quantum mechanical methods. 
+
+===== Awards: =====
+
+o University of Oslo award for excellence in teaching, 2000
+o Fellow of the American Physical Society, 2007
+o Oak Ridge National Laboratory excellence in research award, 2008
+o Outstanding referee award of the American Physical Society, 2008
+o University of Oslo award for excellence in teaching for the _Computing in Science Education_ project, 2011
+o NOKUT (Norwegian entity of quality assessment in higher education) award for excellence in teaching for the _Computing in Science Education_ project, 2012
+o Elected member of the Norwegian Academy of Sciences and Letters, 2013
+o Elected member of the Royal Norwegian Society of Sciences and Letters, 2015 
+o University of Oslo award for excellence in teaching for developing the Computational Physics group, 2015
+o Favorite graduate teacher at the Department of Physics and Astronomy at Michigan State University, 2016 
+
+===== Citation metrics, highly cited articles, and additional research highlights: =====
+
+o "Google scholar h-index=47, 8292 citations (August 2016)":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en"
+o ISI web of science h-index=41 Search hjorth-jensen or hjorthjensen 
+o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126", cited 676 times (Google Scholar)
+o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106", cited 393 times (Google Scholar)
+o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607", cited 334 times (Google Scholar)
+o A total of 144 peer reviewed articles and four books to be published.
+o Supervised and co-supervised 60 graduate students (48 Master of Science and 12 PhD students)
+o Authored and co-authored 22 Physical Review Letters articles, 15 Rapid communications in Physical Review C, seven Physics Letters B articles, one Astrophysical Journal Letters article and one Nature Physics article
+o Written one Physics viewpoint and been highlighted in one other.
+o Taught and developed several courses in Computational Physics and many-body physics, courses in nuclears structure and quantum physics and mechanics and statistical mechanics.
+o More than two hundred invited talks, seminars, colloquia and lectures given worldwide.
+o Organized more than 30 conferences, workshops and schools and advanced courses.
+o Presently supervising 7 Master of Science students (University of Oslo) and four PhD students (MSU)
+
+=== Books: ===
+o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2016.
+o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2016.
+o Morten Hjorth-Jensen, *Nuclear many-body physics, a computational perspective*, in preparation for Taylor Francis.
+o M. Hjorth-Jensen, Maria Paola Lambardo, and Ubirajara Van Kolck (editors), *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, to be published in Lectures Notes in Physics by Springer in 2016.
+
