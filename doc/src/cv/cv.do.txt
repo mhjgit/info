@@ -49,8 +49,8 @@ o Favorite graduate teacher at the Department of Physics and Astronomy at Michig
 
 ===== Citation metrics, highly cited articles, and additional research highlights: =====
 
-o "Google scholar h-index=47, 8292 citations (August 2016)":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en"
-o ISI web of science h-index=41 Search hjorth-jensen or hjorthjensen 
+o "Google scholar h-index=48, (August 2016)":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en"
+o ISI web of science h-index=42 Search hjorth-jensen or hjorthjensen 
 o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126", cited 676 times (Google Scholar)
 o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106", cited 393 times (Google Scholar)
 o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607", cited 334 times (Google Scholar)
@@ -85,7 +85,7 @@ o Presently supervising 7 Master of Science students (University of Oslo) and fo
 
 * Editorial Board member of Physical Review C (2014-2016)
 
-* Editorial Board member of European Physical Journal A (2010-present)
+* Editorial Board member of European Physical Journal A (2010-2016)
 
 * Editorial Board member of European Physical Journal Special Topics (2010-present)
 
@@ -160,6 +160,8 @@ o Presently supervising 7 Master of Science students (University of Oslo) and fo
 
 * Referee for Progress in Theoretical Physics
 
+* Referee for Polish Journal of Physics
+
 === Other Referee Activities ===
 
 * Referee for the Canadian Research Council
@@ -228,7 +230,9 @@ o Safwan Shanab, committee member
 o Hao Lin, committee member
 o Mao Xingze, committee member
 o Amy Lovell, committee member
-
+o Debra Richman, committee member
+o Roy Ready, committee member
+o Nathan Watwood, committee member 
 ===== Courses, study programs and educational initiatives =====
 
 I am strongly involved in teaching at all levels. I have been heading the bachelor program Physics, Astronomy and Meteorology ( FAM ) in the period 2002-2011. I am also strongly involved in the project Computing in Science Education. Furthermore, with European and American colleagues, we have established the recent successful Nuclear Talent initiative.
