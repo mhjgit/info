@@ -49,11 +49,18 @@ o Favorite graduate teacher at the Department of Physics and Astronomy at Michig
 
 ===== Citation metrics, highly cited articles, and additional research highlights: =====
 
-o "Google scholar h-index=47, 8292 citations (August 2016)":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en"
-o ISI web of science h-index=41 Search hjorth-jensen or hjorthjensen 
+<<<<<<< HEAD
+o "Google scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en"
+o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126"
+o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106"
+o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607"
+=======
+o "Google scholar h-index=48, (August 2016)":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en"
+o ISI web of science h-index=42 Search hjorth-jensen or hjorthjensen 
 o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126", cited 676 times (Google Scholar)
 o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106", cited 393 times (Google Scholar)
 o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607", cited 334 times (Google Scholar)
+>>>>>>> origin/master
 o A total of 144 peer reviewed articles and four books to be published.
 o Supervised and co-supervised 60 graduate students (48 Master of Science and 12 PhD students)
 o Authored and co-authored 22 Physical Review Letters articles, 15 Rapid communications in Physical Review C, seven Physics Letters B articles, one Astrophysical Journal Letters article and one Nature Physics article
@@ -85,7 +92,7 @@ o Presently supervising 7 Master of Science students (University of Oslo) and fo
 
 * Editorial Board member of Physical Review C (2014-2016)
 
-* Editorial Board member of European Physical Journal A (2010-present)
+* Editorial Board member of European Physical Journal A (2010-2016)
 
 * Editorial Board member of European Physical Journal Special Topics (2010-present)
 
@@ -160,6 +167,8 @@ o Presently supervising 7 Master of Science students (University of Oslo) and fo
 
 * Referee for Progress in Theoretical Physics
 
+* Referee for Polish Journal of Physics
+
 === Other Referee Activities ===
 
 * Referee for the Canadian Research Council
@@ -190,7 +199,7 @@ o Presently supervising 7 Master of Science students (University of Oslo) and fo
 
 * Opponent at several PhD dissertations.
   
-* Member of 19 PhD guidance committees at Michigan State University
+* Member of 22 PhD guidance committees at Michigan State University
 
 * Several expert evaluations on promotion applications.
 
@@ -218,9 +227,9 @@ o Chris Sullivan, committee member
 o Thomas Redpath, committee member
 o Sean Sweany, committee member
 o Rachel Taverner, committee member
-o Nathan Parzuchowski, committee member
+o Nathan Parzuchowski, committee member. Defends thesis April 2017.
 o Titus Morris, committee member. Defended thesis May 2016
-o Kenneth Whitmore, committee member. Defends thesis June 2016
+o Kenneth Whitmore, committee member. Defended thesis June 2016
 o Alex Dombos, committee member
 o Josh Bradt, committee member
 o Charles Loelius, committee member
@@ -228,7 +237,9 @@ o Safwan Shanab, committee member
 o Hao Lin, committee member
 o Mao Xingze, committee member
 o Amy Lovell, committee member
-
+o Debra Richman, committee member
+o Roy Ready, committee member
+o Nathan Watwood, committee member 
 ===== Courses, study programs and educational initiatives =====
 
 I am strongly involved in teaching at all levels. I have been heading the bachelor program Physics, Astronomy and Meteorology ( FAM ) in the period 2002-2011. I am also strongly involved in the project Computing in Science Education. Furthermore, with European and American colleagues, we have established the recent successful Nuclear Talent initiative.
@@ -275,7 +286,11 @@ o Alexander Fleischer, University of Oslo, (2015-2017)
 o Morten Ledum, University of Oslo, (2015-2017), co-supervisor
 o Håkon Treider Vikør, University of Oslo, (2015-2017), co-supervisor
 o Jon-Andreas Stende, University of Oslo, (2015-2017), co-supervisor
-
+o Giovanni Pederiva, University of Oslo, (2016-2018), co-supervisor
+o Anna Gribovskaya, University of Oslo, (2016-2018)
+o Marius Jonsson, University of Oslo, (2016-2018)
+o August Gelmuyden, University of Oslo, (2016-2018), co-supervisor
+o Hans Mathias Vege Mamen, University of Oslo, (2016-2018), co-supervisor
 
 === Former PhD students and their present positions ===
 o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014), now post-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo 
@@ -454,7 +469,7 @@ o Fei Yuan, Jørgen Høgberget, Titus Morris, Sam Novario, Nathan Parzuchowski, 
 
 o G. Hagen, M. Hjorth-Jensen, G. R. Jansen, T. Papenbrock, *Emergent properties of nuclei from ab initio coupled-cluster calculations*, Focus issues of *Physica Scripta*, 91:063006 (2016).
 
-o Naofumi Tsunoda, Takaharu Otsuka, Noritaka Shimizu, Morten Hjorth-Jensen, Kazuo Takayanagi, Toshio Suzuki, *Exotic neutron-rich medium-mass nuclei with realistic nuclear forces*, submitted to *Physical Review C*, "arXiv1601.06442 (2016)":"https://arxiv.org/abs/1601.06442". 
+o Naofumi Tsunoda, Takaharu Otsuka, Noritaka Shimizu, Morten Hjorth-Jensen, Kazuo Takayanagi, Toshio Suzuki, *Exotic neutron-rich medium-mass nuclei with realistic nuclear forces*, *Physical Review C* Rapids, in press, "arXiv1601.06442 (2016)":"https://arxiv.org/abs/1601.06442". 
 
 o G. Hagen, A. Ekstrom, C. Forssen , G. R. Jansen, W. Nazarewicz, T. Papenbrock, K. A. Wendt, S. Bacca, N. Barnea, B. Carlsson, C. Drischler, K. Hebeler, M. Hjorth-Jensen, M. Miorelli, G. Orlandini, A. Schwenk, and J. Simonis,  *Charge, neutron, and weak size of the atomic nucleus*,  *Nature Physics*, 12:186–190 (2016).
 
