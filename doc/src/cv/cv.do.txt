@@ -49,18 +49,10 @@ o Favorite graduate teacher at the Department of Physics and Astronomy at Michig
 
 ===== Citation metrics, highly cited articles, and additional research highlights: =====
 
-<<<<<<< HEAD
 o "Google scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en"
 o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126"
 o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106"
 o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607"
-=======
-o "Google scholar h-index=48, (August 2016)":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en"
-o ISI web of science h-index=42 Search hjorth-jensen or hjorthjensen 
-o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126", cited 676 times (Google Scholar)
-o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106", cited 393 times (Google Scholar)
-o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607", cited 334 times (Google Scholar)
->>>>>>> origin/master
 o A total of 144 peer reviewed articles and four books to be published.
 o Supervised and co-supervised 60 graduate students (48 Master of Science and 12 PhD students)
 o Authored and co-authored 22 Physical Review Letters articles, 15 Rapid communications in Physical Review C, seven Physics Letters B articles, one Astrophysical Journal Letters article and one Nature Physics article
