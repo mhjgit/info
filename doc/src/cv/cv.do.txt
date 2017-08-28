@@ -70,7 +70,7 @@ o Presently supervising 12 Master of Science students (University of Oslo) and f
 
 * With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2017 the initiative has run and developed twelve courses. I chaired the steering committee from its beginning in 2010 till 2015. I have taught and organized three of these courses and been one of the organizers on five of the twelve courses.
 
-* I initiated and lead the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. It includes now seven  departments at faculty of Mathematics and Natural Sciences of  the University of Oslo.
+* I initiated and lead the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. It includes now seven  departments at the faculty of Mathematics and Natural Sciences of  the University of Oslo.
 
 === Editorial boards and committees ===
 
@@ -245,7 +245,7 @@ With colleagues at the University of Oslo, I have   been strongly involved in th
 
 With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2016 the initiative has run and developing eleven courses. I chaired the steering committee from its beginning in 2010 till 2015. 
 
-I initiated in 2015 and chair the new "Master of Science program on Computational Science at the University of Oslo":"http://mhjensen.github.io/CPMLS/doc/pub/Masterprogram/html/Masterprogram.html". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. 
+I initiated in 2015 and chair the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. 
 
 I teach now the following courses at the University of Oslo and Michigan State University:
 
@@ -253,7 +253,7 @@ I teach now the following courses at the University of Oslo and Michigan State U
 * "FYS4411 Computational Physics II: Quantum mechanical systems":"http://www.uio.no/studier/emner/matnat/fys/FYS4411/", graduate level, Spring semester (Oslo) 
 * "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kjm4480/", graduate level, Fall semester (Oslo) 
 * "PHYS981 Nuclear Structure":"https://github.com/NuclearStructure/PHY981", graduate level, Spring semester (MSU) 
-* "PHY480/905 Computational Physics":"https://github.com/CompPhysics/ComputationalPhysics" (MSU), undergraduate and graduate level, Spring semester
+* "PHY480/905 Computational Physics":"https://github.com/CompPhysics/ComputationalPhysicsMSU" (MSU), undergraduate and graduate level, Spring semester
 
 I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statistical Mechanics (FYS4130, 1990-1994) at the University of Oslo, Norway.
 
