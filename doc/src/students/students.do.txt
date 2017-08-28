@@ -1,39 +1,42 @@
 TITLE: Present and former students and post-doctoral fellows
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
-DATE: 2016
+DATE: today
 
 ===== Master of Science, PhD and Post-doctoral fellows =====
 
-I have guided and co-guided a total of 60 Master of Science and PhD students. I presently guide four graduate students at Michigan State University  and twelve (four co-supervised) Master of Science students at the University of Oslo.
+I have guided and co-guided a total of 63 Master of Science and PhD students. I presently guide five graduate students at Michigan State University  and twelve (four co-supervised) Master of Science students at the University of Oslo.
 
 
 === Present PhD students ===
-o John Bower, Michigan State University, started in 2014
+
 o Justin Lietz, Michigan State University, started in 2013
 o Sam Novario, Michigan State University, started in 2014
 o Fei Yuan, Michigan State University, started in 2013
+o Nicolas Valverde, Michigan State University, started in 2017
+o Omokuyani C. Udiani , Michigan State University, started in 2017
 
 === Present Master of Science Students ===
-o Wihelm Holmen, University of Oslo (2014-2016)
-o Roger Kjøde, University of Oslo, (2014-2016)
-o Håkon Sebatian Mørk, University of Oslo, (2014-2016)
-o Jonas van den Brink, University of Oslo, (2014-2016), co-supervisor
-o Marte Julie Sætra, University of Oslo, (2014-2016), co-supervisor
-o Morten Ledum, University of Oslo, (2015-2017), co-supervisor
+
 o Håkon Emil Kristiansen, University of Oslo, (2015-2017)
-o Christian Fleischer, University of Oslo, (2015-2017)
-o Håkon Treider Vikør, University of Oslo, (2015-2017)
-o Jon-Andreas Stende, University of Oslo, (2015-2017), co-supervisor
-o Sean Bruce Snagholt Miller, University of Oslo, (2015-2017)
 o Alexander Fleischer, University of Oslo, (2015-2017)
+o Giovanni Pederiva, University of Oslo, (2016-2018)
+o Anna Gribovskaya, University of Oslo, (2016-2018)
+o Andrei Kucharenka, University of Oslo, (2016-2018)
+o Vilde Moe Flugsrud, University of Oslo, (2016-2018)
+o Alfred Alocias Mariadason, University of Oslo, (2016-2018)
+o Marius Jonsson, University of Oslo, (2016-2018)
+o Hans Mathias Vege Mamen, University of Oslo, (2016-2018)
+o Morten Ledum, University of Oslo, (2015-2017), co-supervisor
+o Håkon Treider Vikør, University of Oslo, (2015-2017), co-supervisor
+o Jon-Andreas Stende, University of Oslo, (2015-2017), co-supervisor
 
 === Former PhD students and their present positions ===
 o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014), now post-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo 
 o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (PhD UiO 2009), now associate professor of chemistry, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
 o "Gustav Jansen":"https://www.ornl.gov/staff-profile/gustav-r-jansen" (PhD UiO 2012), now permanent position as scientist at the Computational Science Division of Oak Ridge National Laboratory  
-o "Torquil MacDonald Sorensen":"http://www.mn.uio.no/math/english/people/aca/tmac/" (PhD UiO 2012), post-doctoral fellow at the Department of Mathematics, UiO
+o "Torquil MacDonald Sørensen":"http://www.mn.uio.no/math/english/people/aca/tmac/" (PhD UiO 2012), post-doctoral fellow at the Department of Mathematics, UiO
 o "Jon Kerr Nilsen":"http://www.usit.uio.no/english/about/organisation/bps/rc/ris/staff/jonkni/" (PhD UiO 2010), senior engineer at the University of Oslo center for information technologies (co-supervisor)
-o "Marius Lysebo":"https://www.hioa.no/tilsatt/marlys" (PhD UiO 2010), now Associate Professor at Oslo University College, Norway (co-supervisor)
+o "Marius Lysebo":"https://www.hioa.no/tilsatt/marlys" (PhD UiO 2010), now Associate Professor at Oslo University College, (co-supervisor)
 o "Elise Bergli":"http://www.aas.vgs.no/om-oss/organisasjon/alle-ansatte/" (PhD UiO 2010), teacher Ås high school, Norway
 o "Eirik Ovrum":"https://www.hbv.no/om-hbv-kontakt-oss-ansatte/eirik-ovrum-article125026-6688.html" (PhD UiO 2007), now Associate Professor at the University College of Southeast of Norway
 o "Gaute Hagen":"https://www.ornl.gov/staff-profile/gaute-hagen" (PhD UiB and UiO 2005), now permanent position as scientist at the Physics Division of Oak Ridge National Laboratory. Recipient of the Department of Energy Early career award
@@ -42,14 +45,17 @@ o Øystein Elgarøy (PhD UiO 1999), now professor of Theoretical Astrophysics at
 o Lars Engvik (PhD UiO 1999), now Associate Professor at Sør-Trøndelag University College, Trondheim, Norway, (co-supervisor)
 
 === Post-doctoral fellows and their present positions ===
-o Andreas Ekstrom (UiO and MSU 2010-2014), now researcher at Chalmers Technological University in Gothenburg, Sweden
-o Oyvind Jensen (UiO 2011), now researcher at the "Institute for Energy Technology":"https://www.ife.no/en"
+o Andreas Ekstrøm (UiO and MSU 2010-2014), now researcher at Chalmers Technological University in Gothenburg, Sweden
+o Øyvind Jensen (UiO 2011), now researcher at the "Institute for Energy Technology":"https://www.ife.no/en"
 o Simen Kvaal (UiO 2008-2012), now associate professor of chemistry, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
 o Elise Bergli (UiO 2010-2011), now teacher at Ås high school, Norway
-o Solve Selsto (UiO 2008-2010), now Associate Professor at Oslo University College 
+o Sølve Selstø (UiO 2008-2010), now Associate Professor at Oslo University College 
 o Nicolas Michel (MSU 2013), now senior researcher at Michigan State University
 
-=== Former Master of Science Students ===
+=== Former Master of Science Students(links to their thesis will be added)  ===
+o Sean Bruce Sangholt Miller, University of Oslo, (2015-2017)
+o Christian Fleischer, University of Oslo, (2015-2017)
+o John Bower, Michigan State University, (2014-2017)
 o Wilhelm Holmen, University of Oslo (2014-2016)
 o Roger Kjøde, University of Oslo, (2014-2016)
 o Håkon Sebatian Mørk, University of Oslo, (2014-2016)
@@ -98,3 +104,4 @@ o Victoria Popsueva, University of Oslo, (2002-2004)
 o Eivind Brodal, University of Oslo, (2001-2003)
 o Eirik Ovrum, University of Oslo, (2001-2003)
 o Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)
+

@@ -1,31 +1,34 @@
 TITLE: Publications 
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
-DATE: 2016
+DATE: today
 
 =====  Publications, books and refereed scientific articles =====
 
-===== Forthcoming Books: =====
-o "Morten Hjorth-Jensen, _Computational Physics, an introduction_, to be published by IOP in 2016":"https://github.com/CompPhysics/ComputationalPhysicsMSU/tree/master/doc/Lectures"
-o "Morten Hjorth-Jensen, _Computational Physics, an advanced course_, to be published by IOP in 2016":"https://github.com/CompPhysics/ComputationalPhysicsMSU/tree/master/doc/Lectures"
-o "Morten Hjorth-Jensen, _Nuclear many-body physics, a computational perspective_, in preparation for Taylor Francis":"https://github.com/ManyBodyPhysics/NuclearManyBody/blob/master/doc/src/book/book.pdf"
-o "M. Hjorth-Jensen, Maria Paola Lambardo, and Ubirajara Van Kolck (editors), _Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars_, to be published in Lectures Notes in Physics by Springer in 2016":"https://github.com/ManyBodyPhysics/LectureNotesPhysics"
-
-===== Planned texts for 2017 and later =====
-To be added
+=== Books: ===
+o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2017.
+o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2017.
+o Morten Hjorth-Jensen, *Nuclear many-body physics, a computational perspective*, in preparation for Taylor Francis.
+o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
 
 === Publications in journals with a referee system: ===
 
+o Morten Hjorth-Jensen, *Understanding the limits of nuclear stability*, Physica Scripta Focus issue on 21st Century Frontiers, in press (2017). 
 
-o Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen, *First principles calculations for coefficients of the isobaric mass multiplet equation in the fp shell*, in preparation for *Physical Review C*, 2016. 
+o Morten Hjorth-Jensen, *Correlations i many-body systems*, *Progress in Particle and Nuclear Physics*, in press (2017).
 
+o "Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen":"https://arxiv.org/abs/1608.08127", *First-principles calculations for c-coefficients of the isobaric mass multiplet equation in the 1p0f shell*, *Physical Review C* Rapids, 96:xxxx (2017). 
 
-o Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jensen, *High-performance computing and infinite nuclear matter*, *Lecture Notes in Physics*, in press, 2016.
+o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Motivation and Overarching Aims*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, Volume _936_ pages 1-4 (2017).
 
-o Fei Yuan, Jørgen Høgberget, Titus Morris, Sam Novario, Nathan Parzuchowski, Sarah Reimann, Scott K. Bogner and Morten Hjorth-Jensen,   *First principle calculations of quantum dot systems*, in preparation for Journal of Chemical Physics, 2016.
+o "Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jensen":"http://www.springer.com/us/book/9783319533353", *High-performance computing and infinite nuclear matter*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, Volume _936_ pages 293-399 (2017).
 
-o G. Hagen, M. Hjorth-Jensen, G. R. Jansen, T. Papenbrock, *Emergent properties of nuclei from ab initio coupled-cluster calculations*, *Physica Scripta*, in press (2016).
+o "Fei Yuan, Sam Novario, Nathan Parzuchowski, Sarah Reimann, Scott K. Bogner and Morten Hjorth-Jensen":"http://lanl.arxiv.org/abs/1707.00229".,   *First principle calculations of quantum dot systems*, Journal of Chemical Physics, "in press (2017).
 
-o Naofumi Tsunoda, Takaharu Otsuka, Noritaka Shimizu, Morten Hjorth-Jensen, Kazuo Takayanagi, Toshio Suzuki, *Exotic neutron-rich medium-mass nuclei with realistic nuclear forces*, *Physical Review C*, in press
+o "Morten Hjorth-Jensen":"https://physics.aps.org/articles/v10/72", *Scattering Experiments Tease Out the Strong Force*, *Physics*, 10:72 (2017).
+
+o "Naofumi Tsunoda, Takaharu Otsuka, Noritaka Shimizu, Morten Hjorth-Jensen, Kazuo Takayanagi, Toshio Suzuki":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.95.021304", *Exotic neutron-rich medium-mass nuclei with realistic nuclear forces*, *Physical Review C* Rapids, 95:021304(R) (2017).
+
+o G. Hagen, M. Hjorth-Jensen, G. R. Jansen, T. Papenbrock, *Emergent properties of nuclei from ab initio coupled-cluster calculations*, *Physica Scripta*, 91:063006 (2016).
 
 o G. Hagen, A. Ekstrom, C. Forssen , G. R. Jansen, W. Nazarewicz, T. Papenbrock, K. A. Wendt, S. Bacca, N. Barnea, B. Carlsson, C. Drischler, K. Hebeler, M. Hjorth-Jensen, M. Miorelli, G. Orlandini, A. Schwenk, and J. Simonis,  *Charge, neutron, and weak size of the atomic nucleus*,  *Nature Physics*, 12:186–190 (2016).
 
@@ -309,16 +312,145 @@ o Morten Hjorth-Jensen and Eivind Osnes, *Effective interactions through third o
 
 
 === Contributions to Conference and Workshop Proceedings (refereed and non-refereed) ===
-TBA
-=== Talks and seminars at workshops, conferences and institute colloquiua ===
-TBA
-=== Organization of workshops, schools and advanced courses ===
-TBA
-===  Member of Advisory Committees ===
-TBA
+
+o Osnes, E, Engeland, T, and Hjorth-Jensen, M, *Large-scale shell-model study of Sn Isotopes*, European Journal of Physics Web of Conferences _95_,01010 (2015)
+
+o Malthe-Sørenssen, Anders; Hjorth-Jensen, Morten; Langtangen, Hans Petter; Mørken, Knut Martin. *Integrasjon av beregninger i fysikkundervisningen*, UNIPED, 38:303, 2015.
+ 
+o Engeland, Torgeir; Hjorth-Jensen, Morten; Kartamyshev, Maxim; Osnes, Eivind.  The Kuo–Brown effective interaction: From 18O to the Sn isotopes. Nuclear Physics A, 928:, 2014 
+ 
+o Takayanagi, K, Tsunoda, N, Hjorth-Jensen, M, Otsuka, T, Effective Hamiltonian in non-degenerate model space. Journal of Physics, Conference Series, 445:012003, 2013, DOI: 10.1088/1742-6596/445/1/012003.  
+ 
+o Hagen G., Papenbrock T., Hjorth-Jensen M., Jansen G., Machleidt R., Living at the edge of stability: the role of continuum and three-nucleon forces. Edited by: Hamilton, JH; Ramayya, AV.  FISSION AND PROPERTIES OF NEUTRON-RICH NUCLEI, ICFN5, Pages: 400-400, Published: 2013. Conference: 5th International Conference on Fission and Properties of Neutron-Rich Nuclei. Date: NOV 04-10, 2012, (World Scientific, Singapore, 2013)
+
+o DiJulio D.D. et al, Shell model based Coulomb excitation gamma-ray intensity calculations in Sn-107, PHYSICA SCRIPTA, Volume: T150, Article Number: 014012, DOI: 10.1088/0031-8949/2012/T150/014012, Published: OCT 2012
+
+o DiJulio D.D. et al, Sub-barrier Coulomb excitation of Sn-107. Edited by:Freeman, S; Andreyev, A; Bruce, A; Deacon, A; Jenkins, D; Joss, D; MacGregor, D; Regan, P; Simpson, J; Tungate, G; Wadsworth, R; Watts, D, RUTHERFORD CENTENNIAL CONFERENCE ON NUCLEAR PHYSICS, 2011, Journal of Physics Conference Series, Volume: 381, Article Number: 012073, DOI: 10.1088/1742-6596/381/1/012073, Published: 2012
+
+o Brown B.A., Signoracci A., and Hjorth-Jensen, M., Configuration interactions constrained by energy density functionals. Edited by:Covello, A; Gargano, A, 10TH INTERNATIONAL SPRING SEMINAR ON NUCLEAR PHYSICS: NEW QUESTS IN NUCLEAR STRUCTURE, Journal of Physics Conference Series, Volume: 267, Article Number: 012028, DOI: 10.1088/1742-6596/267/1/012028, Published: 2011
+
+o Tsunoda, Naofumi; Otsuka, Takahuro; Tsukiyama, Koshiroh; Hjorth-Jensen, Morten. Tensor force in effective interaction of nuclear force. Journal of Physics, Conference Series 2011 ;Volume 267.
+ 
+o Barbieri, Carlo; Hjorth-Jensen, Morten; Giusti, C; Pacati, FD. ONE- AND TWO-NUCLEON STRUCTURE FROM GREEN'S FUNCTION THEORY. Modern Physics Letters A 2010 ;Volume 25.(21-23) p. 1927-1930
+ 
+ 
+o Ekstrom, A; Cederkall, Joakim; Fahlander, Claes; Hjorth-Jensen, Morten; Engeland, Torgeir; Butler, PA; Davinson, T; Eberth, J; Finke, F; Görgen, Andreas; Gorska, M; Hurst, AM; Ivanov, O; Iwanicki, J; Koster, U; Marsh, BA; Mierzejewski, J; Reiter, P; Siem, Sunniva; Sletten, G; Stefanescu, I; Tveten, Gry Merete; Van de Walle, J; Voulot, D; Warr, N; Weisshaar, D; Wenander, F; Zielinska, M; Blazhev, A.  Coulomb excitation of the odd-odd isotopes 106, 108In. European Physical Journal A 2010 ;Volume 44. p. 355-361
+ 
+ 
+o Honma, Micho; Otsuka, Takahuro; Mizusaki, T.; Hjorth-Jensen, Morten.  Recent Progress in Shell-Model Calculations for pfg-shell Nuclei. AIP Conference Proceedings 2010 ;Volume 1235. p. 384-390
+ 
+ 
+o Otsuka, Takaharu; Tsunoda, Naofumi; Tsukiyama, Koshiroh; Suzuki, Toshio; Honma, Michio; Utsuno, Yutaka; Hjorth-Jensen, Morten; Holt, Jason; Schwenk, Achim.  Hadronic Interaction and Exotic Nuclei. AIP Conference Proceedings 2009 ;Volume 1165. p. 47-52
+ 
+ 
+ 
+o Algin, E; Schiller, A; Voinov, A; Agvaanluvsan, U; Belgya, T; Bernstein, LA; Brune, CR; Chankova, Rosita; Garrett, PE; Grimes, SM; Guttormsen, Magne Sveen; Hjorth-Jensen, Morten; Hornish, MJ; Johnson, CW; Massey, T; Mitchell, GE; Rekstad, John Bernhard; Siem, Sunniva; Younes, W.  Bulk properties of iron isotopes. Physics of Atomic Nuclei 2007 ;Volume 70. p. 1634-1639
+ 
+ 
+o Hjorth-Jensen, Morten.  Computational Quantum Mechanics. META 2007 ;Volume 2. p. 10-15
+ 
+ 
+o Hjorth-Jensen, Morten.  High-performance computing and basic education in computational Science. META 2007 (1) p. 18-19
+ 
+ 
+o Gorska, M.; Grawe, H.; Banu, A.; Burger, A.; Doornenbal, P.; Gerl, J,; Hjorth-Jensen, Morten; Hübel, H.; Nowacki, F.; Otsuka, Takahuro; reiter, P.  Nuclear structure far off stability – New results from RISING. Journal of Physics, Conference Series 2006 ;Volume 49. p. 59-64
+ 
+ 
+ 
+o Guttormsen, Magne; Agvaanluvsan, Undraa; Chankova, Rositsa; Hjorth-Jensen, Morten; Rekstad, John Bernhard; Schiller, Andreas; Siem, Sunniva; Larsen, Ann-Cecilie; Syed, Naeem Ul Hasan; Voinov, Alexander.  Single particle entropy in heated nuclei. AIP Conference Proceedings 2006 ;Volume 831. p. 162-166
+ 
+ 
+o Honma, Micho; Otsuka, Takahuro; Mizusaki, T.; Hjorth-Jensen, Morten.  Effective interaction for f5pg9-shell nuclei and two-neutrino double beta-decay matrix elements. Journal of Physics, Conference Series 2006 ;Volume 49. p. 45-50
+ 
+o Papenbrock, T.; Dean, David Jarvis; Gour, J. R.; Hagen, G.; Hjorth-Jensen, Morten; Piecuch, P.; Wloch, M.  Coupled-cluster theory for nuclei. International journal of modern physics B 2006 ;Volume 20. p. 5338-5345
+ 
+o Schiller, Andreas; Agvaanluvsan, Undraa; Algin, Emel; Bagheri, Asadolla; Chankova, Rosita; Guttormsen, Magne; Hjorth-Jensen, Morten; Rekstad, John Bernhard; Siem, Sunniva; Sunde, Ann-Cecilie; Voinov, Alexander.  Nuclear thermodynamics below particle threshold. AIP Conference Proceedings 2005 (777) p. 216-228
+ 
+o Wloch, Marta; Dean, David J.; Grour, Jeffrey; Piecuch, Piotr; Hjorth-Jensen, Morten; Papenbrock, Thomas; Kowalski, Karol.  Ab Initio Coupled-Cluster calculations for Nuclei using Methods of Quantum Chemistry. European Physical Journal A  Volume: 25  485-488   Published: 2005
+
+o Dean, DJ, Hjorth-Jensen, M, Kowalski, K, Piecuch, P, Wloch, M, Coupled-cluster theory for nuclei, Condensed Matter Theories, VOL 20, Volume: 20  Pages: 89-97, Published: 2006
+ 
+o Barrett, BR; Dean, DJ; Hjorth-Jensen, Morten; Vary, JP.  Nuclear forces and the quantum many-body problem - Preface. Journal of Physics G: Nuclear and Particle Physics 2005 ;Volume 31.
+ 
+o Honma. M., Otsuka. T, Mizusaki T, Hjorth-Jensen M, Brown BA, Effective interaction for nuclei of A=50-100 and Gamow-Teller properties, Edited by:Suzuki, T; Otsuka, T; Ichimura, M, International Symposium on correlation dynamics in nuclei, Journal of Physics Conference Series, Volume: 20  Pages: 7-12, DOI: 10.1088/1742-6596/20/1/002, Published: 2005. Conference: International Symposium on Correlation Dynamics in Nuclei, Univ Tokyo, Sanjo Kaikan, JAPAN
+
+o Piecuch, P, Wloch, M,  Gour, JR, Dean, DJ, Hjorth-Jensen M,  Papenbrock T., Bridging quantum chemistry and nuclear structure theory: Coupled-cluster calculations for closed- and open-shell nuclei, Edited by:Zelevinsky, V, Nuclei and Mesoscopic Physics, AIP Conference Proceedings, Volume: 777  Pages: 28-45, Published: 2005, Conference: Workshop on Nuclei and Mesoscopic Physics, Michigan State Univ, NSCL, E Lansing, MI, OCT 23-26, 2004
+
+o Schiller A. et al,  Nuclear thermodynamics below particle threshold, Edited by:Zelevinsky, V, Nuclei and Mesoscopic Physics, AIP Conference Proceedings, Volume: 777, Pages: 216-228, Published: 2005. Conference: Workshop on Nuclei and Mesoscopic Physics, Michigan State Univ, NSCL, E Lansing, MI, OCT 23-26, 2004
+
+ 
+o Hagen, G; Hjorth-Jensen, M; Vaagen, Jan S.  State-dependent interactions for the Gamow shell model. Journal of Physics G: Nuclear and Particle Physics 2005 ;Volume 31. 
+ 
+ 
+o Wloch, Marta; Grour, Jeffrey; Piecuch, Piotr; Dean, David J.; Hjorth-Jensen, Morten; Papenbrock, Thomas.  Coupled-cluster calculations for ground and excited states of closed- and open-shell nuclei using methods of quantum chemistry. Journal of Physics G: Nuclear and Particle Physics 2005 ;Volume 31.  S1291-S1299
+ 
+ 
+o Belic, Alexandar; Dean, David J.; Hjorth-Jensen, Morten.  Pairing correlations and transitions in nuclear systems. Nuclear Physics A 2004 ;Volume 731. p. 381-391
+ 
+o Dean, DJ, Gour, JR, Hagen, G, Hjorth-Jensen, M, Kowalski K, Papenbrock, T, Piecuch, P, Wloch, M, Nuclear structure calculations with coupled cluster methods from quantum chemistry, Nuclear Physics A, Volume: 752  Pages: 299C-308C, DOI: 10.1016/j.nuclphysa.2005.02.041, Published: Apr 18 2005
+
+o Dean, DJ, Hjorth-Jensen, M, Kowalski, K, Papenbrock, T, Wloch, M, Piecuch, P, Coupled cluster approaches to nuclei, ground states and excited states, Edited by:Covello, A, Key topics in nuclear structure, Pages: 147-157, Published: 2005, Conference: 8th International Spring Seminar on Nuclear Physics, Location: Paestum, Italy, May 23-27, 2004
 
 
+o Brown, B.A.; Clement, R.; Schatz, H.; Giansiracusa, J.; Richter, W.A.; Hjorth-Jensen, Morten; Kratz, K.L.; Pfeiffer, B.; Walters, W.B.  Nuclear structure theory for the astrophysical rp-process and r-process. Nuclear Physics A 2003 ;Volume 719. p. 177-184
+ 
+o Dean, David J.; Hjorth-Jensen, Morten.  Toward coupled-cluster implementations in nuclear structure. AIP Conference Proceedings 2003 ;Volume 656. p 197-204
+ 
+o Schiller A. et al, Radiative strength functions and level densities, Pages: 432-440 (2003), Conference: 11th International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics, Pruhonice, Czech Republic, sep 02-06, 2002
+ 
+o Hjorth-Jensen, Morten.  Pairing correlations, from neutron stars to finite nuclei. Progress of Theoretical Physics Supplement 2002 ;Volume 146. p. 289-298
+ 
+o Schiller, Andreas; Guttormsen, Magne; Hjorth-Jensen, Morten; Melby, Elin; Rekstad, John Bernhard; Siem, Sunniva. Level density and thermal properties in rare earth nuclei. Physics Atomic Nuclei 2001 ;Volume 64.(7) p. 1186-1193
+ 
+ 
+o Elgarøy, Øystein; Engeland, Torgeir; Hjorth-Jensen, Morten; Osnes, Eivind.  Pairing correlations in nuclear systems, from infinite nuclear matter to finite nuclei. International journal of modern physics B 2001 ;Volume 15. p. 1501-1509
+ 
+ 
+o Vidanya, Isaac; Polls, Artur; Ramos, Angels; Engvik, Lars; Hjorth-Jensen, Morten. Hyperon effects on the properties of beta-stable neutron star matter. Nuclear Physics A 2001 ;Volume 691. p. 443-446
+ 
+ 
+o Rekstad, John Bernhard; Bergholt, Lisbeth; Guttormsen, Magne; Hjorth-Jensen, Morten; Ingebretsen, Finn; Melby, Elin; Messelt, Svein; Schiller, Andreas; Siem, Sunniva; Ødegård, Stein Westad. Measurement of level densities and gamma ray strength functions. AIP Conference Proceedings 2000 ;Volume 529.(1) p. 144-151
+ 
+o Engeland T, Hjorth-Jensen M, Osnes E., Effective interactions in medium heavy nuclei, NUCLEAR PHYSICS A 701  Pages: 416C-421C (2002). Conference: 5th International Conference on Radioactive Nuclear Beams, Divonne, France, March 27-APR 01, 2000
+
+o Engeland T, Hjorth-Jensen M, Holt A, and Osnes E,   Large-scale realistic nuclear structure studies in the Sn-region. Edited by:Covello, A. Conference: 7th International Spring Seminar on Nuclear Physics, Maiori, Italy, MAY 27-31, 2001
+
+o Schiller et al,  Level density and thermal properties in rare earth nuclei. Conference: International Conference on Nuclear Structure and Related Topics, DUBNA, RUSSIA, JUN 06-10, 2000. PHYSICS OF ATOMIC NUCLEI 64  Pages: 1186-1193 DOI: 10.1134/1.1389540 Published: JUL 2001
+
+o Lipoglavsek, M, Baktash, C, Carpenter, MP,  et al, First observation of excitation across the Sn-100 core. Conference: Conference on Nuclear Structure 2000 (NS2000), E LANSING, MICHIGAN, AUG 15-19, 2000. Nuclear Physics A 682  Pages: 399C-403C (2001), DOI: 10.1016/S0375-9474(00)00666-7
+
+ 
+o Siiskonen, Teemu; Suhonen, Jouni; Hjorth-Jensen, Morten.  Effective Shell-Model Transition Operators for Muon-Capture Calculations.  Conference: 2nd International Conference on Nonaccelerator New Physics (NANP 99) Location: Joint inst nuclear res, Dubna, Russia Date: JUN 28-JUL 03, 1999. Physics of Atomic Nuclei  Volume: 63   Issue: 7   Pages: 1182-1186   Published: JUL 2000
 
 
+o Suhonen, J; Aunola, M; Kortelainen, M; et al., Refined shell-model matrix elements for muon-capture processes. Conference: Workshop on Calculation of Double-Beta-Decay Matrix Elements (MEDEX 99) Location: PRAGUE, CZECH REPUBLIC Date: JUL 20-23, 1999, CZECHOSLOVAK JOURNAL OF PHYSICS  Volume: 50   Issue: 4   Pages: 567-575   Published: APR 2000
 
+o Siem, S; Schiller, A; Guttormsen, M; et al., Level density and thermal properties in rare earth nuclei. Conference: International Symposium on Exotic Nuclear Structures (ENS 2000) Location: DEBRECEN, HUNGARY Date: MAY 15-20, 2000 ACTA PHYSICA HUNGARICA NEW SERIES-HEAVY ION PHYSICS  Volume: 12   Issue: 2-4   Pages: 299-302   Published: 2000
+
+o Rekstad, J; Bergholt, L; Guttormsen, M; et al., Measurements of level densities and gamma ray strength functions. Edited by: Wender, S. Conference: 10th International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics Location: SANTA FE, NM Date: AUG 30-SEP 03, 1999. AIP CONFERENCE PROCEEDINGS   Volume: 529   Pages: 144-151   Published: 2000
+
+o Melby, E; Bergholt, L; Guttormsen, M; et al., Experimental temperature and heat capacity in rare earth nuclei. Conference: International Conference on Achievements and Perspectives in Nuclear Structure Location: IRAKLION, GREECE Date: JUL 11-17, 1999, PHYSICA SCRIPTA  Volume: T88   Pages: 138-140   Published: 2000
+
+
+ 
+o Stone, N.J.; White, G.N.; Rikovska, J.; Ohya, S.; Giles, T.J.; Towner, I.S.; Brown, B.A.; Fogelberg, Birger; Jacobsson, L.; Hjorth-Jensen, Morten.  NMR/ON nuclear magnetic dipole moments near 132Sn: I. At the shell closure: meson exchange current effects. Hyperfine Interactions 1999 ;Volume 120. p. 645-649
+ 
+ 
+o White, G.N.; Stone, N.J.; Rikovska, J.; Ohya, S.; Giles, T.J.; Towner, I.S.; Brown, B.A.; Fogelberg, Birger; Jacobsson, L.; Hjorth-Jensen, Morten.  New on-line NMR/ON nuclear magnetic dipole moments near 132Sn: II variation with proton and neutron number: shell model treatment of `collective' effects. Hyperfine Interactions 1999 ;Volume 120. p. 651-655
+
+o Elgaroy, O; Hjorth-Jensen, M, Properties of pairing correlations in infinite nuclear matter.Edited by: daProvidencia, J; Malik, FB. Conference: 21st International Workshop on Condensed Matter Theories Location: LUSO, PORTUGAL Date: SEP 22-26, 1997. CONDENSED MATTER THEORIES, Volume: 13   Pages: 381-391   Published: 1998
+ 
+o Drago, Alessandro; Hjorth-Jensen, Morten; Tambini, Ubaldo. Neutron stars and massive quark matter. Progress in Particle and Nuclear Physics 1996 ;Volume 36. p. 407-408
+
+o Engeland, T, Hjorth-Jensen, M, Holt, A., and Osnes, E.,  Extensive nuclear structure calculations in the tin isotopes. Edited by: Klapdor Kleingrothaus, HV and Stoica, S. Conference: International Workshop on Double-Beta Decay and Related Topics Location: ECT*, TRENTO, ITALY Date: APR 24-MAY 05, 1995, (World Scientific, Singapore, 1996), Pages: 421-451
+ 
+o Engeland, Torgeir; Hjorth-Jensen, Morten; Holt, Anne; Osnes, Eivind.  Large shell model calculations with realistic effective interactions. Physica Scripta 1995 ;T56. p. 58-66 Conference: International Symposium on New Nuclear Structure Phenomena in the Vicinity of Closed Shells Location: STOCKHOLM, SWEDEN, AUG 30-SEP 03, 1994 
+ 
+ 
+o Hjorth-Jensen, Morten; Engeland, Torgeir; Holt, Anne; Osnes, Eivind.  Perturbative many-body approaches to finite nuclei. Physics reports 1994 ;242. p. 37-69 By: Conference: International Conference on Realistic Nuclear Structure, to Celebrate the 60th Birthday of TTS Kuo, Suny Stony Brook, NY, USA,  May 28-30, 1992
+
+ 
+o Holt, Anne; Engeland, Torgeir; Hjorth-Jensen, Morten; Osnes, Eivind.  The structure of the neutron deficient Sn isotopes. Nuclear Physics A 1994 ;Volume 570. p. 137c-144c Conference: International Symposium on Nuclear Structure Physics Today Location: Chung Yuan Christian Univ, Chungli, Taiwan Date: MAY 11-15, 1993 
+
+o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern meson-exchange potentials, Edited by A. Covello, 3rd international spring seminar on nuclear physics, Ischia, Italy, May 21-25, 1990, (World Scientific Singapore, 1991), pages 87-97 
 

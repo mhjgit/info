@@ -68,11 +68,9 @@ o Presently supervising 12 Master of Science students (University of Oslo) and f
 
 * With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computation with the traditional science amd mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
 
-* With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2016 the initiative has run and developed eleven courses. I chaired the steering committee from its beginning in 2010 till 2015. I have taught two of these courses and been one of the organizers on five of the eleven courses.
+* With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2017 the initiative has run and developed twelve courses. I chaired the steering committee from its beginning in 2010 till 2015. I have taught and organized three of these courses and been one of the organizers on five of the twelve courses.
 
-* Together with colleagues in the USA, I am, due to my shared position at Michigan State University, deeply involved in the set up of a large center in theoretical nuclear physics that will be linked up with the coming Facility for Radioactive Ion Beams at Michigan State university. 
-
-* I initiated and lead the new "Master of Science program on Computational Science at the University of Oslo":"http://mhjensen.github.io/CPMLS/doc/pub/Masterprogram/html/Masterprogram.html". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. It includes now six departments at the University of Oslo.
+* I initiated and lead the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. It includes now seven  departments at faculty of Mathematics and Natural Sciences of  the University of Oslo.
 
 === Editorial boards and committees ===
 
@@ -224,7 +222,7 @@ o Chris Sullivan, committee member
 o Thomas Redpath, committee member
 o Sean Sweany, committee member
 o Rachel Taverner, committee member
-o Nathan Parzuchowski, committee member. Defenddc thesis April 2017.
+o Nathan Parzuchowski, committee member. Defended thesis April 2017.
 o Titus Morris, committee member. Defended thesis May 2016
 o Kenneth Whitmore, committee member. Defended thesis June 2016
 o Alex Dombos, committee member
