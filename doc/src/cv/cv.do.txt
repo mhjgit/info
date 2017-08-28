@@ -1,6 +1,6 @@
 TITLE: Biographical  information
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
-DATE: 2016
+DATE: today
 
 ===== Professional preparation, education  and personal data: =====
 
@@ -53,18 +53,18 @@ o "Google scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en
 o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126"
 o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106"
 o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607"
-o A total of 144 peer reviewed articles and four books to be published.
-o Supervised and co-supervised 60 graduate students (48 Master of Science and 12 PhD students)
+o A total of 148 peer reviewed articles and four books to be published.
 o Authored and co-authored 22 Physical Review Letters articles, 15 Rapid communications in Physical Review C, seven Physics Letters B articles, one Astrophysical Journal Letters article and one Nature Physics article
-o Written one Physics viewpoint and been highlighted in one other.
+o Written two Physics viewpoints and been highlighted in one other.
 o Taught and developed several courses in Computational Physics and many-body physics, courses in nuclears structure and quantum physics and mechanics and statistical mechanics.
 o More than two hundred invited talks, seminars, colloquia and lectures given worldwide.
 o Organized more than 30 conferences, workshops and schools and advanced courses.
-o Presently supervising 7 Master of Science students (University of Oslo) and four PhD students (MSU)
+o Supervised and co-supervised 63 graduate students (51 Master of Science and 12 PhD students)
+o Presently supervising 12 Master of Science students (University of Oslo) and five PhD students (MSU)
 
 ===== Synergistic Activities and service through the years: =====
 
-* Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last fifteen years I have guided  48 Master of Science of students (28 have continued with PhD studies) and twelve PhD students.  I currently supervise twelve Master of Science students at the University of Oslo. I supervise four PhD students at Michigan State University.
+* Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last fifteen years I have guided  51 Master of Science of students (29 have continued with PhD studies) and twelve PhD students.  I currently supervise twelve Master of Science students at the University of Oslo. I supervise five PhD students at Michigan State University.
 
 * With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computation with the traditional science amd mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
 
@@ -368,6 +368,13 @@ o Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)
 
 === Lectures and organization of schools: ===
 
+o Alex Brown, Alexandra Gade, Morten Hjorth-Jensen, Gustav Jansen, Robert Grzywacz, Nuclear Talent course on Nucleartheory for Nuclear Structure Experiments, July 3-21 2017. "Main organizer and teacher with in total fifteen hours of lectures":"https://github.com/NuclearTalent/NuclearStructure". 
+
+o Hjorth-Jensen, Morten, "High performance computing in Nuclear Physics":"https://icer-acres.msu.edu/summer-2017/schedule/", Lecture at the *Advanced Computational Research Experience* at Michigan State University, East Lansing, Michigan, June 1, 2017.
+
+o Hjorth-Jensen, Morten, "How to write good code":"https://icer-acres.msu.edu/summer-2017/schedule/", Lecture at the *Advanced Computational Research Experience* at Michigan State University, East Lansing, Michigan, May 24, 2017.
+
+
 o Hjorth-Jensen, Morten, "Computational Nuclear Physics and Post Hartree-Fock Methods. Configuration Interaction Theory, Many-Body Perturbation Theory and Coupled Cluster Theory":"http://rafael.ujf.cas.cz/school", five lectures at 28th Indian-Summer School on Ab Initio Methods in Nuclear Physics, Prague, Czech Republic, August 29 - September 2, 2016.
 
 o Hjorth-Jensen, Morten, "Computational Physics and Quantum Mechanical Systems":"http://compphysics.github.io/CompPhysUTunis/doc/web/course.html", one week course on Computational Physics at the University of Tunis El Manar, Tunis, Tunisia, May 16-20, 2016. In total 15 hours of lectures and 15 hours of computer lab and exercises. 
@@ -455,7 +462,7 @@ o Hjorth-Jensen, Morten. CENS: A computational Environment for Nuclear Structure
 o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2017.
 o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2017.
 o Morten Hjorth-Jensen, *Nuclear many-body physics, a computational perspective*, in preparation for Taylor Francis.
-o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":":http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
+o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
 
 === Publications in journals with a referee system: ===
 
@@ -465,15 +472,15 @@ o Morten Hjorth-Jensen, *Correlations i many-body systems*, *Progress in Particl
 
 o "Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen":"https://arxiv.org/abs/1608.08127", *First-principles calculations for c-coefficients of the isobaric mass multiplet equation in the 1p0f shell*, *Physical Review C* Rapids, 96:xxxx (2017). 
 
-o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":":http://www.springer.com/us/book/9783319533353", *Motivation and Overarching Aims*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, Volume _936_ pages 1-4 (2017).
+o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Motivation and Overarching Aims*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, Volume _936_ pages 1-4 (2017).
 
 o "Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jensen":"http://www.springer.com/us/book/9783319533353", *High-performance computing and infinite nuclear matter*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, Volume _936_ pages 293-399 (2017).
 
-o Fei Yuan, Jørgen Høgberget, Titus Morris, Sam Novario, Nathan Parzuchowski, Sarah Reimann, Scott K. Bogner and Morten Hjorth-Jensen,   *First principle calculations of quantum dot systems*, Journal of Chemical Physics, "in press (2017)":"http://lanl.arxiv.org/abs/1707.00229".
+o "Fei Yuan, Sam Novario, Nathan Parzuchowski, Sarah Reimann, Scott K. Bogner and Morten Hjorth-Jensen":"http://lanl.arxiv.org/abs/1707.00229".,   *First principle calculations of quantum dot systems*, Journal of Chemical Physics, "in press (2017).
 
 o "Morten Hjorth-Jensen":"https://physics.aps.org/articles/v10/72", *Scattering Experiments Tease Out the Strong Force*, *Physics*, 10:72 (2017).
 
-o Naofumi Tsunoda, Takaharu Otsuka, Noritaka Shimizu, Morten Hjorth-Jensen, Kazuo Takayanagi, Toshio Suzuki, *Exotic neutron-rich medium-mass nuclei with realistic nuclear forces*, *Physical Review C* Rapids, 95:021304(R) (2017), "https://journals.aps.org/prc/abstract/10.1103/PhysRevC.95.021304". 
+o "Naofumi Tsunoda, Takaharu Otsuka, Noritaka Shimizu, Morten Hjorth-Jensen, Kazuo Takayanagi, Toshio Suzuki":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.95.021304", *Exotic neutron-rich medium-mass nuclei with realistic nuclear forces*, *Physical Review C* Rapids, 95:021304(R) (2017).
 
 o G. Hagen, M. Hjorth-Jensen, G. R. Jansen, T. Papenbrock, *Emergent properties of nuclei from ab initio coupled-cluster calculations*, *Physica Scripta*, 91:063006 (2016).
 
