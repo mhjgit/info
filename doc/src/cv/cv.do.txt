@@ -76,25 +76,29 @@ o Presently supervising 7 Master of Science students (University of Oslo) and fo
 
 === Editorial boards and committees ===
 
+* "Board member of the European Center for Theoretical Studies in Nuclear Physics and Related Areas, Trento, Italy, 2017-present":"http://ectstar.eu/"
+
 * Member of the Physics Advisory Comittee at the National Superconducting Cyclotron Laboratory, Michigan State University, East Lansing, USA, 2003-2008
 
 * Member of the Canadian research council's evaluation board on subatomic physics 2012-2015.
 
 * Member of the Swedish research council's evaluation board on subatomic physics 2007-2008.
 
-* Editorial Board member of Physical Review C (2014-2016)
+* Editorial Board member of Physical Review C, 2014-2016
 
-* Editorial Board member of European Physical Journal A (2010-2016)
+* Editorial Board member of European Physical Journal A, 2010-2016
 
-* Editorial Board member of European Physical Journal Special Topics (2010-present)
+* Editorial Board member of European Physical Journal Special Topics, 2010-present
 
-* Editorial Board member of Springer's Lecture Notes in Physics (2010-present)
+* Editorial Board member of Springer's Lecture Notes in Physics, 2010-present
 
-* Editorial Board member of Springer's Undergraduate Lecture Notes in Physics (2014-present)
+* Editorial Board member of Springer's Undergraduate Lecture Notes in Physics, 2014-present
 
-* Editorial board member of Computers in Science and Discovery journal, a journal by IOP, UK (2008-2014)
+* Editorial Board member of Springer's University Texts  in Physics, 2015-present
 
-* "Steering Committee member of the FRIB theory alliance at Michigan State University (2013-2016)":"http://fribtheoryalliance.org/"
+* Editorial board member of Computers in Science and Discovery journal, a journal by IOP, UK, 2008-2014
+
+* "Steering Committee member of the FRIB theory alliance at Michigan State University 2013-2016":"http://fribtheoryalliance.org/"
 
 * "Initiated and led the Nuclear Talent initiative from 2010 till 2015, now member of the Steering committee":"http://www.nucleartalent.org/"
 
@@ -198,6 +202,7 @@ o Presently supervising 7 Master of Science students (University of Oslo) and fo
 * Member or leader of several job assessment committees in Norway and the USA
 
 === Member of International Advisory committees ===
+o 22nd International Few-Body Conference, member of IAC 2018
 o International Nuclear Physics Conference, member of IAC since 2008
 o Nuclear Structure 2010 and 2014, member of IAC
 o Program Advisor Committee for Recent Progress in Many-Body Theories, member since 2007
@@ -205,7 +210,7 @@ o Scientific advisory committee for Nuclear Theory in the Supercomputing Era
 o International Advisory committee of International Conference on Mathematical Modeling in Physical Sciences
 o International Advisory committee for XI Latin American Symposium on Nuclear Physics and Applications 
 o International Advisory Board for Conference on Computational Physics
-o International Advisory committee for EURORIB15
+o International Advisory committee for EURORIB15 and EURORIB18
 o International Advisory committee for SIAM conference on Computational Science and Engineering in Boston, 2013
 
 ===  Member of Advisory Committees at Michigan State University ===
@@ -219,12 +224,12 @@ o Chris Sullivan, committee member
 o Thomas Redpath, committee member
 o Sean Sweany, committee member
 o Rachel Taverner, committee member
-o Nathan Parzuchowski, committee member. Defends thesis April 2017.
+o Nathan Parzuchowski, committee member. Defenddc thesis April 2017.
 o Titus Morris, committee member. Defended thesis May 2016
 o Kenneth Whitmore, committee member. Defended thesis June 2016
 o Alex Dombos, committee member
-o Josh Bradt, committee member
-o Charles Loelius, committee member
+o Josh Bradt, committee member, Defended thesis July 2017
+o Charles Loelius, committee member, Defended thesis May 2017
 o Safwan Shanab, committee member
 o Hao Lin, committee member
 o Mao Xingze, committee member
@@ -264,25 +269,27 @@ o Favorite graduate teacher at the Department of Physics and Astronomy of Michig
 
 
 === Present PhD students ===
-o John Bower, Michigan State University, started in 2014
+
 o Justin Lietz, Michigan State University, started in 2013
 o Sam Novario, Michigan State University, started in 2014
 o Fei Yuan, Michigan State University, started in 2013
+o Nicolas Valverde, Michigan State University, started in 2017
+o Omokuyani C. Udiani , Michigan State University, started in 2017
 
 === Present Master of Science Students ===
 
 o Håkon Emil Kristiansen, University of Oslo, (2015-2017)
-o Christian Fleischer, University of Oslo, (2015-2017)
-o Sean Bruce Sangholt Miller, University of Oslo, (2015-2017)
 o Alexander Fleischer, University of Oslo, (2015-2017)
+o Giovanni Pederiva, University of Oslo, (2016-2018)
+o Anna Gribovskaya, University of Oslo, (2016-2018)
+o Andrei Kucharenka, University of Oslo, (2016-2018)
+o Vilde Moe Flugsrud, University of Oslo, (2016-2018)
+o Alfred Alocias Mariadason, University of Oslo, (2016-2018)
+o Marius Jonsson, University of Oslo, (2016-2018)
+o Hans Mathias Vege Mamen, University of Oslo, (2016-2018)
 o Morten Ledum, University of Oslo, (2015-2017), co-supervisor
 o Håkon Treider Vikør, University of Oslo, (2015-2017), co-supervisor
 o Jon-Andreas Stende, University of Oslo, (2015-2017), co-supervisor
-o Giovanni Pederiva, University of Oslo, (2016-2018), co-supervisor
-o Anna Gribovskaya, University of Oslo, (2016-2018)
-o Marius Jonsson, University of Oslo, (2016-2018)
-o August Gelmuyden, University of Oslo, (2016-2018), co-supervisor
-o Hans Mathias Vege Mamen, University of Oslo, (2016-2018), co-supervisor
 
 === Former PhD students and their present positions ===
 o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014), now post-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo 
@@ -307,6 +314,9 @@ o Sølve Selstø (UiO 2008-2010), now Associate Professor at Oslo University Col
 o Nicolas Michel (MSU 2013), now senior researcher at Michigan State University
 
 === Former Master of Science Students(links to their thesis will be added)  ===
+o Sean Bruce Sangholt Miller, University of Oslo, (2015-2017)
+o Christian Fleischer, University of Oslo, (2015-2017)
+o John Bower, Michigan State University, (2014-2017)
 o Wilhelm Holmen, University of Oslo (2014-2016)
 o Roger Kjøde, University of Oslo, (2014-2016)
 o Håkon Sebatian Mørk, University of Oslo, (2014-2016)
@@ -442,26 +452,30 @@ o Hjorth-Jensen, Morten. CENS: A computational Environment for Nuclear Structure
 =====  Research, Publications, books, refereed scientific articles, talks and research grants  =====
 
 === Books: ===
-o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2016.
-o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2016.
+o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2017.
+o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2017.
 o Morten Hjorth-Jensen, *Nuclear many-body physics, a computational perspective*, in preparation for Taylor Francis.
-o M. Hjorth-Jensen, Maria Paola Lambardo, and Ubirajara Van Kolck (editors), *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, to be published in Lectures Notes in Physics by Springer in 2016.
+o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":":http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
 
 === Publications in journals with a referee system: ===
 
+o Morten Hjorth-Jensen, *Understanding the limits of nuclear stability*, Physica Scripta Focus issue on 21st Century Frontiers, in press (2017). 
 
+o Morten Hjorth-Jensen, *Correlations i many-body systems*, *Progress in Particle and Nuclear Physics*, in press (2017).
 
+o "Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen":"https://arxiv.org/abs/1608.08127", *First-principles calculations for c-coefficients of the isobaric mass multiplet equation in the 1p0f shell*, *Physical Review C* Rapids, 96:xxxx (2017). 
 
-o "Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen":"https://arxiv.org/abs/1608.08127", *First-principles calculations for c-coefficients of the isobaric mass multiplet equation in the 1p0f shell*, submitted to *Physical Review Letters*, "arXiv1608.08127 (2016)":"https://arxiv.org/abs/1608.08127". 
+o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":":http://www.springer.com/us/book/9783319533353", *Motivation and Overarching Aims*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, Volume _936_ pages 1-4 (2017).
 
+o "Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jensen":"http://www.springer.com/us/book/9783319533353", *High-performance computing and infinite nuclear matter*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, Volume _936_ pages 293-399 (2017).
 
-o Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jensen, *High-performance computing and infinite nuclear matter*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, (Springer, in press, 2016).
+o Fei Yuan, Jørgen Høgberget, Titus Morris, Sam Novario, Nathan Parzuchowski, Sarah Reimann, Scott K. Bogner and Morten Hjorth-Jensen,   *First principle calculations of quantum dot systems*, Journal of Chemical Physics, "in press (2017)":"http://lanl.arxiv.org/abs/1707.00229".
 
-o Fei Yuan, Jørgen Høgberget, Titus Morris, Sam Novario, Nathan Parzuchowski, Sarah Reimann, Scott K. Bogner and Morten Hjorth-Jensen,   *First principle calculations of quantum dot systems*, in preparation for Journal of Chemical Physics, 2016.
+o "Morten Hjorth-Jensen":"https://physics.aps.org/articles/v10/72", *Scattering Experiments Tease Out the Strong Force*, *Physics*, 10:72 (2017).
 
-o G. Hagen, M. Hjorth-Jensen, G. R. Jansen, T. Papenbrock, *Emergent properties of nuclei from ab initio coupled-cluster calculations*, Focus issues of *Physica Scripta*, 91:063006 (2016).
+o Naofumi Tsunoda, Takaharu Otsuka, Noritaka Shimizu, Morten Hjorth-Jensen, Kazuo Takayanagi, Toshio Suzuki, *Exotic neutron-rich medium-mass nuclei with realistic nuclear forces*, *Physical Review C* Rapids, 95:021304(R) (2017), "https://journals.aps.org/prc/abstract/10.1103/PhysRevC.95.021304". 
 
-o Naofumi Tsunoda, Takaharu Otsuka, Noritaka Shimizu, Morten Hjorth-Jensen, Kazuo Takayanagi, Toshio Suzuki, *Exotic neutron-rich medium-mass nuclei with realistic nuclear forces*, *Physical Review C* Rapids, in press, "arXiv1601.06442 (2016)":"https://arxiv.org/abs/1601.06442". 
+o G. Hagen, M. Hjorth-Jensen, G. R. Jansen, T. Papenbrock, *Emergent properties of nuclei from ab initio coupled-cluster calculations*, *Physica Scripta*, 91:063006 (2016).
 
 o G. Hagen, A. Ekstrom, C. Forssen , G. R. Jansen, W. Nazarewicz, T. Papenbrock, K. A. Wendt, S. Bacca, N. Barnea, B. Carlsson, C. Drischler, K. Hebeler, M. Hjorth-Jensen, M. Miorelli, G. Orlandini, A. Schwenk, and J. Simonis,  *Charge, neutron, and weak size of the atomic nucleus*,  *Nature Physics*, 12:186–190 (2016).
 
@@ -888,6 +902,17 @@ o Holt, Anne; Engeland, Torgeir; Hjorth-Jensen, Morten; Osnes, Eivind.  The stru
 o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern meson-exchange potentials, Edited by A. Covello, 3rd international spring seminar on nuclear physics, Ischia, Italy, May 21-25, 1990, (World Scientific Singapore, 1991), pages 87-97 
 
 === Talks, lectures and seminars at workshops, conferences, schools  and institute colloquiua ===
+
+o Alex Brown, Alexandra Gade, Morten Hjorth-Jensen, Gustav Jansen, Robert Grzywacz, Nuclear Talent course on Nucleartheory for Nuclear Structure Experiments, July 3-21 2017. "Main organizer and teacher with in total fifteen hours of lectures":"https://github.com/NuclearTalent/NuclearStructure". 
+
+o Hjorth-Jensen, Morten, "High performance computing in Nuclear Physics":"https://icer-acres.msu.edu/summer-2017/schedule/", Lecture at the *Advanced Computational Research Experience* at Michigan State University, East Lansing, Michigan, June 1, 2017.
+
+o Hjorth-Jensen, Morten, "How to write good code":"https://icer-acres.msu.edu/summer-2017/schedule/", Lecture at the *Advanced Computational Research Experience* at Michigan State University, East Lansing, Michigan, May 24, 2017.
+
+
+o Hjorth-Jensen, Morten, "Minnetalen over Hans Petter Langtangen":"http://www.dnva.no/c26754/kalender/index.html?year=2017&month=3&day=16", Det Norske Vitenskapsakademiet, Oslo, Norway, March 16, 2017.
+
+o Hjorth-Jensen, Morten, "Living on the edge of stability, challenges to nuclear theory in the FRIB era":"https://science.nd.edu/events/2017/01/30/nuclear-physics-seminar-prof-morten-hjorth-jensen/", Nuclear Physics seminar, Unversity of Notre Dame, Notre Dame, IN 46556, USA, January 30, 2017 
 
 o Hjorth-Jensen, Morten, "Computational Nuclear Physics and Post Hartree-Fock Methods. Configuration Interaction Theory, Many-Body Perturbation Theory and Coupled Cluster Theory":"http://rafael.ujf.cas.cz/school", five lectures at 28th Indian-Summer School on Ab Initio Methods in Nuclear Physics, Prague, Czech Republic, August 29 - September 2, 2016.
 
@@ -1587,6 +1612,8 @@ o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern
  
 === Selected research grants as PI ===
 
+o 2016-present Principal investigator at the Norwegian center of excellence in Education *Center for Computing in Science Education*, University of Oslo wit annual funding from NOKUT of 5MNOK
+o 2017-2020 600 kUSD from the National Science Foundation for the project From nuclei to neutron stars, CO-PI with Scott Bogner. Grant number PHY-1713901
 o 2014-2017 600 kUSD from the National Science Foundation for the project Computational Nuclear Many-body Physics, CO-PI with Scott Bogner. Grant number PHY-1404159
 o 2010-2015 15 MNOK from the Research Council of Norway, Multi-scale physics on the computer, Collaboration between Universities. Grant number ISP-Fysikk/216699 in Trondheim, Ås, and Oslo on research and education in computational physics
 o 2008-2012 1.5 MNOK for organizing the MSU-UT/ORNL-UiO network on Computational Nuclear Many-Body Theory. Sponsor, SiU, the Norwegian center for internationalization in higher education
