@@ -468,7 +468,7 @@ o Morten Hjorth-Jensen, *Understanding the limits of nuclear stability*, Physica
 
 o Morten Hjorth-Jensen, *Correlations i many-body systems*, *Progress in Particle and Nuclear Physics*, in press (2017).
 
-o "Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen":"https://arxiv.org/abs/1608.08127", *First-principles calculations for c-coefficients of the isobaric mass multiplet equation in the 1p0f shell*, *Physical Review C* Rapids, 96:xxxx (2017). 
+o "Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.96.024323", *First-principles calculations for c-coefficients of the isobaric mass multiplet equation in the 1p0f shell*, *Physical Review C* Rapids, 96:024323 (2017). 
 
 o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Motivation and Overarching Aims*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, Volume _936_ pages 1-4 (2017).
 
