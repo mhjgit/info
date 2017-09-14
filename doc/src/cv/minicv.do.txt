@@ -1,6 +1,6 @@
 TITLE: Biographical  information
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
-DATE: 2016
+DATE: September 14, 2017
 
 ===== Professional preparation, education  and personal data: =====
 
@@ -47,25 +47,57 @@ o Elected member of the Royal Norwegian Society of Sciences and Letters, 2015
 o University of Oslo award for excellence in teaching for developing the Computational Physics group, 2015
 o Favorite graduate teacher at the Department of Physics and Astronomy at Michigan State University, 2016 
 
-===== Citation metrics, highly cited articles, and additional research highlights: =====
+===== Highly cited articles, and additional research highlights: =====
 
-o "Google scholar h-index=47, 8292 citations (August 2016)":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en"
-o ISI web of science h-index=41 Search hjorth-jensen or hjorthjensen 
-o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126", cited 676 times (Google Scholar)
-o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106", cited 393 times (Google Scholar)
-o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607", cited 334 times (Google Scholar)
-o A total of 144 peer reviewed articles and four books to be published.
-o Supervised and co-supervised 60 graduate students (48 Master of Science and 12 PhD students)
-o Authored and co-authored 22 Physical Review Letters articles, 15 Rapid communications in Physical Review C, seven Physics Letters B articles, one Astrophysical Journal Letters article and one Nature Physics article
-o Written one Physics viewpoint and been highlighted in one other.
+o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126"
+o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106"
+o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607"
+o A total of 148 peer reviewed articles and four books to be published.
+o Authored and co-authored 22 Physical Review Letters articles, 17 Rapid communications in Physical Review C, seven Physics Letters B articles, one Astrophysical Journal Letters article and one Nature Physics article
+o Written two Physics viewpoints and been highlighted in one other.
 o Taught and developed several courses in Computational Physics and many-body physics, courses in nuclears structure and quantum physics and mechanics and statistical mechanics.
 o More than two hundred invited talks, seminars, colloquia and lectures given worldwide.
 o Organized more than 30 conferences, workshops and schools and advanced courses.
-o Presently supervising 7 Master of Science students (University of Oslo) and four PhD students (MSU)
+o Supervised and co-supervised 63 graduate students (51 Master of Science and 12 PhD students)
+o Presently supervising 12 Master of Science students (University of Oslo) and five PhD students (MSU)
 
-=== Books: ===
-o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2016.
-o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2016.
+===== Synergistic Activities and service through the years: =====
+
+* Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last fifteen years I have guided  51 Master of Science of students (29 have continued with PhD studies) and twelve PhD students.  I currently supervise twelve Master of Science students at the University of Oslo. I supervise five PhD students at Michigan State University.
+
+* With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computation with the traditional science amd mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
+
+* With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2017 the initiative has run and developed twelve courses. I chaired the steering committee from its beginning in 2010 till 2015. I have taught and organized three of these courses and been one of the organizers on five of the twelve courses.
+
+* I initiated and lead the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. It includes now seven  departments at the faculty of Mathematics and Natural Sciences of  the University of Oslo.
+
+
+===== Books: =====
+o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2017.
+o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2017.
 o Morten Hjorth-Jensen, *Nuclear many-body physics, a computational perspective*, in preparation for Taylor Francis.
-o M. Hjorth-Jensen, Maria Paola Lambardo, and Ubirajara Van Kolck (editors), *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, to be published in Lectures Notes in Physics by Springer in 2016.
+o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
+
+
+
+===== Collaborators (2012-2017) =====
+On theory I collaborate
+with Scott Bogner, Alex Brown, Heiko Hergert, Witek Nazarewicz, Filomena Nunes, Luke Roberts and Andrea Shindler at MSU, 
+David Dean, Gaute Hagen and Thomas Papenbrock at UTK
+and ORNL, Wick Haxton at Berkeley, Mihai Horoi at Central Michigan University,
+Christian Forssen and Andreas Ekstr\"om at Chalmers, Sweden, Carlo Barbieri at Surrey, UK, 
+Sweden, Francesco Pederiva at University of Trento, Takaharu Otsuka and Kazuo Takayanagi at Tokyo University, Japan, 
+and Artur Polls at the University of Barcelona, Spain.  On Computing in Science education I collaborate with Professor Danny Caballero at Michigan State Univeristy, in addition to many colleagues at the University of Oslo.
+Furthermore, I collaborate closely with many experimental groups nationally and internationally.
+
+
+===== Graduate and Postdoctoral Advisors =====
+Eivind Osnes (University of Oslo, Norway, PhD advisor), Ben Mottelson (ECT, postdoctoral advisor)
+===== Thesis Advisor and Postgraduate-Scholar Sponsor =====
+o Supervised and co-supervised 63 graduate students (51 Master of Science and 12 PhD students)
+o Presently supervising 12 Master of Science students (University of Oslo) and five PhD students (MSU)
+
+
+
+
 
