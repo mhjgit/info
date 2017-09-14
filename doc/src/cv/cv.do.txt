@@ -49,11 +49,11 @@ o Favorite graduate teacher at the Department of Physics and Astronomy at Michig
 
 ===== Citation metrics, highly cited articles, and additional research highlights: =====
 
-o "Google scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en", h-index 51, 9171 citations.
-o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126", 730 citations.
-o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106", 402 citations.
-o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607", 362 citations.
-o A total of 148 peer reviewed articles and four books to be published.
+o "Google scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en".
+o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126".
+o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106".
+o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607".
+o A total of 148 peer reviewed articles and four books.
 o Authored and co-authored 22 Physical Review Letters articles, 17 Rapid communications in Physical Review C, seven Physics Letters B articles, one Astrophysical Journal Letters article and one Nature Physics article
 o Written two Physics viewpoints and been highlighted in one other.
 o Taught and developed several courses in Computational Physics and many-body physics, courses in nuclears structure and quantum physics and mechanics and statistical mechanics.
@@ -113,6 +113,8 @@ o Presently supervising 12 Master of Science students (University of Oslo) and f
 * Member of the OECD working group in nuclear physics 2006-2008
 
 * January 2009-December 2011, leader of the Nuclear Physics group at the University of Oslo
+
+* Leader the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. 
 
 
 === Referee for International Journals ===
@@ -216,7 +218,7 @@ I am member or chair person of the following graduate  student committees at Mic
 o Justin Lietz, chair
 o Fei Yuan, chair together with Scott Bogner 
 o Sam Novario, chair
-o John Bower, chair together with Scott Bogner  
+o John Bower, chair together with Scott Bogner. Master of Science thesis May 2017.  
 o Adam Jones, committee member
 o Chris Sullivan, committee member
 o Thomas Redpath, committee member
@@ -255,7 +257,10 @@ I teach now the following courses at the University of Oslo and Michigan State U
 * "PHYS981 Nuclear Structure":"https://github.com/NuclearStructure/PHY981", graduate level, Spring semester (MSU) 
 * "PHY480/905 Computational Physics":"https://github.com/CompPhysics/ComputationalPhysicsMSU" (MSU), undergraduate and graduate level, Spring semester
 
-I have also taught introductory quantum physics (FYS2140, 2000-2004) and Statistical Mechanics (FYS4130, 1990-1994) at the University of Oslo, Norway.
+* From the fall of 2018 I will develop and teach the new course on _Data analysis and Machine Learning_ at the University of Oslo. This course is a compulsory course that is part of the new interdisciplinary Master of Science program {\em Computational Science.
+
+I have also taught introductory quantum physics, FYS2140, 2000-2004, Statistical Mechanics, FYS4130, 1990-1994 and I have developed an advanced course on "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kjm4480/", 2009-2014, all at the at\
+ the University of Oslo, Norway. At Michigan I have also taught an advanced course in Nuclear Structure Physics PHYS981 Nuclear Structure, graduate level, Spring semester, 2013-2016.
 
 === Teaching Awards: ===
 
@@ -278,13 +283,13 @@ o Omokuyani C. Udiani , Michigan State University, started in 2017
 
 o Håkon Emil Kristiansen, University of Oslo, (2015-2017)
 o Alexander Fleischer, University of Oslo, (2015-2017)
-o Giovanni Pederiva, University of Oslo, (2016-2018)
+o Giovanni Pederiva, University of Oslo, (2016-2018), co-supervisor
 o Anna Gribovskaya, University of Oslo, (2016-2018)
 o Andrei Kucharenka, University of Oslo, (2016-2018)
 o Vilde Moe Flugsrud, University of Oslo, (2016-2018)
 o Alfred Alocias Mariadason, University of Oslo, (2016-2018)
 o Marius Jonsson, University of Oslo, (2016-2018)
-o Hans Mathias Vege Mamen, University of Oslo, (2016-2018)
+o Hans Mathias Vege Mamen, University of Oslo, (2016-2018), co-supervisor
 o Morten Ledum, University of Oslo, (2015-2017), co-supervisor
 o Håkon Treider Vikør, University of Oslo, (2015-2017), co-supervisor
 o Jon-Andreas Stende, University of Oslo, (2015-2017), co-supervisor

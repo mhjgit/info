@@ -1,10 +1,21 @@
 TITLE: Service to community
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
-DATE: 2016
+DATE: today
 
-===== Service through the years =====
+
+===== Synergistic Activities and service through the years: =====
+
+* Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last fifteen years I have guided  51 Master of Science of students (29 have continued with PhD studies) and twelve PhD students.  I currently supervise twelve Master of Science students at the University of Oslo. I supervise five PhD students at Michigan State University.
+
+* With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computation with the traditional science amd mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
+
+* With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2017 the initiative has run and developed twelve courses. I chaired the steering committee from its beginning in 2010 till 2015. I have taught and organized three of these courses and been one of the organizers on five of the twelve courses.
+
+* I initiated and lead the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. It includes now seven  departments at the faculty of Mathematics and Natural Sciences of  the University of Oslo.
 
 === Editorial boards and committees ===
+
+* "Board member of the European Center for Theoretical Studies in Nuclear Physics and Related Areas, Trento, Italy, 2017-present":"http://ectstar.eu/"
 
 * Member of the Physics Advisory Comittee at the National Superconducting Cyclotron Laboratory, Michigan State University, East Lansing, USA, 2003-2008
 
@@ -12,19 +23,21 @@ DATE: 2016
 
 * Member of the Swedish research council's evaluation board on subatomic physics 2007-2008.
 
-* Editorial Board member of Physical Review C  2014-2016
+* Editorial Board member of Physical Review C, 2014-2016
 
-* Editorial Board member of European Physical Journal A 2010-2016
+* Editorial Board member of European Physical Journal A, 2010-2016
 
-* Editorial Board member of European Physical Journal Special Topics 2010-present
+* Editorial Board member of European Physical Journal Special Topics, 2010-present
 
-* Editorial Board member of Springer's Lecture Notes in Physics 2010-present
+* Editorial Board member of Springer's Lecture Notes in Physics, 2010-present
 
-* Editorial Board member of Springer's Undergraduate Lecture Notes in Physics 2013-present
+* Editorial Board member of Springer's Undergraduate Lecture Notes in Physics, 2014-present
 
-* Editorial board member of Computers in Science and Discovery journal, a journal by IOP, UK.
+* Editorial Board member of Springer's University Texts  in Physics, 2015-present
 
-* "Steering Committee member of the FRIB theory alliance at Michigan State University (2013-2016)":"http://fribtheoryalliance.org/"
+* Editorial board member of Computers in Science and Discovery journal, a journal by IOP, UK, 2008-2014
+
+* "Steering Committee member of the FRIB theory alliance at Michigan State University 2013-2016":"http://fribtheoryalliance.org/"
 
 * "Initiated and led the Nuclear Talent initiative from 2010 till 2015, now member of the Steering committee":"http://www.nucleartalent.org/"
 
@@ -41,6 +54,8 @@ DATE: 2016
 * Member of the OECD working group in nuclear physics 2006-2008
 
 * January 2009-December 2011, leader of the Nuclear Physics group at the University of Oslo
+
+* Leader the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. 
 
 
 === Referee for International Journals ===
@@ -87,6 +102,8 @@ DATE: 2016
 
 * Referee for Journal of Mathematics Physics
 
+* Referee for Progress in Theoretical Physics
+
 * Referee for Polish Journal of Physics
 
 === Other Referee Activities ===
@@ -109,7 +126,7 @@ DATE: 2016
 
 * Referee for ESF, European Science Foundation
 
-* Referee for Vetenskapsradet, the Swedish Research Council
+* Referee for Vetenskapsrådet, the Swedish Research Council
 
 * Referee for the Danish Resource Council
 
@@ -119,10 +136,21 @@ DATE: 2016
 
 * Opponent at several PhD dissertations.
   
-* Member of more than 20 PhD guidance committees at Michigan State University
+* Member of 22 PhD guidance committees at Michigan State University
 
 * Several expert evaluations on promotion applications.
 
 * Member or leader of several job assessment committees in Norway and the USA
 
+=== Member of International Advisory committees ===
+o 22nd International Few-Body Conference, member of IAC 2018
+o International Nuclear Physics Conference, member of IAC since 2008
+o Nuclear Structure 2010 and 2014, member of IAC
+o Program Advisor Committee for Recent Progress in Many-Body Theories, member since 2007
+o Scientific advisory committee for Nuclear Theory in the Supercomputing Era 
+o International Advisory committee of International Conference on Mathematical Modeling in Physical Sciences
+o International Advisory committee for XI Latin American Symposium on Nuclear Physics and Applications 
+o International Advisory Board for Conference on Computational Physics
+o International Advisory committee for EURORIB15 and EURORIB18
+o International Advisory committee for SIAM conference on Computational Science and Engineering in Boston, 2013
 
