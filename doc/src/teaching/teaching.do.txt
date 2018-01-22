@@ -3,7 +3,7 @@ AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of
 DATE: today
 
 ===== Thesis projects =====
-Mst of the projects listed below can form the basis for a Master of Science thesis or a longer PhD thesis. The topics listed below reflect to  a large extent my own interests and research topics. 
+Mst of the projects listed below can form the basis for a Master of Science thesis or a longer PhD thesis. The topics listed below reflect to  a large extent my own interests and research topics. Below you will also find links to actual thesis projects.
 
 ===  Large-scale diagonalization methods and quantum mechanical systems ===
 
@@ -15,6 +15,8 @@ Mst of the projects listed below can form the basis for a Master of Science thes
 
 === Many-body methods and quantum computing ===
 
+=== Many-body methods and machine learning ===
+
 === Theoretical aspects of many-body methods ===
 
 === High-performance computing and quantum-mechanical systems ===
@@ -23,7 +25,7 @@ Mst of the projects listed below can form the basis for a Master of Science thes
 
 === Quantum chromodynamics and effective field theories on the lattice ===
 
-
+"You can read more here about the above topics, with explict proposal for thesis topics":"https://compphysics.github.io/ThesisProjects/doc/web/thesis.html".
 
 ===== Courses, study programs and educational initiatives =====
 
