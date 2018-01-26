@@ -35,9 +35,9 @@ Please feel free to come by and discuss. I teach now the following courses at th
 
 * "FYS3150/4150 Computational Physics I":"http://www.uio.no/studier/emner/matnat/fys/FYS3150/", Fall semester, senior undergraduate level (Oslo) 
 * "FYS4411 Computational Physics II: Quantum mechanical systems":"http://www.uio.no/studier/emner/matnat/fys/FYS4411/", M.S and PhD level, Spring semester (Oslo) 
-
-* PHYS981 Nuclear Structure, M.S. and PhD level, Spring semester (MSU) 
 * PHY480/905 Computational Physics (MSU), Spring semester
+* "FYS-MAT3155/4155 Data Analysis and Machine Learning":"http://www.uio.no/studier/emner/matnat/fys/FYS-MAT4155/", graduate level, Fall semester (Oslo) 
+
 
 I have also developed a course on many-body physics at the University of Oslo, 
 * "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-KJM4480/", M.S. and PhD level, Fall semester (Oslo) 
@@ -66,4 +66,5 @@ o Favorite graduate teacher, Department of Physics and Astronomy, Michigan State
 
 
 * I initiated and lead the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. It includes now seven  departments at the faculty of Mathematics and Natural Sciences of  the University of Oslo.
+
 
