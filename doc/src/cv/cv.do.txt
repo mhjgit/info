@@ -36,16 +36,17 @@ physics as well as computational aspects of quantum mechanical methods.
 
 ===== Awards: =====
 
-o University of Oslo award for excellence in teaching, 2000
+o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2000/11/det-viktigste-er-aa-inspirere.html", 2000 (250kNOK)
 o Fellow of the American Physical Society, 2007
 o Oak Ridge National Laboratory excellence in research award, 2008
 o Outstanding referee award of the American Physical Society, 2008
-o University of Oslo award for excellence in teaching for the _Computing in Science Education_ project, 2011
-o NOKUT (Norwegian entity of quality assessment in higher education) award for excellence in teaching for the _Computing in Science Education_ project, 2012
+o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2011/08/undervisning-for-framtidig-forsking.html" for the _Computing in Science Education_ project, 2011 (250kNOK)
+o NOKUT (Norwegian entity of quality assessment in higher education) "award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2012/04/uio-tok-andreplass-i-utdanningskvalitet.html" for the _Computing in Science Education_ project, 2012
 o Elected member of the Norwegian Academy of Sciences and Letters, 2013
 o Elected member of the Royal Norwegian Society of Sciences and Letters, 2015 
-o University of Oslo award for excellence in teaching for developing the Computational Physics group, 2015
+o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2015/10/instituttet-som-lofter-fram-gode-forelesere.html" for developing the Computational Physics group, 2015 (250kNOK)
 o Favorite graduate teacher at the Department of Physics and Astronomy at Michigan State University, 2016 
+o _Olav Thon Foundation_ "National prize for excellence in teaching award":"https://www.ntbinfo.no/pressemelding/olav-thon-stiftelsen-annonserte-arets-priser-42-millioner-til-forskning-og-undervisning?publisherId=8983491&releaseId=16475069" (National, all Norwegian higher education institutions, 500kNOK), 2018
 
 ===== Citation metrics, highly cited articles, and additional research highlights: =====
 
@@ -59,8 +60,8 @@ o Written two Physics viewpoints and been highlighted in one other.
 o Taught and developed several courses in Computational Physics and many-body physics, courses in nuclears structure and quantum physics and mechanics and statistical mechanics.
 o More than two hundred invited talks, seminars, colloquia and lectures given worldwide.
 o Organized more than 30 conferences, workshops and schools and advanced courses.
-o Supervised and co-supervised 63 graduate students (51 Master of Science and 12 PhD students)
-o Presently supervising 12 Master of Science students (University of Oslo) and five PhD students (MSU)
+o Supervised and co-supervised 63 graduate students (51 Master of Science and 14 PhD students)
+o Presently supervising 12 Master of Science students (University of Oslo) and three PhD students (MSU)
 
 ===== Synergistic Activities and service through the years: =====
 
@@ -94,7 +95,12 @@ o Presently supervising 12 Master of Science students (University of Oslo) and f
 
 * Editorial Board member of Springer's University Texts  in Physics, 2015-present
 
+* Editorial Board member of Springer's Undergraduate Texts  in Physics, 2016-present
+
+* Editorial Board member of Springer's Graduate Texts  in Physics, 2018-present
+
 * Editorial board member of Computers in Science and Discovery journal, a journal by IOP, UK, 2008-2014
+
 
 * "Steering Committee member of the FRIB theory alliance at Michigan State University 2013-2016":"http://fribtheoryalliance.org/"
 
@@ -193,6 +199,8 @@ o Presently supervising 12 Master of Science students (University of Oslo) and f
 
 * Referee for the Russian Research Council
 
+* Referee for the Research Council of Luxembourg
+
 * Opponent at several PhD dissertations.
   
 * Member of 22 PhD guidance committees at Michigan State University
@@ -216,11 +224,11 @@ o International Advisory committee for SIAM conference on Computational Science 
 ===  Member of Advisory Committees at Michigan State University ===
 I am member or chair person of the following graduate  student committees at Michigan State University:
 o Justin Lietz, chair
-o Fei Yuan, chair together with Scott Bogner 
-o Sam Novario, chair
+o Fei Yuan, chair.  Defended thesis January 24 2018.
+o Sam Novario, chair. Defends thesis February 7 2018.
 o John Bower, chair together with Scott Bogner. Master of Science thesis May 2017.  
-o Adam Jones, committee member
-o Chris Sullivan, committee member
+o Adam Jones, committee member. Master of Science thesis July 2017.  
+o Chris Sullivan, committee member. Defended thesis January 2018.
 o Thomas Redpath, committee member
 o Sean Sweany, committee member
 o Rachel Taverner, committee member
@@ -233,10 +241,11 @@ o Charles Loelius, committee member, Defended thesis May 2017
 o Safwan Shanab, committee member
 o Hao Lin, committee member
 o Mao Xingze, committee member
-o Amy Lovell, committee member
+o Amy Lovell, committee member. Defended thesis January 24 2018.
 o Debra Richman, committee member
 o Roy Ready, committee member
 o Nathan Watwood, committee member 
+
 ===== Courses, study programs and educational initiatives =====
 
 I am strongly involved in teaching at all levels. I have been heading the bachelor program Physics, Astronomy and Meteorology ( FAM ) in the period 2002-2011. I am also strongly involved in the project Computing in Science Education. Furthermore, with European and American colleagues, we have established the recent successful Nuclear Talent initiative.
@@ -253,36 +262,37 @@ I teach now the following courses at the University of Oslo and Michigan State U
 
 * "FYS3150/4150 Computational Physics I":"http://www.uio.no/studier/emner/matnat/fys/FYS3150/", Fall semester, senior undergraduate level (Oslo) 
 * "FYS4411 Computational Physics II: Quantum mechanical systems":"http://www.uio.no/studier/emner/matnat/fys/FYS4411/", graduate level, Spring semester (Oslo) 
-* "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kjm4480/", graduate level, Fall semester (Oslo) 
+* "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kJM4480/", graduate level, Fall semester (Oslo) 
+* "FYS-MAT3155/4155 Data Analysis and Machine Learning":"http://www.uio.no/studier/emner/matnat/fys/FYS-MAT4155/", graduate level, Fall semester (Oslo) 
 * "PHYS981 Nuclear Structure":"https://github.com/NuclearStructure/PHY981", graduate level, Spring semester (MSU) 
 * "PHY480/905 Computational Physics":"https://github.com/CompPhysics/ComputationalPhysicsMSU" (MSU), undergraduate and graduate level, Spring semester
 
-* From the fall of 2018 I will develop and teach the new course on _Data analysis and Machine Learning_ at the University of Oslo. This course is a compulsory course that is part of the new interdisciplinary Master of Science program {\em Computational Science.
+* From the fall of 2018 I will develop and teach the new course on _Data analysis and Machine Learning_ at the University of Oslo. This course is a compulsory course that is part of the new interdisciplinary Master of Science program "Computational Science":"http://www.uio.no/english/studies/programmes/computational-science-master/index.html". The link to the course is
+* "FYS-MAT3155/4155 Data Analysis and Machine Learning":"http://www.uio.no/studier/emner/matnat/fys/FYS-MAT4155/", senior undergraduate and graduate level, Fall semester (Oslo) 
 
 I have also taught introductory quantum physics, FYS2140, 2000-2004, Statistical Mechanics, FYS4130, 1990-1994 and I have developed an advanced course on "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kjm4480/", 2009-2014, all at the at\
  the University of Oslo, Norway. At Michigan I have also taught an advanced course in Nuclear Structure Physics PHYS981 Nuclear Structure, graduate level, Spring semester, 2013-2016.
 
 === Teaching Awards: ===
 
-o University of Oslo award for excellence in teaching (all university), 2000, 250000 NOK
-o University of Oslo award for excellence in teaching for the _Computing in Science Education_ project (all university), 2011, 250000 NOK
-o NOKUT (Norwegian entity of quality assessment in higher education) award for excellence in teaching for the _Computing in Science Education_ project, 2012. National award. 300000 NOK
-o University of Oslo award for excellence in teaching for developing the Computational Physics group (all university), 2015. 250000 NOK
-o Favorite graduate teacher at the Department of Physics and Astronomy of Michigan State University, 2016 
+o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2000/11/det-viktigste-er-aa-inspirere.html", 2000 (250kNOK)
+o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2011/08/undervisning-for-framtidig-forsking.html" for the _Computing in Science Education_ project, 2011 (250kNOK)
+o NOKUT (Norwegian entity of quality assessment in higher education) "award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2012/04/uio-tok-andreplass-i-utdanningskvalitet.html" for the _Computing in Science Education_ project, 2012
+o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2015/10/instituttet-som-lofter-fram-gode-forelesere.html" for developing the Computational Physics group, 2015 (250kNOK)
+o Favorite graduate teacher at the Department of Physics and Astronomy at Michigan State University, 2016 
+o _Olav Thon Foundation_ "National prize for excellence in teaching award":"https://www.ntbinfo.no/pressemelding/olav-thon-stiftelsen-annonserte-arets-priser-42-millioner-til-forskning-og-undervisning?publisherId=8983491&releaseId=16475069" (National, all Norwegian higher education institutions, 500kNOK), 2018
 
 
 === Present PhD students ===
 
 o Justin Lietz, Michigan State University, started in 2013
-o Sam Novario, Michigan State University, started in 2014
-o Fei Yuan, Michigan State University, started in 2013
 o Nicolas Valverde, Michigan State University, started in 2017
 o Omokuyani C. Udiani , Michigan State University, started in 2017
 
 === Present Master of Science Students ===
 
-o Håkon Emil Kristiansen, University of Oslo, (2015-2017)
-o Alexander Fleischer, University of Oslo, (2015-2017)
+
+
 o Giovanni Pederiva, University of Oslo, (2016-2018), co-supervisor
 o Anna Gribovskaya, University of Oslo, (2016-2018)
 o Andrei Kucharenka, University of Oslo, (2016-2018)
@@ -290,11 +300,13 @@ o Vilde Moe Flugsrud, University of Oslo, (2016-2018)
 o Alfred Alocias Mariadason, University of Oslo, (2016-2018)
 o Marius Jonsson, University of Oslo, (2016-2018)
 o Hans Mathias Vege Mamen, University of Oslo, (2016-2018), co-supervisor
-o Morten Ledum, University of Oslo, (2015-2017), co-supervisor
-o Håkon Treider Vikør, University of Oslo, (2015-2017), co-supervisor
-o Jon-Andreas Stende, University of Oslo, (2015-2017), co-supervisor
+o Øyvind Schøyen Sigmundson, University of Oslo, (2017-2019)
+o Sebastian Gregorius Winther-Larsen, University of Oslo, (2017-2019)
 
 === Former PhD students and their present positions ===
+
+o Samuel Novario (PhD MSU 2018), now post-doctoral fellow at Oak Ridge National Laboratory
+o Fei Yuan (PhD MSU 2018), employed at Google
 o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014), now post-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo 
 o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (PhD UiO 2009), now associate professor of chemistry, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
 o "Gustav Jansen":"https://www.ornl.gov/staff-profile/gustav-r-jansen" (PhD UiO 2012), now permanent position as scientist at the Computational Science Division of Oak Ridge National Laboratory  
@@ -309,14 +321,21 @@ o Øystein Elgarøy (PhD UiO 1999), now professor of Theoretical Astrophysics at
 o Lars Engvik (PhD UiO 1999), now Associate Professor at Sør-Trøndelag University College, Trondheim, Norway, (co-supervisor)
 
 === Post-doctoral fellows and their present positions ===
-o Andreas Ekstrøm (UiO and MSU 2010-2014), now researcher at Chalmers Technological University in Gothenburg, Sweden
+
+o "Andreas Ekstrøm":"https://www.chalmers.se/en/Staff/Pages/Andreas-Ekstrom.aspx" (UiO and MSU 2010-2014), now Associate Professor  at Chalmers Technological University in Gothenburg, Sweden
 o Øyvind Jensen (UiO 2011), now researcher at the "Institute for Energy Technology":"https://www.ife.no/en"
-o Simen Kvaal (UiO 2008-2012), now associate professor of chemistry, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
+o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (UiO 2008-2012), now associate professor of chemistry, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
 o Elise Bergli (UiO 2010-2011), now teacher at Ås high school, Norway
-o Sølve Selstø (UiO 2008-2010), now Associate Professor at Oslo University College 
+o Sølve Selstø (UiO 2008-2010), now  Professor at Oslo Metropolitan University
 o Nicolas Michel (MSU 2013), now senior researcher at Michigan State University
 
 === Former Master of Science Students(links to their thesis will be added)  ===
+
+o Alexander Fleischer, University of Oslo, (2015-2017)
+o Håkon Emil Kristiansen, University of Oslo, (2015-2017)
+o Morten Ledum, University of Oslo, (2015-2017)
+o Håkon Treider Vikør, University of Oslo, (2015-2017), co-supervisor
+o Jon-Andreas Stende, University of Oslo, (2015-2017), co-supervisor
 o Sean Bruce Sangholt Miller, University of Oslo, (2015-2017)
 o Christian Fleischer, University of Oslo, (2015-2017)
 o John Bower, Michigan State University, (2014-2017)
@@ -462,16 +481,14 @@ o Hjorth-Jensen, Morten. CENS: A computational Environment for Nuclear Structure
 =====  Research, Publications, books, refereed scientific articles, talks and research grants  =====
 
 === Books: ===
-o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2017.
-o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2017.
+o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2018.
+o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2018.
 o Morten Hjorth-Jensen, *Nuclear many-body physics, a computational perspective*, in preparation for Taylor Francis.
 o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
 
 === Publications in journals with a referee system: ===
 
-o Morten Hjorth-Jensen, *Understanding the limits of nuclear stability*, Physica Scripta Focus issue on 21st Century Frontiers, in press (2017). 
-
-o Morten Hjorth-Jensen, *Correlations i many-body systems*, *Progress in Particle and Nuclear Physics*, in press (2017).
+o Morten Hjorth-Jensen, *Understanding the limits of nuclear stability*, Physica Scripta Focus issue on 21st Century Frontiers, in press (2018). 
 
 o "Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.96.024323", *First-principles calculations for c-coefficients of the isobaric mass multiplet equation in the 1p0f shell*, *Physical Review C* Rapids, 96:024323 (2017). 
 
@@ -479,7 +496,7 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 o "Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jensen":"http://www.springer.com/us/book/9783319533353", *High-performance computing and infinite nuclear matter*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, Volume _936_ pages 293-399 (2017).
 
-o "Fei Yuan, Sam Novario, Nathan Parzuchowski, Sarah Reimann, Scott K. Bogner and Morten Hjorth-Jensen":"http://lanl.arxiv.org/abs/1707.00229".,   *First principle calculations of quantum dot systems*, Journal of Chemical Physics, "in press (2017).
+o "Fei Yuan, Sam Novario, Nathan Parzuchowski, Sarah Reimann, Scott K. Bogner and Morten Hjorth-Jensen":"http://aip.scitation.org/doi/abs/10.1063/1.4995615".,   *First principle calculations of quantum dot systems*, Journal of Chemical Physics, 147:164109 (2017).
 
 o "Morten Hjorth-Jensen":"https://physics.aps.org/articles/v10/72", *Scattering Experiments Tease Out the Strong Force*, *Physics*, 10:72 (2017).
 
@@ -912,6 +929,12 @@ o Holt, Anne; Engeland, Torgeir; Hjorth-Jensen, Morten; Osnes, Eivind.  The stru
 o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern meson-exchange potentials, Edited by A. Covello, 3rd international spring seminar on nuclear physics, Ischia, Italy, May 21-25, 1990, (World Scientific Singapore, 1991), pages 87-97 
 
 === Talks, lectures and seminars at workshops, conferences, schools  and institute colloquiua ===
+
+o Hjorth-Jensen, Morten, "Nuclear Structure studies from decay spectroscopy, Decay Station Workshop, NSCL/FRIB Michigan State University, January 25-26, 2018":"https://indico.fnal.gov/event/15794/page/11"
+
+o Hjorth-Jensen, Morten, "Computing in Science Education; how to integrate computing in Science courses across disciplines, seminar at the University of Surrey, UK, November 28 2017":"http://www.nucleartheory.net/NPG/recent_seminars.htm"
+
+o Hjorth-Jensen, Morten, "Computing in Physics Education, Invited talk at the 103rd National congress of the Italian Physical Society":"https://www.sif.it/attivita/congresso/103", Trento, September 11-15, 2017, Italy
 
 o Alex Brown, Alexandra Gade, Morten Hjorth-Jensen, Gustav Jansen, Robert Grzywacz, Nuclear Talent course on Nucleartheory for Nuclear Structure Experiments, July 3-21 2017. "Main organizer and teacher with in total fifteen hours of lectures":"https://github.com/NuclearTalent/NuclearStructure". 
 
