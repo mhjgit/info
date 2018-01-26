@@ -32,7 +32,10 @@
 		<div id="theText" class="eight columns">
         <h1>Welcome!</h1>
 <p>I am a theoretical  physicist with a strong interest in computational physics and many-body theory in general, and the nuclear many-body problem and nuclear structure problems in particular. This means that I study various methods for solving either Schrödinger's equation or Dirac's equation for many interacting particles, spanning from algorithmic aspects to the mathematical properties of such methods. The latter also leads to a strong interest in computational physics as well as computational aspects of quantum mechanical methods. 
-You can find more about me and my research interests by clicking on the above links or go to Google Scholar, see <a href="http://scholar.google.com./citations?user=nuiyEmwAAAAJ">http://scholar.google.com./citations?user=nuiyEmwAAAAJ</a></p>
+
+I share my time equally between Michigan State University in the US and the University of Oslo, Norway.
+
+You can find more about me and my research interests by clicking on the above links or go to Google Scholar, see <a href="http://scholar.google.com./citations?user=nuiyEmwAAAAJ">http://scholar.google.com./citations?user=nuiyEmwAAAAJ</a>.</p>
 		</div>
 		<div id="bigphoto" class="seven columns  add-bottom offset-by-one">
 			<img src="./index_files/mhj.jpg">
