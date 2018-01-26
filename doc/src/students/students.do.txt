@@ -4,21 +4,19 @@ DATE: today
 
 ===== Master of Science, PhD and Post-doctoral fellows =====
 
-I have guided and co-guided a total of 63 Master of Science and PhD students. I presently guide five graduate students at Michigan State University  and twelve (four co-supervised) Master of Science students at the University of Oslo.
+I have guided and co-guided a total of 70 Master of Science and PhD students. I presently guide three graduate students at Michigan State University  and nine (two co-supervised) Master of Science students at the University of Oslo.
 
 
 === Present PhD students ===
 
 o Justin Lietz, Michigan State University, started in 2013
-o Sam Novario, Michigan State University, started in 2014
-o Fei Yuan, Michigan State University, started in 2013
 o Nicolas Valverde, Michigan State University, started in 2017
 o Omokuyani C. Udiani , Michigan State University, started in 2017
 
 === Present Master of Science Students ===
 
-o Håkon Emil Kristiansen, University of Oslo, (2015-2017)
-o Alexander Fleischer, University of Oslo, (2015-2017)
+
+
 o Giovanni Pederiva, University of Oslo, (2016-2018), co-supervisor
 o Anna Gribovskaya, University of Oslo, (2016-2018)
 o Andrei Kucharenka, University of Oslo, (2016-2018)
@@ -26,11 +24,13 @@ o Vilde Moe Flugsrud, University of Oslo, (2016-2018)
 o Alfred Alocias Mariadason, University of Oslo, (2016-2018)
 o Marius Jonsson, University of Oslo, (2016-2018)
 o Hans Mathias Vege Mamen, University of Oslo, (2016-2018), co-supervisor
-o Morten Ledum, University of Oslo, (2015-2017), co-supervisor
-o Håkon Treider Vikør, University of Oslo, (2015-2017), co-supervisor
-o Jon-Andreas Stende, University of Oslo, (2015-2017), co-supervisor
+o Øyvind Schøyen Sigmundson, University of Oslo, (2017-2019)
+o Sebastian Gregorius Winther-Larsen, University of Oslo, (2017-2019)
 
 === Former PhD students and their present positions ===
+
+o Samuel Novario (PhD MSU 2018), now post-doctoral fellow at Oak Ridge National Laboratory
+o Fei Yuan (PhD MSU 2018), employed at Google
 o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014), now post-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo 
 o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (PhD UiO 2009), now associate professor of chemistry, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
 o "Gustav Jansen":"https://www.ornl.gov/staff-profile/gustav-r-jansen" (PhD UiO 2012), now permanent position as scientist at the Computational Science Division of Oak Ridge National Laboratory  
@@ -45,14 +45,21 @@ o Øystein Elgarøy (PhD UiO 1999), now professor of Theoretical Astrophysics at
 o Lars Engvik (PhD UiO 1999), now Associate Professor at Sør-Trøndelag University College, Trondheim, Norway, (co-supervisor)
 
 === Post-doctoral fellows and their present positions ===
-o Andreas Ekstrøm (UiO and MSU 2010-2014), now researcher at Chalmers Technological University in Gothenburg, Sweden
+
+o "Andreas Ekstrøm":"https://www.chalmers.se/en/Staff/Pages/Andreas-Ekstrom.aspx" (UiO and MSU 2010-2014), now Associate Professor  at Chalmers Technological University in Gothenburg, Sweden
 o Øyvind Jensen (UiO 2011), now researcher at the "Institute for Energy Technology":"https://www.ife.no/en"
-o Simen Kvaal (UiO 2008-2012), now associate professor of chemistry, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
+o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (UiO 2008-2012), now associate professor of chemistry, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
 o Elise Bergli (UiO 2010-2011), now teacher at Ås high school, Norway
-o Sølve Selstø (UiO 2008-2010), now Associate Professor at Oslo University College 
+o Sølve Selstø (UiO 2008-2010), now  Professor at Oslo Metropolitan University
 o Nicolas Michel (MSU 2013), now senior researcher at Michigan State University
 
 === Former Master of Science Students(links to their thesis will be added)  ===
+
+o Alexander Fleischer, University of Oslo, (2015-2017)
+o Håkon Emil Kristiansen, University of Oslo, (2015-2017)
+o Morten Ledum, University of Oslo, (2015-2017)
+o Håkon Treider Vikør, University of Oslo, (2015-2017), co-supervisor
+o Jon-Andreas Stende, University of Oslo, (2015-2017), co-supervisor
 o Sean Bruce Sangholt Miller, University of Oslo, (2015-2017)
 o Christian Fleischer, University of Oslo, (2015-2017)
 o John Bower, Michigan State University, (2014-2017)
