@@ -1,0 +1,416 @@
+TITLE: ISP report contributions from Morten Hjorth-Jensen
+AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
+DATE: today
+
+
+
+Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last 18 years I have guided  56 Master of Science of students (31 have continued with PhD studies) and 14 PhD students.  I currently supervise nine Master of Science students at the University of Oslo. I supervise three PhD students at Michigan State University. The present ISP grant has allowed to develop Computational Physics to an unprecentented level at the University of Oslo.
+
+With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computation with the traditional science amd mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012.  It was recently award as a center of excellence in education as the new established Center for Computing in Science Education from December 2016. This has strengthened considerably Computational Physics and Science in general at the University of Oslo.
+Based on these developments,  I initiated and lead the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. It includes now seven  departments at the faculty of Mathematics and Natural Sciences of  the University of Oslo.  Together the new Master of Science program on Data Science, the university of Oslo is now in a position where Computational Data Sciences can be coordinated and addressed at a unique level nationally. The specter of courses offered in Computational Science and Data Science cover a broad spectrum, positioned UiO to meet the 3rd industrial reviolution where Machine Learning dan big data will play a central role.
+
+Finally, With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2017 the initiative has run and developed twelve courses. I chaired the steering committee from its beginning in 2010 till 2015. I have taught and organized three of these courses and been one of the organizers on five of the twelve courses.
+
+
+
+===== Educational achievements 2011-2017 =====
+
+=== Teaching Awards: ===
+
+o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2011/08/undervisning-for-framtidig-forsking.html" for the _Computing in Science Education_ project, 2011 (250kNOK)
+o NOKUT (Norwegian entity of quality assessment in higher education) "award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2012/04/uio-tok-andreplass-i-utdanningskvalitet.html" for the _Computing in Science Education_ project, 2012
+o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2015/10/instituttet-som-lofter-fram-gode-forelesere.html" for developing the Computational Physics group, 2015 (250kNOK)
+o Favorite graduate teacher at the Department of Physics and Astronomy at Michigan State University, 2016 
+o _Olav Thon Foundation_ "National prize for excellence in teaching award":"https://www.ntbinfo.no/pressemelding/olav-thon-stiftelsen-annonserte-arets-priser-42-millioner-til-forskning-og-undervisning?publisherId=8983491&releaseId=16475069" (National, all Norwegian higher education institutions, 500kNOK), 2018
+
+
+
+=== PhD students and their present positions 2011-2017 ===
+
+o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014), now post-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo 
+o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (PhD UiO 2009), now associate professor of chemistry, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
+o "Gustav Jansen":"https://www.ornl.gov/staff-profile/gustav-r-jansen" (PhD UiO 2012), now permanent position as scientist at the Computational Science Division of Oak Ridge National Laboratory  
+o "Torquil MacDonald Sørensen":"http://www.mn.uio.no/math/english/people/aca/tmac/" (PhD UiO 2012), post-doctoral fellow at the Department of Mathematics, UiO
+
+None of these students have been supported by the ISP grant. They participated however in several activities and publications related to the ISP grant.
+
+=== Post-doctoral fellows and their present positions 2011-2018 ===
+
+o "Andreas Ekstrøm":"https://www.chalmers.se/en/Staff/Pages/Andreas-Ekstrom.aspx" (UiO and MSU 2010-2014), now Associate Professor  at Chalmers Technological University in Gothenburg, Sweden. Andreas was paid fully by the ISP project
+o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (UiO 2008-2012), now associate professor of chemistry, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant. He was supported by another grant but participated however in several activities and publications related to the ISP grant.
+
+
+=== Present PhD students ===
+
+o Samuel Novario (PhD MSU 2018), now post-doctoral fellow at Oak Ridge National Laboratory
+o Fei Yuan (PhD MSU 2018), employed at Google
+o Justin Lietz, Michigan State University, started in 2013
+o Nicolas Valverde, Michigan State University, started in 2017
+o Omokuyani C. Udiani , Michigan State University, started in 2017
+
+=== Present Master of Science Students ===
+
+o Giovanni Pederiva, University of Oslo, (2016-2018), co-supervisor
+o Anna Gribovskaya, University of Oslo, (2016-2018)
+o Andrei Kucharenka, University of Oslo, (2016-2018)
+o Vilde Moe Flugsrud, University of Oslo, (2016-2018)
+o Alfred Alocias Mariadason, University of Oslo, (2016-2018)
+o Marius Jonsson, University of Oslo, (2016-2018)
+o Hans Mathias Vege Mamen, University of Oslo, (2016-2018), co-supervisor
+o Øyvind Schøyen Sigmundson, University of Oslo, (2017-2019)
+o Sebastian Gregorius Winther-Larsen, University of Oslo, (2017-2019)
+
+
+=== Former Master of Science Students 2011-2017  ===
+
+o Alexander Fleischer, University of Oslo, (2015-2017)
+o Håkon Emil Kristiansen, University of Oslo, (2015-2017)
+o Morten Ledum, University of Oslo, (2015-2017)
+o Håkon Treider Vikør, University of Oslo, (2015-2017), co-supervisor
+o Jon-Andreas Stende, University of Oslo, (2015-2017), co-supervisor
+o "Sean Bruce Sangholt Miller, University of Oslo, (2015-2017)":"
+o Christian Fleischer, University of Oslo, (2015-2017)
+o John Bower, Michigan State University, (2014-2017)
+o Wilhelm Holmen, University of Oslo (2014-2016)
+o Roger Kjøde, University of Oslo, (2014-2016)
+o Håkon Sebatian Mørk, University of Oslo, (2014-2016)
+o Jonas van den Brink, University of Oslo, (2014-2016), co-supervisor
+o Marte Julie Sætra, University of Oslo, (2014-2016), co-supervisor
+o Audun Skau Hansen, University of Oslo, (2013-2015)
+o Henrik Eiding, University of Oslo, (2012-2014)
+o Svenn-Arne Dragly, University of Oslo, (2012-2014)
+o Milad Hobbi Mobarhan, University of Oslo, (2012-2014)
+o Ole Tobias Norli, University of Oslo, (2012-2014)
+o Filip Sand, University of Oslo, (2012-2014), co-supervisor
+o Emilie Fjørner, University of Oslo, (2012-2014), co-supervisor
+o Jørgen Høgberget, University of Oslo, (2011-2013)
+o Sarah Reimann, University of Oslo, (2011-2013)
+o Karl Leikganger, University of Oslo, (2011-2013)
+o Sigve Bøe Skattum, University of Oslo, (2011-2013)
+o Veronica Berglyd Hansen, University of Oslo, (2010-2012)
+o Camilla Nestande Kirkemo, University of Oslo, (2010-2012), co-supervisor
+
+
+===== Scientific output 2011-2017 =====
+
+=== Lectures and organization of schools: 2011-2017 ===
+
+o Alex Brown, Alexandra Gade, Morten Hjorth-Jensen, Gustav Jansen, Robert Grzywacz, Nuclear Talent course on Nucleartheory for Nuclear Structure Experiments, July 3-21 2017. "Main organizer and teacher with in total fifteen hours of lectures":"https://github.com/NuclearTalent/NuclearStructure". 
+
+o Hjorth-Jensen, Morten, "High performance computing in Nuclear Physics":"https://icer-acres.msu.edu/summer-2017/schedule/", Lecture at the *Advanced Computational Research Experience* at Michigan State University, East Lansing, Michigan, June 1, 2017.
+
+o Hjorth-Jensen, Morten, "How to write good code":"https://icer-acres.msu.edu/summer-2017/schedule/", Lecture at the *Advanced Computational Research Experience* at Michigan State University, East Lansing, Michigan, May 24, 2017.
+
+
+o Hjorth-Jensen, Morten, "Computational Nuclear Physics and Post Hartree-Fock Methods. Configuration Interaction Theory, Many-Body Perturbation Theory and Coupled Cluster Theory":"http://rafael.ujf.cas.cz/school", five lectures at 28th Indian-Summer School on Ab Initio Methods in Nuclear Physics, Prague, Czech Republic, August 29 - September 2, 2016.
+
+o Hjorth-Jensen, Morten, "Computational Physics and Quantum Mechanical Systems":"http://compphysics.github.io/CompPhysUTunis/doc/web/course.html", one week course on Computational Physics at the University of Tunis El Manar, Tunis, Tunisia, May 16-20, 2016. In total 15 hours of lectures and 15 hours of computer lab and exercises. 
+
+
+o Co-organizer with Giuseppina Orlandini and Alejandro Kievsky of Nuclear Talent course "Few-body methods and nuclear reactions":"https://groups.nscl.msu.edu/jina/talent/wiki/Course_3", ECT*, Trento, Italy, July 20-August 7 2015
+
+o Carlo Barbieri, Wim Dickhoff, Gaute Hagen, Morten Hjorth-Jensen, and Artur Polls, Nuclear Talent course on Many-body methods for nuclear physics, GANIL, Caen, France, July 5-25 2015. "Main organizer and teacher with in total five hours of lectures":"http://nucleartalent.github.io/Course2ManyBodyMethods/doc/web/course.html". 
+
+o Hjorth-Jensen, Morten, ECT* "Doctoral Training Program 2015 on Computational Nuclear Physics":"http://www.ectstar.eu/node/1287", April 13- May 22, ECT*, Trento, Italy. I taught the last week of the lecture series. In total I have ten one hour lectures. 
+
+o Hjorth-Jensen, Morten, Nuclear Talent School in Nuclear Astrophysics, co-organizer with Richard Cyburt and Hendrik Schatz of the Nuclear Talent course on Nuclear Astrophysics,  Michigan State University, May 26 - June 13, 2014. 
+
+o Hjorth-Jensen, Morten, Nuclear Talent course on Density Functional theories, co-organizer with Scott Bogner, Nicolas Schunck, Dario Vretenar and Peter Ring, European Center for Theoretical Nuclear Physics and Related Areas, Trento, Italy, July 13 -August 1 2014.
+
+
+ 
+o Hjorth-Jensen, Morten, Nuclear Talent Course  Introduction on High-performance computing and computational tools for nuclear physics; ECT*, Trento, Italy, June 24 - July 13 2012. Main organizer and teacher together with Francesco Pederiva, Kevin Schmidt and Calvin Johnson. 
+
+o Hjorth-Jensen, Morten. Computational environment for Nuclear Structure, five lectures in Nuclear Physics at Universidad Complutense Madrid; 2011-01-17 - 2011-02-09
+
+o Hjorth-Jensen, Morten, organizer with David Dean, Thomas Papenprock and Gaute Hagen. Third MSU-UT/ORNL-UiO winter school in nuclear physics; Oak Ridge National Lab, Tennessee, January 2012
+
+o Hjorth-Jensen, Morten, organizer with Alex Brown and teaching five lectures. Second MSU-UT/ORNL-UiO winter school in nuclear physics, East Lansing, Michigan, USA; 2011-01-03 - 2011-01-07
+
+
+
+
+=== Books 2011-2017: ===
+o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2018.
+o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2018.
+o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
+
+=== Publications in journals with a referee system: 2011-2017 ===
+
+
+o "Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.96.024323", *First-principles calculations for c-coefficients of the isobaric mass multiplet equation in the 1p0f shell*, *Physical Review C* Rapids, 96:024323 (2017). 
+
+o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Motivation and Overarching Aims*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, Volume _936_ pages 1-4 (2017).
+
+o "Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jensen":"http://www.springer.com/us/book/9783319533353", *High-performance computing and infinite nuclear matter*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, Volume _936_ pages 293-399 (2017).
+
+o "Fei Yuan, Sam Novario, Nathan Parzuchowski, Sarah Reimann, Scott K. Bogner and Morten Hjorth-Jensen":"http://aip.scitation.org/doi/abs/10.1063/1.4995615".,   *First principle calculations of quantum dot systems*, Journal of Chemical Physics, 147:164109 (2017).
+
+o "Morten Hjorth-Jensen":"https://physics.aps.org/articles/v10/72", *Scattering Experiments Tease Out the Strong Force*, *Physics*, 10:72 (2017).
+
+o "Naofumi Tsunoda, Takaharu Otsuka, Noritaka Shimizu, Morten Hjorth-Jensen, Kazuo Takayanagi, Toshio Suzuki":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.95.021304", *Exotic neutron-rich medium-mass nuclei with realistic nuclear forces*, *Physical Review C* Rapids, 95:021304(R) (2017).
+
+o G. Hagen, M. Hjorth-Jensen, G. R. Jansen, T. Papenbrock, *Emergent properties of nuclei from ab initio coupled-cluster calculations*, *Physica Scripta*, 91:063006 (2016).
+
+o G. Hagen, A. Ekstrom, C. Forssen , G. R. Jansen, W. Nazarewicz, T. Papenbrock, K. A. Wendt, S. Bacca, N. Barnea, B. Carlsson, C. Drischler, K. Hebeler, M. Hjorth-Jensen, M. Miorelli, G. Orlandini, A. Schwenk, and J. Simonis,  *Charge, neutron, and weak size of the atomic nucleus*,  *Nature Physics*, 12:186–190 (2016).
+
+o A. Ekstrom, G. R. Jansen, K. A. Wendt, G. Hagen, T. Papenbrock, B. D. Carlsson, C. Forssen, M. Hjorth-Jensen, P. Navratil, W. Nazarewicz,   *Accurate nuclear radii and binding energies from a chiral interaction*, *Physical Review C*, 91, 051301(R) (2015).
+
+o A. Ekstrom, B. D. Carlsson, K. A. Wendt, C. Forssén, M. Hjorth-Jensen, R. Machleidt, S. M. Wild,  *Statistical uncertainties of a chiral interaction at next-to-next-to leading order*,   *Journal of Physics G*, 42:034003 (2015).
+
+o A. B. Balantekin, J. Carlson, D. J. Dean, G. M. Fuller, R. J. Furnstahl, M. Hjorth-Jensen, R. V. F. Janssens, Bao-An Li, W. Nazarewicz, F. M. Nunes, W. E. Ormand, S. Reddy, B. M. Sherrill ,  *Nuclear Theory and Science of the Facility for Rare Isotope Beams*,   *Modern Physics Letters A*, 29:1430010 (2014).
+
+o Zs. Vajta, M. Stanoiu, D. Sohler, G. R. Jansen, F. Azaiez, Zs. Dombrádi, O. Sorlin, B. A. Brown, M. Belleguic, C. Borcea, C. Bourgeois, Z. Dlouhy, Z. Elekes, Zs. Fülöp, S. Grévy, D. Guillemaud-Mueller, G. Hagen, M. Hjorth-Jensen, F. Ibrahim, A. Kerek, A. Krasznahorkay, M. Lewitowicz, S. M. Lukyanov, S. Mandal, P. Mayet, J. Mrázek, F. Negoita, Yu.-E. Penionzhkevich, Zs. Podolyák, P. Roussel-Chomaz, M. G. Saint-Laurent, H. Savajols, G. Sletten, J. Timár, C. Timis, and A. Yamamoto,   *Excited states in the neutron-rich nucleus 25F,   *Physical Review C*, 89:054323 (2014).
+
+o A. Sanetullaev, M.B. Tsang, W.G. Lynch, Jenny Lee, D. Bazin, K.P. Chan, D. Coupland, V. Henzl, D. Henzlova, M. Kilburn, A.M. Rogers, Z.Y. Sun, M. Youngs, R.J. Charity, L.G. Sobotka, M. Famiano, S. Hudan, D. Shapira, W.A. Peters, C. Barbieri, M. Hjorth-Jensen, M. Horoi, T. Otsuka, T. Suzuki, Y. Utsuno  *Neutron spectroscopic factors of 55Ni hole-states from (p,d) transfer reactions*,   *Physics Letters B*, 736:137 (2014).
+
+o G. Hagen, T. Papenbrock,   A. Ekstrom, G. Baardsen, S. Gandolfi, K. A. Wendt, M. Hjorth-Jensen, and C. Horowitz,  *Coupled-cluster calculations of nucleonic matter*,   *Physical Review C*,  89:014319 (2014).
+
+o T. Papenbrock, G. Hagen, M. Hjorth-Jensen, and  D. J. Dean,   *Coupled-cluster computations of atomic nuclei*,   *Reports on Progress in Physics*, 77:096302 (2014).
+
+o N. Tsunoda, K. Takayanagi, M. Hjorth-Jensen and T. Otsuka,  *Multi-shell effective interactions*,   *Physical Review C*,    89:024313 (2014).
+
+
+o G. Baardsen, A. Ekstrom, G. Hagen, and M. Hjorth-Jensen,  *Coupled-cluster studies of infinite  nuclear matter*,   *Physical Review C*, 88:054312 (2013).  
+
+o V. M. Bader, A. Gade, D. Weisshaar, T. Baugher, D. Bazin, J. S. Berryman, B. A. Brown, A. Ekstrom, M. Hjorth-Jensen, S. R. Stroberg, W. B. Walters, K. Wimmer, and R. Winkler,   *Quadrupole collectivity in neutron-deficient Sn nuclei: 104Sn and the role of proton excitations*,   *Physical Review C*,  88:051301(R) (2013). 
+
+o A. Ekstrom, G. Baardsen, C. Forss'en, G. Hagen, M. Hjorth-Jensen, G. R. Jansen, R. Machleidt, W. Nazarewicz, T. Papenbrock, J. Sarich, and S. M. Wild,   *An optimal chiral interaction at next-to-next-to leading order*,   *Physical Review Letters*,  110:192502 (2013).  
+
+o Lepailleur, A. and Sorlin, O. and Caceres, L. and Bastin, B. and Borcea, C. and Borcea, R. and Brown, B. A. and Gaudefroy, L. and Gr'evy, S. and Grinyer, G. F. and Hagen, G. and Hjorth-Jensen, M. and Jansen, G. R. and Llidoo, O. and Negoita, F. and de Oliveira, F. and Porquet, M.-G. and Rotaru, F. and Saint-Laurent, M.-G. and Sohler, D. and Stanoiu, M. and Thomas, J. C.,  *Spectroscopy of 26F to Probe Proton-Neutron Forces Close to the Drip Line*,   *Physical Review Letters*,  110:082502 (2013). 
+
+o D. D. DiJulio, J. Cederkall, C. Fahlander, A. Ekstrom, M. Hjorth-Jensen, M. Albers, V. Bildstein, A. Blazhev, I. Darby, T. Davinson, H. De Witte, J. Diriken, Ch. Fransen, K. Geibel, R. Gernhäuser, A. Görgen, H. Hess, K. Heyde, J. Iwanicki, R. Lutter, P. Reiter, M. Scheck, M. Seidlitz, S. Siem, J. Taprogge, G. M. Tveten, J. Van de Walle, D. Voulot, N. Warr, F. Wenander, and K. Wimmer  *Coulomb excitation of 107In*,   *Physical Review C*,  87:017301 (2013).   
+
+o C. Forssen, G. Hagen, M. Hjorth-Jensen, W. Nazarewicz, and J. Rotureau,  *Living on the edge of stability, the limits of the nuclear landscape*,   *Physica Scripta*,  T152:014022 (2013). 
+
+o Liddick, S. N. and Abromeit, B. and Ayres, A. and Bey, A. and Bingham, C. R. and Brown, B. A. and Cartegni, L. and Crawford, H. L. and Darby, I. G. and Grzywacz, R. and Ilyushkin, S. and Hjorth-Jensen, M. and Larson, N. and Madurga, M. and Miller, D. and Padgett, S. and Paulauskas, S. V. and Rajabali, M. M. and Rykaczewski, K. and Suchyta, S.,  * Low-energy level schemes of 66,68Fe and inferred proton and neutron excitations across $Z=28$ and $N=40$*,   *Physical Review C*,  87:014325, 2013.  
+
+o D. D. DiJulio, J. Cederkall, C. Fahlander, A. Ekstrom, M. Hjorth-Jensen, M. Albers, V. Bildstein, A. Blazhev, I. Darby, T. Davinson, H. De Witte, J. Diriken, Ch. Fransen, K. Geibel, R. Gernhauser, A. Gorgen, H. Hess, J. Iwanicki, R. Lutter, P. Reiter, M. Scheck, M. Seidlitz, S. Siem, J. Taprogge, G.M. Tveten, J. Van de Walle, D. Voulot, N. Warr, F. Wenander, and K. Wimmer,  *Excitation strengths in 109Sn: Single-neutron and collective excitations near 100Sn*,   *Physical Review C*,  86:031302(R), 2012. 
+
+o D. D. DiJulio, J. Cederkall, C. Fahlander, A. Ekstrom, M. Hjorth-Jensen, M. Albers, V. Bildstein, A. Blazhev, I. Darby, T. Davinson, H. De Witte, J. Diriken, Ch. Fransen, K. Geibel, R. Gernhauser, A. Gorgen, H. Hess, J. Iwanicki, R. Lutter, P. Reiter, M. Scheck, M. Seidlitz, S. Siem, J. Taprogge, G.M. Tveten, J. Van de Walle, D. Voulot, N. Warr, F. Wenander, and K. Wimmer,  *Coulomb excitation of 107Sn*,   *European Journal of Physics A*, 48:105,  2012.  
+
+o Gaute Hagen, Morten Hjorth-Jensen, Gustav Ragnar Jansen, Ruprecht Machleidt, and Thomas Papenbrock, *Evolution of shell structure in neutron-rich calcium isotopes*,   *Physical Review Letters*, 109:032502, 2012. 
+
+o Gaute Hagen, Morten Hjorth-Jensen, Gustav Ragnar Jansen, Ruprecht Machleidt, and Thomas Papenbrock, *Continuum effects and three-nucleon forces in neutron-rich  oxygen isotopes*,   *Physical Review Letters*, 108:242501, 2012.  
+
+o Torres, D. A. and Kumbartzki, G. J. and Sharon, Y. Y. and Zamick, 	L. and Manning, B. and Benczer-Koller, N. and Speidel, K.-H. and 	Ahn, T. and Anagnostatou, V. and Elvers, M. and Goddard, P. and Heinz, 	A. and Ilie, G. and Radeck, D. and Savran, D. and Werner, V. and 	Gurdal, G. and Taylor, M. J. and Maier-Komor, P. and Hjorth-Jensen, 	M. and Robinson, S. J. Q.  *Measurement of the 96Ru g-factor and its nuclear structure interpretation*.  *Physical Review C*, 85:017305, 2012.  
+
+o Torres, D. A. and Kumbartzki, G. J. and Sharon, Y. Y. and Zamick, 	L. and Manning, B. and Benczer-Koller, N. and Gurdal, G. and Speidel, 	K.-H. and Hjorth-Jensen, M. and Maier-Komor, P. and Robinson, S. J. Q. and Ahn, T. and Anagnostatou, V. and Elvers, M. and Goddard, 	P. and Heinz, A. and Ilie, G. and Radeck, D. and Savran, D. and Werner, V.  *First g-factor measurements of the 2+ and the 4+ states of radioactive 100Pd*.  *Physical Review C*, 84:044327, 2011.  
+
+o Naofumi Tsunoda, Takaharu Otsuka, Koshiroh Tsukiyama, and Morten Hjorth-Jensen  *Renormalization persistency of the tensor force in nuclei*.  *Physical Review C*, 84:044322, 2011.  
+
+o O. Jensen, Gaute Hagen, Morten Hjorth-Jensen, Alex Boyd Brown, and Alexandra Gade  *Quenching of spectroscopic factors for proton removal in oxygen isotopes*,   *Physical Review Letters*, 107:032501, 2011. 
+
+o Magnus Pedersen Lohne, Gaute Hagen, Morten Hjorth-Jensen, Simen Kvaal, and Francesco Pederiva,  *Ab initio calculations of Circular quantum dots*.  *Physical Review B*, 84:032501, 2011.    
+
+o Elise Bergli and Morten Hjorth-Jensen,  *Summation of Parquet diagrams as an *ab initio* method in nuclear structure calculations*,  *Annals of Physics*, 326:1125, 2011.   
+
+o Gustav Ragnar Jansen, Morten Hjorth-Jensen, Gaute Hagen, and Thomas Papenbrock,  *Toward open-shell nuclei with coupled-cluster theory*.  *Physical Review C*, 83:054306, 2011. 
+
+o Morten Hjorth-Jensen,  *The Carbon Challenge*,  *Physics*, 4:38, 2011.  
+
+o O. Jensen, G. Hagen, M. Hjorth-Jensen, and J. S. Vaagen,  *Closed-shell properties of 24O with ab initio coupled-cluster theory*,  *Physical Review C*, 83:021305, 2011. 
+
+o Angelo Signoracci, B. Alex Brown, and Morten Hjorth-Jensen,  *Renormalized interactions with a realistic single-particle   basis*,  *Physical Review C*, 83:024315, 2011.   
+
+o Boyd Alexander Brown, Angelo Signoracci, and Morten Hjorth-Jensen,  *Configuration interactions constrained by energy density  functionals*,  *Physics Letters B*, 695:507, 2011.  
+
+=== Contributions to Conference and Workshop Proceedings (refereed and non-refereed) 2011-2017 ===
+
+o Osnes, E, Engeland, T, and Hjorth-Jensen, M, *Large-scale shell-model study of Sn Isotopes*, European Journal of Physics Web of Conferences _95_,01010 (2015)
+
+o Malthe-Sørenssen, Anders; Hjorth-Jensen, Morten; Langtangen, Hans Petter; Mørken, Knut Martin. *Integrasjon av beregninger i fysikkundervisningen*, UNIPED, 38:303, 2015.
+ 
+o Engeland, Torgeir; Hjorth-Jensen, Morten; Kartamyshev, Maxim; Osnes, Eivind.  The Kuo–Brown effective interaction: From 18O to the Sn isotopes. Nuclear Physics A, 928:, 2014 
+ 
+o Takayanagi, K, Tsunoda, N, Hjorth-Jensen, M, Otsuka, T, Effective Hamiltonian in non-degenerate model space. Journal of Physics, Conference Series, 445:012003, 2013, DOI: 10.1088/1742-6596/445/1/012003.  
+ 
+o Hagen G., Papenbrock T., Hjorth-Jensen M., Jansen G., Machleidt R., Living at the edge of stability: the role of continuum and three-nucleon forces. Edited by: Hamilton, JH; Ramayya, AV.  FISSION AND PROPERTIES OF NEUTRON-RICH NUCLEI, ICFN5, Pages: 400-400, Published: 2013. Conference: 5th International Conference on Fission and Properties of Neutron-Rich Nuclei. Date: NOV 04-10, 2012, (World Scientific, Singapore, 2013)
+
+o DiJulio D.D. et al, Shell model based Coulomb excitation gamma-ray intensity calculations in Sn-107, PHYSICA SCRIPTA, Volume: T150, Article Number: 014012, DOI: 10.1088/0031-8949/2012/T150/014012, Published: OCT 2012
+
+o DiJulio D.D. et al, Sub-barrier Coulomb excitation of Sn-107. Edited by:Freeman, S; Andreyev, A; Bruce, A; Deacon, A; Jenkins, D; Joss, D; MacGregor, D; Regan, P; Simpson, J; Tungate, G; Wadsworth, R; Watts, D, RUTHERFORD CENTENNIAL CONFERENCE ON NUCLEAR PHYSICS, 2011, Journal of Physics Conference Series, Volume: 381, Article Number: 012073, DOI: 10.1088/1742-6596/381/1/012073, Published: 2012
+
+o Brown B.A., Signoracci A., and Hjorth-Jensen, M., Configuration interactions constrained by energy density functionals. Edited by:Covello, A; Gargano, A, 10TH INTERNATIONAL SPRING SEMINAR ON NUCLEAR PHYSICS: NEW QUESTS IN NUCLEAR STRUCTURE, Journal of Physics Conference Series, Volume: 267, Article Number: 012028, DOI: 10.1088/1742-6596/267/1/012028, Published: 2011
+
+o Tsunoda, Naofumi; Otsuka, Takahuro; Tsukiyama, Koshiroh; Hjorth-Jensen, Morten. Tensor force in effective interaction of nuclear force. Journal of Physics, Conference Series 2011 ;Volume 267.
+ 
+
+ 
+ 
+
+=== Talks, lectures and seminars at workshops, conferences, schools  and institute colloquiua 2011-2017 ===
+
+
+o Hjorth-Jensen, Morten, "Computing in Science Education; how to integrate computing in Science courses across disciplines, seminar at the University of Surrey, UK, November 28 2017":"http://www.nucleartheory.net/NPG/recent_seminars.htm"
+
+o Hjorth-Jensen, Morten, "Computing in Physics Education, Invited talk at the 103rd National congress of the Italian Physical Society":"https://www.sif.it/attivita/congresso/103", Trento, September 11-15, 2017, Italy
+
+o Alex Brown, Alexandra Gade, Morten Hjorth-Jensen, Gustav Jansen, Robert Grzywacz, Nuclear Talent course on Nucleartheory for Nuclear Structure Experiments, July 3-21 2017. "Main organizer and teacher with in total fifteen hours of lectures":"https://github.com/NuclearTalent/NuclearStructure". 
+
+o Hjorth-Jensen, Morten, "High performance computing in Nuclear Physics":"https://icer-acres.msu.edu/summer-2017/schedule/", Lecture at the *Advanced Computational Research Experience* at Michigan State University, East Lansing, Michigan, June 1, 2017.
+
+o Hjorth-Jensen, Morten, "How to write good code":"https://icer-acres.msu.edu/summer-2017/schedule/", Lecture at the *Advanced Computational Research Experience* at Michigan State University, East Lansing, Michigan, May 24, 2017.
+
+
+o Hjorth-Jensen, Morten, "Minnetalen over Hans Petter Langtangen":"http://www.dnva.no/c26754/kalender/index.html?year=2017&month=3&day=16", Det Norske Vitenskapsakademiet, Oslo, Norway, March 16, 2017.
+
+o Hjorth-Jensen, Morten, "Living on the edge of stability, challenges to nuclear theory in the FRIB era":"https://science.nd.edu/events/2017/01/30/nuclear-physics-seminar-prof-morten-hjorth-jensen/", Nuclear Physics seminar, Unversity of Notre Dame, Notre Dame, IN 46556, USA, January 30, 2017 
+
+o Hjorth-Jensen, Morten, "Computational Nuclear Physics and Post Hartree-Fock Methods. Configuration Interaction Theory, Many-Body Perturbation Theory and Coupled Cluster Theory":"http://rafael.ujf.cas.cz/school", five lectures at 28th Indian-Summer School on Ab Initio Methods in Nuclear Physics, Prague, Czech Republic, August 29 - September 2, 2016.
+
+o Hjorth-Jensen, Morten, "Computational Physics and Quantum Mechanical Systems":"http://compphysics.github.io/CompPhysUTunis/doc/web/course.html", one week course on Computational Physics at the University of Tunis El Manar, Tunis, Tunisia, May 16-20, 2016. In total 15 hours of lectures and 15 hours of computer lab and exercises. 
+
+o Hjorth-Jensen, Morten, "Correlations in many-body systems; from condensed matter physics to nuclear physics":"https://t2.lanl.gov/seminars/?section=abstract&number=-10&year=2016", T-2, Nuclear and Particle Physics, Astrophysics and Cosmology, Los Alamos National Laboratory, New Mexico, USA, Tuesday, April 12, 2016
+
+o Hjorth-Jensen, Morten, "Integrating a Computational Perspective in the Basic Science Education":"http://mhjensenseminars.github.io/EducationalSeminars/doc/pub/cse/html/cse-reveal.html", Department of Physics Colloquium at Central  Michigan University,  Kalamazoo, Michigan, USA, April 4, 2016
+
+
+o Co-organizer with Giuseppina Orlandini and Alejandro Kievsky of Nuclear Talent course "Few-body methods and nuclear reactions":"https://groups.nscl.msu.edu/jina/talent/wiki/Course_3", ECT*, Trento, Italy, July 20-August 7 2015
+
+o Carlo Barbieri, Wim Dickhoff, Gaute Hagen, Morten Hjorth-Jensen, and Artur Polls, Nuclear Talent course on Many-body methods for nuclear physics, GANIL, Caen, France, July 5-25 2015. "Main organizer and teacher with in total five hours of lectures":"http://nucleartalent.github.io/Course2ManyBodyMethods/doc/web/course.html". 
+
+o Hjorth-Jensen, Morten, ECT* "Doctoral Training Program 2015 on Computational Nuclear Physics":"http://www.ectstar.eu/node/1287", April 13- May 22, ECT*, Trento, Italy. I taught the last week of the lecture series. In total I have ten one hour lectures. 
+
+o Hjorth-Jensen, Morten, "Correlations in many-body systems, from condensed matter physics to nuclear physics":"http://clarkfest15.physics.wustl.edu/Docs/intro.php", invited talk at Clarkfest 15,  conference in honor of John W Clark, Wayman Crow Professor of Physics, Washington University in St. Louis, Missouri, April 27-28 2015.
+
+o Hjorth-Jensen, Morten, "Correlations in many-body systems, from condensed matter physics to nuclear physics":"http://www.event.iastate.edu/event/35628", Nuclear Physics Seminar, Iowa State University, Ames, Iowa, April 22 2015.
+
+
+o Hjorth-Jensen, Morten, Nuclear physics education and the national FRIB theory center, plus some cool ways to organize your lectures, special seminar, Iowa State University, Ames, Iowa, April 23 2015.
+
+
+o Hjorth-Jensen, Morten, Integrating a Computational Perspective in the Basic Science Education, Special Lectures and Events, Notre Dame University, South Bend, Indiana, March 30 2015.
+
+o Hjorth-Jensen, Morten, Computing in Science Education.  Integrating a Computational Perspective in the Basic Science Education, Physics Colloquium, Central Michigan University, Mt Pleasant, March 19 2015.
+
+o Hjorth-Jensen, Morten, From Nuclei to Neutron Stars: Why Is Matter Stable? Physics Colloquium, Ohio University, Athens, Ohio,  February 27 2015.
+
+o Hjorth-Jensen, Morten, Computing in Science Education.  Integrating a Computational Perspective in the Basic Science Education, condensed matter seminar, Ohio University, Athens, Ohio,  February 26 2015.
+
+
+o Hjorth-Jensen, Morten, Theory challenges around 78Ni and 132Sn, invited talk at  RIBSS Center retreat and CSAC, Michigan State University, June 11-13 2014.
+
+
+o Hjorth-Jensen, Morten, Living at the edge of stability, understanding the limits of the nuclear landscape, Institute colloquium, Department of Physics, Lousiana State University, Baton Rouge, Lousiana, April 3 2014.
+
+
+o Hjorth-Jensen, Morten, Computing in Science education, how to introduce a computational perspective in the basic science education, special colloquium Department of Physics, Lousiana State University, Baton Rouge, Lousiana, April 4 2014.
+ 
+
+o Hjorth-Jensen, Morten, Correlations in Nuclei and Quantum Dots, invited talk at  The Fourth Conference on NUCLEI and MESOSCOPIC PHYSICS, Michigan State University, May 5-9 2014.
+
+
+o Hjorth-Jensen, Morten, Nuclear Talent School in Nuclear Astrophysics, co-organizer with Richard Cyburt and Hendrik Schatz of the Nuclear Talent course on Nuclear Astrophysics,  Michigan State University, May 26 - June 13, 2014. 
+
+o Hjorth-Jensen, Morten, Nuclear Talent course on Density Functional theories, co-organizer with Scott Bogner, Nicolas Schunck, Dario Vretenar and Peter Ring, European Center for Theoretical Nuclear Physics and Related Areas, Trento, Italy, July 13 -August 1 2014.
+
+
+o Hjorth-Jensen, Morten.  Living at the edge of stability, understanding the limits of the nuclear landscape. Institute colloquium Centre Etudes Nucléaires de Bordeaux Gradignan; 2013-12-10 - 2013-12-10
+
+ 
+o Hjorth-Jensen, Morten.  Educating the next generation of nuclear scientists; how can a center like the ECT* aid in developing modern nuclear physics educational programs?. ECT* 20th anniversary colloquium; 2013-09-14 - 2013-09-14
+ 
+ 
+o Hjorth-Jensen, Morten.  Living at the edge of stability, understanding the limits of the nuclear landscape; computational and algorithmic challenges. XXV IUPAP Conference on Computational Physics, August 20, 2013- August 24, 2013, Moscow, Russia; 2013-08-20 - 2013-08-24
+ 
+ 
+o Hjorth-Jensen, Morten.  Living at the edge of stability, understanding the nuclear landscape. Theory seminar National Superconducting Cyclotron Laboratory; 2013-03-19 - 2013-03-19
+ 
+ 
+o Hjorth-Jensen, Morten.  Living on the edge of stability, the limits of nuclear landscape. Physics Division seminar, Argonne National Laboratory, Illinois, USA; 2013-06-05 - 2013-06-05
+ 
+ 
+o Hjorth-Jensen, Morten.  Living on the edge of stability, the limits of the nuclear landscape. Institute colloquium; 2013-03-22 - 2013-03-22
+ 
+ 
+o Hjorth-Jensen, Morten.  Living on the edge of stability, understanding the limits of the nuclear landscape. Nuclear Theory in the Supercomputing Era; 2013-05-13 - 2013-05-17
+ 
+ 
+o Hjorth-Jensen, Morten.  Computing in Science Education. Seminar at college of engineering; 2012-03-15 - 2012-03-15
+ 
+ 
+o Hjorth-Jensen, Morten.  Computing in Science Education, a new way to teach science?. Institute seminar The Ohio State University; 2012-02-28 - 2012-02-28
+ 
+ 
+o Hjorth-Jensen, Morten.  Evolution of shell structure in neutron-rich isotopes. Research seminar National Superconducting Cyclotron Laboratory; 2012-03-15 - 2012-03-15
+ 
+ 
+o Hjorth-Jensen, Morten.  Evolution of shell structure in neutron-rich isotopes and the stability of nuclear matter. Exotic Nuclear Structure from Nucleons; 2012-10-10 - 2012-10-12
+ 
+ 
+o Hjorth-Jensen, Morten.  Introduction to computational nuclear physics. High-performance computing and computational tools for nuclear physics; 2012-06-24 - 2012-07-13
+ 
+ 
+o Hjorth-Jensen, Morten.  Lecture 2: Configuration interaction theory. High-performance computing and computational tools for nuclear physics; 2012-06-24 - 2012-07-13
+ 
+o Hjorth-Jensen, Morten.  Lectures 3-5: Configuration interaction theory and computational nuclear physics. High-performance computing and computational tools for nuclear physics; 2012-06-24 - 2012-07-13
+ 
+ 
+o Hjorth-Jensen, Morten.  Shell Structure in Neutron-rich isotopes and the stability of nuclear matter. Berkeley Lab Colloquia 2012; 2012-05-30 - 2012-05-30
+ 
+ 
+o Hjorth-Jensen, Morten.  Understanding the stability of nuclear matter. Nuclear strcuture seminar The Ohio State University; 2012-02-29 - 2012-02-29
+ 
+ 
+o Hjorth-Jensen, Morten.  Understanding the stability of nuclear matter. Triangle Nuclear Theory Colloquium; 2012-05-01 - 2012-05-01
+ 
+ 
+o Hjorth-Jensen, Morten.  Why is matter stable?. Theory of Nuclear Physics Related to the RI Facilities; 2012-05-11 - 2012-05-12
+ 
+o Hjorth-Jensen, Morten.  Why is matter stable? Understanding the limits of stability of nuclear matter. Nobel Symposium 152; 2012-06-10 - 2012-06-15
+ 
+ 
+o Hjorth-Jensen, Morten. Computational environment for Nuclear Structure, Lectures I-V. Lecture series in Nuclear Physics at Universidad Complutense Madrid; 2011-01-17 - 2011-02-09
+ 
+ 
+o Hjorth-Jensen, Morten.  Computers in Science Education; a new way to teach Science?. Institute seminar; 2011-03-21 - 2011-03-21
+ 
+ 
+o Hjorth-Jensen, Morten.  Computers in Science Education; a new way to teach Science?. Seminar at Universidad Complutense Madrid; 2011-01-24 - 2011-01-24
+ 
+ 
+o Hjorth-Jensen, Morten.  From few to many nucleons; a tale on recent advances (and challenges) in nuclear many-body theory. Institute seminar; 2011-03-25 - 2011-03-25
+ 
+ 
+o Hjorth-Jensen, Morten. Linking nuclear forces with many-body methods, Lecture II. Second MSU--UT/ORNL winter school in nuclear physics; 2011-01-03 - 2011-01-07
+ 
+ 
+o Hjorth-Jensen, Morten.  Many-body interactions and nuclear structure. Institute seminar National Superconducting Cyclotron laboratory; 2011-01-05 - 2011-01-05
+ 
+ 
+o Hjorth-Jensen, Morten.  Many-body interactions and nuclear structure. Seminar at Universidad Complutense Madrid; 2011-01-18 - 2011-01-18
+ 
+ 
+o Hjorth-Jensen, Morten.  Many-body interactions and nuclear structure at the limits of stability. Institute seminar; 2011-03-22 - 2011-03-22
+ 
+ 
+o Hjorth-Jensen, Morten.  Many-body interactions and nuclear structure at the limits of stability. Nordic Nuclear Physics conference 2011; 2011-06-13 - 2011-06-17
+ 
+ 
+o Hjorth-Jensen, Morten.  Many-body interactions and nuclear structure at the limits of stability. Nuclear Physics in Astrophysics - V; 2011-04-03 - 2011-04-09
+ 
+ 
+o Hjorth-Jensen, Morten.  Many-body methods, Lecture III. Second MSU--UT/ORNL winter school in nuclear physics; 2011-01-03 - 2011-01-07
+ 
+ 
+o Hjorth-Jensen, Morten.  Many-body methods, Lectures IV and V. Second MSU--UT/ORNL winter school in nuclear physics; 2011-01-03 - 2011-01-07
+ 
+ 
+o Hjorth-Jensen, Morten.  Nuclear structure at the limits of stability. Division of Nuclear Physics Meeting 2011; 2011-10-25 - 2011-10-29
+ 
+ 
+o Hjorth-Jensen, Morten.  Parallel programming with MPI. The 10th Annual Meeting on High Performance Computing and Infrastructure in Norway; 2011-05-23 - 2011-05-27
+ 
+ 
+o Hjorth-Jensen, Morten.  Renormalization of nuclear forces, Lecture set I. Second MSU--UT/ORNL winter school in nuclear physics; 2011-01-03 - 2011-01-07
+ 
+ 
+
+
+
+
+
+
+ 
+
