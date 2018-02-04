@@ -335,7 +335,7 @@ o Håkon Emil Kristiansen, University of Oslo, (2015-2017)
 o Morten Ledum, University of Oslo, (2015-2017)
 o Håkon Treider Vikør, University of Oslo, (2015-2017), co-supervisor
 o Jon-Andreas Stende, University of Oslo, (2015-2017), co-supervisor
-o Sean Bruce Sangholt Miller, University of Oslo, (2015-2017)
+o "Sean Bruce Sangholt Miller, University of Oslo, (2015-2017)":"
 o Christian Fleischer, University of Oslo, (2015-2017)
 o John Bower, Michigan State University, (2014-2017)
 o Wilhelm Holmen, University of Oslo (2014-2016)
@@ -367,7 +367,7 @@ o Magnus Lohne Pedersen, University of Oslo, (2008-2010)
 o Simen Sørby, University of Oslo, (2008-2010), co-supervisor
 o Sigurd Wenner, University of Oslo, (2008-2010), co-supervisor
 o Lene Norderhaug Drøsdal, University of Oslo, (2007-2009)
-o Islen Vallejo, University of Oslo, (2007-2009)
+o "Islen Vallejo, University of Oslo, (2007-2009)":"https://www.nilu.no/OmNILU/Kontaktoss/Ansatte/tabid/70/ctl/EmployeeDetails/mid/972/employeeid/5822/tabmoduleid/2333/language/en-GB/Default.aspx", works at the Norwegian Institute for Air Research
 o Jacob Kryvi, Norwegian University of Science and Technology, (2007-2009), co-supervisor
 o Rune Albrigtsen, University of Oslo, (2007-2009)
 o Johannes Rekkedal, University of Oslo, (2007-2009)
