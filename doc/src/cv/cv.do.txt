@@ -929,6 +929,8 @@ o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern
 
 === Talks, lectures and seminars at workshops, conferences, schools  and institute colloquiua ===
 
+o Hjorth-Jensen, Morten, "Integrating Computations in Physics Courses, Workshop on New Horizons in Teaching Science: 18th-19th, June 2018, University of Messina, Italy"
+ 
 o Hjorth-Jensen, Morten, "Nuclear Structure studies from decay spectroscopy, Decay Station Workshop, NSCL/FRIB Michigan State University, January 25-26, 2018":"https://indico.fnal.gov/event/15794/page/11"
 
 o Hjorth-Jensen, Morten, "Computing in Science Education; how to integrate computing in Science courses across disciplines, seminar at the University of Surrey, UK, November 28 2017":"http://www.nucleartheory.net/NPG/recent_seminars.htm"
