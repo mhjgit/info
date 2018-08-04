@@ -50,7 +50,7 @@ o _Olav Thon Foundation_ "National prize for excellence in teaching award":"http
 
 ===== Citation metrics, highly cited articles, and additional research highlights: =====
 
-o "Google scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en".
+o "MSU scholar":"https://scholars.opb.msu.edu/en/persons/morten-hjorth-jensen-2"
 o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126".
 o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106".
 o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607".
@@ -335,7 +335,7 @@ o Håkon Emil Kristiansen, University of Oslo, (2015-2017)
 o Morten Ledum, University of Oslo, (2015-2017)
 o Håkon Treider Vikør, University of Oslo, (2015-2017), co-supervisor
 o Jon-Andreas Stende, University of Oslo, (2015-2017), co-supervisor
-o Sean Bruce Sangholt Miller, University of Oslo, (2015-2017)
+o "Sean Bruce Sangholt Miller, University of Oslo, (2015-2017)":"
 o Christian Fleischer, University of Oslo, (2015-2017)
 o John Bower, Michigan State University, (2014-2017)
 o Wilhelm Holmen, University of Oslo (2014-2016)
@@ -367,7 +367,7 @@ o Magnus Lohne Pedersen, University of Oslo, (2008-2010)
 o Simen Sørby, University of Oslo, (2008-2010), co-supervisor
 o Sigurd Wenner, University of Oslo, (2008-2010), co-supervisor
 o Lene Norderhaug Drøsdal, University of Oslo, (2007-2009)
-o Islen Vallejo, University of Oslo, (2007-2009)
+o "Islen Vallejo, University of Oslo, (2007-2009)":"https://www.nilu.no/OmNILU/Kontaktoss/Ansatte/tabid/70/ctl/EmployeeDetails/mid/972/employeeid/5822/tabmoduleid/2333/language/en-GB/Default.aspx", works at the Norwegian Institute for Air Research
 o Jacob Kryvi, Norwegian University of Science and Technology, (2007-2009), co-supervisor
 o Rune Albrigtsen, University of Oslo, (2007-2009)
 o Johannes Rekkedal, University of Oslo, (2007-2009)
@@ -929,6 +929,8 @@ o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern
 
 === Talks, lectures and seminars at workshops, conferences, schools  and institute colloquiua ===
 
+o Hjorth-Jensen, Morten, "Integrating Computations in Physics Courses, Workshop on New Horizons in Teaching Science: 18th-19th, June 2018, University of Messina, Italy"
+ 
 o Hjorth-Jensen, Morten, "Nuclear Structure studies from decay spectroscopy, Decay Station Workshop, NSCL/FRIB Michigan State University, January 25-26, 2018":"https://indico.fnal.gov/event/15794/page/11"
 
 o Hjorth-Jensen, Morten, "Computing in Science Education; how to integrate computing in Science courses across disciplines, seminar at the University of Surrey, UK, November 28 2017":"http://www.nucleartheory.net/NPG/recent_seminars.htm"
