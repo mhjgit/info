@@ -50,7 +50,7 @@ o _Olav Thon Foundation_ "National prize for excellence in teaching award":"http
 
 ===== Citation metrics, highly cited articles, and additional research highlights: =====
 
-o "MSU scholar":"https://scholars.opb.msu.edu/en/persons/morten-hjorth-jensen-2"
+o "Web of Science":"https://publons.com/researcher/1751939/morten-hjorth-jensen/"
 o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126".
 o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106".
 o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607".
