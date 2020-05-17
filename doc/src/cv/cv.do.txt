@@ -47,10 +47,13 @@ o Elected member of the Royal Norwegian Society of Sciences and Letters, 2015
 o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2015/10/instituttet-som-lofter-fram-gode-forelesere.html" for developing the Computational Physics group, 2015 (250kNOK)
 o Favorite graduate teacher at the Department of Physics and Astronomy at Michigan State University, 2016 
 o _Olav Thon Foundation_ "National prize for excellence in teaching award":"https://www.ntbinfo.no/pressemelding/olav-thon-stiftelsen-annonserte-arets-priser-42-millioner-til-forskning-og-undervisning?publisherId=8983491&releaseId=16475069" (National, all Norwegian higher education institutions, 500kNOK), 2018
+o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"https://web.pa.msu.edu/alumni/awards/osgood_fac_awards.html"
+
 
 ===== Citation metrics, highly cited articles, and additional research highlights: =====
 
-o "Web of Science":"https://publons.com/researcher/1751939/morten-hjorth-jensen/"
+o "Web of Science":"https://publons.com/researcher/1751939/morten-hjorth-jensen/" and "Google Scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=no"
+
 o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126".
 o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106".
 o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607".
@@ -203,7 +206,7 @@ o Presently supervising 9 Master of Science students (University of Oslo) and th
 
 * Opponent at several PhD dissertations.
   
-* Member of 22 PhD guidance committees at Michigan State University
+* Member of 28 PhD guidance committees at Michigan State University
 
 * Several expert evaluations on promotion applications.
 
@@ -223,28 +226,31 @@ o International Advisory committee for SIAM conference on Computational Science 
 
 ===  Member of Advisory Committees at Michigan State University ===
 I am member or chair person of the following graduate  student committees at Michigan State University:
-o Justin Lietz, chair
+o Justin Lietz, chair, defended thesis June 2019.
 o Fei Yuan, chair.  Defended thesis January 24 2018.
 o Sam Novario, chair. Defends thesis February 7 2018.
 o John Bower, chair together with Scott Bogner. Master of Science thesis May 2017.  
 o Adam Jones, committee member. Master of Science thesis July 2017.  
 o Chris Sullivan, committee member. Defended thesis January 2018.
-o Thomas Redpath, committee member
+o Thomas Redpath, committee member. Defended thesis October 2019.
 o Sean Sweany, committee member
-o Rachel Taverner, committee member
+o Rachel Taverner, committee member. Defended thesis May 2019.
 o Nathan Parzuchowski, committee member. Defended thesis April 2017.
 o Titus Morris, committee member. Defended thesis May 2016
 o Kenneth Whitmore, committee member. Defended thesis June 2016
-o Alex Dombos, committee member
+o Alex Dombos, committee member. Defended thesis May 2018.
 o Josh Bradt, committee member, Defended thesis July 2017
 o Charles Loelius, committee member, Defended thesis May 2017
-o Safwan Shanab, committee member
+o Safwan Shanab, committee member. Defended thesis January 2020.
 o Hao Lin, committee member
-o Mao Xingze, committee member
+o Mao Xingze, committee member. Defended thesis May 2020.
 o Amy Lovell, committee member. Defended thesis January 24 2018.
 o Debra Richman, committee member
 o Roy Ready, committee member
 o Nathan Watwood, committee member 
+o Ben Hall, chair
+o Udiani Omokuyani, committee member
+o Jane Kim, chair
 
 ===== Courses, study programs and educational initiatives =====
 
@@ -266,8 +272,10 @@ I teach or have tuaght recently  the following courses at the University of Oslo
 * "PHYS981 Nuclear Structure":"https://github.com/NuclearStructure/PHY981", graduate level, Spring semester (MSU) 
 * "PHY480/905 Computational Physics":"https://github.com/CompPhysics/ComputationalPhysicsMSU" (MSU), undergraduate and graduate level, Spring semester
 
-From the fall of 2018 I will develop and teach the new course on _Data analysis and Machine Learning_ at the University of Oslo. This course is a compulsory course that is part of the new interdisciplinary Master of Science program "Computational Science":"http://www.uio.no/english/studies/programmes/computational-science-master/index.html". The link to the course is
+From the fall of 2018 I havedeveloped and teach the new course on _Data analysis and Machine Learning_ at the University of Oslo. This course is a compulsory course that is part of the new interdisciplinary Master of Science program "Computational Science":"http://www.uio.no/english/studies/programmes/computational-science-master/index.html". The link to the course is
 * "FYS-MAT3155/4155 Data Analysis and Machine Learning":"http://www.uio.no/studier/emner/matnat/fys/FYS-MAT4155/", senior undergraduate and graduate level, Fall semester (Oslo) 
+
+* PHY321 Classical Mechanics, MSU, undergraduate course, spring semester.
 
 I have also taught introductory quantum physics, FYS2140, 2000-2004, Statistical Mechanics, FYS4130, 1990-1994 and I have developed an advanced course on "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kjm4480/", 2009-2014, all at the at\
  the University of Oslo, Norway. At Michigan I have also taught an advanced course in Nuclear Structure Physics PHYS981 Nuclear Structure, graduate level, Spring semester, 2013-2016.
@@ -280,30 +288,42 @@ o NOKUT (Norwegian entity of quality assessment in higher education) "award for 
 o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2015/10/instituttet-som-lofter-fram-gode-forelesere.html" for developing the Computational Physics group, 2015 (250kNOK)
 o Favorite graduate teacher at the Department of Physics and Astronomy at Michigan State University, 2016 
 o _Olav Thon Foundation_ "National prize for excellence in teaching award":"https://www.ntbinfo.no/pressemelding/olav-thon-stiftelsen-annonserte-arets-priser-42-millioner-til-forskning-og-undervisning?publisherId=8983491&releaseId=16475069" (National, all Norwegian higher education institutions, 500kNOK), 2018
-
+o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"https://web.pa.msu.edu/alumni/awards/osgood_fac_awards.html"
 
 === Present PhD students ===
 
-o Justin Lietz, Michigan State University, started in 2013
-o Nicolas Valverde, Michigan State University, started in 2017
-o Omokuyani C. Udiani , Michigan State University, started in 2017
+o Benjamin Hall, Michigan State University, started 2018.
+o Jane Kim, Michigan State University, started 2018.
+o Julie Butler, Michigan State University, started 2018.
+o Omokuyani C. Udiani , Michigan State University, started 2017, co-supervisor
+o Danny Jammoa, Michigan State University, started 2020, co-supervisor
+o Øyvind Sigmundsson Schøyen, University of Oslo, started 2019
+o John Mark Aiken, University of Oslo, started 2017, defends thesis September 2020
 
 === Present Master of Science Students ===
 
-
-
-o Giovanni Pederiva, University of Oslo, (2016-2018), co-supervisor
-o Anna Gribovskaya, University of Oslo, (2016-2018)
-o Andrei Kucharenka, University of Oslo, (2016-2018)
-o Vilde Moe Flugsrud, University of Oslo, (2016-2018)
-o Alfred Alocias Mariadason, University of Oslo, (2016-2018)
-o Marius Jonsson, University of Oslo, (2016-2018)
-o Hans Mathias Vege Mamen, University of Oslo, (2016-2018), co-supervisor
-o Øyvind Schøyen Sigmundson, University of Oslo, (2017-2019)
-o Sebastian Gregorius Winther-Larsen, University of Oslo, (2017-2019)
+o Eina Jørgensen, University of Oslo, (2019-2021), co-supervisor
+o Morten Hemmingsen, University of Oslo, (2019-2021), co-supervisor
+o Huying Zhu, University of Oslo, (2019-2021), co-supervisor
+o Jens Due Bratten, University of Oslo, (2019-2021), co-supervisor
+o Gabriel Cabrera, University of Oslo, (2019-2021), co-supervisor
+o Kristian Wold, University of Oslo, (2019-2021)
+o Martin Krokan Hovden, University of Oslo, (2019-2021)
+o Oliver Hebnes, University of Oslo, (2019-2021), co-supervisor
+o Mohamad Ismail, University of Oslo, (2019-2021), co-supervisor
+o Heine Aabø, University of Oslo, (2018-2020)
+o Stian Bilek, University of Oslo, (2018-2020)
+o Thomas Sjåstad, University of Oslo, (2018-2020)
+o Halvard Sutterud, University of Oslo, (2018-2020)
+o Stian Isachsen, University of Oslo, (2018-2020), co-supervisor
+o Marius, University of Oslo, (2018-2020), co-supervisor
+o Halvard Sutterud, University of Oslo, (2018-2020)
+o Geir Utvik, University of Oslo, (2018-2020)
+o Markus Aspurusten, University of Oslo, (2018-2020), co-supervisor
 
 === Former PhD students and their present positions ===
 
+o Justin Lietz (PhD MSU 2019), now post-doctoral fellow at Oak Ridge National Laboratory
 o Samuel Novario (PhD MSU 2018), now post-doctoral fellow at Oak Ridge National Laboratory
 o Fei Yuan (PhD MSU 2018), employed at Google
 o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014), now post-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo 
@@ -326,16 +346,32 @@ o Øyvind Jensen (UiO 2011), now researcher at the "Institute for Energy Technol
 o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (UiO 2008-2012), now associate professor of chemistry, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
 o Elise Bergli (UiO 2010-2011), now teacher at Ås high school, Norway
 o Sølve Selstø (UiO 2008-2010), now  Professor at Oslo Metropolitan University
-o Nicolas Michel (MSU 2013), now senior researcher at Michigan State University
+o Nicolas Michel (MSU 2013), now senior researcher at Langzhou Nuclear Physics Laboratory, China
 
 === Former Master of Science Students(links to their thesis will be added)  ===
 
+o Vebjørn Gilberg, University of Oslo, (2017-2020), co-supervisor
+o Kari Eriksen, University of Oslo, (2017-2020)
+o Robert Solli, University of Oslo, (2017-2019)
+o Andreas Lefdalsnes, University of Oslo, (2017-2019)
+o Joseph Knutson, University of Oslo, (2017-2019)
+o Bendik Samseth, University of Oslo, (2017-2019)
+o Even Nordhagen, University of Oslo, (2017-2019)
+o Øyvind Schøyen Sigmundson, University of Oslo, (2017-2019)
+o Sebastian Gregorius Winther-Larsen, University of Oslo, (2017-2019)
+o Giovanni Pederiva, University of Oslo, (2016-2018), co-supervisor
+o Anna Gribovskaya, University of Oslo, (2016-2018)
+o Andrei Kucharenka, University of Oslo, (2016-2018)
+o Vilde Moe Flugsrud, University of Oslo, (2016-2018)
+o Alfred Alocias Mariadason, University of Oslo, (2016-2018)
+o Marius Jonsson, University of Oslo, (2016-2018)
+o Hans Mathias Vege Mamen, University of Oslo, (2016-2019), co-supervisor
 o Alexander Fleischer, University of Oslo, (2015-2017)
 o Håkon Emil Kristiansen, University of Oslo, (2015-2017)
 o Morten Ledum, University of Oslo, (2015-2017)
 o Håkon Treider Vikør, University of Oslo, (2015-2017), co-supervisor
 o Jon-Andreas Stende, University of Oslo, (2015-2017), co-supervisor
-o "Sean Bruce Sangholt Miller, University of Oslo, (2015-2017)":"
+o Sean Bruce Sangholt Miller, University of Oslo, (2015-2017)
 o Christian Fleischer, University of Oslo, (2015-2017)
 o John Bower, Michigan State University, (2014-2017)
 o Wilhelm Holmen, University of Oslo (2014-2016)
