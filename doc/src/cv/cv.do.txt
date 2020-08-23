@@ -63,16 +63,16 @@ o Written two Physics viewpoints and been highlighted in one other.
 o Taught and developed several courses in Computational Physics and many-body physics, courses in nuclears structure and quantum physics and mechanics and statistical mechanics.
 o More than two hundred invited talks, seminars, colloquia and lectures given worldwide.
 o Organized more than 30 conferences, workshops and schools and advanced courses.
-o Supervised and co-supervised more than 100 graduate students
-o Presently supervising and co-supervising  ten Master of Science students (University of Oslo) and five PhD students at MSU and three PhD students at the University of Oslo.
+o Supervised and co-supervised more than 100 graduate students (Master of Science and PhD) and post-doctoral fellows
+o Presently supervising and co-supervising  eleven Master of Science students (University of Oslo) and five PhD students at MSU and three PhD students at the University of Oslo.
 
 ===== Synergistic Activities and service through the years: =====
 
-* Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last 18 years I have guided  more than 100 gradute students.
+* Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last 20 years I have guided  more than 100 gradute students and post-doctoral fellows at Michigan State University and the University of Oslo.
 
 * With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computation with the traditional science amd mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
 
-* With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2017 the initiative has run and developed twelve courses. I chaired the steering committee from its beginning in 2010 till 2015. I have taught and organized three of these courses and been one of the organizers on five of the twelve courses.
+* With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  
 
 * I initiated and lead the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. It includes now seven  departments at the faculty of Mathematics and Natural Sciences of  the University of Oslo.
 
@@ -107,7 +107,7 @@ o Presently supervising and co-supervising  ten Master of Science students (Univ
 
 * "Steering Committee member of the FRIB theory alliance at Michigan State University 2013-2016":"http://fribtheoryalliance.org/"
 
-* "Initiated and led the Nuclear Talent initiative from 2010 till 2015, now member of the Steering committee":"http://www.nucleartalent.org/"
+* "Initiated and led the Nuclear Talent initiative from 2010 till 2015, member of the Steering committee":"http://www.nucleartalent.org/" till end of 2019.
 
 * Member of the Board of Usit at UiO (Center for information technology at the University of Oslo), 2002-2004
 
@@ -119,7 +119,7 @@ o Presently supervising and co-supervising  ten Master of Science students (Univ
 
 * Together with colleagues from the Department of Physics, Department of Mathematics and Department of Informatics at the University of Oslo, we started   the Computers in Science Education project in 2004. This project, which we conceived back in 2003,  has changed totally changed the way Science is taught.
 
-* Member of the OECD working group in nuclear physics 2006-2008
+* Member of the OECD working group on nuclear physics 2006-2008
 
 * January 2009-December 2011, leader of the Nuclear Physics group at the University of Oslo
 
@@ -206,7 +206,7 @@ o Presently supervising and co-supervising  ten Master of Science students (Univ
 
 * Opponent at several PhD dissertations.
   
-* Member of more than 30  PhD guidance committees at Michigan State University
+* Member of several  PhD guidance committees at Michigan State University
 
 * Several expert evaluations on promotion applications.
 
@@ -233,34 +233,35 @@ o John Bower, chair together with Scott Bogner. Master of Science thesis May 201
 o Adam Jones, committee member. Master of Science thesis July 2017.  
 o Chris Sullivan, committee member. Defended thesis January 2018.
 o Thomas Redpath, committee member. Defended thesis October 2019.
-o Sean Sweany, committee member
+o Sean Sweany, committee member, defends thesis fall 2020.
 o Rachel Taverner, committee member. Defended thesis May 2019.
 o Nathan Parzuchowski, committee member. Defended thesis April 2017.
 o Titus Morris, committee member. Defended thesis May 2016
 o Kenneth Whitmore, committee member. Defended thesis June 2016
 o Alex Dombos, committee member. Defended thesis May 2018.
-o Josh Bradt, committee member, Defended thesis July 2017
-o Charles Loelius, committee member, Defended thesis May 2017
+o Josh Bradt, committee member, Defended thesis July 2017.
+o Charles Loelius, committee member, Defended thesis May 2017.
 o Safwan Shanab, committee member. Defended thesis January 2020.
-o Hao Lin, committee member
-o Mao Xingze, committee member. Defended thesis May 2020.
+o Hao Lin, committee member. Defended thesis July 2020.
+o Mao Xingze, committee member. Defended thesis July 2020.
 o Amy Lovell, committee member. Defended thesis January 24 2018.
-o Debra Richman, committee member
-o Roy Ready, committee member
+o Debra Richman, committee member, defends thesis December 2020.
+o Roy Ready, committee member. Defended thesis May 2020.
 o Nathan Watwood, committee member 
 o Ben Hall, chair
 o Udiani Omokuyani, committee member
 o Jane Kim, chair
+o Khna Zhu, committee member
 
 ===== Courses, study programs and educational initiatives =====
 
 I am strongly involved in teaching at all levels. I have been heading the bachelor program Physics, Astronomy and Meteorology ( FAM ) in the period 2002-2011. I am also strongly involved in the project Computing in Science Education. Furthermore, with European and American colleagues, we have established the recent successful Nuclear Talent initiative.
 
-Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last twenty years I have guided  more than 100 graduate students.
+Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last twenty years I have guided  more than 100 graduate students (Master of Science and PhD) and post-doctoral fellows.
 
 With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computation with the traditional science amd mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
 
-With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2016 the initiative has run and developing eleven courses. I chaired the steering committee from its beginning in 2010 till 2015. 
+With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  
 
 I initiated in 2015 and chair the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. 
 
@@ -275,10 +276,11 @@ I teach or have taught recently  the following courses at the University of Oslo
 From the fall of 2018 I have developed and teach the new course on _Applied Data analysis and Machine Learning_ at the University of Oslo. This course is a compulsory course that is part of the new interdisciplinary Master of Science program "Computational Science":"http://www.uio.no/english/studies/programmes/computational-science-master/index.html". The link to the course is
 * "FYS-MAT3155/4155 Data Analysis and Machine Learning":"http://www.uio.no/studier/emner/matnat/fys/FYS-MAT4155/", senior undergraduate and graduate level, Fall semester (Oslo) 
 
-* PHY321 Classical Mechanics, MSU, undergraduate course, spring semester.
+
+* PHY321 Classical Mechanics, MSU, undergraduate course, spring semester. First time spring 2020. 
 
 I have also taught introductory quantum physics, FYS2140, 2000-2004, Statistical Mechanics, FYS4130, 1990-1994 and I have developed an advanced course on "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kjm4480/", 2009-2014, all at the at\
- the University of Oslo, Norway. At Michigan I have also taught an advanced course in Nuclear Structure Physics PHYS981 Nuclear Structure, graduate level, Spring semester, 2013-2016.
+ the University of Oslo, Norway. At Michigan I have also taught an advanced course in Nuclear Structure Physics PHYS981 Nuclear Structure, graduate level, Spring semester, 2013-2016. In addition, with Scott Bogner at Michigan State University, we taught a specialized course on Nuclear Force, PHY989, during the fall semester of 2018.
 
 === Teaching Awards: ===
 
@@ -292,14 +294,14 @@ o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"
 
 === Present PhD students ===
 
-o Benjamin Hall, Michigan State University, started 2018.
-o Jane Kim, Michigan State University, started 2018.
-o Julie Butler, Michigan State University, started 2018.
-o Omokuyani C. Udiani , Michigan State University, started 2017, co-supervisor
-o Danny Jammoa, Michigan State University, started 2020, co-supervisor
-o Øyvind Sigmundsson Schøyen, University of Oslo, started 2019
-o John Mark Aiken, University of Oslo, started 2017, defends thesis September 2020, co-supervisor
-o Stain Bilek, University of Oslo, started 2020, defends thesis September 2024
+o Benjamin Hall, Michigan State University, started 2018. Research topic: Quantum Computing  and the Nuclear Many-body problem
+o Jane Kim, Michigan State University, started 2018. Research topic: Machine Learning and the Nuclear Many-body problem
+o Julie Butler, Michigan State University, started 2018. Research topic: Machine Learning and the Nuclear Many-body problem
+o Omokuyani C. Udiani , Michigan State University, started 2017, co-supervisor. Research topic: Nuclear Many-body theory
+o Danny Jammoa, Michigan State University, started 2020, co-supervisor. Research topic: Machine Learning and analysis of nuclear physics experiments.
+o Øyvind Sigmundsson Schøyen, University of Oslo, started 2019. Research topic: Time-dependent many-body theory and quantum computing
+o John Mark Aiken, University of Oslo, started 2017, defends thesis September 2020, co-supervisor. Research Topic: Machine Learning applied to Physics Education Research
+o Stain Bilek, University of Oslo, started 2020, defends thesis September 2024. Quantum Computing  and Machine Learning
 
 === Present Master of Science Students ===
 
@@ -310,17 +312,18 @@ o Jens Due Bratten, University of Oslo, (2019-2021), co-supervisor
 o Gabriel Cabrera, University of Oslo, (2019-2021), co-supervisor
 o Kristian Wold, University of Oslo, (2019-2021)
 o Martin Krokan Hovden, University of Oslo, (2019-2021)
+o Johan Nereng, University of Oslo, (2019-2021)
 o Oliver Hebnes, University of Oslo, (2019-2021), co-supervisor
 o Mohamad Ismail, University of Oslo, (2019-2021), co-supervisor
 o Stian Isachsen, University of Oslo, (2018-2020), co-supervisor
 
 === Former PhD students and their present positions ===
 
-o Justin Lietz (PhD MSU 2019), now post-doctoral fellow at Oak Ridge National Laboratory
-o Samuel Novario (PhD MSU 2018), now post-doctoral fellow at Oak Ridge National Laboratory
-o Fei Yuan (PhD MSU 2018), employed at Google
-o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014), now post-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo 
-o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (PhD UiO 2009), now associate professor of chemistry, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
+o Justin Lietz (PhD MSU 2019), now post-doctoral fellow at Oak Ridge National Laboratory, Computational Science Division
+o Samuel Novario (PhD MSU 2018), now post-doctoral fellow at Oak Ridge National Laboratory, Physics Division
+o Fei Yuan (PhD MSU 2018), employed at Google as computational scientist
+o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014). From 2015 to 2018, ost-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo. Now employed by Varian Medical Systems, Helsinki, Finland.
+o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (PhD UiO 2009), researcher, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
 o "Gustav Jansen":"https://www.ornl.gov/staff-profile/gustav-r-jansen" (PhD UiO 2012), now permanent position as scientist at the Computational Science Division of Oak Ridge National Laboratory  
 o "Torquil MacDonald Sørensen":"http://www.mn.uio.no/math/english/people/aca/tmac/" (PhD UiO 2012), post-doctoral fellow at the Department of Mathematics, UiO
 o "Jon Kerr Nilsen":"http://www.usit.uio.no/english/about/organisation/bps/rc/ris/staff/jonkni/" (PhD UiO 2010), senior engineer at the University of Oslo center for information technologies (co-supervisor)
@@ -336,7 +339,7 @@ o Lars Engvik (PhD UiO 1999), now Associate Professor at Sør-Trøndelag Univers
 
 o "Andreas Ekstrøm":"https://www.chalmers.se/en/Staff/Pages/Andreas-Ekstrom.aspx" (UiO and MSU 2010-2014), now Associate Professor  at Chalmers Technological University in Gothenburg, Sweden
 o Øyvind Jensen (UiO 2011), now researcher at the "Institute for Energy Technology":"https://www.ife.no/en"
-o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (UiO 2008-2012), now associate professor of chemistry, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
+o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (UiO 2008-2012), researcher,  Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
 o Elise Bergli (UiO 2010-2011), now teacher at Ås high school, Norway
 o Sølve Selstø (UiO 2008-2010), now  Professor at Oslo Metropolitan University
 o Nicolas Michel (MSU 2013), now senior researcher at Langzhou Nuclear Physics Laboratory, China
@@ -345,7 +348,8 @@ o Nicolas Michel (MSU 2013), now senior researcher at Langzhou Nuclear Physics L
 
 o Heine Aabø, University of Oslo, (2018-2020)
 o Stian Bilek, University of Oslo, (2018-2020)
-o Thomas Sjåstad, University of Oslo, (2018-2020)
+o Thomas Sjåstad, University of Oslo, (2018-2020), co-supervisor
+o Eirik Thorsrud, University of Oslo, (2018-2020), co-supervisor
 o Halvard Sutterud, University of Oslo, (2018-2020)
 o Marius Holm, University of Oslo, (2018-2020), co-supervisor
 o Geir Utvik, University of Oslo, (2018-2020)
@@ -529,22 +533,23 @@ o Hjorth-Jensen, Morten. CENS: A computational Environment for Nuclear Structure
 === Books: ===
 o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2020.
 o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2020.
-o Morten Hjorth-Jensen, *Nuclear many-body physics, a computational perspective*, in preparation for Taylor Francis.
 o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
 
 === Publications in journals with a referee system: ===
 
-o Calvin W. Johnson, Kristina D. Launey, Naftali Auerbach, Sonia Bacca, Bruce R. Barrett, Carl Brune, Mark A. Caprio, Pierre Descouvemont, W. H. Dickhoff, Charlotte Elster, Patrick J. Fasano, Kevin Fossez, Heiko Hergert, Morten Hjorth-Jensen, Linda Hlophe, Baishan Hu, Rodolfo M. Id Betan, Andrea Idini, Sebastian König, Konstantinos Kravvaris, Dean Lee, Jin Lei, Pieter Maris, Alexis Mercenne, Kosho Minomo, Rodrigo Navarro Perez, Witold Nazarewicz, F. M. Nunes, Marek Ploszajczak, Sofia Quaglioni, Jimmy Rotureau, Gautam Rupak, Andrey M. Shirokov, Ian Thompson, James P. Vary, Alexander Volya, Furong Xu, Remco G.T. Zegers, Vladimir Zelevinsky, Xilin Zhang, *From Bound States to the Continuum*, Journal of Physics G, (2020), in press
 
-o Aynom T. Teweldebrhan, Thomas Schuler, John Burkhart, and Morten Hjorth-Jensen, *Coupled machine learning and the limits of acceptability approach applied in parameter identification for a distributed hydrological model*, Hydrology and Earth System Sciences, (2020), in press
+o Aynom T. Teweldebrhan, Thomas Schuler, John Burkhart, and Morten Hjorth-Jensen, *Coupled machine learning and the limits of acceptability approach applied in parameter identification for a distributed hydrological model*, "Hydrology and Earth System Sciences, (2020), in press":"https://hess.copernicus.org/preprints/hess-2019-464/"
 
-o Robert Solli, Daniel Bazin, Michelle P. Kuchera, Ryan R. Strauss, Morten Hjorth-Jensen, *Unsupervised Learning for Identifying Events in Active Target Experiments*, Nuclear Instruments and Methods in Physics Research Section A, (2020), in press
+o Robert Solli, Daniel Bazin, Michelle P. Kuchera, Ryan R. Strauss, Morten Hjorth-Jensen, *Unsupervised Learning for Identifying Events in Active Target Experiments*, "Nuclear Instruments and Methods in Physics Research Section A, (2020), submitted":"https://arxiv.org/abs/2008.02757"
 
-o John M. Aiken, Riccardo De Bin, Morten Hjorth-Jensen, Marcos D. Caballero, Predicting time to graduation at a large enrollment American university, arXiv:2005.05104, PloSone in press
+o John M. Aiken, Riccardo De Bin, Morten Hjorth-Jensen, Marcos D. Caballero, Predicting time to graduation at a large enrollment American university, "arXiv:2005.05104, PLOS ONE accepted for publication":"https://arxiv.org/abs/2005.05104"
 
-o  D. A. Torres, R. Chapman, V. Kumar, B. Hadinia, A. Hodsdon, M. Labiche, X. Liang, D. O’Donnell, J. Ollier, R. Orlandi, J. F. Smith, K. -M. Spohr, P. Wady, Z. M. Wang, L. Corradi, E. Fioretto, A. Gadea, G. de Angelis, N. Mărginean, D. R. Napoli, E. Sahin, A. M. Stefanini, J. J. Valiente-Dobón, F. D. Vedova, M. Axiotis, T. Martinez, S. Szilner, D. Bazzacco, S. Beghini, E. Farnea, R. Mărginean, D. Mengoni, G. Montagnoli, F. Recchia, F. Scarlassara, C. A. Ur, S. M. Lenzi, S. Lunardi, T. Kröll, F. Haas, T. Faul, M. Hjorth-Jensen, B. G. Carlsson, S. J. Freeman, A. G. Smith, G. Jones, N. Thompson, G. Pollarolo, G. S. Simpson, *Study of medium-spin states of neutron-rich 87, 89, 91Rb isotopes*, European Physical Journal A 55 (2019) p.158
+o Calvin W. Johnson, Kristina D. Launey, Naftali Auerbach, Sonia Bacca, Bruce R. Barrett, Carl Brune, Mark A. Caprio, Pierre Descouvemont, W. H. Dickhoff, Charlotte Elster, Patrick J. Fasano, Kevin Fossez, Heiko Hergert, Morten Hjorth-Jensen, Linda Hlophe, Baishan Hu, Rodolfo M. Id Betan, Andrea Idini, Sebastian König, Konstantinos Kravvaris, Dean Lee, Jin Lei, Pieter Maris, Alexis Mercenne, Kosho Minomo, Rodrigo Navarro Perez, Witold Nazarewicz, F. M. Nunes, Marek Ploszajczak, Sofia Quaglioni, Jimmy Rotureau, Gautam Rupak, Andrey M. Shirokov, Ian Thompson, James P. Vary, Alexander Volya, Furong Xu, Remco G.T. Zegers, Vladimir Zelevinsky, Xilin Zhang, *From Bound States to the Continuum*, "Journal of Physics G, (2020), in press":"https://iopscience.iop.org/article/10.1088/1361-6471/abb129"
 
-o Marcos Daniel Caballero, Morten Hjorth-Jensen, Integrating a Computational Perspective in Physics Courses, arXiv:1802.08871, Nova Publishers, 2018
+
+o D. A. Torres, R. Chapman, V. Kumar, B. Hadinia, A. Hodsdon, M. Labiche, X. Liang, D. O’Donnell, J. Ollier, R. Orlandi, J. F. Smith, K. -M. Spohr, P. Wady, Z. M. Wang, L. Corradi, E. Fioretto, A. Gadea, G. de Angelis, N. Mărginean, D. R. Napoli, E. Sahin, A. M. Stefanini, J. J. Valiente-Dobón, F. D. Vedova, M. Axiotis, T. Martinez, S. Szilner, D. Bazzacco, S. Beghini, E. Farnea, R. Mărginean, D. Mengoni, G. Montagnoli, F. Recchia, F. Scarlassara, C. A. Ur, S. M. Lenzi, S. Lunardi, T. Kröll, F. Haas, T. Faul, M. Hjorth-Jensen, B. G. Carlsson, S. J. Freeman, A. G. Smith, G. Jones, N. Thompson, G. Pollarolo, G. S. Simpson, *Study of medium-spin states of neutron-rich 87, 89, 91Rb isotopes*, "European Physical Journal A 55 (2019) p.158":"https://epja.epj.org/articles/epja/abs/2019/09/10050_2019_Article_12839/10050_2019_Article_12839.html"
+
+o Marcos Daniel Caballero, Morten Hjorth-Jensen, Integrating a Computational Perspective in Physics Courses, arXiv:1802.08871, "Nova Publishers, New Trends in Physics Education Research (2018)":"https://novapublishers.com/shop/new-trends-in-physics-education-research/"
 
 
 o "Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.96.024323", *First-principles calculations for c-coefficients of the isobaric mass multiplet equation in the 1p0f shell*, *Physical Review C* Rapids, 96:024323 (2017). 
@@ -1702,13 +1707,13 @@ o Hjorth-Jensen, Morten.  Conference: International Conference on Realistic Nucl
 
 o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern meson-exchange potentials, 3rd international spring seminar on nuclear physics, Ischia, Italy, May 21-25, 1990
  
-=== Selected research grants as PI, financed and pending applications ===
+=== Selected research grants as PI and co-PI, financed and pending applications ===
 
 o 2020-205, Quantum Strategic Innovation and Development (QSID) Center, pending, 125MUSD, Michigan State University, co-PI, Department of Energy, USA
 o 2020-2025, QLCI – CI: Institute for Quantum Computing and Control (IQC2) at MSU, pending, 25MUSD, Michigan State University, co-PI, National Science Foundation, USA
 o 2020-2025, AI Institute:  Transdisciplinary Institute for Physics-Informed Machine Learning, pending, 25MUSD, Michigan State University, co-PI, National Science Foundation, USA
-o 2020-2022 750kUSD from the Department of Energy, From Quarks to Stars; A Quantum Computing Approach to the Nuclear Many-Body Problem. PI
-o 2020-2023 600 kUSD from the National Science Foundation for the project From nuclei to neutron stars, CO-PI with Scott Bogner. 
+o 2020-2022 750 kUSD from the Department of Energy, From Quarks to Stars; A Quantum Computing Approach to the Nuclear Many-Body Problem. PI, grant number DoE-0000248785  
+o 2020-2023 600 kUSD from the National Science Foundation for the project From nuclei to neutron stars, CO-PI with Scott Bogner, Grant number PHY-013877. 
 o 2016-present Principal investigator at the Norwegian center of excellence in Education *Center for Computing in Science Education*, University of Oslo wit annual funding from NOKUT of 5MNOK
 o 2017-2020 600 kUSD from the National Science Foundation for the project From nuclei to neutron stars, CO-PI with Scott Bogner. Grant number PHY-1713901
 o 2014-2017 600 kUSD from the National Science Foundation for the project Computational Nuclear Many-body Physics, CO-PI with Scott Bogner. Grant number PHY-1404159
