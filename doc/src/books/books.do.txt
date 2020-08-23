@@ -4,8 +4,7 @@ DATE: today
 
 
 === Books: ===
-o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2017.
-o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2017.
-o Morten Hjorth-Jensen, *Nuclear many-body physics, a computational perspective*, in preparation for Taylor Francis.
+o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2020.
+o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2020.
 o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
 

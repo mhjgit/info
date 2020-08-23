@@ -2,19 +2,32 @@ TITLE: Publications
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
 DATE: today
 
-=====  Publications, books and refereed scientific articles =====
+
+
+
+=====  Research, Publications, books, refereed scientific articles and proceedings =====
 
 === Books: ===
-o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2017.
-o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2017.
-o Morten Hjorth-Jensen, *Nuclear many-body physics, a computational perspective*, in preparation for Taylor Francis.
+o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2020.
+o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2020.
 o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
 
 === Publications in journals with a referee system: ===
 
-o Morten Hjorth-Jensen, *Understanding the limits of nuclear stability*, Physica Scripta Focus issue on 21st Century Frontiers, in press (2017). 
 
-o Morten Hjorth-Jensen, *Correlations i many-body systems*, *Progress in Particle and Nuclear Physics*, in press (2017).
+o Aynom T. Teweldebrhan, Thomas Schuler, John Burkhart, and Morten Hjorth-Jensen, *Coupled machine learning and the limits of acceptability approach applied in parameter identification for a distributed hydrological model*, "Hydrology and Earth System Sciences, (2020), in press":"https://hess.copernicus.org/preprints/hess-2019-464/"
+
+o Robert Solli, Daniel Bazin, Michelle P. Kuchera, Ryan R. Strauss, Morten Hjorth-Jensen, *Unsupervised Learning for Identifying Events in Active Target Experiments*, "Nuclear Instruments and Methods in Physics Research Section A, (2020), submitted":"https://arxiv.org/abs/2008.02757"
+
+o John M. Aiken, Riccardo De Bin, Morten Hjorth-Jensen, Marcos D. Caballero, Predicting time to graduation at a large enrollment American university, "arXiv:2005.05104, PLOS ONE accepted for publication":"https://arxiv.org/abs/2005.05104"
+
+o Calvin W. Johnson, Kristina D. Launey, Naftali Auerbach, Sonia Bacca, Bruce R. Barrett, Carl Brune, Mark A. Caprio, Pierre Descouvemont, W. H. Dickhoff, Charlotte Elster, Patrick J. Fasano, Kevin Fossez, Heiko Hergert, Morten Hjorth-Jensen, Linda Hlophe, Baishan Hu, Rodolfo M. Id Betan, Andrea Idini, Sebastian König, Konstantinos Kravvaris, Dean Lee, Jin Lei, Pieter Maris, Alexis Mercenne, Kosho Minomo, Rodrigo Navarro Perez, Witold Nazarewicz, F. M. Nunes, Marek Ploszajczak, Sofia Quaglioni, Jimmy Rotureau, Gautam Rupak, Andrey M. Shirokov, Ian Thompson, James P. Vary, Alexander Volya, Furong Xu, Remco G.T. Zegers, Vladimir Zelevinsky, Xilin Zhang, *From Bound States to the Continuum*, "Journal of Physics G, (2020), in press":"https://iopscience.iop.org/article/10.1088/1361-6471/abb129"
+
+
+o D. A. Torres, R. Chapman, V. Kumar, B. Hadinia, A. Hodsdon, M. Labiche, X. Liang, D. O’Donnell, J. Ollier, R. Orlandi, J. F. Smith, K. -M. Spohr, P. Wady, Z. M. Wang, L. Corradi, E. Fioretto, A. Gadea, G. de Angelis, N. Mărginean, D. R. Napoli, E. Sahin, A. M. Stefanini, J. J. Valiente-Dobón, F. D. Vedova, M. Axiotis, T. Martinez, S. Szilner, D. Bazzacco, S. Beghini, E. Farnea, R. Mărginean, D. Mengoni, G. Montagnoli, F. Recchia, F. Scarlassara, C. A. Ur, S. M. Lenzi, S. Lunardi, T. Kröll, F. Haas, T. Faul, M. Hjorth-Jensen, B. G. Carlsson, S. J. Freeman, A. G. Smith, G. Jones, N. Thompson, G. Pollarolo, G. S. Simpson, *Study of medium-spin states of neutron-rich 87, 89, 91Rb isotopes*, "European Physical Journal A 55 (2019) p.158":"https://epja.epj.org/articles/epja/abs/2019/09/10050_2019_Article_12839/10050_2019_Article_12839.html"
+
+o Marcos Daniel Caballero, Morten Hjorth-Jensen, Integrating a Computational Perspective in Physics Courses, arXiv:1802.08871, "Nova Publishers, New Trends in Physics Education Research (2018)":"https://novapublishers.com/shop/new-trends-in-physics-education-research/"
+
 
 o "Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.96.024323", *First-principles calculations for c-coefficients of the isobaric mass multiplet equation in the 1p0f shell*, *Physical Review C* Rapids, 96:024323 (2017). 
 
@@ -22,7 +35,7 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 o "Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jensen":"http://www.springer.com/us/book/9783319533353", *High-performance computing and infinite nuclear matter*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, Volume _936_ pages 293-399 (2017).
 
-o "Fei Yuan, Sam Novario, Nathan Parzuchowski, Sarah Reimann, Scott K. Bogner and Morten Hjorth-Jensen":"http://lanl.arxiv.org/abs/1707.00229".,   *First principle calculations of quantum dot systems*, Journal of Chemical Physics, "in press (2017).
+o "Fei Yuan, Sam Novario, Nathan Parzuchowski, Sarah Reimann, Scott K. Bogner and Morten Hjorth-Jensen":"http://aip.scitation.org/doi/abs/10.1063/1.4995615".,   *First principle calculations of quantum dot systems*, Journal of Chemical Physics, 147:164109 (2017).
 
 o "Morten Hjorth-Jensen":"https://physics.aps.org/articles/v10/72", *Scattering Experiments Tease Out the Strong Force*, *Physics*, 10:72 (2017).
 
