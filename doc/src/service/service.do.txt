@@ -2,14 +2,13 @@ TITLE: Service to community
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
 DATE: today
 
-
 ===== Synergistic Activities and service through the years: =====
 
-* Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last fifteen years I have guided  51 Master of Science of students (29 have continued with PhD studies) and twelve PhD students.  I currently supervise twelve Master of Science students at the University of Oslo. I supervise five PhD students at Michigan State University.
+* Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last 20 years I have guided  more than 100 gradute students and post-doctoral fellows at Michigan State University and the University of Oslo.
 
 * With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computation with the traditional science amd mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
 
-* With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  Within 2017 the initiative has run and developed twelve courses. I chaired the steering committee from its beginning in 2010 till 2015. I have taught and organized three of these courses and been one of the organizers on five of the twelve courses.
+* With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  
 
 * I initiated and lead the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. It includes now seven  departments at the faculty of Mathematics and Natural Sciences of  the University of Oslo.
 
@@ -35,11 +34,16 @@ DATE: today
 
 * Editorial Board member of Springer's University Texts  in Physics, 2015-present
 
+* Editorial Board member of Springer's Undergraduate Texts  in Physics, 2016-present
+
+* Editorial Board member of Springer's Graduate Texts  in Physics, 2018-present
+
 * Editorial board member of Computers in Science and Discovery journal, a journal by IOP, UK, 2008-2014
+
 
 * "Steering Committee member of the FRIB theory alliance at Michigan State University 2013-2016":"http://fribtheoryalliance.org/"
 
-* "Initiated and led the Nuclear Talent initiative from 2010 till 2015, now member of the Steering committee":"http://www.nucleartalent.org/"
+* "Initiated and led the Nuclear Talent initiative from 2010 till 2015, member of the Steering committee":"http://www.nucleartalent.org/" till end of 2019.
 
 * Member of the Board of Usit at UiO (Center for information technology at the University of Oslo), 2002-2004
 
@@ -51,7 +55,7 @@ DATE: today
 
 * Together with colleagues from the Department of Physics, Department of Mathematics and Department of Informatics at the University of Oslo, we started   the Computers in Science Education project in 2004. This project, which we conceived back in 2003,  has changed totally changed the way Science is taught.
 
-* Member of the OECD working group in nuclear physics 2006-2008
+* Member of the OECD working group on nuclear physics 2006-2008
 
 * January 2009-December 2011, leader of the Nuclear Physics group at the University of Oslo
 
@@ -134,11 +138,11 @@ DATE: today
 
 * Referee for the Russian Research Council
 
-* Referee for the Research council of Luxembourg
+* Referee for the Research Council of Luxembourg
 
 * Opponent at several PhD dissertations.
   
-* Member of 22 PhD guidance committees at Michigan State University
+* Member of several  PhD guidance committees at Michigan State University
 
 * Several expert evaluations on promotion applications.
 
@@ -155,4 +159,33 @@ o International Advisory committee for XI Latin American Symposium on Nuclear Ph
 o International Advisory Board for Conference on Computational Physics
 o International Advisory committee for EURORIB15 and EURORIB18
 o International Advisory committee for SIAM conference on Computational Science and Engineering in Boston, 2013
+
+===  Member of Advisory Committees at Michigan State University ===
+I am member or chair person of the following graduate  student committees at Michigan State University:
+o Justin Lietz, chair, defended thesis June 2019.
+o Fei Yuan, chair.  Defended thesis January 24 2018.
+o Sam Novario, chair. Defends thesis February 7 2018.
+o John Bower, chair together with Scott Bogner. Master of Science thesis May 2017.  
+o Adam Jones, committee member. Master of Science thesis July 2017.  
+o Chris Sullivan, committee member. Defended thesis January 2018.
+o Thomas Redpath, committee member. Defended thesis October 2019.
+o Sean Sweany, committee member, defends thesis fall 2020.
+o Rachel Taverner, committee member. Defended thesis May 2019.
+o Nathan Parzuchowski, committee member. Defended thesis April 2017.
+o Titus Morris, committee member. Defended thesis May 2016
+o Kenneth Whitmore, committee member. Defended thesis June 2016
+o Alex Dombos, committee member. Defended thesis May 2018.
+o Josh Bradt, committee member, Defended thesis July 2017.
+o Charles Loelius, committee member, Defended thesis May 2017.
+o Safwan Shanab, committee member. Defended thesis January 2020.
+o Hao Lin, committee member. Defended thesis July 2020.
+o Mao Xingze, committee member. Defended thesis July 2020.
+o Amy Lovell, committee member. Defended thesis January 24 2018.
+o Debra Richman, committee member, defends thesis December 2020.
+o Roy Ready, committee member. Defended thesis May 2020.
+o Nathan Watwood, committee member 
+o Ben Hall, chair
+o Udiani Omokuyani, committee member
+o Jane Kim, chair
+o Khna Zhu, committee member
 
