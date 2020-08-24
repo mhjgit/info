@@ -1714,12 +1714,12 @@ o 2020-2025, QLCI – CI: Institute for Quantum Computing and Control (IQC2) at 
 o 2020-2025, AI Institute:  Transdisciplinary Institute for Physics-Informed Machine Learning, pending, 25MUSD, Michigan State University, co-PI, National Science Foundation, USA
 o 2020-2022 750 kUSD from the Department of Energy, From Quarks to Stars; A Quantum Computing Approach to the Nuclear Many-Body Problem. PI, grant number DoE-0000248785  
 o 2020-2023 600 kUSD from the National Science Foundation for the project From nuclei to neutron stars, CO-PI with Scott Bogner, Grant number PHY-013877. 
-o 2016-present Principal investigator at the Norwegian center of excellence in Education *Center for Computing in Science Education*, University of Oslo wit annual funding from NOKUT of 5MNOK
+o 2016-present Co-PI  at the Norwegian center of excellence in Education *Center for Computing in Science Education*, University of Oslo wit annual funding from NOKUT of 5MNOK
 o 2017-2020 600 kUSD from the National Science Foundation for the project From nuclei to neutron stars, CO-PI with Scott Bogner. Grant number PHY-1713901
 o 2014-2017 600 kUSD from the National Science Foundation for the project Computational Nuclear Many-body Physics, CO-PI with Scott Bogner. Grant number PHY-1404159
 o 2010-2015 15 MNOK from the Research Council of Norway, Multi-scale physics on the computer, Collaboration between Universities. Grant number ISP-Fysikk/216699 in Trondheim, Ås, and Oslo on research and education in computational physics
 o 2008-2012 1.5 MNOK for organizing the MSU-UT/ORNL-UiO network on Computational Nuclear Many-Body Theory. Sponsor, SiU, the Norwegian center for internationalization in higher education
-o 2003-2013 Principal investigator of the Norwegian Center of Excellence Mathematics for Applications, with annual funding from the Research Council of Norway of 15 MNOK.
+o 2003-2013 Co-PI of the Norwegian Center of Excellence Mathematics for Applications, with annual funding from the Research Council of Norway of 15 MNOK.
 
 
 
