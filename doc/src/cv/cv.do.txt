@@ -251,7 +251,16 @@ o Nathan Watwood, committee member
 o Ben Hall, chair
 o Udiani Omokuyani, committee member
 o Jane Kim, chair
-o Khna Zhu, committee member
+o Khan Zhu, committee member
+o Byeon Heejun, committee member
+o Golubev Timofey, committee member
+o Yousif Ahmed, committee member
+o Hermansen, Kirby, committee member
+o Redpath Thomas Hundley, committee member
+o Watkins Jacob, , committee member
+o Hill Matthew Steven, committee member
+
+
 
 ===== Courses, study programs and educational initiatives =====
 
@@ -429,11 +438,20 @@ o Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)
 
 === Lectures and organization of schools: ===
 
+
+
+
 o Morten Hjorth-Jensen, Daniel Bazin, Sean Liddick, , Michelle Kuchera, and R. Ramanujan, Online Nuclear Talent course on  Machine Learning Applied to Nuclear Physics, European Center for Theoretical Nuclear Physics and Related Areas, Trento, Italy, June 22 to July 3. Main organizer and teacher.
+
+o Online lectures on _Machine Learning weeks at MSU-FRIB/NSCL_, May 2020. I lectured to undergraduate, graduate and post-docs at FRIB/MSU from May 18 till May 29 on Machine Learning applied to Nuclear Physics. Two lectures per day and one hour of hands-on sessions. On average between 25-30 particpants per day. All material is available at \url{https://github.com/mhjensen/MachineLearningMSU-FRIB2020}. In total I gave 20 one-hour lectures.
+
 
 o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Physics for the Erasmus+ program URL:"http://www.emm-nucphys.eu/", European Master in Nuclear Physics, University of Basse-Normandie and GANIL, January 20-31, 2020. 45 lectures and 45 exercise sessions. Main teacher
 
 o Morten Hjorth-Jensen, Matthew Hirn, Michelle Kuchera, and R. Ramanujan, URL:"https://indico.frib.msu.edu/event/16/", FRIB TA Summer School - Machine Learning Applied to Nuclear Physics, Facility for Rare Isotope Beams (FRIB) on the Michigan State University campus in East Lansing, MI from May 20 to 23, 2019. Main organizer and teacher.
+
+o _Hackathon on Computing in Science Education_, June 3-7, 2019, Michigan State University, East Lansing, USA. . Intensive workshop on Computing in Physics Education at Michigan State University. Organized together with Danny Caballero, MSU.
+
 
 o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Physics for the Erasmus+ program url:"http://www.emm-nucphys.eu/", European Master in Nuclear Physics, University of Basse-Normandie and GANIL, January 21-February 1, 2019. 45 lectures and 45 exercise sessions. Main teacher
 
@@ -992,6 +1010,13 @@ o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern
 
 === Talks, lectures and seminars at workshops, conferences, schools  and institute colloquiua ===
 
+o Hjorth-Jensen, Morten, Lecture on Nuclear Physics at the NS3 school, FRIB, Michigan State University, May 15, 2019. Main organizer Artemis Spyrou, Michigan State University.
+
+o Hjorth-Jensen, Morten, Integrating a Computational Perspective in Physics (and Science) Courses, October 23, 2019. Ole Rømer Colloquium, Department of Physics and Astronomy, University of Århus, Denmark URL:"https://phys.au.dk/en/news/item/artikel/ole-roemer-colloquium-morten-hjort-jensen-tba/"
+
+o Hjorth-Jensen, Morten, Machine Learning and Quantum Mechanics for Many Interacting Particles, UiO, March 3, 2020  URL:"https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/seminars/hjorth-jensen.html"
+
+
 o Hjorth-Jensen, Morten, "Integrating Computations in Physics Courses, Workshop on New Horizons in Teaching Science: 18th-19th, June 2018, University of Messina, Italy"
  
 o Hjorth-Jensen, Morten, "Nuclear Structure studies from decay spectroscopy, Decay Station Workshop, NSCL/FRIB Michigan State University, January 25-26, 2018":"https://indico.fnal.gov/event/15794/page/11"
@@ -1415,7 +1440,7 @@ o Hjorth-Jensen, Morten; Jansen, Gustav.  CENS: computational environment for nu
 o Hjorth-Jensen, Morten; Kvaal, Simen. Similarity Transformations, Flow Equations and Many-Body Perturbation Theory: Role of Many-Body Forces. Many-body physics workshop; 2007-12-05 - 2007-12-07
  
  
-o Hjorth-Jensen, Morten; Mørken, Knut Martin.  A uniﬁed renewal of mathematics and science education. HPCIA07 (opening of new supercomputer i Tromsø); 2007-12-12 - 2007-12-13
+o Hjorth-Jensen, Morten; Mørken, Knut Martin.  A unified renewal of mathematics and science education. HPCIA07 (opening of new supercomputer i Tromsø); 2007-12-12 - 2007-12-13
  
  
 o Hjorth-Jensen, Morten; Mørken, Knut Martin. Computers in Science Education, realfag på en ny måte?. Realfag – nøkkelen til fremtidens kunnskapssamfunn; 2007-03-23 - 2007-03-23
