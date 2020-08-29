@@ -310,7 +310,7 @@ o Omokuyani C. Udiani , Michigan State University, started 2017, co-supervisor. 
 o Danny Jammoa, Michigan State University, started 2020, co-supervisor. Research topic: Machine Learning and analysis of nuclear physics experiments.
 o Øyvind Sigmundsson Schøyen, University of Oslo, started 2019. Research topic: Time-dependent many-body theory and quantum computing
 o John Mark Aiken, University of Oslo, started 2017, defends thesis September 2020, co-supervisor. Research Topic: Machine Learning applied to Physics Education Research
-o Stain Bilek, University of Oslo, started 2020, defends thesis September 2024. Quantum Computing  and Machine Learning
+o Stian Bilek, University of Oslo, started 2020, defends thesis September 2024. Quantum Computing  and Machine Learning
 
 === Present Master of Science Students ===
 
