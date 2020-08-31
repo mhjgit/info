@@ -1,6 +1,6 @@
 TITLE: Biographical  information
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
-DATE: August, 2020
+DATE: August 2020
 
 ===== Professional preparation, education  and personal data: =====
 
@@ -26,13 +26,11 @@ DATE: August, 2020
 ===== Brief research overview =====
 
 I am a theoretical physicist with a strong interest in 
-computational physics and many-body theory in general, and 
+computational physics, computational science and many-body theory in general, and 
 the nuclear many-body problem and nuclear structure problems in particular. 
 This means that I study various methods for solving either Schrödinger's equation or 
 Dirac's equation for many interacting particles, spanning from 
-algorithmic aspects to the mathematical properties of such methods. 
-The latter also leads to a strong interest in computational 
-physics as well as computational aspects of quantum mechanical methods. 
+algorithmic aspects to the mathematical properties of such methods, including machine learning and quantum computing. 
 
 ===== Awards: =====
 
@@ -52,7 +50,7 @@ o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"
 
 ===== Citation metrics, highly cited articles, and additional research highlights: =====
 
-o "Web of Science":"https://publons.com/researcher/1751939/morten-hjorth-jensen/" and "Google Scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=no", h-index=56
+o "Web of Science":"https://publons.com/researcher/1751939/morten-hjorth-jensen/" and "Google Scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=no".
 
 o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126".
 o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106".
@@ -68,11 +66,11 @@ o Presently supervising and co-supervising  eleven Master of Science students (U
 
 ===== Synergistic Activities and service through the years: =====
 
-* Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last 20 years I have guided  more than 100 gradute students and post-doctoral fellows at Michigan State University and the University of Oslo.
+* Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and computational science and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last 20 years I have guided  more than 100 gradute students (at the Master of Science and PhD levels) and post-doctoral fellows at Michigan State University and the University of Oslo.
 
-* With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computation with the traditional science amd mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
+* With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computations with the traditional science amd mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
 
-* With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  
+* With colleagues from the USA and other European countries, we started in 2010 the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  
 
 * I initiated and lead the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. It includes now seven  departments at the faculty of Mathematics and Natural Sciences of  the University of Oslo.
 
@@ -102,7 +100,7 @@ o Presently supervising and co-supervising  eleven Master of Science students (U
 
 * Editorial Board member of Springer's Graduate Texts  in Physics, 2018-present
 
-* Editorial board member of Computers in Science and Discovery journal, a journal by IOP, UK, 2008-2014
+* Editorial Board member of Computers in Science and Discovery journal, a journal by IOP, UK, 2008-2014
 
 
 * "Steering Committee member of the FRIB theory alliance at Michigan State University 2013-2016":"http://fribtheoryalliance.org/"
@@ -224,7 +222,7 @@ o International Advisory Board for Conference on Computational Physics
 o International Advisory committee for EURORIB15 and EURORIB18
 o International Advisory committee for SIAM conference on Computational Science and Engineering in Boston, 2013
 
-===  Member of Advisory Committees at Michigan State University ===
+===  Member of Graduate Advisory Committees at Michigan State University ===
 I am member or chair person of the following graduate  student committees at Michigan State University:
 o Justin Lietz, chair, defended thesis June 2019.
 o Fei Yuan, chair.  Defended thesis January 24 2018.
@@ -266,11 +264,32 @@ o Hill Matthew Steven, committee member
 
 I am strongly involved in teaching at all levels. I have been heading the bachelor program Physics, Astronomy and Meteorology ( FAM ) in the period 2002-2011. I am also strongly involved in the project Computing in Science Education. Furthermore, with European and American colleagues, we have established the recent successful Nuclear Talent initiative.
 
-Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last twenty years I have guided  more than 100 graduate students (Master of Science and PhD) and post-doctoral fellows.
+Since 1999 I have established an activity in computational physics at
+the Department of Physics at the University of Oslo. I have also
+started from scratch and developed several courses on computational
+physics, machine learning and many-body physics. This activity was
+recognized with the Excellence in Teaching award from the University
+of Oslo in 2015. During the last twenty years I have guided more than
+100 graduate students (Master of Science and PhD levels) and post-doctoral
+fellows.
 
-With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computation with the traditional science amd mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
+With colleagues at the University of Oslo, I have been strongly
+involved in the development of a totally new teaching philosophy which
+merges computation with the traditional science amd mathematics
+curriculum . This project is called "Computing in Science
+Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and
+has received considerable support from the University of Oslo and the
+Norwegian Ministry of research and education.  It received the
+University of Oslo award for excellence in teaching in 2011 and the
+NOKUT award in 2012.
 
-With colleagues from the USA and other European countries, we have started the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  
+With colleagues from the USA and other European countries, we 
+started in 2010 the Nuclear Talent initiate":"http://www.nucleartalent.org",
+where we aim at providing an advanced and comprehensive training to
+graduate students and young researchers in low-energy nuclear theory.
+The network aims at developing a broad curriculum that will provide
+the platform for a cutting-edge theory for understanding nuclei and
+nuclear reactions. Over the years I have taught and organized several such intensive courses (see list below). 
 
 I initiated in 2015 and chair the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. 
 
@@ -279,7 +298,7 @@ I teach or have taught recently  the following courses at the University of Oslo
 * "FYS3150/4150 Computational Physics I":"http://www.uio.no/studier/emner/matnat/fys/FYS3150/", Fall semester, senior undergraduate level (Oslo) 
 * "FYS4411 Computational Physics II: Quantum mechanical systems":"http://www.uio.no/studier/emner/matnat/fys/FYS4411/", graduate level, Spring semester (Oslo) 
 * "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kJM4480/", graduate level, Fall semester (Oslo) 
-* "PHYS981 Nuclear Structure":"https://github.com/NuclearStructure/PHY981", graduate level, Spring semester (MSU) 
+* "PHY981 Nuclear Structure":"https://github.com/NuclearStructure/PHY981", graduate level, Spring semester (MSU) 
 * "PHY480/905 Computational Physics":"https://github.com/CompPhysics/ComputationalPhysicsMSU" (MSU), undergraduate and graduate level, Spring semester
 
 From the fall of 2018 I have developed and teach the new course on _Applied Data analysis and Machine Learning_ at the University of Oslo. This course is a compulsory course that is part of the new interdisciplinary Master of Science program "Computational Science":"http://www.uio.no/english/studies/programmes/computational-science-master/index.html". The link to the course is
