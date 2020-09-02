@@ -68,7 +68,7 @@ o Presently supervising and co-supervising  eleven Master of Science students (U
 
 * Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and computational science and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last 20 years I have guided  more than 100 gradute students (at the Master of Science and PhD levels) and post-doctoral fellows at Michigan State University and the University of Oslo.
 
-* With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computations with the traditional science amd mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
+* With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computations with the traditional science and mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
 
 * With colleagues from the USA and other European countries, we started in 2010 the Nuclear Talent initiate":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  
 
@@ -176,7 +176,7 @@ o Presently supervising and co-supervising  eleven Master of Science students (U
 
 * Referee for the Canadian Research Council
 
-* Referee for the Israelian Research Council
+* Referee for the Israeli Research Council
 
 * Referee for the South African Research Council
 
@@ -246,15 +246,14 @@ o Amy Lovell, committee member. Defended thesis January 24 2018.
 o Debra Richman, committee member, defends thesis December 2020.
 o Roy Ready, committee member. Defended thesis May 2020.
 o Nathan Watwood, committee member 
-o Ben Hall, chair
+o Ben Hall, chair, thesis defense planned 2022
 o Udiani Omokuyani, committee member
-o Jane Kim, chair
+o Jane Kim, chair, thesis defense planned 2023
 o Khan Zhu, committee member
 o Byeon Heejun, committee member
 o Golubev Timofey, committee member
 o Yousif Ahmed, committee member
 o Hermansen, Kirby, committee member
-o Redpath Thomas Hundley, committee member
 o Watkins Jacob, , committee member
 o Hill Matthew Steven, committee member
 
@@ -262,7 +261,12 @@ o Hill Matthew Steven, committee member
 
 ===== Courses, study programs and educational initiatives =====
 
-I am strongly involved in teaching at all levels. I have been heading the bachelor program Physics, Astronomy and Meteorology ( FAM ) in the period 2002-2011. I am also strongly involved in the project Computing in Science Education. Furthermore, with European and American colleagues, we have established the recent successful Nuclear Talent initiative.
+I am strongly involved in teaching at all levels. I have been heading
+the bachelor program Physics, Astronomy and Meteorology ( FAM ) in the
+period 2002-2011. I am also strongly involved in the project Computing
+in Science Education. Furthermore, with European and American
+colleagues, we have established the recent successful Nuclear Talent
+initiative.
 
 Since 1999 I have established an activity in computational physics at
 the Department of Physics at the University of Oslo. I have also
