@@ -579,7 +579,7 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 === Publications in journals with a referee system: ===
 
 
-o Aynom T. Teweldebrhan, Thomas Schuler, John Burkhart, and Morten Hjorth-Jensen, *Coupled machine learning and the limits of acceptability approach applied in parameter identification for a distributed hydrological model*, "Hydrology and Earth System Sciences, (2020), in press":"https://hess.copernicus.org/preprints/hess-2019-464/"
+o Aynom T. Teweldebrhan, Thomas Schuler, John Burkhart, and Morten Hjorth-Jensen, *Coupled machine learning and the limits of acceptability approach applied in parameter identification for a distributed hydrological model*, "Hydrology and Earth System Sciences 24, (2020), 4641":"https://hess.copernicus.org/articles/24/4641/2020/"
 
 o Robert Solli, Daniel Bazin, Michelle P. Kuchera, Ryan R. Strauss, Morten Hjorth-Jensen, *Unsupervised Learning for Identifying Events in Active Target Experiments*, "Nuclear Instruments and Methods in Physics Research Section A, (2020), submitted":"https://arxiv.org/abs/2008.02757"
 
