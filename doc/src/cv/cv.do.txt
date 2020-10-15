@@ -50,7 +50,7 @@ o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"
 
 ===== Citation metrics, highly cited articles, and additional research highlights: =====
 
-o "Web of Science":"https://publons.com/researcher/1751939/morten-hjorth-jensen/" and "Google Scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=no".
+o "Web of Science":"https://publons.com/researcher/1751939/morten-hjorth-jensen/" and "Google Scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=no", h-index=57.
 
 o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126".
 o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106".
@@ -323,6 +323,7 @@ o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio
 o Favorite graduate teacher at the Department of Physics and Astronomy at Michigan State University, 2016 
 o _Olav Thon Foundation_ "National prize for excellence in teaching award":"https://www.ntbinfo.no/pressemelding/olav-thon-stiftelsen-annonserte-arets-priser-42-millioner-til-forskning-og-undervisning?publisherId=8983491&releaseId=16475069" (National, all Norwegian higher education institutions, 500kNOK), 2018
 o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"https://web.pa.msu.edu/alumni/awards/osgood_fac_awards.html"
+o "University of Oslo distinguished teacher aware 2020":"https://titan.uio.no/utdanning/2020/to-fysikere-belonnes-for%20undervisningen-sin"
 
 === Present PhD students ===
 
@@ -330,9 +331,8 @@ o Benjamin Hall, Michigan State University, started 2018. Research topic: Quantu
 o Jane Kim, Michigan State University, started 2018. Research topic: Machine Learning and the Nuclear Many-body problem
 o Julie Butler, Michigan State University, started 2018. Research topic: Machine Learning and the Nuclear Many-body problem
 o Omokuyani C. Udiani , Michigan State University, started 2017, co-supervisor. Research topic: Nuclear Many-body theory
-o Danny Jammoa, Michigan State University, started 2020, co-supervisor. Research topic: Machine Learning and analysis of nuclear physics experiments.
+o Danny Jammoa, Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning
 o Øyvind Sigmundsson Schøyen, University of Oslo, started 2019. Research topic: Time-dependent many-body theory and quantum computing
-o John Mark Aiken, University of Oslo, started 2017, defends thesis September 2020, co-supervisor. Research Topic: Machine Learning applied to Physics Education Research
 o Stian Bilek, University of Oslo, started 2020, defends thesis September 2024. Quantum Computing  and Machine Learning
 
 === Present Master of Science Students ===
@@ -350,7 +350,7 @@ o Mohamad Ismail, University of Oslo, (2019-2021), co-supervisor
 o Stian Isachsen, University of Oslo, (2018-2020), co-supervisor
 
 === Former PhD students and their present positions ===
-
+o John Mark Aiken, University of Oslo, started 2017, defended thesis September 2020, co-supervisor. Research Topic: Machine Learning applied to Physics Education Research. Has several several offers for  post-doctoral fellowships.
 o Justin Lietz (PhD MSU 2019), now post-doctoral fellow at Oak Ridge National Laboratory, Computational Science Division
 o Samuel Novario (PhD MSU 2018), now post-doctoral fellow at Oak Ridge National Laboratory, Physics Division
 o Fei Yuan (PhD MSU 2018), employed at Google as computational scientist
@@ -363,7 +363,6 @@ o "Marius Lysebo":"https://www.hioa.no/tilsatt/marlys" (PhD UiO 2010), now Assoc
 o "Elise Bergli":"http://www.aas.vgs.no/om-oss/organisasjon/alle-ansatte/" (PhD UiO 2010), teacher Ås high school, Norway
 o "Eirik Ovrum":"https://www.hbv.no/om-hbv-kontakt-oss-ansatte/eirik-ovrum-article125026-6688.html" (PhD UiO 2007), now Associate Professor at the University College of Southeast of Norway
 o "Gaute Hagen":"https://www.ornl.gov/staff-profile/gaute-hagen" (PhD UiB and UiO 2005), now permanent position as scientist at the Physics Division of Oak Ridge National Laboratory. Recipient of the Department of Energy Early career award
-o Maxim Kartamyshev (PhD UiO), now at the Bank of Norway as senior analyst
 o Øystein Elgarøy (PhD UiO 1999), now professor of Theoretical Astrophysics at the University of Oslo, Norway (co-supervisor)
 o Lars Engvik (PhD UiO 1999), now Associate Professor at Sør-Trøndelag University College, Trondheim, Norway, (co-supervisor)
 
@@ -578,6 +577,10 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 === Publications in journals with a referee system: ===
 
+
+o Amber Boehnlein, Markus Diefenthaler, Morten Hjorth-Jensen, Tanja Horn, Michelle Kuchera, Dean Lee, Steve Lidia, Witold Nazarewicz, Kostas Orginos, Alan Poon, Michael S. Smith, Xin-Nian Wang, Long-Gang Pang, Veronique Ziegler, _Artificial intelligence and machine learning in nuclear physics_, in prepearation for Reviews of Modern Physics, invited colloquium
+.
+o Dean Lee, Scott Bogner, B. Alex Brown, Serdar Elhatisari, Evgeny Epelbaum,  Heiko Hergert, Morten Hjorth-Jensen, Hermann Krebs, Ning Li, Bing-Nan Lu,  Ulf-G. Meissner, Robert B. Wiringa, _Hidden spin-isospin exchange symmetry_, submitted to Physical Review Letters (October 2020).
 
 o Aynom T. Teweldebrhan, Thomas Schuler, John Burkhart, and Morten Hjorth-Jensen, *Coupled machine learning and the limits of acceptability approach applied in parameter identification for a distributed hydrological model*, "Hydrology and Earth System Sciences 24, (2020), 4641":"https://hess.copernicus.org/articles/24/4641/2020/"
 
@@ -1032,6 +1035,8 @@ o Holt, Anne; Engeland, Torgeir; Hjorth-Jensen, Morten; Osnes, Eivind.  The stru
 o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern meson-exchange potentials, Edited by A. Covello, 3rd international spring seminar on nuclear physics, Ischia, Italy, May 21-25, 1990, (World Scientific Singapore, 1991), pages 87-97 
 
 === Talks, lectures and seminars at workshops, conferences, schools  and institute colloquiua ===
+
+o Hjorth-Jensen, Morten, Machine Learning meets Nuclear Physics, Institute colloquium at the Department of Physics, University of Padova, Italy, October 13, 2020.
 
 o Hjorth-Jensen, Morten, Lecture on Nuclear Physics at the NS3 school, FRIB, Michigan State University, May 15, 2019. Main organizer Artemis Spyrou, Michigan State University.
 
