@@ -46,7 +46,7 @@ o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio
 o Favorite graduate teacher at the Department of Physics and Astronomy at Michigan State University, 2016 
 o _Olav Thon Foundation_ "National prize for excellence in teaching award":"https://www.ntbinfo.no/pressemelding/olav-thon-stiftelsen-annonserte-arets-priser-42-millioner-til-forskning-og-undervisning?publisherId=8983491&releaseId=16475069" (National, all Norwegian higher education institutions, 500kNOK), 2018
 o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"https://web.pa.msu.edu/alumni/awards/osgood_fac_awards.html"
-
+o "University of Oslo merited teacher award 2020":"https://titan.uio.no/utdanning/2020/to-fysikere-belonnes-for%20undervisningen-sin"
 
 ===== Citation metrics, highly cited articles, and additional research highlights: =====
 
@@ -323,7 +323,7 @@ o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio
 o Favorite graduate teacher at the Department of Physics and Astronomy at Michigan State University, 2016 
 o _Olav Thon Foundation_ "National prize for excellence in teaching award":"https://www.ntbinfo.no/pressemelding/olav-thon-stiftelsen-annonserte-arets-priser-42-millioner-til-forskning-og-undervisning?publisherId=8983491&releaseId=16475069" (National, all Norwegian higher education institutions, 500kNOK), 2018
 o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"https://web.pa.msu.edu/alumni/awards/osgood_fac_awards.html"
-o "University of Oslo distinguished teacher aware 2020":"https://titan.uio.no/utdanning/2020/to-fysikere-belonnes-for%20undervisningen-sin"
+o "University of Oslo merited teacher award 2020":"https://titan.uio.no/utdanning/2020/to-fysikere-belonnes-for%20undervisningen-sin"
 
 === Present PhD students ===
 
@@ -578,8 +578,8 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 === Publications in journals with a referee system: ===
 
 
-o Amber Boehnlein, Markus Diefenthaler, Morten Hjorth-Jensen, Tanja Horn, Michelle Kuchera, Dean Lee, Steve Lidia, Witold Nazarewicz, Kostas Orginos, Alan Poon, Michael S. Smith, Xin-Nian Wang, Long-Gang Pang, Veronique Ziegler, _Artificial intelligence and machine learning in nuclear physics_, in prepearation for Reviews of Modern Physics, invited colloquium
-.
+o Amber Boehnlein, Markus Diefenthaler, Morten Hjorth-Jensen, Tanja Horn, Michelle Kuchera, Dean Lee, Steve Lidia, Witold Nazarewicz, Kostas Orginos, Alan Poon, Michael S. Smith, Xin-Nian Wang, Long-Gang Pang, Veronique Ziegler, _Artificial intelligence and machine learning in nuclear physics_, in prepearation for Reviews of Modern Physics, invited colloquium (2020)
+
 o Dean Lee, Scott Bogner, B. Alex Brown, Serdar Elhatisari, Evgeny Epelbaum,  Heiko Hergert, Morten Hjorth-Jensen, Hermann Krebs, Ning Li, Bing-Nan Lu,  Ulf-G. Meissner, Robert B. Wiringa, _Hidden spin-isospin exchange symmetry_, submitted to Physical Review Letters (October 2020).
 
 o Aynom T. Teweldebrhan, Thomas Schuler, John Burkhart, and Morten Hjorth-Jensen, *Coupled machine learning and the limits of acceptability approach applied in parameter identification for a distributed hydrological model*, "Hydrology and Earth System Sciences 24, (2020), 4641":"https://hess.copernicus.org/articles/24/4641/2020/"
