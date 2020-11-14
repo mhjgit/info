@@ -586,7 +586,7 @@ o Aynom T. Teweldebrhan, Thomas Schuler, John Burkhart, and Morten Hjorth-Jensen
 
 o Robert Solli, Daniel Bazin, Michelle P. Kuchera, Ryan R. Strauss, Morten Hjorth-Jensen, *Unsupervised Learning for Identifying Events in Active Target Experiments*, "Nuclear Instruments and Methods in Physics Research Section A, (2020), submitted":"https://arxiv.org/abs/2008.02757"
 
-o John M. Aiken, Riccardo De Bin, Morten Hjorth-Jensen, Marcos D. Caballero, Predicting time to graduation at a large enrollment American university, "arXiv:2005.05104, PLOS ONE accepted for publication":"https://arxiv.org/abs/2005.05104"
+o John M. Aiken, Riccardo De Bin, Morten Hjorth-Jensen, Marcos D. Caballero, Predicting time to graduation at a large enrollment American university, "PLoS ONE 15, e0242334 (2020)":"https://doi.org/10.1371/journal.pone.0242334"
 
 o Calvin W. Johnson, Kristina D. Launey, Naftali Auerbach, Sonia Bacca, Bruce R. Barrett, Carl Brune, Mark A. Caprio, Pierre Descouvemont, W. H. Dickhoff, Charlotte Elster, Patrick J. Fasano, Kevin Fossez, Heiko Hergert, Morten Hjorth-Jensen, Linda Hlophe, Baishan Hu, Rodolfo M. Id Betan, Andrea Idini, Sebastian König, Konstantinos Kravvaris, Dean Lee, Jin Lei, Pieter Maris, Alexis Mercenne, Kosho Minomo, Rodrigo Navarro Perez, Witold Nazarewicz, F. M. Nunes, Marek Ploszajczak, Sofia Quaglioni, Jimmy Rotureau, Gautam Rupak, Andrey M. Shirokov, Ian Thompson, James P. Vary, Alexander Volya, Furong Xu, Remco G.T. Zegers, Vladimir Zelevinsky, Xilin Zhang, *From Bound States to the Continuum*, "Journal of Physics G, (2020), in press":"https://iopscience.iop.org/article/10.1088/1361-6471/abb129"
 
