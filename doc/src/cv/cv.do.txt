@@ -1,6 +1,6 @@
 TITLE: Biographical  information
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
-DATE: October 15,  2020
+DATE: Today
 
 ===== Professional preparation, education  and personal data: =====
 
@@ -334,7 +334,8 @@ o Omokuyani C. Udiani , Michigan State University, started 2017, co-supervisor. 
 o Danny Jammoa, Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning
 o Øyvind Sigmundsson Schøyen, University of Oslo, started 2019. Research topic: Time-dependent many-body theory and quantum computing
 o Stian Bilek, University of Oslo, started 2020, defends thesis September 2024. Quantum Computing  and Machine Learning
-
+o Jonas Boym Flaten, University of Oslo, started 2020, defends thesis December 2024. Quantum Many-Body theories
+o Paulina Souza Tedesco, University of Oslo, started 2020, defends thesis fall 2023, Machine Learning and Meteorology, co-supervisor
 === Present Master of Science Students ===
 
 o Eina Jørgensen, University of Oslo, (2019-2021), co-supervisor
@@ -348,6 +349,8 @@ o Johan Nereng, University of Oslo, (2019-2021)
 o Oliver Hebnes, University of Oslo, (2019-2021), co-supervisor
 o Mohamad Ismail, University of Oslo, (2019-2021), co-supervisor
 o Stian Isachsen, University of Oslo, (2018-2020), co-supervisor
+
+
 
 === Former PhD students and their present positions ===
 o John Mark Aiken, University of Oslo, started 2017, defended thesis September 2020, co-supervisor. Research Topic: Machine Learning applied to Physics Education Research. Has several several offers for  post-doctoral fellowships.
@@ -459,8 +462,6 @@ o Eirik Ovrum, University of Oslo, (2001-2003)
 o Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)
 
 === Lectures and organization of schools: ===
-
-
 
 
 o Morten Hjorth-Jensen, Daniel Bazin, Sean Liddick, , Michelle Kuchera, and R. Ramanujan, Online Nuclear Talent course on  Machine Learning Applied to Nuclear Physics, European Center for Theoretical Nuclear Physics and Related Areas, Trento, Italy, June 22 to July 3. Main organizer and teacher.
@@ -588,7 +589,7 @@ o Robert Solli, Daniel Bazin, Michelle P. Kuchera, Ryan R. Strauss, Morten Hjort
 
 o John M. Aiken, Riccardo De Bin, Morten Hjorth-Jensen, Marcos D. Caballero, Predicting time to graduation at a large enrollment American university, "PLoS ONE 15, e0242334 (2020)":"https://doi.org/10.1371/journal.pone.0242334"
 
-o Calvin W. Johnson, Kristina D. Launey, Naftali Auerbach, Sonia Bacca, Bruce R. Barrett, Carl Brune, Mark A. Caprio, Pierre Descouvemont, W. H. Dickhoff, Charlotte Elster, Patrick J. Fasano, Kevin Fossez, Heiko Hergert, Morten Hjorth-Jensen, Linda Hlophe, Baishan Hu, Rodolfo M. Id Betan, Andrea Idini, Sebastian König, Konstantinos Kravvaris, Dean Lee, Jin Lei, Pieter Maris, Alexis Mercenne, Kosho Minomo, Rodrigo Navarro Perez, Witold Nazarewicz, F. M. Nunes, Marek Ploszajczak, Sofia Quaglioni, Jimmy Rotureau, Gautam Rupak, Andrey M. Shirokov, Ian Thompson, James P. Vary, Alexander Volya, Furong Xu, Remco G.T. Zegers, Vladimir Zelevinsky, Xilin Zhang, *From Bound States to the Continuum*, "Journal of Physics G, (2020), in press":"https://iopscience.iop.org/article/10.1088/1361-6471/abb129"
+o Calvin W. Johnson, Kristina D. Launey, Naftali Auerbach, Sonia Bacca, Bruce R. Barrett, Carl Brune, Mark A. Caprio, Pierre Descouvemont, W. H. Dickhoff, Charlotte Elster, Patrick J. Fasano, Kevin Fossez, Heiko Hergert, Morten Hjorth-Jensen, Linda Hlophe, Baishan Hu, Rodolfo M. Id Betan, Andrea Idini, Sebastian König, Konstantinos Kravvaris, Dean Lee, Jin Lei, Pieter Maris, Alexis Mercenne, Kosho Minomo, Rodrigo Navarro Perez, Witold Nazarewicz, F. M. Nunes, Marek Ploszajczak, Sofia Quaglioni, Jimmy Rotureau, Gautam Rupak, Andrey M. Shirokov, Ian Thompson, James P. Vary, Alexander Volya, Furong Xu, Remco G.T. Zegers, Vladimir Zelevinsky, Xilin Zhang, *From Bound States to the Continuum*, "Journal of Physics G Phys. 47, 123001  (2020)":"https://urldefense.com/v3/__https://iopscience.iop.org/article/10.1088/1361-6471/abb129__;!!HXCxUKc!nOuho6Yd_SYxj9PUxWEODhuHbyyRAD_27R1bipWQvrj6Jjnwzdi7Z4FRJSF1-w$"
 
 
 o D. A. Torres, R. Chapman, V. Kumar, B. Hadinia, A. Hodsdon, M. Labiche, X. Liang, D. O’Donnell, J. Ollier, R. Orlandi, J. F. Smith, K. -M. Spohr, P. Wady, Z. M. Wang, L. Corradi, E. Fioretto, A. Gadea, G. de Angelis, N. Mărginean, D. R. Napoli, E. Sahin, A. M. Stefanini, J. J. Valiente-Dobón, F. D. Vedova, M. Axiotis, T. Martinez, S. Szilner, D. Bazzacco, S. Beghini, E. Farnea, R. Mărginean, D. Mengoni, G. Montagnoli, F. Recchia, F. Scarlassara, C. A. Ur, S. M. Lenzi, S. Lunardi, T. Kröll, F. Haas, T. Faul, M. Hjorth-Jensen, B. G. Carlsson, S. J. Freeman, A. G. Smith, G. Jones, N. Thompson, G. Pollarolo, G. S. Simpson, *Study of medium-spin states of neutron-rich 87, 89, 91Rb isotopes*, "European Physical Journal A 55 (2019) p.158":"https://epja.epj.org/articles/epja/abs/2019/09/10050_2019_Article_12839/10050_2019_Article_12839.html"
@@ -1036,14 +1037,28 @@ o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern
 
 === Talks, lectures and seminars at workshops, conferences, schools  and institute colloquiua ===
 
+o Hjorth-Jensen, Morten, Machine Learning meets Nuclear Physics, XAI seminar series: Explaining what goes on inside DNN/AI, SINTEF/University of Oslo, Norway, December 8, 2020.
+
+
+o Hjorth-Jensen, Morten, Machine Learning meets Nuclear Physics, University of the Western Cape, South Africa, November 30- December 4, 2020, online workshop _Tastes of Nuclear Physics_  URL:"http://nuclear.uwc.ac.za/index.php/tnp2020/"
+
 o Hjorth-Jensen, Morten, Machine Learning meets Nuclear Physics, Institute colloquium at the Department of Physics, University of Padova, Italy, October 13, 2020.
-
-o Hjorth-Jensen, Morten, Lecture on Nuclear Physics at the NS3 school, FRIB, Michigan State University, May 15, 2019. Main organizer Artemis Spyrou, Michigan State University.
-
-o Hjorth-Jensen, Morten, Integrating a Computational Perspective in Physics (and Science) Courses, October 23, 2019. Ole Rømer Colloquium, Department of Physics and Astronomy, University of Århus, Denmark URL:"https://phys.au.dk/en/news/item/artikel/ole-roemer-colloquium-morten-hjort-jensen-tba/"
 
 o Hjorth-Jensen, Morten, Machine Learning and Quantum Mechanics for Many Interacting Particles, UiO, March 3, 2020  URL:"https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/seminars/hjorth-jensen.html"
 
+o Hjorth-Jensen, Morten, Lecture on Nuclear Physics at the NS3 school, FRIB, Michigan State University, May 15, 2019. Main organizer Artemis Spyrou, Michigan State University.
+
+o Morten Hjorth-Jensen, Solving Quantum Mechanical Many-body Problems with Machine Learning Algorithms, Chalmers Tekniska Høgskola, Gøteborg, Sverige, October 28, 2019.
+
+
+o Hjorth-Jensen, Morten, Integrating a Computational Perspective in Physics (and Science) Courses, October 23, 2019. Ole Rømer Colloquium, Department of Physics and Astronomy, University of Århus, Denmark URL:"https://phys.au.dk/en/news/item/artikel/ole-roemer-colloquium-morten-hjort-jensen-tba/"
+
+o Morten Hjorth-Jensen, Solving Quantum Mechanical Many-body Problems with Machine Learning Algorithms, University of Surrey, Guildford, UK, October 1, 2019.
+
+
+o Hjorth-Jensen, Morten, Machine Learning and Quantum Mechanics for Many Interacting Particles, University of Ohio, Athens, April 16, 2019  URL:"https://mhjensenseminars.github.io/MachineLearningTalk/doc/pub/unitn/html/uniohio-reveal.html"
+
+o Hjorth-Jensen, Morten, Machine Learning and Quantum Mechanics for Many Interacting Particles, University of Trento, Italy, March 12, 2019, 2019  URL:"https://mhjensenseminars.github.io/MachineLearningTalk/doc/pub/unitn/html/unitn-reveal.html"
 
 o Hjorth-Jensen, Morten, "Integrating Computations in Physics Courses, Workshop on New Horizons in Teaching Science: 18th-19th, June 2018, University of Messina, Italy"
  
