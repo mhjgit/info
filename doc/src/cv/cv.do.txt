@@ -245,14 +245,13 @@ o Mao Xingze, committee member. Defended thesis July 2020.
 o Amy Lovell, committee member. Defended thesis January 24 2018.
 o Debra Richman, committee member, defends thesis December 2020.
 o Roy Ready, committee member. Defended thesis May 2020.
-o Nathan Watwood, committee member 
+o Nathan Watwood, committee member. Defended thesis February 2021. 
 o Ben Hall, chair, thesis defense planned 2022
 o Udiani Omokuyani, committee member
 o Jane Kim, chair, thesis defense planned 2023
-o Khan Zhu, committee member
-o Byeon Heejun, committee member
-o Golubev Timofey, committee member
-o Yousif Ahmed, committee member
+o Khan Zhu, committee member. 
+o Byeon Heejun, committee member. Defended thesis December 2020.
+o Golubev Timofey, committee member. Defended thesis December 2020.
 o Hermansen, Kirby, committee member
 o Watkins Jacob, , committee member
 o Hill Matthew Steven, committee member
@@ -336,8 +335,8 @@ o Øyvind Sigmundsson Schøyen, University of Oslo, started 2019. Research topic
 o Stian Bilek, University of Oslo, started 2020, defends thesis September 2024. Quantum Computing  and Machine Learning
 o Jonas Boym Flaten, University of Oslo, started 2020, defends thesis December 2024. Quantum Many-Body theories
 o Paulina Souza Tedesco, University of Oslo, started 2020, defends thesis fall 2023, Machine Learning and Meteorology, co-supervisor
-
-
+o Katarzyna Michałowska, University of Oslo, started 2020, defends thesis fall 2023, Machine Learning, co-supervisor
+o Einar Aurbakken, University of Oslo, started 2020, defends thesis fall 2024, Quantum Chemistry and Many-body Physics, co-supervisor 
 === Present Master of Science Students ===
 
 o Eina Jørgensen, University of Oslo, (2019-2021), co-supervisor
@@ -577,8 +576,8 @@ o Hjorth-Jensen, Morten. CENS: A computational Environment for Nuclear Structure
 =====  Research, Publications, books, refereed scientific articles, talks and research grants  =====
 
 === Books: ===
-o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2020.
-o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2020.
+o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2021.
+o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2021.
 o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
 
 === Publications in journals with a referee system: ===
@@ -1041,6 +1040,9 @@ o Holt, Anne; Engeland, Torgeir; Hjorth-Jensen, Morten; Osnes, Eivind.  The stru
 o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern meson-exchange potentials, Edited by A. Covello, 3rd international spring seminar on nuclear physics, Ischia, Italy, May 21-25, 1990, (World Scientific Singapore, 1991), pages 87-97 
 
 === Talks, lectures and seminars at workshops, conferences, schools  and institute colloquiua ===
+
+o Hjorth-Jensen, Morten, "Machine Learning and Quantum Mechanics for Many Interacting Particles, NITheP Colloquium, South Africa":"https://www.youtube.com/watch?v=gzi9n8nGZSM&ab_channel=NITheCSKZN", Monday, 8 February 2021
+
 
 o Hjorth-Jensen, Morten, Machine Learning meets Nuclear Physics, XAI seminar series: Explaining what goes on inside DNN/AI, SINTEF/University of Oslo, Norway, December 8, 2020.
 
