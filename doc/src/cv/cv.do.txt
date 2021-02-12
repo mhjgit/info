@@ -50,7 +50,7 @@ o "University of Oslo merited teacher award 2020":"https://titan.uio.no/utdannin
 
 ===== Citation metrics, highly cited articles, and additional research highlights: =====
 
-o "Web of Science":"https://publons.com/researcher/1751939/morten-hjorth-jensen/" and "Google Scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=no", h-index=57.
+o "Web of Science":"https://publons.com/researcher/1751939/morten-hjorth-jensen/" and "Google Scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=no".
 
 o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126".
 o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106".
@@ -336,6 +336,8 @@ o Øyvind Sigmundsson Schøyen, University of Oslo, started 2019. Research topic
 o Stian Bilek, University of Oslo, started 2020, defends thesis September 2024. Quantum Computing  and Machine Learning
 o Jonas Boym Flaten, University of Oslo, started 2020, defends thesis December 2024. Quantum Many-Body theories
 o Paulina Souza Tedesco, University of Oslo, started 2020, defends thesis fall 2023, Machine Learning and Meteorology, co-supervisor
+
+
 === Present Master of Science Students ===
 
 o Eina Jørgensen, University of Oslo, (2019-2021), co-supervisor
@@ -353,7 +355,7 @@ o Stian Isachsen, University of Oslo, (2018-2020), co-supervisor
 
 
 === Former PhD students and their present positions ===
-o John Mark Aiken, University of Oslo, started 2017, defended thesis September 2020, co-supervisor. Research Topic: Machine Learning applied to Physics Education Research. Has several several offers for  post-doctoral fellowships.
+o John Mark Aiken, University of Oslo, started 2017, defended thesis September 2020, co-supervisor. Research Topic: Machine Learning applied to Physics Education Research. Now post-doctoral fellow at the University of Minnesota, Minneapolis.
 o Justin Lietz (PhD MSU 2019), now post-doctoral fellow at Oak Ridge National Laboratory, Computational Science Division
 o Samuel Novario (PhD MSU 2018), now post-doctoral fellow at Oak Ridge National Laboratory, Physics Division
 o Fei Yuan (PhD MSU 2018), employed at Google as computational scientist
@@ -463,6 +465,9 @@ o Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)
 
 === Lectures and organization of schools: ===
 
+
+
+o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Physics for the Erasmus+ program URL:"http://www.emm-nucphys.eu/", European Master in Nuclear Physics, University of Basse-Normandie and GANIL, January 18-29, 2021. 30 lectures and 30 exercise sessions. Main teacher
 
 o Morten Hjorth-Jensen, Daniel Bazin, Sean Liddick, , Michelle Kuchera, and R. Ramanujan, Online Nuclear Talent course on  Machine Learning Applied to Nuclear Physics, European Center for Theoretical Nuclear Physics and Related Areas, Trento, Italy, June 22 to July 3. Main organizer and teacher.
 
@@ -581,11 +586,11 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 o Amber Boehnlein, Markus Diefenthaler, Morten Hjorth-Jensen, Tanja Horn, Michelle Kuchera, Dean Lee, Steve Lidia, Witold Nazarewicz, Kostas Orginos, Alan Poon, Michael S. Smith, Xin-Nian Wang, Long-Gang Pang, Veronique Ziegler, _Artificial intelligence and machine learning in nuclear physics_, in prepearation for Reviews of Modern Physics, invited colloquium (2020)
 
-o Dean Lee, Scott Bogner, B. Alex Brown, Serdar Elhatisari, Evgeny Epelbaum,  Heiko Hergert, Morten Hjorth-Jensen, Hermann Krebs, Ning Li, Bing-Nan Lu,  Ulf-G. Meissner, Robert B. Wiringa, _Hidden spin-isospin exchange symmetry_, submitted to "Physical Review Letters":"https://arxiv.org/abs/2010.09420" (October 2020).
+o Dean Lee, Scott Bogner, B. Alex Brown, Serdar Elhatisari, Evgeny Epelbaum,  Heiko Hergert, Morten Hjorth-Jensen, Hermann Krebs, Ning Li, Bing-Nan Lu,  Ulf-G. Meissner, Robert B. Wiringa, _Hidden spin-isospin exchange symmetry_, "Physical Review Letters":"https://arxiv.org/abs/2010.09420", in press
 
 o Aynom T. Teweldebrhan, Thomas Schuler, John Burkhart, and Morten Hjorth-Jensen, *Coupled machine learning and the limits of acceptability approach applied in parameter identification for a distributed hydrological model*, "Hydrology and Earth System Sciences 24, (2020), 4641":"https://hess.copernicus.org/articles/24/4641/2020/"
 
-o Robert Solli, Daniel Bazin, Michelle P. Kuchera, Ryan R. Strauss, Morten Hjorth-Jensen, *Unsupervised Learning for Identifying Events in Active Target Experiments*, "Nuclear Instruments and Methods in Physics Research Section A, (2020), submitted":"https://arxiv.org/abs/2008.02757"
+o Robert Solli, Daniel Bazin, Michelle P. Kuchera, Ryan R. Strauss, Morten Hjorth-Jensen, *Unsupervised Learning for Identifying Events in Active Target Experiments*, "Nuclear Instruments and Methods in Physics Research Section A, (2020), in press ":"https://arxiv.org/abs/2008.02757"
 
 o John M. Aiken, Riccardo De Bin, Morten Hjorth-Jensen, Marcos D. Caballero, Predicting time to graduation at a large enrollment American university, "PLoS ONE 15, e0242334 (2020)":"https://doi.org/10.1371/journal.pone.0242334"
 
