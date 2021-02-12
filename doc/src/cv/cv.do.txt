@@ -470,7 +470,7 @@ o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Phy
 
 o Morten Hjorth-Jensen, Daniel Bazin, Sean Liddick, , Michelle Kuchera, and R. Ramanujan, Online Nuclear Talent course on  Machine Learning Applied to Nuclear Physics, European Center for Theoretical Nuclear Physics and Related Areas, Trento, Italy, June 22 to July 3. Main organizer and teacher.
 
-o Online lectures on _Machine Learning weeks at MSU-FRIB/NSCL_, May 2020. I lectured to undergraduate, graduate and post-docs at FRIB/MSU from May 18 till May 29 on Machine Learning applied to Nuclear Physics. Two lectures per day and one hour of hands-on sessions. On average between 25-30 particpants per day. All material is available at \url{https://github.com/mhjensen/MachineLearningMSU-FRIB2020}. In total I gave 20 one-hour lectures.
+o Online lectures on _Machine Learning weeks at MSU-FRIB/NSCL_, May 2020. I lectured to undergraduate, graduate and post-docs at FRIB/MSU from May 18 till May 29 on Machine Learning applied to Nuclear Physics. Two lectures per day and one hour of hands-on sessions. On average between 25-30 particpants per day. All material is available at URL:"https://github.com/mhjensen/MachineLearningMSU-FRIB2020". In total I gave 20 one-hour lectures.
 
 
 o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Physics for the Erasmus+ program URL:"http://www.emm-nucphys.eu/", European Master in Nuclear Physics, University of Basse-Normandie and GANIL, January 20-31, 2020. 45 lectures and 45 exercise sessions. Main teacher
@@ -581,6 +581,10 @@ o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be publi
 o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
 
 === Publications in journals with a referee system: ===
+
+
+o  D. Rhodes, B. A. Brown, J. Henderson, A. Gade, J. Ash, P. C. Bender, R. Elder, B. Elman, M. Grinder, M. Hjorth-Jensen, H. Iwasaki, B. Longfellow, T. Mijatovic, M. Spieker, D. Weisshaar, and C. Y. Wu, _Exploring the role of high-j configurations in collective observables through the Coulomb excitation of 106Cd_, submitted to Physical Review Letters.
+
 
 
 o Amber Boehnlein, Markus Diefenthaler, Morten Hjorth-Jensen, Tanja Horn, Michelle Kuchera, Dean Lee, Steve Lidia, Witold Nazarewicz, Kostas Orginos, Alan Poon, Michael S. Smith, Xin-Nian Wang, Long-Gang Pang, Veronique Ziegler, _Artificial intelligence and machine learning in nuclear physics_, in prepearation for Reviews of Modern Physics, invited colloquium (2020)
