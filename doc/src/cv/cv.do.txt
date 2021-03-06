@@ -308,7 +308,7 @@ From the fall of 2018 I have developed and teach the new course on _Applied Data
 * "FYS-MAT3155/4155 Data Analysis and Machine Learning":"http://www.uio.no/studier/emner/matnat/fys/FYS-MAT4155/", senior undergraduate and graduate level, Fall semester (Oslo) 
 
 
-* PHY321 Classical Mechanics, MSU, undergraduate course, spring semester. First time spring 2020. 
+* "PHY321 Classical Mechanics, MSU":"https://github.com/mhjensen/Physics321", undergraduate course, spring semester. First time spring 2020. 
 
 I have also taught introductory quantum physics, FYS2140, 2000-2004, Statistical Mechanics, FYS4130, 1990-1994 and I have developed an advanced course on "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kjm4480/", 2009-2014, all at the at\
  the University of Oslo, Norway. At Michigan I have also taught an advanced course in Nuclear Structure Physics PHYS981 Nuclear Structure, graduate level, Spring semester, 2013-2016. In addition, with Scott Bogner at Michigan State University, we taught a specialized course on Nuclear Force, PHY989, during the fall semester of 2018.
@@ -465,6 +465,7 @@ o Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)
 
 === Lectures and organization of schools: ===
 
+o Morten Hjorth-Jensen, _2021 CHPC Introductory Programming Summer School_, South Africa, February 1-28, 2021, "five lectures on Machine Learning":"https://compphysics.github.io/MLSummerSchool/doc/web/course.html". 
 
 
 o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Physics for the Erasmus+ program URL:"http://www.emm-nucphys.eu/", European Master in Nuclear Physics, University of Basse-Normandie and GANIL, January 18-29, 2021. 30 lectures and 30 exercise sessions. Main teacher
@@ -1045,6 +1046,8 @@ o Holt, Anne; Engeland, Torgeir; Hjorth-Jensen, Morten; Osnes, Eivind.  The stru
 o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern meson-exchange potentials, Edited by A. Covello, 3rd international spring seminar on nuclear physics, Ischia, Italy, May 21-25, 1990, (World Scientific Singapore, 1991), pages 87-97 
 
 === Talks, lectures and seminars at workshops, conferences, schools  and institute colloquiua ===
+
+o Hjorth-Jensen, Morten, "Quantum Computing and Quantum Mechanics for Many Interacting Particles":"https://mhjensenseminars.github.io/MachineLearningTalk/doc/pub/quantumcomputing/html/quantumcomputing-reveal.html", Gemini center at Sintef seminar, Oslo, March 3, 2021
 
 o Hjorth-Jensen, Morten, "Machine Learning and Quantum Mechanics for Many Interacting Particles, NITheP Colloquium, South Africa":"https://www.youtube.com/watch?v=gzi9n8nGZSM&ab_channel=NITheCSKZN", Monday, 8 February 2021
 
