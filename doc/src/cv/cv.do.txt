@@ -336,12 +336,13 @@ o Omokuyani C. Udiani , Michigan State University, started 2017, co-supervisor. 
 o Danny Jammoa, Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning
 o Paulina Souza Tedesco, University of Oslo, started 2020, defends thesis fall 2023, Machine Learning and Meteorology, co-supervisor
 o Katarzyna Michałowska, University of Oslo, started 2020, defends thesis fall 2023, Machine Learning, co-supervisor
-o Einar Aurbakken, University of Oslo, started 2020, defends thesis fall 2024, Quantum Chemistry and Many-body Physics, co-supervisor 
+o Einar Aurbakken, University of Oslo, started 2020, defends thesis fall 2024, Quantum Chemistry and Many-body Physics, co-supervisor
+
 === Present Master of Science Students ===
 
 o Eina Jørgensen, University of Oslo, (2019-2021), co-supervisor
 o Morten Hemmingsen, University of Oslo, (2019-2021), co-supervisor
-o Huying Zhu, University of Oslo, (2019-2021), co-supervisor
+o Huying Zhang, University of Oslo, (2019-2021), co-supervisor
 o Jens Due Bratten, University of Oslo, (2019-2021), co-supervisor
 o Gabriel Cabrera, University of Oslo, (2019-2021), co-supervisor
 o Kristian Wold, University of Oslo, (2019-2021)
@@ -349,8 +350,7 @@ o Martin Krokan Hovden, University of Oslo, (2019-2021)
 o Johan Nereng, University of Oslo, (2019-2021)
 o Oliver Hebnes, University of Oslo, (2019-2021), co-supervisor
 o Mohamad Ismail, University of Oslo, (2019-2021), co-supervisor
-o Stian Isachsen, University of Oslo, (2018-2020), co-supervisor
-
+o Kristoffer Langstad, University of Oslo, (2019-2021), co-supervisor
 
 
 === Former PhD students and their present positions ===
