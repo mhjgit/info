@@ -1,5 +1,5 @@
 TITLE: Biographical  information
-AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
+AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and Facility for Rare Ion Beams/National Superconducting Cyclotron Laboratory, Michigan State University, USA
 DATE: January 2021
 
 ===== Professional preparation, education  and personal data: =====
@@ -211,6 +211,7 @@ o Presently supervising and co-supervising  eleven Master of Science students (U
 * Member or leader of several job assessment committees in Norway and the USA
 
 === Member of International Advisory committees ===
+
 o 22nd International Few-Body Conference, member of IAC 2018
 o International Nuclear Physics Conference, member of IAC since 2008
 o Nuclear Structure 2010 and 2014, member of IAC
@@ -223,6 +224,7 @@ o International Advisory committee for EURORIB15 and EURORIB18
 o International Advisory committee for SIAM conference on Computational Science and Engineering in Boston, 2013
 
 ===  Member of Graduate Advisory Committees at Michigan State University ===
+
 I am member or chair person of the following graduate  student committees at Michigan State University:
 o Justin Lietz, chair, defended thesis June 2019.
 o Fei Yuan, chair.  Defended thesis January 24 2018.
@@ -310,8 +312,7 @@ From the fall of 2018 I have developed and teach the new course on _Applied Data
 
 * "PHY321 Classical Mechanics, MSU":"https://github.com/mhjensen/Physics321", undergraduate course, spring semester. First time spring 2020. 
 
-I have also taught introductory quantum physics, FYS2140, 2000-2004, Statistical Mechanics, FYS4130, 1990-1994 and I have developed an advanced course on "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kjm4480/", 2009-2014, all at the at\
- the University of Oslo, Norway. At Michigan I have also taught an advanced course in Nuclear Structure Physics PHYS981 Nuclear Structure, graduate level, Spring semester, 2013-2016. In addition, with Scott Bogner at Michigan State University, we taught a specialized course on Nuclear Force, PHY989, during the fall semester of 2018.
+I have also taught introductory quantum physics, FYS2140, 2000-2004, Statistical Mechanics, FYS4130, 1990-1994 and I have developed an advanced course on "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kjm4480/", 2009-2014, all at the at the University of Oslo, Norway. At Michigan I have also taught an advanced course in Nuclear Structure Physics PHYS981 Nuclear Structure, graduate level, Spring semester, 2013-2016. In addition, with Scott Bogner at Michigan State University, we taught a specialized course on Nuclear Force, PHY989, during the fall semester of 2018.
 
 === Teaching Awards: ===
 
@@ -585,9 +586,7 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 === Publications in journals with a referee system: ===
 
 
-o  D. Rhodes, B. A. Brown, J. Henderson, A. Gade, J. Ash, P. C. Bender, R. Elder, B. Elman, M. Grinder, M. Hjorth-Jensen, H. Iwasaki, B. Longfellow, T. Mijatovic, M. Spieker, D. Weisshaar, and C. Y. Wu, _Exploring the role of high-j configurations in collective observables through the Coulomb excitation of 106Cd_, submitted to Physical Review Letters.
-
-
+o D. Rhodes, B. A. Brown, J. Henderson, A. Gade, J. Ash, P. C. Bender, R. Elder, B. Elman, M. Grinder, M. Hjorth-Jensen, H. Iwasaki, B. Longfellow, T. Mijatovic, M. Spieker, D. Weisshaar, and C. Y. Wu, _Exploring the role of high-j configurations in collective observables through the Coulomb excitation of 106Cd_, submitted to Physical Review Letters.
 
 o Amber Boehnlein, Markus Diefenthaler, Morten Hjorth-Jensen, Tanja Horn, Michelle Kuchera, Dean Lee, Steve Lidia, Witold Nazarewicz, Kostas Orginos, Alan Poon, Michael S. Smith, Xin-Nian Wang, Long-Gang Pang, Veronique Ziegler, _Artificial intelligence and machine learning in nuclear physics_, in prepearation for Reviews of Modern Physics, invited colloquium (2020)
 

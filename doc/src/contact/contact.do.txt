@@ -2,28 +2,17 @@ TITLE: Contact information
 AUTHOR: Morten Hjorth-Jensen
 DATE: 
 
-===== Address and contact information in USA (January-June) =====
+===== Address and contact information =====
+
 !bblock
-* National Superconducting Cyclotron Laboratory and Department of Physics and Astronomy
+* Facility for Rare Ion Beams/National Superconducting Cyclotron Laboratory and Department of Physics and Astronomy
 * Street address: 640 South Shaw Lane
 * Michigan State University
 * East Lansing, 48824 Michigan, USA
 * Office: 2131 at the National Superconducting Cyclotron Laboratory
 * Cellphone: +1-517-249-1375
 * Office: +1-517-9087290
-* Email: morten.hjorth-jensen@fys.uio.no or hjensen@msu.edu
-!eblock
-
-===== Address and contact information in Norway (July-December) =====
-!bblock
-* Department  of Physics
-* Street address: Sem Sælands vei 24
-* University of Oslo  
-* POB 1048 Blindern, N-0316 Oslo, Norway
-* Office: Physics Building, office FV308
-* Cellphone: +47-48257387
-* Office: +47-22856458
-* Email: morten.hjorth-jensen@fys.uio.no or hjensen@msu.edu
+* Email: hjensen@msu.edu/hjensen@frib.msu.edu
 !eblock
 
 
