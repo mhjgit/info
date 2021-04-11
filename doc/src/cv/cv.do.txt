@@ -225,7 +225,7 @@ o International Advisory committee for SIAM conference on Computational Science 
 
 ===  Member of Graduate Advisory Committees at Michigan State University ===
 
-I am member or chair person of the following graduate  student committees at Michigan State University:
+I am (have been) member or chair person of the following graduate  student committees at Michigan State University:
 o Justin Lietz, chair, defended thesis June 2019.
 o Fei Yuan, chair.  Defended thesis January 24 2018.
 o Sam Novario, chair. Defends thesis February 7 2018.
@@ -246,7 +246,7 @@ o Hao Lin, committee member. Defended thesis July 2020.
 o Mao Xingze, committee member. Defended thesis July 2020.
 o Amy Lovell, committee member. Defended thesis January 24 2018.
 o Debra Richman, committee member, defends thesis December 2020.
-o Roy Ready, committee member. Defended thesis May 2020.
+o Roy Ready, committee member. Defends thesis June 2021.
 o Nathan Watwood, committee member. Defended thesis February 2021. 
 o Ben Hall, chair, thesis defense planned 2022
 o Udiani Omokuyani, committee member
@@ -358,7 +358,7 @@ o Kristoffer Langstad, University of Oslo, (2019-2021), co-supervisor
 
 o John Mark Aiken, University of Oslo, started 2017, defended thesis September 2020, co-supervisor. Research Topic: Machine Learning applied to Physics Education Research. Now post-doctoral fellow at the University of Minnesota, Minneapolis.
 o Justin Lietz (PhD MSU 2019), now post-doctoral fellow at Oak Ridge National Laboratory, Computational Science Division
-o Samuel Novario (PhD MSU 2018), now post-doctoral fellow at Oak Ridge National Laboratory, Physics Division
+o Samuel Novario (PhD MSU 2018), post-doctoral fellow at Oak Ridge National Laboratory, Physics Division, 2018-2020, now post-doctoral fellow at Los Alamos National Laboratoty
 o Fei Yuan (PhD MSU 2018), employed at Google as computational scientist
 o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014). From 2015 to 2018, ost-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo. Now employed by Varian Medical Systems, Helsinki, Finland.
 o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (PhD UiO 2009), researcher, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
@@ -366,7 +366,7 @@ o "Gustav Jansen":"https://www.ornl.gov/staff-profile/gustav-r-jansen" (PhD UiO 
 o "Torquil MacDonald Sørensen":"http://www.mn.uio.no/math/english/people/aca/tmac/" (PhD UiO 2012), post-doctoral fellow at the Department of Mathematics, UiO
 o "Jon Kerr Nilsen":"http://www.usit.uio.no/english/about/organisation/bps/rc/ris/staff/jonkni/" (PhD UiO 2010), senior engineer at the University of Oslo center for information technologies (co-supervisor)
 o "Marius Lysebo":"https://www.hioa.no/tilsatt/marlys" (PhD UiO 2010), now Associate Professor at Oslo University College, (co-supervisor)
-o "Elise Bergli":"http://www.aas.vgs.no/om-oss/organisasjon/alle-ansatte/" (PhD UiO 2010), teacher Ås high school, Norway
+o "Elise Bergli":"http://www.aas.vgs.no/om-oss/organisasjon/alle-ansatte/" (PhD UiO 2010), teacher Ås high school, Norway and Assistant Professor at the Norwegian University of Life Sciences.
 o "Eirik Ovrum":"https://www.hbv.no/om-hbv-kontakt-oss-ansatte/eirik-ovrum-article125026-6688.html" (PhD UiO 2007), now Associate Professor at the University College of Southeast of Norway
 o "Gaute Hagen":"https://www.ornl.gov/staff-profile/gaute-hagen" (PhD UiB and UiO 2005), now permanent position as scientist at the Physics Division of Oak Ridge National Laboratory. Recipient of the Department of Energy Early career award
 o Øystein Elgarøy (PhD UiO 1999), now professor of Theoretical Astrophysics at the University of Oslo, Norway (co-supervisor)
