@@ -13,14 +13,11 @@ DATE: April 2021
 
 ===== Appointments: =====
 
-|---------------------------------------------------------------------|
-| Position | Institution  | Dates |
-|---------------------------------------------------------------------|
-| Associate Professor of Physics | University of Oslo| 1999-2001 | 
-| Professor of Physics | University of Oslo| 2001-present |
-| Adjunct Professor of Physics | Michigan State University| 2003-2011 |
-| Professor of Physics | Michigan State University| 2012-present |
-|---------------------------------------------------------------------|
+
+o Associate Professor of Physics, University of Oslo, 1999-2001;
+o Professor of Physics, University of Oslo,2001-present;
+o Adjunct Professor of Physics, Michigan State University, 2003-2011;
+o Professor of Physics, Michigan State University,2012-present;
 
 
 ===== Brief research overview =====
@@ -47,6 +44,7 @@ o Favorite graduate teacher at the Department of Physics and Astronomy at Michig
 o _Olav Thon Foundation_ "National prize for excellence in teaching award":"https://www.ntbinfo.no/pressemelding/olav-thon-stiftelsen-annonserte-arets-priser-42-millioner-til-forskning-og-undervisning?publisherId=8983491&releaseId=16475069" (National, all Norwegian higher education institutions, 500kNOK), 2018
 o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"https://web.pa.msu.edu/alumni/awards/osgood_fac_awards.html"
 o "University of Oslo merited teacher award 2020":"https://titan.uio.no/utdanning/2020/to-fysikere-belonnes-for%20undervisningen-sin"
+o "College of Natural Science Norman L and Olga K. Fritz Excellence in Teaching Award, Michigan State University, 2021":"https://natsci.msu.edu/faculty-staff/awards/#eta"
 
 ===== Citation metrics, highly cited articles, and additional research highlights: =====
 
@@ -589,9 +587,11 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 === Publications in journals with a referee system: ===
 
 
+o Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen, Tanja Horn, Michelle P. Kuchera, Dean Lee, Witold Nazarewicz, Kostas Orginos, Peter Ostroumov, Long-Gang Pang, Alan Poon, Nobuo Sato, Malachi Schram, Alexander Scheinker, Michael S. Smith, Xin-Nian Wang, Veronique Ziegler, "Artificial Intelligence and Machine Learning in Nuclear Physics":"https://arxiv.org/abs/2112.02309", to be submitted to Reviews of Modern Physics
+
+
 o D. Rhodes, B. A. Brown, J. Henderson, A. Gade, J. Ash, P. C. Bender, R. Elder, B. Elman, M. Grinder, M. Hjorth-Jensen, H. Iwasaki, B. Longfellow, T. Mijatovic, M. Spieker, D. Weisshaar, and C. Y. Wu, _Exploring the role of high-j configurations in collective observables through the Coulomb excitation of 106Cd_, "Physical Review  C _103_, L051301 (2021)":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.L051301"
 
-o Amber Boehnlein, Markus Diefenthaler, Morten Hjorth-Jensen, Tanja Horn, Michelle Kuchera, Dean Lee, Steve Lidia, Witold Nazarewicz, Kostas Orginos, Alan Poon, Michael S. Smith, Xin-Nian Wang, Long-Gang Pang, Veronique Ziegler, _Artificial intelligence and machine learning in nuclear physics_, in prepearation for Reviews of Modern Physics, invited colloquium (2020)
 
 o Dean Lee, Scott Bogner, B. Alex Brown, Serdar Elhatisari, Evgeny Epelbaum,  Heiko Hergert, Morten Hjorth-Jensen, Hermann Krebs, Ning Li, Bing-Nan Lu,  Ulf-G. Meissner, Robert B. Wiringa, _Hidden spin-isospin exchange symmetry_, "Physical Review Letters _127_, 062501 (2021)":"https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.062501"
 
