@@ -322,6 +322,7 @@ o Favorite graduate teacher at the Department of Physics and Astronomy at Michig
 o _Olav Thon Foundation_ "National prize for excellence in teaching award":"https://www.ntbinfo.no/pressemelding/olav-thon-stiftelsen-annonserte-arets-priser-42-millioner-til-forskning-og-undervisning?publisherId=8983491&releaseId=16475069" (National, all Norwegian higher education institutions, 500kNOK), 2018
 o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"https://web.pa.msu.edu/alumni/awards/osgood_fac_awards.html"
 o "University of Oslo merited teacher award 2020":"https://titan.uio.no/utdanning/2020/to-fysikere-belonnes-for%20undervisningen-sin"
+o "Norman L and Olga K. Fritz Excellence in Teaching Award":"https://natsci.msu.edu/faculty-staff/awards/#eta" at College of Natural Science, Michigan State University, 2021
 
 === Present PhD students ===
 
@@ -463,6 +464,9 @@ o Eirik Ovrum, University of Oslo, (2001-2003)
 o Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)
 
 === Lectures and organization of schools: ===
+
+o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Physics for the Erasmus+ program URL:"http://www.emm-nucphys.eu/", European Master in Nuclear Physics, University of Basse-Normandie and GANIL, September 15 2021-January 24, 2022. 30 lectures and 30 exercise sessions. Main teacher
+
 
 o Morten Hjorth-Jensen, Daniel Bazin, Sean Liddick, , Michelle Kuchera, and R. Ramanujan, Online Nuclear Talent course on  Machine Learning Applied to Nuclear Physics, European Center for Theoretical Nuclear Physics and Related Areas, Trento, Italy, July 19 to July 30, 2021. Main organizer and teacher.
 
