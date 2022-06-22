@@ -67,7 +67,7 @@ o Presently supervising and co-supervising  eleven Master of Science students (U
 * Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and computational science and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last 20 years I have guided  more than 100 gradute students (at the Master of Science and PhD levels) and post-doctoral fellows at Michigan State University and the University of Oslo.
 
 * With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computations with the traditional science and mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
-
+v
 * With colleagues from the USA and other European countries, we started in 2010 the "Nuclear Talent initiative":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  
 
 * I initiated and lead the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. It includes now seven  departments at the faculty of Mathematics and Natural Sciences of  the University of Oslo.
@@ -221,40 +221,8 @@ o International Advisory Board for Conference on Computational Physics
 o International Advisory committee for EURORIB15 and EURORIB18
 o International Advisory committee for SIAM conference on Computational Science and Engineering in Boston, 2013
 
-===  Member of Graduate Advisory Committees at Michigan State University ===
 
-I am (have been) member or chair person of the following graduate  student committees at Michigan State University:
-o Justin Lietz, chair, defended thesis June 2019.
-o Fei Yuan, chair.  Defended thesis January 24 2018.
-o Sam Novario, chair. Defends thesis February 7 2018.
-o John Bower, chair together with Scott Bogner. Master of Science thesis May 2017.  
-o Adam Jones, committee member. Master of Science thesis July 2017.  
-o Chris Sullivan, committee member. Defended thesis January 2018.
-o Thomas Redpath, committee member. Defended thesis October 2019.
-o Sean Sweany, committee member, defends thesis fall 2020.
-o Rachel Taverner, committee member. Defended thesis May 2019.
-o Nathan Parzuchowski, committee member. Defended thesis April 2017.
-o Titus Morris, committee member. Defended thesis May 2016
-o Kenneth Whitmore, committee member. Defended thesis June 2016
-o Alex Dombos, committee member. Defended thesis May 2018.
-o Josh Bradt, committee member, Defended thesis July 2017.
-o Charles Loelius, committee member, Defended thesis May 2017.
-o Safwan Shanab, committee member. Defended thesis January 2020.
-o Hao Lin, committee member. Defended thesis July 2020.
-o Mao Xingze, committee member. Defended thesis July 2020.
-o Amy Lovell, committee member. Defended thesis January 24 2018.
-o Debra Richman, committee member, defends thesis December 2020.
-o Roy Ready, committee member. Defended thesis May 2021.
-o Nathan Watwood, committee member. Defended thesis February 2021. 
-o Ben Hall, chair, thesis defense planned 2022
-o Udiani Omokuyani, committee member
-o Jane Kim, chair, thesis defense planned 2023
-o Khan Zhu, committee member. 
-o Byeon Heejun, committee member. Defended thesis December 2020.
-o Golubev Timofey, committee member. Defended thesis December 2020.
-o Hermansen, Kirby, committee member
-o Watkins Jacob, , committee member
-o Hill Matthew Steven, committee member
+
 
 
 
@@ -326,7 +294,7 @@ o "Norman L and Olga K. Fritz Excellence in Teaching Award":"https://natsci.msu.
 
 === Present PhD students ===
 
-o Benjamin Hall, Michigan State University, started 2018. Research topic: Quantum Computing  and the Nuclear Many-body problem
+o Benjamin Hall, Michigan State University, started 2018. Thesis defense August 2022. Research topic: Quantum Computing  and the Nuclear Many-body problem
 o Jane Kim, Michigan State University, started 2018. Research topic: Machine Learning and the Nuclear Many-body problem
 o Julie Butler, Michigan State University, started 2018. Research topic: Machine Learning and the Nuclear Many-body problem
 o Øyvind Sigmundsson Schøyen, University of Oslo, started 2019. Research topic: Time-dependent many-body theory and quantum computing
@@ -337,8 +305,86 @@ o Danny Jammoa, Michigan State University, started 2020, co-supervisor. Research
 o Paulina Souza Tedesco, University of Oslo, started 2020, defends thesis fall 2023, Machine Learning and Meteorology, co-supervisor
 o Katarzyna Michałowska, University of Oslo, started 2020, defends thesis fall 2023, Machine Learning, co-supervisor
 o Einar Aurbakken, University of Oslo, started 2020, defends thesis fall 2024, Quantum Chemistry and Many-body Physics, co-supervisor
+o Aymeric Paul McRae, Michigan State University, started fall 2021. Research topic: Machine Learning and the Nuclear Many-body problem
+ 
+
+=== Former PhD students and their present positions ===
+
+o John Mark Aiken, University of Oslo, started 2017, defended thesis September 2020, co-supervisor. Research Topic: Machine Learning applied to Physics Education Research. Now post-doctoral fellow at the University of Oslo
+o Justin Lietz (PhD MSU 2019), permament position as scientist at Oak Ridge National Laboratory, Computational Science Division
+o Samuel Novario (PhD MSU 2018), post-doctoral fellow at Oak Ridge National Laboratory, Physics Division, 2018-2020, now post-doctoral fellow at Los Alamos National Laboratoty
+o Fei Yuan (PhD MSU 2018), employed at Google as computational scientist
+o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014). From 2015 to 2018, ost-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo. Now employed by Varian Medical Systems, Helsinki, Finland.
+o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (PhD UiO 2009), researcher, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
+o "Gustav Jansen":"https://www.ornl.gov/staff-profile/gustav-r-jansen" (PhD UiO 2012), now permanent position as scientist at the Computational Science Division of Oak Ridge National Laboratory  
+o "Torquil MacDonald Sørensen":"http://www.mn.uio.no/math/english/people/aca/tmac/" (PhD UiO 2012), post-doctoral fellow at the Department of Mathematics, UiO
+o "Jon Kerr Nilsen":"http://www.usit.uio.no/english/about/organisation/bps/rc/ris/staff/jonkni/" (PhD UiO 2010), senior engineer at the University of Oslo center for information technologies (co-supervisor)
+o "Marius Lysebo":"https://www.hioa.no/tilsatt/marlys" (PhD UiO 2010), Professor at Oslo University College, (co-supervisor)
+o "Elise Bergli":"http://www.aas.vgs.no/om-oss/organisasjon/alle-ansatte/" (PhD UiO 2010), teacher Ås high school, Norway and Assistant Professor at the Norwegian University of Life Sciences.
+o "Eirik Ovrum":"https://www.hbv.no/om-hbv-kontakt-oss-ansatte/eirik-ovrum-article125026-6688.html" (PhD UiO 2007), now Associate Professor at the University College of Southeast of Norway
+o "Gaute Hagen":"https://www.ornl.gov/staff-profile/gaute-hagen" (PhD UiB and UiO 2005), now permanent position as scientist at the Physics Division of Oak Ridge National Laboratory. Recipient of the Department of Energy Early career award
+o Øystein Elgarøy (PhD UiO 1999), professor of Theoretical Astrophysics at the University of Oslo, Norway (co-supervisor)
+o Lars Engvik (PhD UiO 1999), now Associate Professor at Sør-Trøndelag University College, Trondheim, Norway, (co-supervisor)
+
+=== Post-doctoral fellows and their present positions ===
+
+o "Andreas Ekstrøm":"https://www.chalmers.se/en/Staff/Pages/Andreas-Ekstrom.aspx" (UiO and MSU 2010-2014), now Associate Professor  at Chalmers Technological University in Gothenburg, Sweden
+o Øyvind Jensen (UiO 2011), now researcher at the "Institute for Energy Technology":"https://www.ife.no/en"
+o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (UiO 2008-2012), researcher,  Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
+o Elise Bergli (UiO 2010-2011), now teacher at Ås high school, Norway
+o Sølve Selstø (UiO 2008-2010), now  Professor at Oslo Metropolitan University
+o Nicolas Michel (MSU 2013), now senior researcher at Langzhou Nuclear Physics Laboratory, China
+
+===  Member of Graduate Advisory Committees at Michigan State University ===
+
+I am (have been) member or chair person of the following graduate  student committees at Michigan State University:
+o Justin Lietz, chair, defended thesis June 2019.
+o Fei Yuan, chair.  Defended thesis January 24 2018.
+o Sam Novario, chair. Defends thesis February 7 2018.
+o John Bower, chair together with Scott Bogner. Master of Science thesis May 2017.  
+o Adam Jones, committee member. Master of Science thesis July 2017.  
+o Chris Sullivan, committee member. Defended thesis January 2018.
+o Thomas Redpath, committee member. Defended thesis October 2019.
+o Sean Sweany, committee member, defends thesis fall 2020.
+o Rachel Taverner, committee member. Defended thesis May 2019.
+o Nathan Parzuchowski, committee member. Defended thesis April 2017.
+o Titus Morris, committee member. Defended thesis May 2016
+o Kenneth Whitmore, committee member. Defended thesis June 2016
+o Alex Dombos, committee member. Defended thesis May 2018.
+o Josh Bradt, committee member, Defended thesis July 2017.
+o Charles Loelius, committee member, Defended thesis May 2017.
+o Safwan Shanab, committee member. Defended thesis January 2020.
+o Hao Lin, committee member. Defended thesis July 2020.
+o Mao Xingze, committee member. Defended thesis July 2020.
+o Amy Lovell, committee member. Defended thesis January 24 2018.
+o Debra Richman, committee member, defends thesis December 2020.
+o Roy Ready, committee member. Defended thesis May 2021.
+o Nathan Watwood, committee member. Defended thesis February 2021. 
+o Ben Hall, chair, thesis defense planned 2022
+o Udiani Omokuyani, committee member
+o Jane Kim, chair, thesis defense planned 2023
+o Khan Zhu, committee member. 
+o Byeon Heejun, committee member. Defended thesis December 2020.
+o Golubev Timofey, committee member. Defended thesis December 2020.
+o Hermansen, Kirby, committee member
+o Watkins Jacob, , committee member
+o Hill Matthew Steven, committee member
+o Larose, Ryan, committee member, defended thesis May 2022
+
 
 === Present Master of Science Students ===
+
+o Philip Karim Niane Sørli (UiO 2020-2022), supervisor
+o Linus Ekstrøm (UiO 2020-2022), supervisor
+o Mohamad Mahnoud (UiO 2021-2023), supervisor
+o Adrian Kleven (UiO 2020-2022), co-supervisor
+o Kaspara Gåsvær (UiO 2020-2022), co-supervisor
+o Maria Horgen (UiO 2020-2022), co-supervisor
+o Bendik Steinsvåg Dalen (UiO 2020-2022), co-supervisor
+
+
+
+=== Former Master of Science Students(links to their thesis will be added)  ===
 
 o Eina Jørgensen, University of Oslo, (2019-2021), co-supervisor
 o Morten Hemmingsen, University of Oslo, (2019-2021), co-supervisor
@@ -351,37 +397,6 @@ o Johan Nereng, University of Oslo, (2019-2021)
 o Oliver Hebnes, University of Oslo, (2019-2021), co-supervisor
 o Mohamad Ismail, University of Oslo, (2019-2021), co-supervisor
 o Kristoffer Langstad, University of Oslo, (2019-2021), co-supervisor
-
-
-=== Former PhD students and their present positions ===
-
-o John Mark Aiken, University of Oslo, started 2017, defended thesis September 2020, co-supervisor. Research Topic: Machine Learning applied to Physics Education Research. Now post-doctoral fellow at the University of Minnesota, Minneapolis.
-o Justin Lietz (PhD MSU 2019), now post-doctoral fellow at Oak Ridge National Laboratory, Computational Science Division
-o Samuel Novario (PhD MSU 2018), post-doctoral fellow at Oak Ridge National Laboratory, Physics Division, 2018-2020, now post-doctoral fellow at Los Alamos National Laboratoty
-o Fei Yuan (PhD MSU 2018), employed at Google as computational scientist
-o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014). From 2015 to 2018, ost-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo. Now employed by Varian Medical Systems, Helsinki, Finland.
-o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (PhD UiO 2009), researcher, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
-o "Gustav Jansen":"https://www.ornl.gov/staff-profile/gustav-r-jansen" (PhD UiO 2012), now permanent position as scientist at the Computational Science Division of Oak Ridge National Laboratory  
-o "Torquil MacDonald Sørensen":"http://www.mn.uio.no/math/english/people/aca/tmac/" (PhD UiO 2012), post-doctoral fellow at the Department of Mathematics, UiO
-o "Jon Kerr Nilsen":"http://www.usit.uio.no/english/about/organisation/bps/rc/ris/staff/jonkni/" (PhD UiO 2010), senior engineer at the University of Oslo center for information technologies (co-supervisor)
-o "Marius Lysebo":"https://www.hioa.no/tilsatt/marlys" (PhD UiO 2010), now Associate Professor at Oslo University College, (co-supervisor)
-o "Elise Bergli":"http://www.aas.vgs.no/om-oss/organisasjon/alle-ansatte/" (PhD UiO 2010), teacher Ås high school, Norway and Assistant Professor at the Norwegian University of Life Sciences.
-o "Eirik Ovrum":"https://www.hbv.no/om-hbv-kontakt-oss-ansatte/eirik-ovrum-article125026-6688.html" (PhD UiO 2007), now Associate Professor at the University College of Southeast of Norway
-o "Gaute Hagen":"https://www.ornl.gov/staff-profile/gaute-hagen" (PhD UiB and UiO 2005), now permanent position as scientist at the Physics Division of Oak Ridge National Laboratory. Recipient of the Department of Energy Early career award
-o Øystein Elgarøy (PhD UiO 1999), now professor of Theoretical Astrophysics at the University of Oslo, Norway (co-supervisor)
-o Lars Engvik (PhD UiO 1999), now Associate Professor at Sør-Trøndelag University College, Trondheim, Norway, (co-supervisor)
-
-=== Post-doctoral fellows and their present positions ===
-
-o "Andreas Ekstrøm":"https://www.chalmers.se/en/Staff/Pages/Andreas-Ekstrom.aspx" (UiO and MSU 2010-2014), now Associate Professor  at Chalmers Technological University in Gothenburg, Sweden
-o Øyvind Jensen (UiO 2011), now researcher at the "Institute for Energy Technology":"https://www.ife.no/en"
-o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (UiO 2008-2012), researcher,  Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
-o Elise Bergli (UiO 2010-2011), now teacher at Ås high school, Norway
-o Sølve Selstø (UiO 2008-2010), now  Professor at Oslo Metropolitan University
-o Nicolas Michel (MSU 2013), now senior researcher at Langzhou Nuclear Physics Laboratory, China
-
-=== Former Master of Science Students(links to their thesis will be added)  ===
-
 o Heine Aabø, University of Oslo, (2018-2020)
 o Stian Bilek, University of Oslo, (2018-2020)
 o Thomas Sjåstad, University of Oslo, (2018-2020), co-supervisor
