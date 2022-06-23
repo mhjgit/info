@@ -314,7 +314,7 @@ o John Mark Aiken, University of Oslo, started 2017, defended thesis September 2
 o Justin Lietz (PhD MSU 2019), permament position as scientist at Oak Ridge National Laboratory, Computational Science Division
 o Samuel Novario (PhD MSU 2018), post-doctoral fellow at Oak Ridge National Laboratory, Physics Division, 2018-2020, now post-doctoral fellow at Los Alamos National Laboratoty
 o Fei Yuan (PhD MSU 2018), employed at Google as computational scientist
-o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014). From 2015 to 2018, ost-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo. Now employed by Varian Medical Systems, Helsinki, Finland.
+o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014). From 2015 to 2018, post-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo. Now employed by Varian Medical Systems, Helsinki, Finland.
 o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (PhD UiO 2009), researcher, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
 o "Gustav Jansen":"https://www.ornl.gov/staff-profile/gustav-r-jansen" (PhD UiO 2012), now permanent position as scientist at the Computational Science Division of Oak Ridge National Laboratory  
 o "Torquil MacDonald Sørensen":"http://www.mn.uio.no/math/english/people/aca/tmac/" (PhD UiO 2012), post-doctoral fellow at the Department of Mathematics, UiO
@@ -339,8 +339,8 @@ o Nicolas Michel (MSU 2013), now senior researcher at Langzhou Nuclear Physics L
 
 I am (have been) member or chair person of the following graduate  student committees at Michigan State University:
 o Justin Lietz, chair, defended thesis June 2019.
-o Fei Yuan, chair.  Defended thesis January 24 2018.
-o Sam Novario, chair. Defends thesis February 7 2018.
+o Fei Yuan, chair.  Defended thesis January 2018.
+o Sam Novario, chair. Defended thesis February 2018.
 o John Bower, chair together with Scott Bogner. Master of Science thesis May 2017.  
 o Adam Jones, committee member. Master of Science thesis July 2017.  
 o Chris Sullivan, committee member. Defended thesis January 2018.
@@ -360,7 +360,7 @@ o Amy Lovell, committee member. Defended thesis January 24 2018.
 o Debra Richman, committee member, defends thesis December 2020.
 o Roy Ready, committee member. Defended thesis May 2021.
 o Nathan Watwood, committee member. Defended thesis February 2021. 
-o Ben Hall, chair, thesis defense planned 2022
+o Ben Hall, chair, thesis defense August  2022
 o Udiani Omokuyani, committee member
 o Jane Kim, chair, thesis defense planned 2023
 o Khan Zhu, committee member. 
@@ -376,32 +376,29 @@ o Larose, Ryan, committee member, defended thesis May 2022
 
 o Philip Karim Niane Sørli (UiO 2020-2022), supervisor
 o Linus Ekstrøm (UiO 2020-2022), supervisor
-o Mohamad Mahnoud (UiO 2021-2023), supervisor
+o Mohamad Mahmoud (UiO 2021-2023), supervisor
 o Adrian Kleven (UiO 2020-2022), co-supervisor
 o Kaspara Gåsvær (UiO 2020-2022), co-supervisor
 o Maria Horgen (UiO 2020-2022), co-supervisor
-o Bendik Steinsvåg Dalen (UiO 2020-2022), co-supervisor
 
 
 
-=== Former Master of Science Students(links to their thesis will be added)  ===
+=== Former Master of Science Students  ===
 
-o Eina Jørgensen, University of Oslo, (2019-2021), co-supervisor
-o Morten Hemmingsen, University of Oslo, (2019-2021), co-supervisor
-o Huying Zhang, University of Oslo, (2019-2021), co-supervisor
-o Jens Due Bratten, University of Oslo, (2019-2021), co-supervisor
-o Gabriel Cabrera, University of Oslo, (2019-2021), co-supervisor
-o Kristian Wold, University of Oslo, (2019-2021)
+o "Eina Jørgensen, University of Oslo, (2019-2021), co-supervisor":"https://www.duo.uio.no/handle/10852/87765"
+o "Huying Zhang, University of Oslo, (2019-2021), co-supervisor":"https://www.duo.uio.no/handle/10852/89265"
+o "Jens Due Bratten, University of Oslo, (2019-2021), co-supervisor":"https://www.duo.uio.no/handle/10852/89321"
+o "Gabriel Cabrera, University of Oslo, (2019-2021), co-supervisor":"https://www.duo.uio.no/handle/10852/88712"
+o "Kristian Wold, University of Oslo, (2019-2021)":"https://www.duo.uio.no/handle/10852/89534"
 o Martin Krokan Hovden, University of Oslo, (2019-2021)
 o Johan Nereng, University of Oslo, (2019-2021)
-o Oliver Hebnes, University of Oslo, (2019-2021), co-supervisor
-o Mohamad Ismail, University of Oslo, (2019-2021), co-supervisor
+o "Oliver Hebnes, University of Oslo, (2019-2021), co-supervisor":"https://www.duo.uio.no/handle/10852/87506"
 o Kristoffer Langstad, University of Oslo, (2019-2021), co-supervisor
 o Heine Aabø, University of Oslo, (2018-2020)
 o Stian Bilek, University of Oslo, (2018-2020)
 o Thomas Sjåstad, University of Oslo, (2018-2020), co-supervisor
 o Eirik Thorsrud, University of Oslo, (2018-2020), co-supervisor
-o Halvard Sutterud, University of Oslo, (2018-2020)
+o Halvard Sutterud, University of Oslo, (2018-2020), co-supervisor
 o Marius Holm, University of Oslo, (2018-2020), co-supervisor
 o Geir Utvik, University of Oslo, (2018-2020)
 o Markus Aspurusten, University of Oslo, (2018-2020), co-supervisor
