@@ -453,7 +453,7 @@ o Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)
 
 === Lectures and organization of schools: ===
 
-o Alexei Bazavov, Morten Hjorth-Jensen, Matthew Hirn, Michelle Kuchera, and R. Ramanujan, URL:"https://indico.frib.msu.edu/event/16/", FRIB TA Summer School - Machine Learning Applied to Nuclear Physics, Facility for Rare Isotope Beams (FRIB) on the Michigan State University campus in East Lansing, MI from May 20 to 23, 2019. Main organizer and teacher.
+o Alexei Bazavov, Scott Bogner, Heiko Hergert, Morten Hjorth-Jensen, Matthew Hirn, Dean Lee, Huey-Wen Lin, and Andrea Shindler, URL:"https://indico.frib.msu.edu/event/54/", FRIB TA Summer School - Quantum Computing and  Nuclear few- and many-body problems, Facility for Rare Isotope Beams (FRIB) on the Michigan State University campus in East Lansing, MI from June 20 to June 22, 2022. 
 
 
 o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Physics for the Erasmus+ program URL:"http://www.emm-nucphys.eu/", European Master in Nuclear Physics, University of Basse-Normandie and GANIL, September 15 2021-January 24, 2022. 30 lectures and 30 exercise sessions. Main teacher
