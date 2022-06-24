@@ -48,29 +48,11 @@ o "College of Natural Science Norman L and Olga K. Fritz Excellence in Teaching 
 
 ===== Citation metrics, highly cited articles, and additional research highlights: =====
 
-o "Web of Science":"https://publons.com/researcher/1751939/morten-hjorth-jensen/" and "Google Scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=no".
+o "Google Scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=no".
 
 o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126".
 o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106".
 o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607".
-o A total of more than 150  peer reviewed articles and three books.
-o Authored and co-authored 23 Physical Review Letters articles, 17 Rapid communications in Physical Review C, seven Physics Letters B articles, one Astrophysical Journal Letters article and one Nature Physics article
-o Written two Physics viewpoints and been highlighted in one other.
-o Taught and developed several courses in Computational Physics and many-body physics, courses in nuclears structure and quantum physics and mechanics and statistical mechanics.
-o More than two hundred invited talks, seminars, colloquia and lectures given worldwide.
-o Organized more than 30 conferences, workshops and schools and advanced courses.
-o Supervised and co-supervised more than 100 graduate students (Master of Science and PhD) and post-doctoral fellows
-o Presently supervising and co-supervising  eleven Master of Science students (University of Oslo) and five PhD students at MSU and three PhD students at the University of Oslo.
-
-===== Synergistic Activities and service through the years: =====
-
-* Since 1999 I have   established an activity in computational physics  at the  Department of Physics at the University of Oslo. I have also started from scratch and developed several  courses on computational physics and computational science and many-body physics. This activity was recognized with the Excellence in Teaching award from the University of Oslo in 2015. During the last 20 years I have guided  more than 100 gradute students (at the Master of Science and PhD levels) and post-doctoral fellows at Michigan State University and the University of Oslo.
-
-* With colleagues at the University of Oslo, I have   been strongly involved in the development of a totally new teaching philosophy which merges computations with the traditional science and mathematics curriculum . This project is called "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" and has received considerable support from the University of Oslo and the Norwegian Ministry of research and education.  It received the University of Oslo award for excellence in teaching  in 2011 and the NOKUT award in 2012. 
-v
-* With colleagues from the USA and other European countries, we started in 2010 the "Nuclear Talent initiative":"http://www.nucleartalent.org",  where we aim  at providing an advanced and comprehensive training to graduate students and young researchers in low-energy nuclear theory.  The network aims at developing a broad curriculum that will provide the platform for a cutting-edge theory for understanding nuclei and nuclear reactions.  
-
-* I initiated and lead the new "Master of Science program on Computational Science at the University of Oslo":"http://www.uio.no/english/studies/programmes/computational-science-master/". This is a new and multi-disciplinary program across several disciplines at the College of Natural Science of the University of Oslo. It includes now seven  departments at the faculty of Mathematics and Natural Sciences of  the University of Oslo.
 
 === Editorial boards and committees ===
 
@@ -278,7 +260,7 @@ From the fall of 2018 I have developed and teach the new course on _Applied Data
 
 * "PHY321 Classical Mechanics, MSU":"https://github.com/mhjensen/Physics321", undergraduate course, spring semester. First time spring 2020. 
 
-I have also taught introductory quantum physics, FYS2140, 2000-2004, Statistical Mechanics, FYS4130, 1990-1994 and I have developed an advanced course on "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kjm4480/", 2009-2014, all at the at the University of Oslo, Norway. At Michigan I have also taught an advanced course in Nuclear Structure Physics PHYS981 Nuclear Structure, graduate level, Spring semester, 2013-2016. In addition, with Scott Bogner at Michigan State University, we taught a specialized course on Nuclear Force, PHY989, during the fall semester of 2018.
+I have also taught introductory quantum physics, FYS2140, 2000-2004, Statistical Mechanics, FYS4130, 1990-1994 and I have developed an advanced course on "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kjm4480/", 2009-2014, all at the at the University of Oslo, Norway. At Michigan State Univeristy I have also taught an advanced course in Nuclear Structure Physics PHYS981 Nuclear Structure, graduate level, Spring semester, 2013-2016. In addition, with Scott Bogner at Michigan State University, we taught a specialized course on Nuclear Force, PHY989, during the fall semester of 2018.
 
 === Teaching Awards: ===
 
@@ -323,8 +305,6 @@ o "Marius Lysebo":"https://www.hioa.no/tilsatt/marlys" (PhD UiO 2010), Professor
 o "Elise Bergli":"http://www.aas.vgs.no/om-oss/organisasjon/alle-ansatte/" (PhD UiO 2010), teacher Ås high school, Norway and Assistant Professor at the Norwegian University of Life Sciences.
 o "Eirik Ovrum":"https://www.hbv.no/om-hbv-kontakt-oss-ansatte/eirik-ovrum-article125026-6688.html" (PhD UiO 2007), now Associate Professor at the University College of Southeast of Norway
 o "Gaute Hagen":"https://www.ornl.gov/staff-profile/gaute-hagen" (PhD UiB and UiO 2005), now permanent position as scientist at the Physics Division of Oak Ridge National Laboratory. Recipient of the Department of Energy Early career award
-o Øystein Elgarøy (PhD UiO 1999), professor of Theoretical Astrophysics at the University of Oslo, Norway (co-supervisor)
-o Lars Engvik (PhD UiO 1999), now Associate Professor at Sør-Trøndelag University College, Trondheim, Norway, (co-supervisor)
 
 === Post-doctoral fellows and their present positions ===
 
@@ -385,15 +365,11 @@ o Maria Horgen (UiO 2020-2022), co-supervisor
 
 === Former Master of Science Students  ===
 
-o "Eina Jørgensen, University of Oslo, (2019-2021), co-supervisor":"https://www.duo.uio.no/handle/10852/87765"
-o "Huying Zhang, University of Oslo, (2019-2021), co-supervisor":"https://www.duo.uio.no/handle/10852/89265"
-o "Jens Due Bratten, University of Oslo, (2019-2021), co-supervisor":"https://www.duo.uio.no/handle/10852/89321"
-o "Gabriel Cabrera, University of Oslo, (2019-2021), co-supervisor":"https://www.duo.uio.no/handle/10852/88712"
+o "Jens Due Bratten, University of Oslo, (2019-2021)":"https://www.duo.uio.no/handle/10852/89321"
 o "Kristian Wold, University of Oslo, (2019-2021)":"https://www.duo.uio.no/handle/10852/89534"
 o Martin Krokan Hovden, University of Oslo, (2019-2021)
 o Johan Nereng, University of Oslo, (2019-2021)
 o "Oliver Hebnes, University of Oslo, (2019-2021), co-supervisor":"https://www.duo.uio.no/handle/10852/87506"
-o Kristoffer Langstad, University of Oslo, (2019-2021), co-supervisor
 o Heine Aabø, University of Oslo, (2018-2020)
 o Stian Bilek, University of Oslo, (2018-2020)
 o Thomas Sjåstad, University of Oslo, (2018-2020), co-supervisor
@@ -476,6 +452,9 @@ o Eirik Ovrum, University of Oslo, (2001-2003)
 o Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)
 
 === Lectures and organization of schools: ===
+
+o Alexei Bazavov, Morten Hjorth-Jensen, Matthew Hirn, Michelle Kuchera, and R. Ramanujan, URL:"https://indico.frib.msu.edu/event/16/", FRIB TA Summer School - Machine Learning Applied to Nuclear Physics, Facility for Rare Isotope Beams (FRIB) on the Michigan State University campus in East Lansing, MI from May 20 to 23, 2019. Main organizer and teacher.
+
 
 o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Physics for the Erasmus+ program URL:"http://www.emm-nucphys.eu/", European Master in Nuclear Physics, University of Basse-Normandie and GANIL, September 15 2021-January 24, 2022. 30 lectures and 30 exercise sessions. Main teacher
 
