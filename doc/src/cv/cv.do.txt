@@ -357,14 +357,14 @@ o Larose, Ryan, committee member, defended thesis May 2022
 o Philip Karim Niane Sørli (UiO 2020-2022), supervisor
 o Linus Ekstrøm (UiO 2020-2022), supervisor
 o Mohamad Mahmoud (UiO 2021-2023), supervisor
-o Adrian Kleven (UiO 2020-2022), co-supervisor
-o Kaspara Gåsvær (UiO 2020-2022), co-supervisor
-o Maria Horgen (UiO 2020-2022), co-supervisor
 
 
 
 === Former Master of Science Students  ===
 
+o Adrian Kleven (UiO 2020-2022), co-supervisor
+o Kaspara Gåsvær (UiO 2020-2022), co-supervisor
+o Maria Horgen (UiO 2020-2022), co-supervisor
 o "Jens Due Bratten, University of Oslo, (2019-2021)":"https://www.duo.uio.no/handle/10852/89321"
 o "Kristian Wold, University of Oslo, (2019-2021)":"https://www.duo.uio.no/handle/10852/89534"
 o Martin Krokan Hovden, University of Oslo, (2019-2021)
