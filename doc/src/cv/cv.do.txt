@@ -366,6 +366,9 @@ o Mohamad Mahmoud (UiO 2021-2023), supervisor
 
 === Former Master of Science Students  ===
 
+o Linus Ekstrøm (UiO 2020-2022)
+o Philip Karim Niane Sørli (UiO 2020-2022)
+o Karl Henrik Fredly (UiO 2020-2022)
 o Adrian Kleven (UiO 2020-2022), co-supervisor
 o Kaspara Gåsvær (UiO 2020-2022), co-supervisor
 o Maria Horgen (UiO 2020-2022), co-supervisor
@@ -381,7 +384,6 @@ o Eirik Thorsrud, University of Oslo, (2018-2020), co-supervisor
 o Halvard Sutterud, University of Oslo, (2018-2020), co-supervisor
 o Marius Holm, University of Oslo, (2018-2020), co-supervisor
 o Geir Utvik, University of Oslo, (2018-2020)
-o Markus Aspurusten, University of Oslo, (2018-2020), co-supervisor
 o Vebjørn Gilberg, University of Oslo, (2017-2020), co-supervisor
 o Kari Eriksen, University of Oslo, (2017-2020)
 o Robert Solli, University of Oslo, (2017-2019)
@@ -585,14 +587,19 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 === Publications in journals with a referee system: ===
 
+o Julie Butler and Morten Hjorth-Jensen, _Accelerating the Convergence of Coupled Cluster Calculations Using Bayesian Ridge Regression_, Journal of Chemical Physics, submitted
 
-o D. Mroczek, M. Hjorth-Jensen, J. Noronha-Hostler, P. Parotto, C. Ratti, R. Vilalta, "Mapping out the thermodynamic stability of a QCD equation of state with a critical point using active learning":"https://arxiv.org/abs/2203.13876", Physical Reviw C, submitted
+o Mauro Rigo, Benjamin Hall, Morten Hjorth-Jensen, Alessandro Lovato, Francesco Pederiva, "Solving the nuclear pairing model with neural network quantum states":"https://arxiv.org/abs/2211.04614", Physical Review E, submitted
+
+o Even M. Nordhagen, Jane M. Kim, Bryce Fore, Alessandro Lovato, Morten Hjorth-Jensen, "Efficient Solutions of Fermionic Systems using Artificial Neural Networks":"https://arxiv.org/abs/2210.00365", Frontiers of Physics, submitted
+
+o D. Mroczek, M. Hjorth-Jensen, J. Noronha-Hostler, P. Parotto, C. Ratti, R. Vilalta, "Mapping out the thermodynamic stability of a QCD equation of state with a critical point using active learning":"https://arxiv.org/abs/2203.13876", Physical Review C, submitted
 
 
 o Oliver Lerstøl Hebnes, Marianne Etzelmüller Bathen, Øyvind Sigmundson Schøyen, Sebastian G. Winther Larsen, Lasse Vines, Morten Hjorth-Jensen, "Predicting Solid State Material Platforms for Quantum Technologies":"https://www.nature.com/articles/s41524-022-00888-3", Nature Physics, Computational Materials _8_, 207 (2022)
 
 
-o Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen, Tanja Horn, Michelle P. Kuchera, Dean Lee, Witold Nazarewicz, Kostas Orginos, Peter Ostroumov, Long-Gang Pang, Alan Poon, Nobuo Sato, Malachi Schram, Alexander Scheinker, Michael S. Smith, Xin-Nian Wang, Veronique Ziegler, "Artificial Intelligence and Machine Learning in Nuclear Physics, Reviews of Modern Physics _94_, 031003 (2022)":"https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.031003"
+o Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen, Tanja Horn, Michelle P. Kuchera, Dean Lee, Witold Nazarewicz, Kostas Orginos, Peter Ostroumov, Long-Gang Pang, Alan Poon, Nobuo Sato, Malachi Schram, Alexander Scheinker, Michael S. Smith, Xin-Nian Wang, Veronique Ziegler, "Machine Learning in Nuclear Physics, Reviews of Modern Physics _94_, 031003 (2022)":"https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.031003"
 
 
 o D. Rhodes, B. A. Brown, J. Henderson, A. Gade, J. Ash, P. C. Bender, R. Elder, B. Elman, M. Grinder, M. Hjorth-Jensen, H. Iwasaki, B. Longfellow, T. Mijatovic, M. Spieker, D. Weisshaar, and C. Y. Wu, _Exploring the role of high-j configurations in collective observables through the Coulomb excitation of 106Cd_, "Physical Review  C _103_, L051301 (2021)":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.L051301"
