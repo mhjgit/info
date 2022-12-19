@@ -280,18 +280,21 @@ o "Norman L and Olga K. Fritz Excellence in Teaching Award":"https://natsci.msu.
 === Present PhD students ===
 
 
-o Jane Kim, Michigan State University, started 2018. Research topic: Machine Learning and the Nuclear Many-body problem
-o Julie Butler, Michigan State University, started 2018. Research topic: Machine Learning and the Nuclear Many-body problem
-o Øyvind Sigmundsson Schøyen, University of Oslo, started 2019. Research topic: Time-dependent many-body theory and quantum computing
-o Stian Bilek, University of Oslo, started 2020, defends thesis September 2024. Quantum Computing  and Machine Learning
-o Jonas Boym Flaten, University of Oslo, started 2020, defends thesis December 2024. Quantum Many-Body theories
+o Jane Kim, Michigan State University, started fall 2018. Thesis defense summer 2023. Research topic: Machine Learning and the Nuclear Many-body problem
+o Julie Butler, Michigan State University, started fall 2018. Thesis defense summer 2023. Research topic: Machine Learning and the Nuclear Many-body problem
+o Øyvind Sigmundsson Schøyen, University of Oslo, started fall 2019. Thesis defense fall 2023. Research topic: Time-dependent many-body theory and quantum computing
+o Stian Bilek, University of Oslo, started fall 2020, defends thesis September 2024. Quantum Computing  and Machine Learning
+o Jonas Boym Flaten, University of Oslo, started fall 2020, defends thesis December 2024. Quantum Many-Body theories and quantum computing
+o Oskar Leinonen, University of Oslo, started fall 2022. Quantum computing
 o Omokuyani C. Udiani , Michigan State University, started 2017, co-supervisor. Research topic: Nuclear Many-body theory
 o Danny Jammoa, Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning
 o Paulina Souza Tedesco, University of Oslo, started 2020, defends thesis fall 2023, Machine Learning and Meteorology, co-supervisor
 o Katarzyna Michałowska, University of Oslo, started 2020, defends thesis fall 2023, Machine Learning, co-supervisor
 o Einar Aurbakken, University of Oslo, started 2020, defends thesis fall 2024, Quantum Chemistry and Many-body Physics, co-supervisor
-o Aymeric Paul McRae, Michigan State University, started fall 2021. Research topic: Machine Learning and the Nuclear Many-body problem
- 
+o Aymeric Paul McRae, Michigan State University, started fall 2021. Research topic: quantum computing  and the Nuclear Many-body problem, co-supervisor
+o Andreas H. Mjøs, started fall 2021. Thesis topic: Bayesian statistics applied to nuclear physics experiments, co-supervisor
+o Erlend Lima , started fall 2021. Thesis topic: Bayesian statistics applied to nuclear physics experiments, co-supervisor 
+o Christina Kappatou, started fall 2022. Thesis topics; Geoscience and Machine Learning, co-supervisor
 
 === Former PhD students and their present positions ===
 
@@ -312,12 +315,12 @@ o "Gaute Hagen":"https://www.ornl.gov/staff-profile/gaute-hagen" (PhD UiB and Ui
 
 === Post-doctoral fellows and their present positions ===
 
-o "Andreas Ekstrøm":"https://www.chalmers.se/en/Staff/Pages/Andreas-Ekstrom.aspx" (UiO and MSU 2010-2014), now Associate Professor  at Chalmers Technological University in Gothenburg, Sweden
-o Øyvind Jensen (UiO 2011), now researcher at the "Institute for Energy Technology":"https://www.ife.no/en"
+o "Andreas Ekstrøm":"https://www.chalmers.se/en/Staff/Pages/Andreas-Ekstrom.aspx" (UiO and MSU 2010-2014), Associate Professor  at Chalmers Technological University in Gothenburg, Sweden
+o "Øyvind Jensen":"https://ife.no/employee/oyvind-jensen/" (UiO 2011), researcher at the "Institute for Energy Technology":"https://www.ife.no/en"
 o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (UiO 2008-2012), researcher,  Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
 o Elise Bergli (UiO 2010-2011), now teacher at Ås high school, Norway
-o Sølve Selstø (UiO 2008-2010), now  Professor at Oslo Metropolitan University
-o Nicolas Michel (MSU 2013), now senior researcher at Langzhou Nuclear Physics Laboratory, China
+o "Sølve Selstø":"https://www.oslomet.no/om/ansatt/solvese/" (UiO 2008-2010), now  Professor at Oslo Metropolitan University
+o "Nicolas Michel":"https://www.researchgate.net/profile/N-Michel-2" (MSU 2013), Professor at Institute of modern physics Lanzhou, China
 
 ===  Member of Graduate Advisory Committees at Michigan State University ===
 
@@ -583,11 +586,13 @@ o Hjorth-Jensen, Morten. CENS: A computational Environment for Nuclear Structure
 =====  Research, Publications, books, refereed scientific articles, talks and research grants  =====
 
 === Books: ===
-o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2021.
-o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2021.
+o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2023.
+o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2023.
 o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
 
 === Publications in journals with a referee system: ===
+
+o Bryce Fore, Jane M. Kim, Giuseppe Carleo, Morten Hjorth-Jensen, Alessandro Lovato, "Dilute neutron star matter from neural-network quantum states":"https://arxiv.org/abs/2212.04436", Physical Review Letters, submitted 
 
 o Julie Butler and Morten Hjorth-Jensen, _Accelerating the Convergence of Coupled Cluster Calculations Using Bayesian Ridge Regression_, Journal of Chemical Physics, submitted
 
