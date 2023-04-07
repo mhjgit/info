@@ -1,6 +1,6 @@
 TITLE: Biographical  information
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and Facility for Rare Isotope Beams/National Superconducting Cyclotron Laboratory, Michigan State University, USA
-DATE: February 4, 2022
+DATE: March 2023
 
 ===== Professional preparation, education  and personal data: =====
 
@@ -299,7 +299,7 @@ o Christina Kappatou, started fall 2022. Thesis topics; Geoscience and Machine L
 === Former PhD students and their present positions ===
 
 o Benjamin Hall, Michigan State University, started 2017, defended thesis August 25, 2022. Research topic: Quantum Computing  and the Nuclear Many-body problem. Present job: scientist and researcher at "Super.Tech":"https://www.super.tech/"
-o John Mark Aiken, University of Oslo, started 2017, defended thesis September 2020, co-supervisor. Research Topic: Machine Learning applied to Physics Education Research. Now post-doctoral fellow at the University of Oslo
+o John Mark Aiken, University of Oslo, started 2017, defended thesis September 2020, co-supervisor. Research Topic: Machine Learning applied to Physics Education Research. Now post-doctoral fellow at the University of Oslo and scientist at Expert Analytics
 o Justin Lietz (PhD MSU 2019), permament position as scientist at Oak Ridge National Laboratory, Computational Science Division
 o Samuel Novario (PhD MSU 2018), post-doctoral fellow at Oak Ridge National Laboratory, Physics Division, 2018-2020, now post-doctoral fellow at Los Alamos National Laboratoty
 o Fei Yuan (PhD MSU 2018), employed at Google as computational scientist
@@ -596,11 +596,11 @@ o Bryce Fore, Jane M. Kim, Giuseppe Carleo, Morten Hjorth-Jensen, Alessandro Lov
 
 o Julie Butler and Morten Hjorth-Jensen, _Accelerating the Convergence of Coupled Cluster Calculations Using Bayesian Ridge Regression_, Journal of Chemical Physics, submitted
 
-o Mauro Rigo, Benjamin Hall, Morten Hjorth-Jensen, Alessandro Lovato, Francesco Pederiva, "Solving the nuclear pairing model with neural network quantum states":"https://arxiv.org/abs/2211.04614", Physical Review E, submitted
+o Mauro Rigo, Benjamin Hall, Morten Hjorth-Jensen, Alessandro Lovato, Francesco Pederiva, "Solving the nuclear pairing model with neural network quantum states":"https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.025310", Physical Review E _107_, 025310 (2023).
 
-o Even M. Nordhagen, Jane M. Kim, Bryce Fore, Alessandro Lovato, Morten Hjorth-Jensen, "Efficient Solutions of Fermionic Systems using Artificial Neural Networks":"https://arxiv.org/abs/2210.00365", Frontiers of Physics, submitted
+o Even M. Nordhagen, Jane M. Kim, Bryce Fore, Alessandro Lovato, Morten Hjorth-Jensen, "Efficient Solutions of Fermionic Systems using Artificial Neural Networks":"https://arxiv.org/abs/2210.00365", Frontiers of Physics, in press
 
-o D. Mroczek, M. Hjorth-Jensen, J. Noronha-Hostler, P. Parotto, C. Ratti, R. Vilalta, "Mapping out the thermodynamic stability of a QCD equation of state with a critical point using active learning":"https://arxiv.org/abs/2203.13876", Physical Review C, submitted
+o D. Mroczek, M. Hjorth-Jensen, J. Noronha-Hostler, P. Parotto, C. Ratti, R. Vilalta, "Mapping out the thermodynamic stability of a QCD equation of state with a critical point using active learning":"https://arxiv.org/abs/2203.13876", Physical Review C, in press
 
 
 o Oliver Lerstøl Hebnes, Marianne Etzelmüller Bathen, Øyvind Sigmundson Schøyen, Sebastian G. Winther Larsen, Lasse Vines, Morten Hjorth-Jensen, "Predicting Solid State Material Platforms for Quantum Technologies":"https://www.nature.com/articles/s41524-022-00888-3", Nature Physics, Computational Materials _8_, 207 (2022)
