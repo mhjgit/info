@@ -1,6 +1,6 @@
 TITLE: Biographical  information
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and Facility for Rare Isotope Beams/National Superconducting Cyclotron Laboratory, Michigan State University, USA
-DATE: March 2023
+DATE: June 2023
 
 ===== Professional preparation, education  and personal data: =====
 
@@ -54,8 +54,7 @@ o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS K
 o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106".
 o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607".
 o T. Papenbrock, G. Hagen, M. Hjorth-Jensen, and  D. J. Dean,   *Coupled-cluster computations of atomic nuclei*,   *Reports on Progress in Physics*, 77:096302 (2014).
-o Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen, Tanja Horn, Michelle P. Kuchera, Dean Lee, Witold Nazarewicz, Kostas Orginos, Peter Ostroumov, Long-Gang Pang, Alan Poon, Nobuo Sato, Malachi Schram, Alexander Scheinker, Michael S. Smith, Xin-Nian Wang, Veronique Ziegler, "Artificial Intelligence and Machine Learning in Nuclear Physics":"https://arxiv.org/abs/2112.02309", Reviews of Modern Physics (2022), in press
-
+o Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen, Tanja Horn, Michelle P. Kuchera, Dean Lee, Witold Nazarewicz, Kostas Orginos, Peter Ostroumov, Long-Gang Pang, Alan Poon, Nobuo Sato, Malachi Schram, Alexander Scheinker, Michael S. Smith, Xin-Nian Wang, Veronique Ziegler, "Machine Learning in Nuclear Physics, Reviews of Modern Physics _94_, 031003 (2022)":"https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.031003"
 
 === Editorial boards and committees ===
 
@@ -163,7 +162,7 @@ o Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen,
 
 * Referee for the South African Research Council
 
-* Referee for the British Research Council
+* Referee for the British Research Council, SFTC
 
 * Referee for the German Research Council
 
@@ -284,12 +283,10 @@ o Øyvind Sigmundsson Schøyen, University of Oslo, started fall 2019. Thesis de
 o Stian Bilek, University of Oslo, started fall 2020, defends thesis September 2024. Quantum Computing  and Machine Learning
 o Jonas Boym Flaten, University of Oslo, started fall 2020, defends thesis December 2024. Quantum Many-Body theories and quantum computing
 o Oskar Leinonen, University of Oslo, started fall 2022. Quantum computing
-o Omokuyani C. Udiani , Michigan State University, started 2017, co-supervisor. Research topic: Nuclear Many-body theory
 o Danny Jammoa, Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning
 o Paulina Souza Tedesco, University of Oslo, started 2020, defends thesis fall 2023, Machine Learning and Meteorology, co-supervisor
 o Katarzyna Michałowska, University of Oslo, started 2020, defends thesis fall 2023, Machine Learning, co-supervisor
 o Einar Aurbakken, University of Oslo, started 2020, defends thesis fall 2024, Quantum Chemistry and Many-body Physics, co-supervisor
-o Aymeric Paul McRae, Michigan State University, started fall 2021. Research topic: quantum computing  and the Nuclear Many-body problem, co-supervisor
 o Andreas H. Mjøs, started fall 2021. Thesis topic: Bayesian statistics applied to nuclear physics experiments, co-supervisor
 o Erlend Lima , started fall 2021. Thesis topic: Bayesian statistics applied to nuclear physics experiments, co-supervisor 
 o Christina Kappatou, started fall 2022. Thesis topics; Geoscience and Machine Learning, co-supervisor
@@ -300,9 +297,9 @@ o Jane Kim, Michigan State University, started fall 2018. Defended thesis July 2
 o Julie Butler, Michigan State University, started fall 2018. Defended thesis July 18,  2023. Research topic: Machine Learning and the Nuclear Many-body problem. Now assistant professor at Mt Union university, Ackron, Ohio
 o Benjamin Hall, Michigan State University, started 2017. Defended thesis August 25, 2022. Research topic: Quantum Computing  and the Nuclear Many-body problem. Present job: scientist and researcher at "Super.Tech":"https://www.super.tech/"
 o John Mark Aiken, University of Oslo, started 2017, defended thesis September 2020, co-supervisor. Research Topic: Machine Learning applied to Physics Education Research. Now post-doctoral fellow at the University of Oslo and scientist at Expert Analytics
-o Justin Lietz (PhD MSU 2019), permament position as scientist at Oak Ridge National Laboratory, Computational Science Division
-o Samuel Novario (PhD MSU 2018), post-doctoral fellow at Oak Ridge National Laboratory, Physics Division, 2018-2020, now post-doctoral fellow at Los Alamos National Laboratoty
-o Fei Yuan (PhD MSU 2018), employed at Google as computational scientist
+o Justin Lietz (PhD MSU, June 2019), permament position as scientist at Oak Ridge National Laboratory, Computational Science Division
+o Samuel Novario (PhD MSU, February 2018), post-doctoral fellow at Oak Ridge National Laboratory, Physics Division, 2018-2020, now post-doctoral fellow at Los Alamos National Laboratoty
+o Fei Yuan (PhD MSU, January 2018), computational scientist at Google
 o "Gustav Baardsen":"http://www.ctcc.no/people/postdocs/gba/" (PhD UiO 2014). From 2015 to 2018, post-doctoral researcher at the Center for Theoretical and Computational Chemistry (CTCC), University of Oslo. Now employed by Varian Medical Systems, Helsinki, Finland.
 o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (PhD UiO 2009), researcher, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
 o "Gustav Jansen":"https://www.ornl.gov/staff-profile/gustav-r-jansen" (PhD UiO 2012), now permanent position as scientist at the Computational Science Division of Oak Ridge National Laboratory  
@@ -349,7 +346,8 @@ o Roy Ready, committee member. Defended thesis May 2021.
 o Nathan Watwood, committee member. Defended thesis February 2021. 
 o Ben Hall, chair, thesis defense August  2022
 o Udiani Omokuyani, committee member
-o Jane Kim, chair, thesis defense planned 2023
+o Julie Butler, chair, defended thesis July 2023
+o Jane Kim, chair, defended thesis July 2023
 o Khan Zhu, committee member. 
 o Byeon Heejun, committee member. Defended thesis December 2020.
 o Golubev Timofey, committee member. Defended thesis December 2020.
