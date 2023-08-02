@@ -1,0 +1,165 @@
+TITLE: Subatomic physics and multiscale physics
+AUTHOR: Morten Hjorth-Jensen  Email morten.hjorth-jensen@fys.uio.no at Department of Physics, University of Oslo & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, East Lansing, Michigan, USA
+DATE: September 2015
+
+===== Overarching goals =====
+
+
+Where do atomic nuclei come from? How are they organized? What is the size of the atomic nucleus?
+Why is matter stable? What are
+their practical and scientific uses? The answers to these and many
+other questions are central overarching aims and intellectual
+challenges of basic research in nuclear physics.  To relate the
+existence and properties of nuclei to the underlying fundamental
+forces and laws of motion, is central to present and planned
+facilities in nuclear physics worldwide.
+State University in the USA.
+A proper understanding of the laws of motion has far
+reaching consequences for our understanding of nuclei and nuclear
+matter, spanning from the structure and stability of visible matter, to the
+synthesis of the elements and dense objects like neutron stars.
+
+
+A neutron star is the possible and fascinating final stage in the life
+of massive stars, that is stars normally bigger than our sun. Neutron
+stars have masses larger than our sun and a radius around ten
+kilometers. A nucleus on the other hand is a miniscule object with a radius
+almost nineteen orders of magnitude smaller than a neutron star,
+approximately one thousand trillionth meters.  An important challenge
+in modern nuclear physics, as well as in many other disciplines in the
+physical sciences, is whether we can relate the description of such
+tiny systems like nuclei with the physics of massive objects
+like neutron stars, that is to link physical mechanisms across many
+energy and length scales.  This has been one of the overarching aims of this research proposal, namely to descrive and develop theories which can describe systems where many length and energy scales are involved. 
+
+To be able to model such systems theoretically and as reliably as
+possible, has important consequences for our present and future
+experimental programs, since theoretical modeling can aid in providing
+guidance for new experiments as well as fundamental insights about Nature's 
+laws of motion and forces. In the quest for such a comprehensive theory,
+high performance computing plays a central role.
+
+
+The progress achieved enables a quantitative description of nuclei
+based on first principles. The obtained results offer new insights
+into neutron-rich matter and illuminate how features of nuclear forces
+determine the basic properties of atomic nuclei. This work has
+significant consequences for our basic understanding of nuclei.
+Combined with the exciting experimental program at present and planned experimental
+facilities worldwide, there is great hope that within the next two
+decades, researchers will be able to gain deeper insights about our
+fascinating microscopic world, impacting intellectual challenges like
+why matter is stable and how the elements are formed.
+
+
+Several articles in the Physical Review Letters have been published, as well as long 
+review articles.
+In a forthcoming article to be published in Nature Physics, authored
+by Dr. Gaute Hagen of Oak Ridge National Laboratory in Tennessee and
+his collaborators, amongst these Morten Hjorth-Jensen from the university of Oslo, 
+advanced computational tools and sophisticated
+theoretical models have been used to compute the neutron density and
+related observables of the doubly-magic nucleus calcium-48 (a nucleus
+with 20 protons and 28 neutrons). The authors obtain an excellent
+agreement with experiment for the radius of the charge distribution
+and predict that the neutron radius of calcium-48 is smaller than
+previously thought. The authors provide predictions for the electric
+dipole polarizability and the weak form factor, quantities that are
+currently targeted by precision measurements wordlwide. The authors
+point also to how the predicted neutron distribution can be used to
+constrain the size of neutron stars, opening up for a better understanding
+of the link between the physics of minute objects like nuclei and 
+massive stellar objects like neutron stars. 
+
+
+Several of the collaborators have their education and training from the
+University of Oslo.  Dr Gaute Hagen was a PhD student at the
+University of Bergen and Oslo with Morten Hjorth-Jensen and Jan Vaagen
+as supervisors.  Dr Hagen obtained his PhD in 2005 and has since then
+been employed at Oak Ridge National Laboratory in the USA.  In 2013 he
+received the Deparment of Energy's prestigious Young Investigator
+award.  Gustav Jansen obtained his PhD at the University of Oslo in
+2012 with Morten Hjorth-Jensen as supervisor.  
+He is strongly involved in this project but has is funding elsewehere. 
+He is now employed as a
+researcher at Oak Ridge National Laboratory.  Andreas Ekstroem has his
+PhD from Lund University in Sweden and worked as a post-doctoral
+fellow at the University of Oslo from 2010 to 2014. He was fully sponsored by this project from 2012 till 2014. He is now a
+post-doctoral fellow at Oak Ridge National Laboratory and received recently an advanced researcher position from the Swedish Research Countil Vetenskapsraadet. 
+
+
+
+=====  Books in preparation =====
+  o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2015.
+
+  o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2016.
+
+  o Morten Hjorth-Jensen, *Nuclear many-body physics, a computational perspective*, in preparation for Taylor Francis.
+
+  o M. Hjorth-Jensen, Maria Paola Lambardo, and Ubirajara Van Kolck (editors), *Computational Nuclear Physics--Bridging the scales, from quarks to neutron stars*, to be published in Lectures Notes in Physics by Springer in 2016.
+
+
+===== Publications in journals with a referee system 2011-2015 =====
+
+  o G. Hagen, A. Ekstrom, C. Forssen , G. R. Jansen, W. Nazarewicz, T. Papenbrock, K. A. Wendt, S. Bacca, N. Barnea, B. Carlsson, C. Drischler, K. Hebeler, M. Hjorth-Jensen, M. Miorelli, G. Orlandini, A. Schwenk, and J. Simonis,  _Charge, neutron, and weak size of the atomic nucleus_,  *Nature Physics*, in press (2015).
+
+  o A. Ekstrom, G. R. Jansen, K. A. Wendt, G. Hagen, T. Papenbrock, B. D. Carlsson, C. Forssen, M. Hjorth-Jensen, P. Navratil, W. Nazarewicz,   _Accurate nuclear radii and binding energies from a chiral interaction_, *Physical Review C*, 91, 051301(R) (2015).
+
+  o A. Ekstrom, B. D. Carlsson, K. A. Wendt, C. Forssén, M. Hjorth-Jensen, R. Machleidt, S. M. Wild,  _Statistical uncertainties of a chiral interaction at next-to-next-to leading order_,   *Journal of Physics G*, 42:034003 (2015).
+
+  o A. B. Balantekin, J. Carlson, D. J. Dean, G. M. Fuller, R. J. Furnstahl, M. Hjorth-Jensen, R. V. F. Janssens, Bao-An Li, W. Nazarewicz, F. M. Nunes, W. E. Ormand, S. Reddy, B. M. Sherrill ,  _Nuclear Theory and Science of the Facility for Rare Isotope Beams_,   *Modern Physics Letters A*, 29:1430010 (2014).
+
+  o Zs. Vajta, M. Stanoiu, D. Sohler, G. R. Jansen, F. Azaiez, Zs. Dombrádi, O. Sorlin, B. A. Brown, M. Belleguic, C. Borcea, C. Bourgeois, Z. Dlouhy, Z. Elekes, Zs. Fülöp, S. Grévy, D. Guillemaud-Mueller, G. Hagen, M. Hjorth-Jensen, F. Ibrahim, A. Kerek, A. Krasznahorkay, M. Lewitowicz, S. M. Lukyanov, S. Mandal, P. Mayet, J. Mrázek, F. Negoita, Yu.-E. Penionzhkevich, Zs. Podolyák, P. Roussel-Chomaz, M. G. Saint-Laurent, H. Savajols, G. Sletten, J. Timár, C. Timis, and A. Yamamoto,   _Excited states in the neutron-rich nucleus fluorine-25   *Physical Review C*, 89:054323 (2014).
+
+  o A. Sanetullaev, M.B. Tsang, W.G. Lynch, Jenny Lee, D. Bazin, K.P. Chan, D. Coupland, V. Henzl, D. Henzlova, M. Kilburn, A.M. Rogers, Z.Y. Sun, M. Youngs, R.J. Charity, L.G. Sobotka, M. Famiano, S. Hudan, D. Shapira, W.A. Peters, C. Barbieri, M. Hjorth-Jensen, M. Horoi, T. Otsuka, T. Suzuki, Y. Utsuno  _Neutron spectroscopic factors of nickel-55 hole-states from (p,d) transfer reactions_,   *Physics Letters B*, 736:137 (2014).
+
+  o G. Hagen, T. Papenbrock,   A. Ekstrom, G. Baardsen, S. Gandolfi, K. A. Wendt, M. Hjorth-Jensen, and C. Horowitz,  _Coupled-cluster calculations of nucleonic matter_,   *Physical Review C*,  89:014319 (2014).
+
+  o T. Papenbrock, G. Hagen, M. Hjorth-Jensen, and  D. J. Dean,   _Coupled-cluster computations of atomic nuclei_,   *Reports on Progress in Physics*, 77:096302 (2014).
+
+  o N. Tsunoda, K. Takayanagi, M. Hjorth-Jensen and T. Otsuka,  _Multi-shell effective interactions_,   *Physical Review C*,    89:024313 (2014).
+
+  o G. Baardsen, A.\ Ekstrom, G.\ Hagen, and M.\ Hjorth-Jensen,  _Coupled-cluster studies of infinite  nuclear matter_,   *Physical Review C*, 88:054312 (2013).
+
+  o V.\ M.\ Bader, A.\ Gade, D.\ Weisshaar, T.\ Baugher, D.\ Bazin, J.\ S.\ Berryman, B.\ A.\ Brown, A.\ Ekstrom, M.\ Hjorth-Jensen, S.\ R.\ Stroberg, W.\ B.\ Walters, K.\ Wimmer, and R.\ Winkler,   _Quadrupole collectivity in neutron-deficient Sn nuclei: tin-104 and the role of proton excitations_,   *Physical Review C*,  88:051301(R) (2013).
+
+  o A. Ekstrom, G. Baardsen, C. Forss\'en, G. Hagen, M. Hjorth-Jensen, G. R. Jansen, R. Machleidt, W. Nazarewicz, T. Papenbrock, J. Sarich, and S. M. Wild,   _An optimal chiral interaction at next-to-next-to leading order_,   *Physical Review Letters*,  110:192502 (2013).
+
+  o Lepailleur, A. and Sorlin, O. and Caceres, L. and Bastin, B. and Borcea, C. and Borcea, R. and Brown, B. A. and Gaudefroy, L. and Gr\'evy, S. and Grinyer, G. F. and Hagen, G. and Hjorth-Jensen, M. and Jansen, G. R. and Llidoo, O. and Negoita, F. and de Oliveira, F. and Porquet, M.-G. and Rotaru, F. and Saint-Laurent, M.-G. and Sohler, D. and Stanoiu, M. and Thomas, J. C.,  _Spectroscopy of fluorine-26 to Probe Proton-Neutron Forces Close to the Drip Line_,   *Physical Review Letters*,  110:082502 (2013).
+
+  o D. D. DiJulio, J. Cederkall, C. Fahlander, A. Ekstrom, M. Hjorth-Jensen, M. Albers, V. Bildstein, A. Blazhev, I. Darby, T. Davinson, H. De Witte, J. Diriken, Ch. Fransen, K. Geibel, R. Gernhäuser, A. Görgen, H. Hess, K. Heyde, J. Iwanicki, R. Lutter, P. Reiter, M. Scheck, M. Seidlitz, S. Siem, J. Taprogge, G. M. Tveten, J. Van de Walle, D. Voulot, N. Warr, F. Wenander, and K. Wimmer  _Coulomb excitation of indium-107_,   *Physical Review C*,  87:017301 (2013).
+
+  o C. Forssen, G. Hagen, M. Hjorth-Jensen, W. Nazarewicz, and J. Rotureau,  _Living on the edge of stability, the limits of the nuclear landscape_,   *Physica Scripta*,  T152:014022 (2013).
+
+  o Liddick, S. N. and Abromeit, B. and Ayres, A. and Bey, A. and Bingham, C. R. and Brown, B. A. and Cartegni, L. and Crawford, H. L. and Darby, I. G. and Grzywacz, R. and Ilyushkin, S. and Hjorth-Jensen, M. and Larson, N. and Madurga, M. and Miller, D. and Padgett, S. and Paulauskas, S. V. and Rajabali, M. M. and Rykaczewski, K. and Suchyta, S.,  _Low-energy level schemes of iron-66 and iron-68 and inferred proton and neutron excitations across_,   *Physical Review C*,  87:014325, 2013.
+
+  o D. D. DiJulio, J. Cederkall, C. Fahlander, A. Ekstrom, M. Hjorth-Jensen, M. Albers, V. Bildstein, A. Blazhev, I. Darby, T. Davinson, H. De Witte, J. Diriken, Ch. Fransen, K. Geibel, R. Gernh\"auser, A. Gorgen, H. Hess, J. Iwanicki, R. Lutter, P. Reiter, M. Scheck, M. Seidlitz, S. Siem, J. Taprogge, G.M. Tveten, J. Van de Walle, D. Voulot, N. Warr, F. Wenander, and K. Wimmer,  _Excitation strengths in tin-109: Single-neutron and collective excitations near tin-100,   *Physical Review C*,  86:031302(R), 2012.
+
+  o D. D. DiJulio, J. Cederkall, C. Fahlander, A. Ekstrom, M. Hjorth-Jensen, M. Albers, V. Bildstein, A. Blazhev, I. Darby, T. Davinson, H. De Witte, J. Diriken, Ch. Fransen, K. Geibel, R. Gernh\"auser, A. Gorgen, H. Hess, J. Iwanicki, R. Lutter, P. Reiter, M. Scheck, M. Seidlitz, S. Siem, J. Taprogge, G.M. Tveten, J. Van de Walle, D. Voulot, N. Warr, F. Wenander, and K. Wimmer,  _Coulomb excitation of tin-107_,   *European Journal of Physics A*, 48:105,  2012.
+
+  o Gaute Hagen, Morten Hjorth-Jensen, Gustav Ragnar Jansen, Ruprecht Machleidt, and Thomas Papenbrock  _Evolution of shell structure in neutron-rich calcium isotopes _,   *Physical Review Letters*, 109:032502, 2012.
+
+  o Gaute Hagen, Morten Hjorth-Jensen, Gustav Ragnar Jansen, Ruprecht Machleidt, and Thomas Papenbrock  _Continuum effects and three-nucleon forces in neutron-rich            oxygen isotopes_,   *Physical Review Letters*, 108:242501, 2012.
+
+  o Torres, D. A. and Kumbartzki, G. J. and Sharon, Y. Y. and Zamick, 	L. and Manning, B. and Benczer-Koller, N. and Speidel, K.-H. and 	Ahn, T. and Anagnostatou, V. and Elvers, M. and Goddard, P. and Heinz, 	A. and Ilie, G. and Radeck, D. and Savran, D. and Werner, V. and 	G\"urdal, G. and Taylor, M. J. and Maier-Komor, P. and Hjorth-Jensen, 	M. and Robinson, S. J. Q. *Physical Review C*, 85:017305, 2012.
+
+  o Torres, D. A. and Kumbartzki, G. J. and Sharon, Y. Y. and Zamick, 	L. and Manning, B. and Benczer-Koller, N. and G\"urdal, G. and Speidel, 	K.-H. and Hjorth-Jensen, M. and Maier-Komor, P. and Robinson, S. 	J. Q. and Ahn, T. and Anagnostatou, V. and Elvers, M. and Goddard, 	P. and Heinz, A. and Ilie, G. and Radeck, D. and Savran, D. and Werner, V. *Physical Review C*, 84:044327, 2011.
+
+  o Naofumi Tsunoda, Takaharu Otsuka, Koshiroh Tsukiyama, and Morten Hjorth-Jensen  _Renormalization persistency of the tensor force            in nuclei_.  *Physical Review C*, 84:044322, 2011.
+
+  o Oyvind Jensen, Gaute Hagen, Morten Hjorth-Jensen, Alex Boyd Brown, and Alexandra Gade  _Quenching of spectroscopic factors for proton removal            in oxygen isotopes_,   *Physical Review Letters*, 107:032501, 2011.
+
+  o Magnus Pedersen Lohne, Gaute Hagen, Morten Hjorth-Jensen, Simen Kvaal, and Francesco Pederiva,  _Ab initio calculations of Circular quantum dots_.  *Physical Review B*, 84:032501, 2011.
+
+  o Elise Bergli and Morten Hjorth-Jensen.  _Summation of Parquet diagrams as an *ab initio* method in   nuclear structure calculations_.  *Annals of Physics*, 326:1125, 2011.
+
+  o Gustav Ragnar Jansen, Morten Hjorth-Jensen, Gaute Hagen, and Thomas Papenbrock,  _Toward open-shell nuclei with coupled-cluster theory_.  *Physical Review C*, 83:054306, 2011.
+
+  o Morten Hjorth-Jensen.  _The Carbon Challenge_.  *Physics*, 4:38, 2011.
+
+  o O. Jensen, G. Hagen, M. Hjorth-Jensen, and J. S. Vaagen.  _Closed-shell properties of oxygen-14 with ab initio   coupled-cluster theory_.  *Physical Review C*, 83:021305, 2011.
+
+  o Angelo Signoracci, B. Alex Brown, and Morten Hjorth-Jensen.  _Renormalized interactions with a realistic single-particle   basis_.  *Physical Review C*, 83:024315, 2011.
+
+  o Boyd Alexander Brown, Angelo Signoracci, and Morten Hjorth-Jensen.  _Configuration interactions constrained by energy density   functionals_.  *Physics Letters B*, 695:507, 2011.
+

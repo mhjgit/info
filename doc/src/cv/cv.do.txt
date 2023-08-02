@@ -280,8 +280,6 @@ o "Norman L and Olga K. Fritz Excellence in Teaching Award":"https://natsci.msu.
 === Present PhD students ===
 
 
-o Jane Kim, Michigan State University, started fall 2018. Thesis defense summer 2023. Research topic: Machine Learning and the Nuclear Many-body problem
-o Julie Butler, Michigan State University, started fall 2018. Thesis defense summer 2023. Research topic: Machine Learning and the Nuclear Many-body problem
 o Øyvind Sigmundsson Schøyen, University of Oslo, started fall 2019. Thesis defense fall 2023. Research topic: Time-dependent many-body theory and quantum computing
 o Stian Bilek, University of Oslo, started fall 2020, defends thesis September 2024. Quantum Computing  and Machine Learning
 o Jonas Boym Flaten, University of Oslo, started fall 2020, defends thesis December 2024. Quantum Many-Body theories and quantum computing
@@ -298,7 +296,9 @@ o Christina Kappatou, started fall 2022. Thesis topics; Geoscience and Machine L
 
 === Former PhD students and their present positions ===
 
-o Benjamin Hall, Michigan State University, started 2017, defended thesis August 25, 2022. Research topic: Quantum Computing  and the Nuclear Many-body problem. Present job: scientist and researcher at "Super.Tech":"https://www.super.tech/"
+o Jane Kim, Michigan State University, started fall 2018. Defended thesis July 20,  2023. Research topic: Machine Learning and the Nuclear Many-body problem. Now post-doctoral research fellow at University of Ohio, Athens, USA
+o Julie Butler, Michigan State University, started fall 2018. Defended thesis July 18,  2023. Research topic: Machine Learning and the Nuclear Many-body problem. Now assistant professor at Mt Union university, Ackron, Ohio
+o Benjamin Hall, Michigan State University, started 2017. Defended thesis August 25, 2022. Research topic: Quantum Computing  and the Nuclear Many-body problem. Present job: scientist and researcher at "Super.Tech":"https://www.super.tech/"
 o John Mark Aiken, University of Oslo, started 2017, defended thesis September 2020, co-supervisor. Research Topic: Machine Learning applied to Physics Education Research. Now post-doctoral fellow at the University of Oslo and scientist at Expert Analytics
 o Justin Lietz (PhD MSU 2019), permament position as scientist at Oak Ridge National Laboratory, Computational Science Division
 o Samuel Novario (PhD MSU 2018), post-doctoral fellow at Oak Ridge National Laboratory, Physics Division, 2018-2020, now post-doctoral fellow at Los Alamos National Laboratoty
@@ -592,15 +592,19 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 === Publications in journals with a referee system: ===
 
-o Bryce Fore, Jane M. Kim, Giuseppe Carleo, Morten Hjorth-Jensen, Alessandro Lovato, "Dilute neutron star matter from neural-network quantum states":"https://arxiv.org/abs/2212.04436", Physical Review Letters, submitted 
+o Julie Butler, Morten Hjorth-Jensen, and Justin G. Lietz, _Accelerating the Convergence of Coupled Cluster Calculations Using Bayesian Ridge Regression_, Journal of Chemical Physics, submitted
 
-o Julie Butler and Morten Hjorth-Jensen, _Accelerating the Convergence of Coupled Cluster Calculations Using Bayesian Ridge Regression_, Journal of Chemical Physics, submitted
+o Jane Kim, Gabriel Pescia, Bryce Fore, Jannes Nys, Giuseppe Carleo, Stefano Gandolfi, Morten Hjorth-Jensen, Alessandro Lovato, "Neural-network quantum states for ultra-cold Fermi gases, Nature Physics Communications. submitted":"https://arxiv.org/abs/2305.08831"
+
+
+o Bryce Fore, Jane M. Kim, Giuseppe Carleo, Morten Hjorth-Jensen, Alessandro Lovato, and Maria Piarulli "Dilute neutron star matter from neural-network quantum states, Physical Review  Research 5, 033062 (2023)":"https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033062"
 
 o Mauro Rigo, Benjamin Hall, Morten Hjorth-Jensen, Alessandro Lovato, Francesco Pederiva, "Solving the nuclear pairing model with neural network quantum states":"https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.025310", Physical Review E _107_, 025310 (2023).
 
-o Even M. Nordhagen, Jane M. Kim, Bryce Fore, Alessandro Lovato, Morten Hjorth-Jensen, "Efficient Solutions of Fermionic Systems using Artificial Neural Networks":"https://arxiv.org/abs/2210.00365", Frontiers of Physics, in press
+o Even M. Nordhagen, Jane M. Kim, Bryce Fore, Alessandro Lovato, Morten Hjorth-Jensen, "Efficient Solutions of Fermionic Systems using Artificial Neural Networks, Frontiers in Physics 11, 1061580 (2023)":"https://doi.org/10.3389/fphy.2023.1061580"
 
-o D. Mroczek, M. Hjorth-Jensen, J. Noronha-Hostler, P. Parotto, C. Ratti, R. Vilalta, "Mapping out the thermodynamic stability of a QCD equation of state with a critical point using active learning":"https://arxiv.org/abs/2203.13876", Physical Review C, in press
+
+o D. Mroczek, M. Hjorth-Jensen, J. Noronha-Hostler, P. Parotto, C. Ratti, R. Vilalta, "Mapping out the thermodynamic stability of a QCD equation of state with a critical point using active learning":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.054911", Physical Review C _107_, 054911 (2023).
 
 
 o Oliver Lerstøl Hebnes, Marianne Etzelmüller Bathen, Øyvind Sigmundson Schøyen, Sebastian G. Winther Larsen, Lasse Vines, Morten Hjorth-Jensen, "Predicting Solid State Material Platforms for Quantum Technologies":"https://www.nature.com/articles/s41524-022-00888-3", Nature Physics, Computational Materials _8_, 207 (2022)
@@ -1833,3 +1837,29 @@ o 2003-2013 Co-PI of the Norwegian Center of Excellence Mathematics for Applicat
 
  
 
+Quantum Many-Body Theories and Methods for Nuclear Physics
+Principal Investigator: Scott BognerOSP/CGA APP#: 42445Your Status: WaitingPrimary Unit: NAT'L SUPERCONDUCTING CYCLOTRON LABORATOCreated: July 8, 2020 - 2:06 pmPrime Funder: National Science FoundationLast Action: July 8, 2020 - 2:06 pmCurrent Status: Awaiting PI submission.Open
+ 
+
+Quantum Many-Body Theories for the Nuclear Equation of State
+Principal Investigator: Scott BognerOSP/CGA APP#: 60917Your Status: CompletedPrimary Unit: FACILITY FOR RARE ISOTOPE BEAMSCreated: June 26, 2023 - 2:56 pmPrime Funder: National Science FoundationLast Action: June 28, 2023 - 2:18 amCurrent Status: Awaiting review from Chair, Director, Dean, Associate Dean or other appropriate entity level administrator.Open
+ 
+
+STREAMLINE Collaboration: Machine Learning for Nuclear Many-Body Systems
+Principal Investigator: Dean LeeOSP/CGA APP#: 64375Your Status: CompletedUnit: NAT'L SUPERCONDUCTING CYCLOTRON LABORATOCreated: June 21, 2023 - 1:33 pmPrime Funder: US Dept of EnergyLast Action: June 22, 2023 - 3:28 pmCurrent Status: Awaiting review from OSP, CGA, or Business-CONNECT.Open
+ 
+
+Quantum Many-Body Theories and Methods for Nuclear Physics
+Principal Investigator: Scott BognerOSP/CGA APP#: 44737Your Status: CompletedPrimary Unit: NAT'L SUPERCONDUCTING CYCLOTRON LABORATOCreated: July 8, 2020 - 2:46 pmPrime Funder: National Science FoundationLast Action: July 21, 2020 - 2:40 pmCurrent Status: Export Control Review CompleteOpen
+ 
+
+Effective Field Theory and Renormalization Group Studies of Quantum Algorithms
+Principal Investigator: Dean LeeOSP/CGA APP#: 52028Your Status: CompletedUnit: NAT'L SUPERCONDUCTING CYCLOTRON LABORATOCreated: November 8, 2022 - 9:38 amPrime Funder: US Dept of EnergyLast Action: March 26, 2023 - 1:44 pmCurrent Status: Export Control Review CompleteOpen
+ 
+
+Quantum Many-Body Theories for the Nuclear Equation of State
+Principal Investigator: Scott BognerOSP/CGA APP#: 60917Your Status: CompletedUnit: NAT'L SUPERCONDUCTING CYCLOTRON LABORATOCreated: May 5, 2023 - 9:42 amPrime Funder: National Science FoundationLast Action: June 28, 2023 - 8:56 amCurrent Status: Export Control Review CompleteOpen
+ 
+
+From Quarks to Stars; A Quantum Computing Approach to the Nuclear Many-Body Problem
+Principal Investigator: Morten Hjorth JensenOSP/CGA APP#: 46376Your Status: CompletedPrimary Unit: NAT'L SUPERCONDUCTING CYCLOTRON LABORATOCreated: August 18, 2020 - 11:09 amPrime Funder: US Dept of EnergyLast Action: September 18, 2020 - 3:34 pmCurrent Status: Export Control Review Complete
