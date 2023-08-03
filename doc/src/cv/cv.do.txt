@@ -252,9 +252,11 @@ I teach or have taught recently  the following courses at the University of Oslo
 
 * "FYS3150/4150 Computational Physics I":"http://www.uio.no/studier/emner/matnat/fys/FYS3150/", Fall semester, senior undergraduate level (Oslo) 
 * "FYS4411 Computational Physics II: Quantum mechanical systems":"http://www.uio.no/studier/emner/matnat/fys/FYS4411/", graduate level, Spring semester (Oslo) 
-* "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kJM4480/", graduate level, Fall semester (Oslo) 
+* "FYS4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kJM4480/", graduate level, Fall semester (Oslo) 
 * "PHY981 Nuclear Structure":"https://github.com/NuclearStructure/PHY981", graduate level, Spring semester (MSU) 
 * "PHY480/905 Computational Physics":"https://github.com/CompPhysics/ComputationalPhysicsMSU" (MSU), undergraduate and graduate level, Spring semester
+* FYS5419 Quantum Computing
+* FYS5429 Advanced Machine Learning for the Physical Sciences
 
 From the fall of 2018 I have developed and teach the new course on _Applied Data analysis and Machine Learning_ at the University of Oslo. This course is a compulsory course that is part of the new interdisciplinary Master of Science program "Computational Science":"http://www.uio.no/english/studies/programmes/computational-science-master/index.html". The link to the course is
 * "FYS-MAT3155/4155 Data Analysis and Machine Learning":"http://www.uio.no/studier/emner/matnat/fys/FYS-MAT4155/", senior undergraduate and graduate level, Fall semester (Oslo) 
