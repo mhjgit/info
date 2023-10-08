@@ -281,9 +281,9 @@ o "Norman L and Olga K. Fritz Excellence in Teaching Award":"https://natsci.msu.
 === Present PhD students ===
 
 
-o Øyvind Sigmundsson Schøyen, University of Oslo, started fall 2019. Thesis defense fall 2023. Research topic: Time-dependent many-body theory and quantum computing
-o Stian Bilek, University of Oslo, started fall 2020, defends thesis September 2024. Quantum Computing  and Machine Learning
-o Jonas Boym Flaten, University of Oslo, started fall 2020, defends thesis December 2024. Quantum Many-Body theories and quantum computing
+o Øyvind Sigmundsson Schøyen, University of Oslo, started fall 2019. Thesis defense spring/summer 2024. Research topic: Time-dependent many-body theory and quantum computing
+o Stian Bilek, University of Oslo, started fall 2020. Quantum Computing  and Machine Learning
+o Jonas Boym Flaten, University of Oslo, started fall 2020. Quantum Many-Body theories and quantum computing
 o Oskar Leinonen, University of Oslo, started fall 2022. Quantum computing
 o Danny Jammoa, Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning
 o Paulina Souza Tedesco, University of Oslo, started 2020, defends thesis fall 2023, Machine Learning and Meteorology, co-supervisor
@@ -463,6 +463,8 @@ o Eirik Ovrum, University of Oslo, (2001-2003)
 o Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)
 
 === Lectures and organization of schools: ===
+
+o The FRIB-TA Summer School: Practical Uncertainty Quantification and Emulator Development in Nuclear Physics at Facility for Rare Isotope Beams (FRIB) on the campus of Michigan State University (MSU) in East Lansing, MI USA, June 26-28 2023. Organizers and teachers, URL:"https://indico.frib.msu.edu/event/65/overview". Co-organizer and teacher with several other.
 
 o Alexei Bazavov, Scott Bogner, Heiko Hergert, Morten Hjorth-Jensen, Matthew Hirn, Dean Lee, Huey-Wen Lin, and Andrea Shindler, URL:"https://indico.frib.msu.edu/event/54/", FRIB TA Summer School - Quantum Computing and  Nuclear few- and many-body problems, Facility for Rare Isotope Beams (FRIB) on the Michigan State University campus in East Lansing, MI from June 20 to June 22, 2022. 
 
