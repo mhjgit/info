@@ -293,6 +293,7 @@ o Andreas H. Mjøs, started fall 2021. Thesis topic: Bayesian statistics applied
 o Erlend Lima , started fall 2021. Thesis topic: Bayesian statistics applied to nuclear physics experiments, co-supervisor 
 o Christina Kappatou, started fall 2022. Thesis topics; Geoscience and Machine Learning, co-supervisor
 
+
 === Former PhD students and their present positions ===
 
 o Jane Kim, Michigan State University, started fall 2018. Defended thesis July 20,  2023. Research topic: Machine Learning and the Nuclear Many-body problem. Now post-doctoral research fellow at University of Ohio, Athens, USA
@@ -366,7 +367,7 @@ o Håkon Kvernmoen (2022-2024)
 o Keran Chen (2022-2024)
 o Simen Løken (2022-2024)
 o Henrik Modahl Breitenstein (2022-2024)
-o Mohamad Mahmoud (UiO 2022-2024)
+
 
 
 
@@ -594,9 +595,19 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 === Publications in journals with a referee system: ===
 
+o  "Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, Parametric Matrix Models":"https://arxiv.org/abs/2401.11694"
+
+o "Niyaz R. Beysengulov, Johannes Pollanen, Øyvind S. Schøyen, Stian D. Bilek, Jonas B. Flaten, Oskar Leinonen, Håkon Emil Kristiansen, Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, Coulomb interaction-driven entanglement of electrons on helium":"https://arxiv.org/abs/2310.04927"
+ 
+
+o "Kaspara Skovli Gåsvær, Pedro G. Lind, Johannes Langguth, Morten Hjorth-Jensen, Michael Kreil, Daniel Thilo Schroeder, Harmful Conspiracies in Temporal Interaction Networks: Understanding the Dynamics of Digital Wildfires through Phase Transitions":"https://arxiv.org/abs/2310.05542"
+
+o "Douglas Beck, Joseph Carlson, Zohreh Davoudi, Joseph Formaggio, Sofia Quaglioni, Martin Savage, Joao Barata, Tanmoy Bhattacharya, Michael Bishof, Ian Cloet, Andrea Delgado, Michael DeMarco, Caleb Fink, Adrien Florio, Marianne Francois, Dorota Grabowska, Shannon Hoogerheide, Mengyao Huang, Kazuki Ikeda, Marc Illa, Kyungseon Joo, Dmitri Kharzeev, Karol Kowalski, Wai Kin Lai, Kyle Leach, Ben Loer, Ian Low, Joshua Martin, David Moore, Thomas Mehen, Niklas Mueller, James Mulligan, Pieter Mumm, Francesco Pederiva, Rob Pisarski, Mateusz Ploskon, Sanjay Reddy, Gautam Rupak, Hersh Singh, Maninder Singh, Ionel Stetcu, Jesse Stryker, Paul Szypryt, Semeon Valgushev, Brent VanDevender, Samuel Watkins, Christopher Wilson, Xiaojun Yao, Andrei Afanasev, Akif Baha Balantekin, Alessandro Baroni, Raymond Bunker, Bipasha Chakraborty, Ivan Chernyshev, Vincenzo Cirigliano, Benjamin Clark, Shashi Kumar Dhiman, Weijie Du, Dipangkar Dutta, Robert Edwards, Abraham Flores, Alfredo Galindo-Uribarri, Ronald Fernando Garcia Ruiz, Vesselin Gueorguiev, Fanqing Guo, Erin Hansen, Hector Hernandez, Koichi Hattori, Philipp Hauke, Morten Hjorth-Jensen, Keith Jankowski, Calvin Johnson, Denis Lacroix, Dean Lee, Huey-Wen Lin, Xiaohui Liu, Felipe J. Llanes-Estrada, John Looney, Misha Lukin, Alexis Mercenne, Jeff Miller, Emil Mottola, Berndt Mueller, Benjamin Nachman, John Negele, John Orrell, Amol Patwardhan, Daniel Phillips, Stephen Poole, Irene Qualters, Mike Rumore, Thomas Schaefer, Jeremy Scott, Rajeev Singh, James Vary, Juan-Jose Galvez-Viruet, Kyle Wendt, Hongxi Xing, Liang Yang, Glenn Young, Fanyi Zhao, Quantum Information Science and Technology for Nuclear Physics. Input into U.S. Long-Range Planning, 2023":"https://arxiv.org/abs/2303.00113"
+
 o Julie Butler, Morten Hjorth-Jensen, and Justin G. Lietz, _Accelerating the Convergence of Coupled Cluster Calculations Using Bayesian Ridge Regression_, Journal of Chemical Physics, submitted
 
-o Jane Kim, Gabriel Pescia, Bryce Fore, Jannes Nys, Giuseppe Carleo, Stefano Gandolfi, Morten Hjorth-Jensen, Alessandro Lovato, "Neural-network quantum states for ultra-cold Fermi gases, Nature Physics Communications. submitted":"https://arxiv.org/abs/2305.08831"
+o Jane Kim, Gabriel Pescia, Bryce Fore, Jannes Nys, Giuseppe Carleo, Stefano Gandolfi, Morten Hjorth-Jensen, Alessandro Lovato, "Neural-network quantum states for ultra-cold Fermi gases, Nature Physics Communications, in press":"https://arxiv.org/abs/2305.08831"
+
 
 
 o Bryce Fore, Jane M. Kim, Giuseppe Carleo, Morten Hjorth-Jensen, Alessandro Lovato, and Maria Piarulli "Dilute neutron star matter from neural-network quantum states, Physical Review  Research 5, 033062 (2023)":"https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033062"
