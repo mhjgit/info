@@ -29,33 +29,6 @@ This means that I study various methods for solving either Schrödinger's equati
 Dirac's equation for many interacting particles, spanning from 
 algorithmic aspects to the mathematical properties of such methods, including machine learning and quantum computing. 
 
-===== Awards: =====
-
-o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2000/11/det-viktigste-er-aa-inspirere.html", 2000 (250kNOK)
-o Fellow of the American Physical Society, 2007
-o Oak Ridge National Laboratory excellence in research award, 2008
-o Outstanding referee award of the American Physical Society, 2008
-o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2011/08/undervisning-for-framtidig-forsking.html" for the _Computing in Science Education_ project, 2011 (250kNOK)
-o NOKUT (Norwegian entity of quality assessment in higher education) "award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2012/04/uio-tok-andreplass-i-utdanningskvalitet.html" for the _Computing in Science Education_ project, 2012
-o Elected member of the Norwegian Academy of Sciences and Letters, 2013
-o Elected member of the Royal Norwegian Society of Sciences and Letters, 2015 
-o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2015/10/instituttet-som-lofter-fram-gode-forelesere.html" for developing the Computational Physics group, 2015 (250kNOK)
-o Favorite graduate teacher at the Department of Physics and Astronomy at Michigan State University, 2016 
-o _Olav Thon Foundation_ "National prize for excellence in teaching award":"https://www.ntbinfo.no/pressemelding/olav-thon-stiftelsen-annonserte-arets-priser-42-millioner-til-forskning-og-undervisning?publisherId=8983491&releaseId=16475069" (National, all Norwegian higher education institutions, 500kNOK), 2018
-o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"https://web.pa.msu.edu/alumni/awards/osgood_fac_awards.html"
-o "University of Oslo merited teacher award 2020":"https://titan.uio.no/utdanning/2020/to-fysikere-belonnes-for%20undervisningen-sin"
-o "College of Natural Science Norman L and Olga K. Fritz Excellence in Teaching Award, Michigan State University, 2021":"https://natsci.msu.edu/faculty-staff/awards/#eta"
-
-===== Citation metrics and some selected research highlights: =====
-
-o "Google Scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=no".
-
-o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126".
-o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106".
-o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607".
-o T. Papenbrock, G. Hagen, M. Hjorth-Jensen, and  D. J. Dean,   *Coupled-cluster computations of atomic nuclei*,   *Reports on Progress in Physics*, 77:096302 (2014).
-o Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen, Tanja Horn, Michelle P. Kuchera, Dean Lee, Witold Nazarewicz, Kostas Orginos, Peter Ostroumov, Long-Gang Pang, Alan Poon, Nobuo Sato, Malachi Schram, Alexander Scheinker, Michael S. Smith, Xin-Nian Wang, Veronique Ziegler, "Machine Learning in Nuclear Physics, Reviews of Modern Physics _94_, 031003 (2022)":"https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.031003"
-
 === Editorial boards and committees ===
 
 * "Board member of the European Center for Theoretical Studies in Nuclear Physics and Related Areas, Trento, Italy, 2017-present":"http://ectstar.eu/"
@@ -194,7 +167,7 @@ o Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen,
 
 === Member of International Advisory committees ===
 
-o 22nd International Few-Body Conference, member of IAC 2018
+o 22nd International Few-Body Conference, member of IAC 2018 and 2024
 o International Nuclear Physics Conference, member of IAC since 2008
 o Nuclear Structure 2010 and 2014, member of IAC
 o Program Advisor Committee for Recent Progress in Many-Body Theories, member since 2007
@@ -202,7 +175,7 @@ o Scientific advisory committee for Nuclear Theory in the Supercomputing Era
 o International Advisory committee of International Conference on Mathematical Modeling in Physical Sciences
 o International Advisory committee for XI Latin American Symposium on Nuclear Physics and Applications 
 o International Advisory Board for Conference on Computational Physics
-o International Advisory committee for EURORIB15 and EURORIB18
+o International Advisory committee for EURORIB15, EURORIB18, EURORIB24
 o International Advisory committee for SIAM conference on Computational Science and Engineering in Boston, 2013
 
 
@@ -266,17 +239,7 @@ From the fall of 2018 I have developed and teach the new course on _Applied Data
 
 I have also taught introductory quantum physics, FYS2140, 2000-2004, Statistical Mechanics, FYS4130, 1990-1994 and I have developed an advanced course on "FYS-KJM4480 Quantum mechanics for many-particle systems":"http://www.uio.no/studier/emner/matnat/fys/FYS-kjm4480/", 2009-2014, all at the at the University of Oslo, Norway. At Michigan State Univeristy I have also taught an advanced course in Nuclear Structure Physics PHYS981 Nuclear Structure, graduate level, Spring semester, 2013-2016. In addition, with Scott Bogner at Michigan State University, we taught a specialized course on Nuclear Force, PHY989, during the fall semester of 2018.
 
-=== Teaching Awards: ===
 
-o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2000/11/det-viktigste-er-aa-inspirere.html", 2000 (250kNOK)
-o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2011/08/undervisning-for-framtidig-forsking.html" for the _Computing in Science Education_ project, 2011 (250kNOK)
-o NOKUT (Norwegian entity of quality assessment in higher education) "award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2012/04/uio-tok-andreplass-i-utdanningskvalitet.html" for the _Computing in Science Education_ project, 2012
-o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2015/10/instituttet-som-lofter-fram-gode-forelesere.html" for developing the Computational Physics group, 2015 (250kNOK)
-o Favorite graduate teacher at the Department of Physics and Astronomy at Michigan State University, 2016 
-o _Olav Thon Foundation_ "National prize for excellence in teaching award":"https://www.ntbinfo.no/pressemelding/olav-thon-stiftelsen-annonserte-arets-priser-42-millioner-til-forskning-og-undervisning?publisherId=8983491&releaseId=16475069" (National, all Norwegian higher education institutions, 500kNOK), 2018
-o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"https://web.pa.msu.edu/alumni/awards/osgood_fac_awards.html"
-o "University of Oslo merited teacher award 2020":"https://titan.uio.no/utdanning/2020/to-fysikere-belonnes-for%20undervisningen-sin"
-o "Norman L and Olga K. Fritz Excellence in Teaching Award":"https://natsci.msu.edu/faculty-staff/awards/#eta" at College of Natural Science, Michigan State University, 2021
 
 === Present PhD students ===
 
@@ -372,11 +335,12 @@ o Håkon Kvernmoen (2022-2024)
 o Keran Chen (2022-2024)
 o Simen Løken (2022-2024)
 o Henrik Modahl Breitenstein (2022-2024)
-o Ida Madsen (2023-2025), co-supervisor
+o Odin Johansen (2023-2025)
 o Jonny Igeh Aarstad (2023-2025)
 o Yevgehnii Volkov (2023-2025)
-o Luis
-o Joseph V. Panera (2023-2025)
+o Ida Madsen (2023-2025), co-supervisor
+o Luis Roberto Jiminez Arteta (2023-2025), co-supervisor
+o Joseph Ivan Panana Vera (2023-2025), co-supervisor
 
 
 
@@ -472,126 +436,34 @@ o Eivind Brodal, University of Oslo, (2001-2003)
 o Eirik Ovrum, University of Oslo, (2001-2003)
 o Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)
 
-=== Lectures and organization of schools: ===
 
-o The FRIB-TA Summer School: Practical Uncertainty Quantification and Emulator Development in Nuclear Physics at Facility for Rare Isotope Beams (FRIB) on the campus of Michigan State University (MSU) in East Lansing, MI USA, June 26-28 2023. Organizers and teachers, URL:"https://indico.frib.msu.edu/event/65/overview". Co-organizer and teacher with several other.
+===== Awards: =====
 
-o Alexei Bazavov, Scott Bogner, Heiko Hergert, Morten Hjorth-Jensen, Matthew Hirn, Dean Lee, Huey-Wen Lin, and Andrea Shindler, URL:"https://indico.frib.msu.edu/event/54/", FRIB TA Summer School - Quantum Computing and  Nuclear few- and many-body problems, Facility for Rare Isotope Beams (FRIB) on the Michigan State University campus in East Lansing, MI from June 20 to June 22, 2022. 
+o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2000/11/det-viktigste-er-aa-inspirere.html", 2000 (250kNOK)
+o Fellow of the American Physical Society, 2007
+o Oak Ridge National Laboratory excellence in research award, 2008
+o Outstanding referee award of the American Physical Society, 2008
+o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2011/08/undervisning-for-framtidig-forsking.html" for the _Computing in Science Education_ project, 2011 (250kNOK)
+o NOKUT (Norwegian entity of quality assessment in higher education) "award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2012/04/uio-tok-andreplass-i-utdanningskvalitet.html" for the _Computing in Science Education_ project, 2012
+o Elected member of the Norwegian Academy of Sciences and Letters, 2013
+o Elected member of the Royal Norwegian Society of Sciences and Letters, 2015 
+o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2015/10/instituttet-som-lofter-fram-gode-forelesere.html" for developing the Computational Physics group, 2015 (250kNOK)
+o Favorite graduate teacher at the Department of Physics and Astronomy at Michigan State University, 2016 
+o _Olav Thon Foundation_ "National prize for excellence in teaching award":"https://www.ntbinfo.no/pressemelding/olav-thon-stiftelsen-annonserte-arets-priser-42-millioner-til-forskning-og-undervisning?publisherId=8983491&releaseId=16475069" (National, all Norwegian higher education institutions, 500kNOK), 2018
+o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"https://web.pa.msu.edu/alumni/awards/osgood_fac_awards.html"
+o "University of Oslo merited teacher award 2020":"https://titan.uio.no/utdanning/2020/to-fysikere-belonnes-for%20undervisningen-sin"
+o "College of Natural Science Norman L and Olga K. Fritz Excellence in Teaching Award, Michigan State University, 2021":"https://natsci.msu.edu/faculty-staff/awards/#eta"
 
+===== Citation metrics and some selected research highlights: =====
 
-o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Physics for the Erasmus+ program URL:"http://www.emm-nucphys.eu/", European Master in Nuclear Physics, University of Basse-Normandie and GANIL, September 15 2021-January 24, 2022. 30 lectures and 30 exercise sessions. Main teacher
+o "Google Scholar":"https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=no".
 
+o _Realistic effective interactions for nuclear systems_, M Hjorth-Jensen, TTS Kuo, E Osnes, "Physics Reports 261, 125-270 (1995)":"http://www.sciencedirect.com/science/article/pii/0370157395000126".
+o _Phases of dense matter in neutron stars_, H Heiselberg, M Hjorth-Jensen, "Physics Reports 328, 237-327 (2000)":"http://www.sciencedirect.com/science/article/pii/S0370157399001106".
+o _Pairing in nuclear systems: from neutron stars to finite nuclei_, DJ Dean, M Hjorth-Jensen, "Reviews of Modern Physics 75, 607  (2003)":"http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.607".
+o T. Papenbrock, G. Hagen, M. Hjorth-Jensen, and  D. J. Dean,   *Coupled-cluster computations of atomic nuclei*,   *Reports on Progress in Physics*, 77:096302 (2014).
+o Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen, Tanja Horn, Michelle P. Kuchera, Dean Lee, Witold Nazarewicz, Kostas Orginos, Peter Ostroumov, Long-Gang Pang, Alan Poon, Nobuo Sato, Malachi Schram, Alexander Scheinker, Michael S. Smith, Xin-Nian Wang, Veronique Ziegler, "Machine Learning in Nuclear Physics, Reviews of Modern Physics _94_, 031003 (2022)":"https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.031003"
 
-o Morten Hjorth-Jensen, Daniel Bazin, Sean Liddick, , Michelle Kuchera, and R. Ramanujan, Online Nuclear Talent course on  Machine Learning Applied to Nuclear Physics, European Center for Theoretical Nuclear Physics and Related Areas, Trento, Italy, July 19 to July 30, 2021. Main organizer and teacher.
-
-
-o Morten Hjorth-Jensen, _2021 CHPC Introductory Programming Summer School_, South Africa, February 1-28, 2021, "five lectures on Machine Learning":"https://compphysics.github.io/MLSummerSchool/doc/web/course.html". 
-
-
-o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Physics for the Erasmus+ program URL:"http://www.emm-nucphys.eu/", European Master in Nuclear Physics, University of Basse-Normandie and GANIL, January 18-29, 2021. 30 lectures and 30 exercise sessions. Main teacher
-
-o Morten Hjorth-Jensen, Daniel Bazin, Sean Liddick, , Michelle Kuchera, and R. Ramanujan, Online Nuclear Talent course on  Machine Learning Applied to Nuclear Physics, European Center for Theoretical Nuclear Physics and Related Areas, Trento, Italy, June 22 to July 3, 2020. Main organizer and teacher.
-
-o Online lectures on _Machine Learning weeks at MSU-FRIB/NSCL_, May 2020. I lectured to undergraduate, graduate and post-docs at FRIB/MSU from May 18 till May 29 on Machine Learning applied to Nuclear Physics. Two lectures per day and one hour of hands-on sessions. On average between 25-30 particpants per day. All material is available at URL:"https://github.com/mhjensen/MachineLearningMSU-FRIB2020". In total I gave 20 one-hour lectures.
-
-
-o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Physics for the Erasmus+ program URL:"http://www.emm-nucphys.eu/", European Master in Nuclear Physics, University of Basse-Normandie and GANIL, January 20-31, 2020. 45 lectures and 45 exercise sessions. Main teacher
-
-o Morten Hjorth-Jensen, Matthew Hirn, Michelle Kuchera, and R. Ramanujan, URL:"https://indico.frib.msu.edu/event/16/", FRIB TA Summer School - Machine Learning Applied to Nuclear Physics, Facility for Rare Isotope Beams (FRIB) on the Michigan State University campus in East Lansing, MI from May 20 to 23, 2019. Main organizer and teacher.
-
-o _Hackathon on Computing in Science Education_, June 3-7, 2019, Michigan State University, East Lansing, USA. . Intensive workshop on Computing in Physics Education at Michigan State University. Organized together with Danny Caballero, MSU.
-
-
-o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Physics for the Erasmus+ program url:"http://www.emm-nucphys.eu/", European Master in Nuclear Physics, University of Basse-Normandie and GANIL, January 21-February 1, 2019. 45 lectures and 45 exercise sessions. Main teacher
-
-o Nuclear Talent course on Many-body methods for nuclear physics, from Structure to Reactions at Henan Normal University, P.R. China, July 16-August 5 2018. Teachers: Kevin Fossez, Morten Hjorth-Jensen, Thomas Papenbrock, and Ragnar Stroberg. 
-
-
-o Alex Brown, Alexandra Gade, Morten Hjorth-Jensen, Gustav Jansen, Robert Grzywacz, Nuclear Talent course on Nucleartheory for Nuclear Structure Experiments, July 3-21 2017. "Main organizer and teacher with in total fifteen hours of lectures":"https://github.com/NuclearTalent/NuclearStructure". 
-
-o Hjorth-Jensen, Morten, "High performance computing in Nuclear Physics":"https://icer-acres.msu.edu/summer-2017/schedule/", Lecture at the *Advanced Computational Research Experience* at Michigan State University, East Lansing, Michigan, June 1, 2017.
-
-o Hjorth-Jensen, Morten, "How to write good code":"https://icer-acres.msu.edu/summer-2017/schedule/", Lecture at the *Advanced Computational Research Experience* at Michigan State University, East Lansing, Michigan, May 24, 2017.
-
-
-o Hjorth-Jensen, Morten, "Computational Nuclear Physics and Post Hartree-Fock Methods. Configuration Interaction Theory, Many-Body Perturbation Theory and Coupled Cluster Theory":"http://rafael.ujf.cas.cz/school", five lectures at 28th Indian-Summer School on Ab Initio Methods in Nuclear Physics, Prague, Czech Republic, August 29 - September 2, 2016.
-
-o Hjorth-Jensen, Morten, "Computational Physics and Quantum Mechanical Systems":"http://compphysics.github.io/CompPhysUTunis/doc/web/course.html", one week course on Computational Physics at the University of Tunis El Manar, Tunis, Tunisia, May 16-20, 2016. In total 15 hours of lectures and 15 hours of computer lab and exercises. 
-
-
-o Co-organizer with Giuseppina Orlandini and Alejandro Kievsky of Nuclear Talent course "Few-body methods and nuclear reactions":"https://groups.nscl.msu.edu/jina/talent/wiki/Course_3", ECT*, Trento, Italy, July 20-August 7 2015
-
-o Carlo Barbieri, Wim Dickhoff, Gaute Hagen, Morten Hjorth-Jensen, and Artur Polls, Nuclear Talent course on Many-body methods for nuclear physics, GANIL, Caen, France, July 5-25 2015. "Main organizer and teacher with in total five hours of lectures":"http://nucleartalent.github.io/Course2ManyBodyMethods/doc/web/course.html". 
-
-o Hjorth-Jensen, Morten, ECT* "Doctoral Training Program 2015 on Computational Nuclear Physics":"http://www.ectstar.eu/node/1287", April 13- May 22, ECT*, Trento, Italy. I taught the last week of the lecture series. In total I have ten one hour lectures. 
-
-o Hjorth-Jensen, Morten, Nuclear Talent School in Nuclear Astrophysics, co-organizer with Richard Cyburt and Hendrik Schatz of the Nuclear Talent course on Nuclear Astrophysics,  Michigan State University, May 26 - June 13, 2014. 
-
-o Hjorth-Jensen, Morten, Nuclear Talent course on Density Functional theories, co-organizer with Scott Bogner, Nicolas Schunck, Dario Vretenar and Peter Ring, European Center for Theoretical Nuclear Physics and Related Areas, Trento, Italy, July 13 -August 1 2014.
-
-
- 
-o Hjorth-Jensen, Morten, Nuclear Talent Course  Introduction on High-performance computing and computational tools for nuclear physics; ECT*, Trento, Italy, June 24 - July 13 2012. Main organizer and teacher together with Francesco Pederiva, Kevin Schmidt and Calvin Johnson. 
-
-o Hjorth-Jensen, Morten. Computational environment for Nuclear Structure, five lectures in Nuclear Physics at Universidad Complutense Madrid; 2011-01-17 - 2011-02-09
-
-o Hjorth-Jensen, Morten, organizer with David Dean, Thomas Papenprock and Gaute Hagen. Third MSU-UT/ORNL-UiO winter school in nuclear physics; Oak Ridge National Lab, Tennessee, January 2012
-
-o Hjorth-Jensen, Morten, organizer with Alex Brown and teaching five lectures. Second MSU-UT/ORNL-UiO winter school in nuclear physics, East Lansing, Michigan, USA; 2011-01-03 - 2011-01-07
-
-o Hjorth-Jensen, Morten, organizer, First MSU-UT/ORNL-UiO winter school in nuclear physics, Wadahl, Norway, January 4-10 2010
-
-o Hjorth-Jensen, Morten.  Five lectures on Theory of shell-model studies for nuclei. CERN/Isolde course on nuclear structure theory; 2010-03-01 - 2010-03-04
- 
-
-o Hjorth-Jensen, Morten.  Six lectures on Nuclear interactions and the Shell Model. 8th CNS-EFES International Summer School, Riken, Tokyo, Japan, 2009-08-26 - 2009-09-01
- 
- 
- 
- 
-o Hjorth-Jensen, Morten.  Five lectures on nuclear theory at the  20th Chris Engelbrecht Summer School in Theoretical Physics, Stellenbosch, South Africa,  2009-01-19 - 2009-01-28
- 
- 
- 
-o Hjorth-Jensen, Morten.  Nuclear many-body theory, five lectures at the  UK Postgraduate Nuclear Physics Summer School, Leicester, UK,  2009-09-12 - 2009-09-23
- 
- 
- 
-o Hjorth-Jensen, Morten.  Nuclear many-body methods. Lectures series at Lund University; 2008-05-04 - 2008-05-07
- 
- 
-o Hjorth-Jensen, Morten.  Trends in Nuclear Structure Theory. Workshop at the University of Lund; 2008-05-07 - 2008-05-07
- 
- 
-o Hjorth-Jensen, Morten.  Trends in Nuclear Structure Theory. Physics Division Seminar; 2008-04-17 - 2008-04-17
- 
- 
-o Hjorth-Jensen, Morten.  Trends in nuclear structure theory. Lecture series at the University of Padova and Legnaro National Laboratory, Padova Italy; 2008-07-16 - 2008-07-19
- 
-
- 
-o Hjorth-Jensen, Morten.  Five lectures on  Monte Carlo methods and applications in the physical sciences. eScience Winther School 2007; Geilo, Norway 2007-01-28 - 2007-02-02
- 
- 
- 
- 
-o Hjorth-Jensen, Morten.  Five lectures at the ISOLDE Spring School in Nuclear Theory; CERN, Switzerland, 2007-05-21 - 2007-05-26
- 
-  
-o Hjorth-Jensen, Morten.  Ten lecures at  ECT* Doctoral Training Programme 2007; Trento, Italy, April 16-20
- 
- 
- 
- 
-  
-o Hjorth-Jensen, Morten.  From the nucleon-nucleon interaction to a renormalized interaction for nuclear systems. Lecture series at Michigan State University; April 2005
- 
- 
- 
- 
-o Hjorth-Jensen, Morten. CENS: A computational Environment for Nuclear Structure. Isolde Lecture series; 2004-11-11 - 2005-11-25
- 
- 
 
 
 
@@ -1092,6 +964,129 @@ o Holt, Anne; Engeland, Torgeir; Hjorth-Jensen, Morten; Osnes, Eivind.  The stru
 
 o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern meson-exchange potentials, Edited by A. Covello, 3rd international spring seminar on nuclear physics, Ischia, Italy, May 21-25, 1990, (World Scientific Singapore, 1991), pages 87-97 
 
+
+
+
+=== Lectures and organization of schools: ===
+
+o The FRIB-TA Summer School: Practical Uncertainty Quantification and Emulator Development in Nuclear Physics at Facility for Rare Isotope Beams (FRIB) on the campus of Michigan State University (MSU) in East Lansing, MI USA, June 26-28 2023. Organizers and teachers, URL:"https://indico.frib.msu.edu/event/65/overview". Co-organizer and teacher with several other.
+
+o Alexei Bazavov, Scott Bogner, Heiko Hergert, Morten Hjorth-Jensen, Matthew Hirn, Dean Lee, Huey-Wen Lin, and Andrea Shindler, URL:"https://indico.frib.msu.edu/event/54/", FRIB TA Summer School - Quantum Computing and  Nuclear few- and many-body problems, Facility for Rare Isotope Beams (FRIB) on the Michigan State University campus in East Lansing, MI from June 20 to June 22, 2022. 
+
+
+o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Physics for the Erasmus+ program URL:"http://www.emm-nucphys.eu/", European Master in Nuclear Physics, University of Basse-Normandie and GANIL, September 15 2021-January 24, 2022. 30 lectures and 30 exercise sessions. Main teacher
+
+
+o Morten Hjorth-Jensen, Daniel Bazin, Sean Liddick, , Michelle Kuchera, and R. Ramanujan, Online Nuclear Talent course on  Machine Learning Applied to Nuclear Physics, European Center for Theoretical Nuclear Physics and Related Areas, Trento, Italy, July 19 to July 30, 2021. Main organizer and teacher.
+
+
+o Morten Hjorth-Jensen, _2021 CHPC Introductory Programming Summer School_, South Africa, February 1-28, 2021, "five lectures on Machine Learning":"https://compphysics.github.io/MLSummerSchool/doc/web/course.html". 
+
+
+o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Physics for the Erasmus+ program URL:"http://www.emm-nucphys.eu/", European Master in Nuclear Physics, University of Basse-Normandie and GANIL, January 18-29, 2021. 30 lectures and 30 exercise sessions. Main teacher
+
+o Morten Hjorth-Jensen, Daniel Bazin, Sean Liddick, , Michelle Kuchera, and R. Ramanujan, Online Nuclear Talent course on  Machine Learning Applied to Nuclear Physics, European Center for Theoretical Nuclear Physics and Related Areas, Trento, Italy, June 22 to July 3, 2020. Main organizer and teacher.
+
+o Online lectures on _Machine Learning weeks at MSU-FRIB/NSCL_, May 2020. I lectured to undergraduate, graduate and post-docs at FRIB/MSU from May 18 till May 29 on Machine Learning applied to Nuclear Physics. Two lectures per day and one hour of hands-on sessions. On average between 25-30 particpants per day. All material is available at URL:"https://github.com/mhjensen/MachineLearningMSU-FRIB2020". In total I gave 20 one-hour lectures.
+
+
+o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Physics for the Erasmus+ program URL:"http://www.emm-nucphys.eu/", European Master in Nuclear Physics, University of Basse-Normandie and GANIL, January 20-31, 2020. 45 lectures and 45 exercise sessions. Main teacher
+
+o Morten Hjorth-Jensen, Matthew Hirn, Michelle Kuchera, and R. Ramanujan, URL:"https://indico.frib.msu.edu/event/16/", FRIB TA Summer School - Machine Learning Applied to Nuclear Physics, Facility for Rare Isotope Beams (FRIB) on the Michigan State University campus in East Lansing, MI from May 20 to 23, 2019. Main organizer and teacher.
+
+o _Hackathon on Computing in Science Education_, June 3-7, 2019, Michigan State University, East Lansing, USA. . Intensive workshop on Computing in Physics Education at Michigan State University. Organized together with Danny Caballero, MSU.
+
+
+o Morten Hjorth-Jensen, Nuclear Talent Course on Machine Learning in Nuclear Physics for the Erasmus+ program url:"http://www.emm-nucphys.eu/", European Master in Nuclear Physics, University of Basse-Normandie and GANIL, January 21-February 1, 2019. 45 lectures and 45 exercise sessions. Main teacher
+
+o Nuclear Talent course on Many-body methods for nuclear physics, from Structure to Reactions at Henan Normal University, P.R. China, July 16-August 5 2018. Teachers: Kevin Fossez, Morten Hjorth-Jensen, Thomas Papenbrock, and Ragnar Stroberg. 
+
+
+o Alex Brown, Alexandra Gade, Morten Hjorth-Jensen, Gustav Jansen, Robert Grzywacz, Nuclear Talent course on Nucleartheory for Nuclear Structure Experiments, July 3-21 2017. "Main organizer and teacher with in total fifteen hours of lectures":"https://github.com/NuclearTalent/NuclearStructure". 
+
+o Hjorth-Jensen, Morten, "High performance computing in Nuclear Physics":"https://icer-acres.msu.edu/summer-2017/schedule/", Lecture at the *Advanced Computational Research Experience* at Michigan State University, East Lansing, Michigan, June 1, 2017.
+
+o Hjorth-Jensen, Morten, "How to write good code":"https://icer-acres.msu.edu/summer-2017/schedule/", Lecture at the *Advanced Computational Research Experience* at Michigan State University, East Lansing, Michigan, May 24, 2017.
+
+
+o Hjorth-Jensen, Morten, "Computational Nuclear Physics and Post Hartree-Fock Methods. Configuration Interaction Theory, Many-Body Perturbation Theory and Coupled Cluster Theory":"http://rafael.ujf.cas.cz/school", five lectures at 28th Indian-Summer School on Ab Initio Methods in Nuclear Physics, Prague, Czech Republic, August 29 - September 2, 2016.
+
+o Hjorth-Jensen, Morten, "Computational Physics and Quantum Mechanical Systems":"http://compphysics.github.io/CompPhysUTunis/doc/web/course.html", one week course on Computational Physics at the University of Tunis El Manar, Tunis, Tunisia, May 16-20, 2016. In total 15 hours of lectures and 15 hours of computer lab and exercises. 
+
+
+o Co-organizer with Giuseppina Orlandini and Alejandro Kievsky of Nuclear Talent course "Few-body methods and nuclear reactions":"https://groups.nscl.msu.edu/jina/talent/wiki/Course_3", ECT*, Trento, Italy, July 20-August 7 2015
+
+o Carlo Barbieri, Wim Dickhoff, Gaute Hagen, Morten Hjorth-Jensen, and Artur Polls, Nuclear Talent course on Many-body methods for nuclear physics, GANIL, Caen, France, July 5-25 2015. "Main organizer and teacher with in total five hours of lectures":"http://nucleartalent.github.io/Course2ManyBodyMethods/doc/web/course.html". 
+
+o Hjorth-Jensen, Morten, ECT* "Doctoral Training Program 2015 on Computational Nuclear Physics":"http://www.ectstar.eu/node/1287", April 13- May 22, ECT*, Trento, Italy. I taught the last week of the lecture series. In total I have ten one hour lectures. 
+
+o Hjorth-Jensen, Morten, Nuclear Talent School in Nuclear Astrophysics, co-organizer with Richard Cyburt and Hendrik Schatz of the Nuclear Talent course on Nuclear Astrophysics,  Michigan State University, May 26 - June 13, 2014. 
+
+o Hjorth-Jensen, Morten, Nuclear Talent course on Density Functional theories, co-organizer with Scott Bogner, Nicolas Schunck, Dario Vretenar and Peter Ring, European Center for Theoretical Nuclear Physics and Related Areas, Trento, Italy, July 13 -August 1 2014.
+
+
+ 
+o Hjorth-Jensen, Morten, Nuclear Talent Course  Introduction on High-performance computing and computational tools for nuclear physics; ECT*, Trento, Italy, June 24 - July 13 2012. Main organizer and teacher together with Francesco Pederiva, Kevin Schmidt and Calvin Johnson. 
+
+o Hjorth-Jensen, Morten. Computational environment for Nuclear Structure, five lectures in Nuclear Physics at Universidad Complutense Madrid; 2011-01-17 - 2011-02-09
+
+o Hjorth-Jensen, Morten, organizer with David Dean, Thomas Papenprock and Gaute Hagen. Third MSU-UT/ORNL-UiO winter school in nuclear physics; Oak Ridge National Lab, Tennessee, January 2012
+
+o Hjorth-Jensen, Morten, organizer with Alex Brown and teaching five lectures. Second MSU-UT/ORNL-UiO winter school in nuclear physics, East Lansing, Michigan, USA; 2011-01-03 - 2011-01-07
+
+o Hjorth-Jensen, Morten, organizer, First MSU-UT/ORNL-UiO winter school in nuclear physics, Wadahl, Norway, January 4-10 2010
+
+o Hjorth-Jensen, Morten.  Five lectures on Theory of shell-model studies for nuclei. CERN/Isolde course on nuclear structure theory; 2010-03-01 - 2010-03-04
+ 
+
+o Hjorth-Jensen, Morten.  Six lectures on Nuclear interactions and the Shell Model. 8th CNS-EFES International Summer School, Riken, Tokyo, Japan, 2009-08-26 - 2009-09-01
+ 
+ 
+ 
+ 
+o Hjorth-Jensen, Morten.  Five lectures on nuclear theory at the  20th Chris Engelbrecht Summer School in Theoretical Physics, Stellenbosch, South Africa,  2009-01-19 - 2009-01-28
+ 
+ 
+ 
+o Hjorth-Jensen, Morten.  Nuclear many-body theory, five lectures at the  UK Postgraduate Nuclear Physics Summer School, Leicester, UK,  2009-09-12 - 2009-09-23
+ 
+ 
+ 
+o Hjorth-Jensen, Morten.  Nuclear many-body methods. Lectures series at Lund University; 2008-05-04 - 2008-05-07
+ 
+ 
+o Hjorth-Jensen, Morten.  Trends in Nuclear Structure Theory. Workshop at the University of Lund; 2008-05-07 - 2008-05-07
+ 
+ 
+o Hjorth-Jensen, Morten.  Trends in Nuclear Structure Theory. Physics Division Seminar; 2008-04-17 - 2008-04-17
+ 
+ 
+o Hjorth-Jensen, Morten.  Trends in nuclear structure theory. Lecture series at the University of Padova and Legnaro National Laboratory, Padova Italy; 2008-07-16 - 2008-07-19
+ 
+
+ 
+o Hjorth-Jensen, Morten.  Five lectures on  Monte Carlo methods and applications in the physical sciences. eScience Winther School 2007; Geilo, Norway 2007-01-28 - 2007-02-02
+ 
+ 
+ 
+ 
+o Hjorth-Jensen, Morten.  Five lectures at the ISOLDE Spring School in Nuclear Theory; CERN, Switzerland, 2007-05-21 - 2007-05-26
+ 
+  
+o Hjorth-Jensen, Morten.  Ten lecures at  ECT* Doctoral Training Programme 2007; Trento, Italy, April 16-20
+ 
+ 
+ 
+ 
+  
+o Hjorth-Jensen, Morten.  From the nucleon-nucleon interaction to a renormalized interaction for nuclear systems. Lecture series at Michigan State University; April 2005
+ 
+ 
+ 
+ 
+o Hjorth-Jensen, Morten. CENS: A computational Environment for Nuclear Structure. Isolde Lecture series; 2004-11-11 - 2005-11-25
+ 
+ 
 === Talks, lectures and seminars at workshops, conferences, schools  and institute colloquiua ===
 
 o Hjorth-Jensen, Morten, "Quantum Computing and Quantum Mechanics for Many Interacting Particles":"https://mhjensenseminars.github.io/MachineLearningTalk/doc/pub/quantumcomputing/html/quantumcomputing-reveal.html", Gemini center at Sintef seminar, Oslo, March 3, 2021
