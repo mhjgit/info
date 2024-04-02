@@ -1,11 +1,11 @@
 TITLE: Biographical  information
-AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and Facility for Rare Isotope Beams/National Superconducting Cyclotron Laboratory, Michigan State University, USA
+AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics and Center for Computing in Science Education, University of Oslo, Norway & Department of Physics and Astronomy and Facility for Rare Isotope Beams, Michigan State University, USA
 DATE: January 2024
 
 ===== Professional preparation, education  and personal data: =====
 
 * Professor of Physics at Michigan State University, USA and the University of Oslo, Norway
-* Norwegian citizen, born in Haugesund, Norway, permanent resident of the USA
+* Norwegian citizen, born in Haugesund, Norway
 * Norwegian University of Science and Technology, Trondheim, Norway,  Siv.Ing. in Theoretical Physics (Master of Science equivalent),  1988 
 * University of Oslo, Norway,  Ph.D in Theoretical Nuclear Physics, 1993
 * ECT*, Trento, Italy,  Postdoctoral Researcher in Theoretical Nuclear Physics,  1994-1996
@@ -283,9 +283,9 @@ o "Gaute Hagen":"https://www.ornl.gov/staff-profile/gaute-hagen" (PhD UiB and Ui
 
 === Post-doctoral fellows and their present positions ===
 
-o "Andreas Ekstrøm":"https://www.chalmers.se/en/Staff/Pages/Andreas-Ekstrom.aspx" (UiO and MSU 2010-2014), Associate Professor  at Chalmers Technological University in Gothenburg, Sweden
+o "Andreas Ekstrøm":"https://www.chalmers.se/en/Staff/Pages/Andreas-Ekstrom.aspx" (UiO and MSU 2010-2014), Professor  at Chalmers Technological University in Gothenburg, Sweden
 o "Øyvind Jensen":"https://ife.no/employee/oyvind-jensen/" (UiO 2011), researcher at the "Institute for Energy Technology":"https://www.ife.no/en"
-o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (UiO 2008-2012), researcher,  Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
+o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (UiO 2008-2012), Associate Professor, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
 o Elise Bergli (UiO 2010-2011), now teacher at Ås high school, Norway
 o "Sølve Selstø":"https://www.oslomet.no/om/ansatt/solvese/" (UiO 2008-2010), now  Professor at Oslo Metropolitan University
 o "Nicolas Michel":"https://www.researchgate.net/profile/N-Michel-2" (MSU 2013), Professor at Institute of modern physics Lanzhou, China
@@ -470,8 +470,8 @@ o Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen,
 =====  Research, Publications, books, refereed scientific articles, talks and research grants  =====
 
 === Books: ===
-o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2023.
-o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2023.
+o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2024.
+o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2024.
 o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
 
 === Publications in journals with a referee system: ===
@@ -483,7 +483,6 @@ o "Niyaz R. Beysengulov, Johannes Pollanen, Øyvind S. Schøyen, Stian D. Bilek,
 
 o "Kaspara Skovli Gåsvær, Pedro G. Lind, Johannes Langguth, Morten Hjorth-Jensen, Michael Kreil, Daniel Thilo Schroeder, Harmful Conspiracies in Temporal Interaction Networks: Understanding the Dynamics of Digital Wildfires through Phase Transitions":"https://arxiv.org/abs/2310.05542"
 
-o "Douglas Beck, Joseph Carlson, Zohreh Davoudi, Joseph Formaggio, Sofia Quaglioni, Martin Savage, Joao Barata, Tanmoy Bhattacharya, Michael Bishof, Ian Cloet, Andrea Delgado, Michael DeMarco, Caleb Fink, Adrien Florio, Marianne Francois, Dorota Grabowska, Shannon Hoogerheide, Mengyao Huang, Kazuki Ikeda, Marc Illa, Kyungseon Joo, Dmitri Kharzeev, Karol Kowalski, Wai Kin Lai, Kyle Leach, Ben Loer, Ian Low, Joshua Martin, David Moore, Thomas Mehen, Niklas Mueller, James Mulligan, Pieter Mumm, Francesco Pederiva, Rob Pisarski, Mateusz Ploskon, Sanjay Reddy, Gautam Rupak, Hersh Singh, Maninder Singh, Ionel Stetcu, Jesse Stryker, Paul Szypryt, Semeon Valgushev, Brent VanDevender, Samuel Watkins, Christopher Wilson, Xiaojun Yao, Andrei Afanasev, Akif Baha Balantekin, Alessandro Baroni, Raymond Bunker, Bipasha Chakraborty, Ivan Chernyshev, Vincenzo Cirigliano, Benjamin Clark, Shashi Kumar Dhiman, Weijie Du, Dipangkar Dutta, Robert Edwards, Abraham Flores, Alfredo Galindo-Uribarri, Ronald Fernando Garcia Ruiz, Vesselin Gueorguiev, Fanqing Guo, Erin Hansen, Hector Hernandez, Koichi Hattori, Philipp Hauke, Morten Hjorth-Jensen, Keith Jankowski, Calvin Johnson, Denis Lacroix, Dean Lee, Huey-Wen Lin, Xiaohui Liu, Felipe J. Llanes-Estrada, John Looney, Misha Lukin, Alexis Mercenne, Jeff Miller, Emil Mottola, Berndt Mueller, Benjamin Nachman, John Negele, John Orrell, Amol Patwardhan, Daniel Phillips, Stephen Poole, Irene Qualters, Mike Rumore, Thomas Schaefer, Jeremy Scott, Rajeev Singh, James Vary, Juan-Jose Galvez-Viruet, Kyle Wendt, Hongxi Xing, Liang Yang, Glenn Young, Fanyi Zhao, Quantum Information Science and Technology for Nuclear Physics. Input into U.S. Long-Range Planning, 2023":"https://arxiv.org/abs/2303.00113"
 
 o Julie Butler, Morten Hjorth-Jensen, and Justin G. Lietz, _Accelerating the Convergence of Coupled Cluster Calculations of the Homogeneous Electron Gas Using Bayesian Ridge Regression_, Journal of Chemical Physics, submitted and https://arxiv.org/abs/2403.04645
 
@@ -822,6 +821,9 @@ o Morten Hjorth-Jensen and Eivind Osnes, *Effective interactions through third o
 
 
 === Contributions to Conference and Workshop Proceedings (refereed and non-refereed) ===
+
+o "Douglas Beck, Joseph Carlson, Zohreh Davoudi, Joseph Formaggio, Sofia Quaglioni, Martin Savage, Joao Barata, Tanmoy Bhattacharya, Michael Bishof, Ian Cloet, Andrea Delgado, Michael DeMarco, Caleb Fink, Adrien Florio, Marianne Francois, Dorota Grabowska, Shannon Hoogerheide, Mengyao Huang, Kazuki Ikeda, Marc Illa, Kyungseon Joo, Dmitri Kharzeev, Karol Kowalski, Wai Kin Lai, Kyle Leach, Ben Loer, Ian Low, Joshua Martin, David Moore, Thomas Mehen, Niklas Mueller, James Mulligan, Pieter Mumm, Francesco Pederiva, Rob Pisarski, Mateusz Ploskon, Sanjay Reddy, Gautam Rupak, Hersh Singh, Maninder Singh, Ionel Stetcu, Jesse Stryker, Paul Szypryt, Semeon Valgushev, Brent VanDevender, Samuel Watkins, Christopher Wilson, Xiaojun Yao, Andrei Afanasev, Akif Baha Balantekin, Alessandro Baroni, Raymond Bunker, Bipasha Chakraborty, Ivan Chernyshev, Vincenzo Cirigliano, Benjamin Clark, Shashi Kumar Dhiman, Weijie Du, Dipangkar Dutta, Robert Edwards, Abraham Flores, Alfredo Galindo-Uribarri, Ronald Fernando Garcia Ruiz, Vesselin Gueorguiev, Fanqing Guo, Erin Hansen, Hector Hernandez, Koichi Hattori, Philipp Hauke, Morten Hjorth-Jensen, Keith Jankowski, Calvin Johnson, Denis Lacroix, Dean Lee, Huey-Wen Lin, Xiaohui Liu, Felipe J. Llanes-Estrada, John Looney, Misha Lukin, Alexis Mercenne, Jeff Miller, Emil Mottola, Berndt Mueller, Benjamin Nachman, John Negele, John Orrell, Amol Patwardhan, Daniel Phillips, Stephen Poole, Irene Qualters, Mike Rumore, Thomas Schaefer, Jeremy Scott, Rajeev Singh, James Vary, Juan-Jose Galvez-Viruet, Kyle Wendt, Hongxi Xing, Liang Yang, Glenn Young, Fanyi Zhao, Quantum Information Science and Technology for Nuclear Physics. Input into U.S. Long-Range Planning, 2023":"https://arxiv.org/abs/2303.00113"
+
 
 o Osnes, E, Engeland, T, and Hjorth-Jensen, M, *Large-scale shell-model study of Sn Isotopes*, European Journal of Physics Web of Conferences _95_,01010 (2015)
 
