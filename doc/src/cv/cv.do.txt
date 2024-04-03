@@ -31,7 +31,7 @@ algorithmic aspects to the mathematical properties of such methods, including ma
 
 === Editorial boards and committees ===
 
-* "Board member of the European Center for Theoretical Studies in Nuclear Physics and Related Areas, Trento, Italy, 2017-present":"http://ectstar.eu/"
+* "Board member of the European Center for Theoretical Studies in Nuclear Physics and Related Areas, Trento, Italy, 2017-2021":"http://ectstar.eu/"
 
 * Member of the Physics Advisory Comittee at the National Superconducting Cyclotron Laboratory, Michigan State University, East Lansing, USA, 2003-2008
 
@@ -53,7 +53,7 @@ algorithmic aspects to the mathematical properties of such methods, including ma
 
 * Editorial Board member of Springer's Undergraduate Texts  in Physics, 2016-present
 
-* Editorial Board member of Springer's Graduate Texts  in Physics, 2018-present
+#* Editorial Board member of Springer's Graduate Texts  in Physics, 2018-present
 
 * Editorial Board member of Computers in Science and Discovery journal, a journal by IOP, UK, 2008-2014
 
@@ -476,34 +476,34 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 === Publications in journals with a referee system: ===
 
-o "Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, Parametric Matrix Models":"https://arxiv.org/abs/2401.11694"
+o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, URL:"https://arxiv.org/abs/2401.11694"
 
-o "Niyaz R. Beysengulov, Johannes Pollanen, Øyvind S. Schøyen, Stian D. Bilek, Jonas B. Flaten, Oskar Leinonen, Håkon Emil Kristiansen, Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, Coulomb interaction-driven entanglement of electrons on helium":"https://arxiv.org/abs/2310.04927"
+o Niyaz R. Beysengulov, Johannes Pollanen, Øyvind S. Schøyen, Stian D. Bilek, Jonas B. Flaten, Oskar Leinonen, Håkon Emil Kristiansen, Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, Coulomb interaction-driven entanglement of electrons on helium, PRX Quantum, under review and URL:"https://arxiv.org/abs/2310.04927"
  
 
-o "Kaspara Skovli Gåsvær, Pedro G. Lind, Johannes Langguth, Morten Hjorth-Jensen, Michael Kreil, Daniel Thilo Schroeder, Harmful Conspiracies in Temporal Interaction Networks: Understanding the Dynamics of Digital Wildfires through Phase Transitions":"https://arxiv.org/abs/2310.05542"
+o Kaspara Skovli Gåsvær, Pedro G. Lind, Johannes Langguth, Morten Hjorth-Jensen, Michael Kreil, Daniel Thilo Schroeder, _Harmful Conspiracies in Temporal Interaction Networks: Understanding the Dynamics of Digital Wildfires through Phase Transitions_, URL:"https://arxiv.org/abs/2310.05542"
 
 
-o Julie Butler, Morten Hjorth-Jensen, and Justin G. Lietz, _Accelerating the Convergence of Coupled Cluster Calculations of the Homogeneous Electron Gas Using Bayesian Ridge Regression_, Journal of Chemical Physics, submitted and https://arxiv.org/abs/2403.04645
+o Julie Butler, Morten Hjorth-Jensen, and Justin G. Lietz, _Accelerating the Convergence of Coupled Cluster Calculations of the Homogeneous Electron Gas Using Bayesian Ridge Regression_, Journal of Chemical Physics under review  and URL:"https://arxiv.org/abs/2403.04645"
 
-o Jane Kim, Gabriel Pescia, Bryce Fore, Jannes Nys, Giuseppe Carleo, Stefano Gandolfi, Morten Hjorth-Jensen, Alessandro Lovato, "Neural-network quantum states for ultra-cold Fermi gases, Nature Physics Communications, in press":"https://arxiv.org/abs/2305.08831"
-
-
-
-o Bryce Fore, Jane M. Kim, Giuseppe Carleo, Morten Hjorth-Jensen, Alessandro Lovato, and Maria Piarulli "Dilute neutron star matter from neural-network quantum states, Physical Review  Research 5, 033062 (2023)":"https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033062"
-
-o Mauro Rigo, Benjamin Hall, Morten Hjorth-Jensen, Alessandro Lovato, Francesco Pederiva, "Solving the nuclear pairing model with neural network quantum states":"https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.025310", Physical Review E _107_, 025310 (2023).
-
-o Even M. Nordhagen, Jane M. Kim, Bryce Fore, Alessandro Lovato, Morten Hjorth-Jensen, "Efficient Solutions of Fermionic Systems using Artificial Neural Networks, Frontiers in Physics 11, 1061580 (2023)":"https://doi.org/10.3389/fphy.2023.1061580"
+o Jane Kim, Gabriel Pescia, Bryce Fore, Jannes Nys, Giuseppe Carleo, Stefano Gandolfi, Morten Hjorth-Jensen, Alessandro Lovato, _Neural-network quantum states for ultra-cold Fermi gases_, Nature Physics Communications, in press and URL:"https://arxiv.org/abs/2305.08831"
 
 
-o D. Mroczek, M. Hjorth-Jensen, J. Noronha-Hostler, P. Parotto, C. Ratti, R. Vilalta, "Mapping out the thermodynamic stability of a QCD equation of state with a critical point using active learning":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.054911", Physical Review C _107_, 054911 (2023).
+
+o Bryce Fore, Jane M. Kim, Giuseppe Carleo, Morten Hjorth-Jensen, Alessandro Lovato, and Maria Piarulli, _Dilute neutron star matter from neural-network quantum states_, "Physical Review  Research 5, 033062 (2023)":"https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033062"
+
+o Mauro Rigo, Benjamin Hall, Morten Hjorth-Jensen, Alessandro Lovato, Francesco Pederiva, _Solving the nuclear pairing model with neural network quantum states_, "Physical Review E _107_, 025310 (2023)":"https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.025310"
+
+o Even M. Nordhagen, Jane M. Kim, Bryce Fore, Alessandro Lovato, Morten Hjorth-Jensen, _Efficient Solutions of Fermionic Systems using Artificial Neural Networks_, "Frontiers in Physics 11, 1061580 (2023)":"https://doi.org/10.3389/fphy.2023.1061580"
 
 
-o Oliver Lerstøl Hebnes, Marianne Etzelmüller Bathen, Øyvind Sigmundson Schøyen, Sebastian G. Winther Larsen, Lasse Vines, Morten Hjorth-Jensen, "Predicting Solid State Material Platforms for Quantum Technologies":"https://www.nature.com/articles/s41524-022-00888-3", Nature Physics, Computational Materials _8_, 207 (2022)
+o D. Mroczek, M. Hjorth-Jensen, J. Noronha-Hostler, P. Parotto, C. Ratti, R. Vilalta, _Mapping out the thermodynamic stability of a QCD equation of state with a critical point using active learning_, "Physical Review C _107_, 054911 (2023)":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.054911"
 
 
-o Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen, Tanja Horn, Michelle P. Kuchera, Dean Lee, Witold Nazarewicz, Kostas Orginos, Peter Ostroumov, Long-Gang Pang, Alan Poon, Nobuo Sato, Malachi Schram, Alexander Scheinker, Michael S. Smith, Xin-Nian Wang, Veronique Ziegler, "Machine Learning in Nuclear Physics, Reviews of Modern Physics _94_, 031003 (2022)":"https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.031003"
+o Oliver Lerstøl Hebnes, Marianne Etzelmüller Bathen, Øyvind Sigmundson Schøyen, Sebastian G. Winther Larsen, Lasse Vines, Morten Hjorth-Jensen, _Predicting Solid State Material Platforms for Quantum Technologies_, "Nature Physics, Computational Materials 8, 207 (2022)":"https://www.nature.com/articles/s41524-022-00888-3" 
+
+
+o Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen, Tanja Horn, Michelle P. Kuchera, Dean Lee, Witold Nazarewicz, Kostas Orginos, Peter Ostroumov, Long-Gang Pang, Alan Poon, Nobuo Sato, Malachi Schram, Alexander Scheinker, Michael S. Smith, Xin-Nian Wang, Veronique Ziegler, _Machine Learning in Nuclear Physics_, "Reviews of Modern Physics 94, 031003 (2022)":"https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.031003"
 
 
 o D. Rhodes, B. A. Brown, J. Henderson, A. Gade, J. Ash, P. C. Bender, R. Elder, B. Elman, M. Grinder, M. Hjorth-Jensen, H. Iwasaki, B. Longfellow, T. Mijatovic, M. Spieker, D. Weisshaar, and C. Y. Wu, _Exploring the role of high-j configurations in collective observables through the Coulomb excitation of 106Cd_, "Physical Review  C _103_, L051301 (2021)":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.L051301"
