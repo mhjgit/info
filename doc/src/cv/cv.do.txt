@@ -470,8 +470,8 @@ o Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen,
 =====  Research, Publications, books, refereed scientific articles, talks and research grants  =====
 
 === Books: ===
-o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2024.
-o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2024.
+#o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2024.
+#o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2024.
 o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
 
 === Publications in journals with a referee system: ===
@@ -486,7 +486,7 @@ o Kaspara Skovli Gåsvær, Pedro G. Lind, Johannes Langguth, Morten Hjorth-Jense
 
 o Julie Butler, Morten Hjorth-Jensen, and Justin G. Lietz, _Accelerating the Convergence of Coupled Cluster Calculations of the Homogeneous Electron Gas Using Bayesian Ridge Regression_, Journal of Chemical Physics under review  and URL:"https://arxiv.org/abs/2403.04645"
 
-o Jane Kim, Gabriel Pescia, Bryce Fore, Jannes Nys, Giuseppe Carleo, Stefano Gandolfi, Morten Hjorth-Jensen, Alessandro Lovato, _Neural-network quantum states for ultra-cold Fermi gases_, Nature Physics Communications, in press and URL:"https://arxiv.org/abs/2305.08831"
+o Jane Kim, Gabriel Pescia, Bryce Fore, Jannes Nys, Giuseppe Carleo, Stefano Gandolfi, Morten Hjorth-Jensen, Alessandro Lovato, _Neural-network quantum states for ultra-cold Fermi gases_, Nature Communications Physics, in press and URL:"https://arxiv.org/abs/2305.08831"
 
 
 
@@ -500,7 +500,7 @@ o Even M. Nordhagen, Jane M. Kim, Bryce Fore, Alessandro Lovato, Morten Hjorth-J
 o D. Mroczek, M. Hjorth-Jensen, J. Noronha-Hostler, P. Parotto, C. Ratti, R. Vilalta, _Mapping out the thermodynamic stability of a QCD equation of state with a critical point using active learning_, "Physical Review C _107_, 054911 (2023)":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.054911"
 
 
-o Oliver Lerstøl Hebnes, Marianne Etzelmüller Bathen, Øyvind Sigmundson Schøyen, Sebastian G. Winther Larsen, Lasse Vines, Morten Hjorth-Jensen, _Predicting Solid State Material Platforms for Quantum Technologies_, "Nature Physics, Computational Materials 8, 207 (2022)":"https://www.nature.com/articles/s41524-022-00888-3" 
+o Oliver Lerstøl Hebnes, Marianne Etzelmüller Bathen, Øyvind Sigmundson Schøyen, Sebastian G. Winther Larsen, Lasse Vines, Morten Hjorth-Jensen, _Predicting Solid State Material Platforms for Quantum Technologies_, "npj Computational Materials 8, 207 (2022)":"https://www.nature.com/articles/s41524-022-00888-3" 
 
 
 o Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen, Tanja Horn, Michelle P. Kuchera, Dean Lee, Witold Nazarewicz, Kostas Orginos, Peter Ostroumov, Long-Gang Pang, Alan Poon, Nobuo Sato, Malachi Schram, Alexander Scheinker, Michael S. Smith, Xin-Nian Wang, Veronique Ziegler, _Machine Learning in Nuclear Physics_, "Reviews of Modern Physics 94, 031003 (2022)":"https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.031003"
