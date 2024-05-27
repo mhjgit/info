@@ -228,12 +228,9 @@ o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _P
 o Niyaz R. Beysengulov, Johannes Pollanen, Øyvind S. Schøyen, Stian D. Bilek, Jonas B. Flaten, Oskar Leinonen, Håkon Emil Kristiansen, Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, Coulomb interaction-driven entanglement of electrons on helium, PRX Quantum, under review and URL:"https://arxiv.org/abs/2310.04927"
  
 
-o Kaspara Skovli Gåsvær, Pedro G. Lind, Johannes Langguth, Morten Hjorth-Jensen, Michael Kreil, Daniel Thilo Schroeder, _Harmful Conspiracies in Temporal Interaction Networks: Understanding the Dynamics of Digital Wildfires through Phase Transitions_, URL:"https://arxiv.org/abs/2310.05542"
-
-
 o Julie Butler, Morten Hjorth-Jensen, and Justin G. Lietz, _Accelerating the Convergence of Coupled Cluster Calculations of the Homogeneous Electron Gas Using Bayesian Ridge Regression_, Journal of Chemical Physics under review  and URL:"https://arxiv.org/abs/2403.04645"
 
-o Jane Kim, Gabriel Pescia, Bryce Fore, Jannes Nys, Giuseppe Carleo, Stefano Gandolfi, Morten Hjorth-Jensen, Alessandro Lovato, _Neural-network quantum states for ultra-cold Fermi gases_, Nature Communications Physics, in press and URL:"https://arxiv.org/abs/2305.08831"
+o Jane Kim, Gabriel Pescia, Bryce Fore, Jannes Nys, Giuseppe Carleo, Stefano Gandolfi, Morten Hjorth-Jensen, Alessandro Lovato, _Neural-network quantum states for ultra-cold Fermi gases_, Nature Communications Physics _7_, 148 (2024) and URL:"https://www.nature.com/articles/s42005-024-01613-w"
 
 
 
@@ -242,6 +239,8 @@ o Bryce Fore, Jane M. Kim, Giuseppe Carleo, Morten Hjorth-Jensen, Alessandro Lov
 o Mauro Rigo, Benjamin Hall, Morten Hjorth-Jensen, Alessandro Lovato, Francesco Pederiva, _Solving the nuclear pairing model with neural network quantum states_, "Physical Review E _107_, 025310 (2023)":"https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.025310"
 
 o Even M. Nordhagen, Jane M. Kim, Bryce Fore, Alessandro Lovato, Morten Hjorth-Jensen, _Efficient Solutions of Fermionic Systems using Artificial Neural Networks_, "Frontiers in Physics 11, 1061580 (2023)":"https://doi.org/10.3389/fphy.2023.1061580"
+
+o Kaspara Skovli Gåsvær, Pedro G. Lind, Johannes Langguth, Morten Hjorth-Jensen, Michael Kreil, Daniel Thilo Schroeder, _Harmful Conspiracies in Temporal Interaction Networks: Understanding the Dynamics of Digital Wildfires through Phase Transitions_, URL:"https://arxiv.org/abs/2310.05542"
 
 
 o D. Mroczek, M. Hjorth-Jensen, J. Noronha-Hostler, P. Parotto, C. Ratti, R. Vilalta, _Mapping out the thermodynamic stability of a QCD equation of state with a critical point using active learning_, "Physical Review C _107_, 054911 (2023)":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.054911"
