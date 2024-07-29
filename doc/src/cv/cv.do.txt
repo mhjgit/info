@@ -223,15 +223,14 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 === Publications in journals with a referee system: ===
 
-o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, URL:"https://arxiv.org/abs/2401.11694"
+o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, Nature under review and URL:"https://arxiv.org/abs/2401.11694"
 
-o Niyaz R. Beysengulov, Johannes Pollanen, Øyvind S. Schøyen, Stian D. Bilek, Jonas B. Flaten, Oskar Leinonen, Håkon Emil Kristiansen, Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, Coulomb interaction-driven entanglement of electrons on helium, PRX Quantum, under review and URL:"https://arxiv.org/abs/2310.04927"
+o Niyaz R. Beysengulov, Johannes Pollanen, Øyvind S. Schøyen, Stian D. Bilek, Jonas B. Flaten, Oskar Leinonen, Håkon Emil Kristiansen, Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, Coulomb interaction-driven entanglement of electrons on helium, PRX Quantum, in press and URL:"https://arxiv.org/abs/2310.04927"
  
 
 o Julie Butler, Morten Hjorth-Jensen, and Justin G. Lietz, _Accelerating the Convergence of Coupled Cluster Calculations of the Homogeneous Electron Gas Using Bayesian Ridge Regression_, Journal of Chemical Physics under review  and URL:"https://arxiv.org/abs/2403.04645"
 
 o Jane Kim, Gabriel Pescia, Bryce Fore, Jannes Nys, Giuseppe Carleo, Stefano Gandolfi, Morten Hjorth-Jensen, Alessandro Lovato, _Neural-network quantum states for ultra-cold Fermi gases_, Nature Communications Physics _7_, 148 (2024) and URL:"https://www.nature.com/articles/s42005-024-01613-w"
-
 
 
 o Bryce Fore, Jane M. Kim, Giuseppe Carleo, Morten Hjorth-Jensen, Alessandro Lovato, and Maria Piarulli, _Dilute neutron star matter from neural-network quantum states_, "Physical Review  Research 5, 033062 (2023)":"https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033062"
