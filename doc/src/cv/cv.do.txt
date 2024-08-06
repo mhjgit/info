@@ -223,6 +223,10 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 === Publications in journals with a referee system: ===
 
+
+o Bryce Fore, Jane Kim, Morten Hjorth-Jensen, Alessandro Lovato, _Investigating the crust of neutron stars with neural-network quantum states_, URL:"https://arxiv.org/abs/2407.21207"
+
+
 o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, Nature under review and URL:"https://arxiv.org/abs/2401.11694"
 
 o Niyaz R. Beysengulov, Johannes Pollanen, Øyvind S. Schøyen, Stian D. Bilek, Jonas B. Flaten, Oskar Leinonen, Håkon Emil Kristiansen, Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, Coulomb interaction-driven entanglement of electrons on helium, PRX Quantum, in press and URL:"https://arxiv.org/abs/2310.04927"
@@ -239,11 +243,10 @@ o Mauro Rigo, Benjamin Hall, Morten Hjorth-Jensen, Alessandro Lovato, Francesco 
 
 o Even M. Nordhagen, Jane M. Kim, Bryce Fore, Alessandro Lovato, Morten Hjorth-Jensen, _Efficient Solutions of Fermionic Systems using Artificial Neural Networks_, "Frontiers in Physics 11, 1061580 (2023)":"https://doi.org/10.3389/fphy.2023.1061580"
 
-o Kaspara Skovli Gåsvær, Pedro G. Lind, Johannes Langguth, Morten Hjorth-Jensen, Michael Kreil, Daniel Thilo Schroeder, _Harmful Conspiracies in Temporal Interaction Networks: Understanding the Dynamics of Digital Wildfires through Phase Transitions_, URL:"https://arxiv.org/abs/2310.05542"
-
+o Kaspara Skovli Gåsvær, Pedro G. Lind, Johannes Langguth, Morten Hjorth-Jensen, Michael Kreil, Daniel Thilo Schroeder, _Harmful Conspiracies in Temporal Interaction Networks: Understanding the Dynamics of Digital Wildfires through Phase Transitions_, URL:"https://arxiv.org/abs/2310.05542" and
+COMPLEX NETWORKS 2023, The 12th International Conference on Complex Networks and their Applications, 28 - 30 November, 2023, Menton Riviera, France
 
 o D. Mroczek, M. Hjorth-Jensen, J. Noronha-Hostler, P. Parotto, C. Ratti, R. Vilalta, _Mapping out the thermodynamic stability of a QCD equation of state with a critical point using active learning_, "Physical Review C _107_, 054911 (2023)":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.054911"
-
 
 o Oliver Lerstøl Hebnes, Marianne Etzelmüller Bathen, Øyvind Sigmundson Schøyen, Sebastian G. Winther Larsen, Lasse Vines, Morten Hjorth-Jensen, _Predicting Solid State Material Platforms for Quantum Technologies_, "npj Computational Materials 8, 207 (2022)":"https://www.nature.com/articles/s41524-022-00888-3" 
 
