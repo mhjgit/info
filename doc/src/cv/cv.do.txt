@@ -224,7 +224,7 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 === Publications in journals with a referee system: ===
 
 
-o Bryce Fore, Jane Kim, Morten Hjorth-Jensen, Alessandro Lovato, _Investigating the crust of neutron stars with neural-network quantum states_, URL:"https://arxiv.org/abs/2407.21207"
+o Bryce Fore, Jane Kim, Morten Hjorth-Jensen, Alessandro Lovato, _Investigating the crust of neutron stars with neural-network quantum states_, Nature Communications Physics under review and URL:"https://arxiv.org/abs/2407.21207"
 
 o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, Nature under review and URL:"https://arxiv.org/abs/2401.11694"
 
