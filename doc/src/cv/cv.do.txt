@@ -225,7 +225,7 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 o Stian D. Bilek, Jonas B. Flaten, H{\aa}kon Kvernmoen, Oskar Leinonen, Christopher Linder\"{a}lv, and Øyvind S. Schøyen, _Time-dependent many-body approaches to quantum dot systems_, The Journal of Physical Chemistry A under review and URL:"https://arxiv.org/abs/2403.xxxx"
 
-o Julie Butler, Morten Hjorth-Jensen, and Gustav R. Jansen, _Coupled-Cluster Calculations of Infinite Nuclear Matter in the Complete Basis Limit Using Bayesian Machine Learning_, Physical Review C under review  (2024)  and URL:"https://arxiv.org/abs/2403.xxxx"
+o Julie Butler, Morten Hjorth-Jensen, and Gustav R. Jansen, _Coupled-Cluster Calculations of Infinite Nuclear Matter in the Complete Basis Limit Using Bayesian Machine Learning_, Physical Review C under review  (2024)  and URL:"https://arxiv.org/abs/2409.18234"
 
 o Bryce Fore, Jane Kim, Morten Hjorth-Jensen, Alessandro Lovato, _Investigating the crust of neutron stars with neural-network quantum states_, Nature Communications Physics under review and URL:"https://arxiv.org/abs/2407.21207"
 
