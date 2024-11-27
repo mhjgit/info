@@ -4,20 +4,20 @@ DATE: January 2024
 
 ===== Professional preparation, education  and personal data: =====
 
-* Professor of Physics at Michigan State University, USA and the University of Oslo, Norway
+#* Professor of Physics at the University of Oslo, Norway
 * Norwegian citizen, born in Haugesund, Norway
-* Norwegian University of Science and Technology, Trondheim, Norway,  Siv.Ing. in Theoretical Physics (Master of Science equivalent),  1988 
+* Norwegian University of Science and Technology, Trondheim, Norway,  Sivil Ingeniør in Theoretical Physics (Master of Science equivalent),  1988 
 * University of Oslo, Norway,  Ph.D in Theoretical Nuclear Physics, 1993
 * ECT*, Trento, Italy,  Postdoctoral Researcher in Theoretical Nuclear Physics,  1994-1996
 * Nordita, Copenhagen, Denmark, Postdoctoral Researcher in Theoretical Nuclear Physics, 1996-1998
 
-===== Appointments: =====
+===== University positions: =====
 
 
 o Associate Professor of Physics, University of Oslo, 1999-2001;
 o Professor of Physics, University of Oslo,2001-present;
 o Adjunct Professor of Physics, Michigan State University, 2003-2011;
-o Professor of Physics, Michigan State University,2012-present;
+o Professor of Physics, Michigan State University,2012-2023;
 
 
 ===== Brief research overview =====
@@ -30,6 +30,8 @@ Dirac's equation for many interacting particles, spanning from
 algorithmic aspects to the mathematical properties of such methods, including machine learning and quantum computing. 
 
 === Editorial boards and committees ===
+
+* "Member of the Scientific Council of GANIL, Grand Accélérateur National d’Ions Lourds at Caen, France, 2025-2028":"https://www.ganil-spiral2.eu/scientists/organization/ganil-scientific-council/"
 
 * "Board member of the European Center for Theoretical Studies in Nuclear Physics and Related Areas, Trento, Italy, 2017-2021":"http://ectstar.eu/"
 
@@ -53,7 +55,7 @@ algorithmic aspects to the mathematical properties of such methods, including ma
 
 * Editorial Board member of Springer's Undergraduate Texts  in Physics, 2016-present
 
-#* Editorial Board member of Springer's Graduate Texts  in Physics, 2018-present
+* Editorial Board member of Springer's Graduate Texts  in Physics, 2018-present
 
 * Editorial Board member of Computers in Science and Discovery journal, a journal by IOP, UK, 2008-2014
 
@@ -187,7 +189,7 @@ o International Advisory committee for SIAM conference on Computational Science 
 ===== Awards: =====
 
 o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2000/11/det-viktigste-er-aa-inspirere.html", 2000 (250kNOK)
-o Fellow of the American Physical Society, 2007
+o Elected Fellow of the American Physical Society, 2007
 o Oak Ridge National Laboratory excellence in research award, 2008
 o Outstanding referee award of the American Physical Society, 2008
 o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2011/08/undervisning-for-framtidig-forsking.html" for the _Computing in Science Education_ project, 2011 (250kNOK)
@@ -200,6 +202,7 @@ o _Olav Thon Foundation_ "National prize for excellence in teaching award":"http
 o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"https://web.pa.msu.edu/alumni/awards/osgood_fac_awards.html"
 o "University of Oslo merited teacher award 2020":"https://titan.uio.no/utdanning/2020/to-fysikere-belonnes-for%20undervisningen-sin"
 o "College of Natural Science Norman L and Olga K. Fritz Excellence in Teaching Award, Michigan State University, 2021":"https://natsci.msu.edu/faculty-staff/awards/#eta"
+#o Elected fellow of the American Association for the Advancement of Science, 2025
 
 ===== Citation metrics and some selected research highlights: =====
 
@@ -1654,7 +1657,6 @@ o "Danny Jammoa":"https://directory.natsci.msu.edu/Directory/Profiles/Person/101
 o "Patrick Cook":"https://directory.natsci.msu.edu/Directory/Profiles/Person/101818", Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning.
 o "Aymeric McRae":"https://directory.natsci.msu.edu/Directory/Profiles/Person/101941?org=60", Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning.
 o "Nicholas Cariello":"https://directory.natsci.msu.edu/Directory/Profiles/Person_Embed/101812?org=34&group=77", Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning.
-o "Paulina Souza Tedesco":"https://www.mn.uio.no/fysikk/english/people/aca/paulinte/", University of Oslo, started 2020, defends thesis fall 2024, Machine Learning and Meteorology, co-supervisor
 o "Katarzyna Michałowska":"https://www.sintef.no/en/all-employees/employee/katarzyna.michalowska/", University of Oslo, started 2021, defends thesis fall 2024, Machine Learning, co-supervisor
 o Einar Aurbakken, University of Oslo, started 2020, defends thesis fall 2024, Quantum Chemistry and Many-body Physics, co-supervisor
 o "Andreas H. Mjøs":"https://www.mn.uio.no/fysikk/english/people/aca/andrehmj/", started fall 2021. Thesis topic: Bayesian statistics applied to nuclear physics experiments, co-supervisor
@@ -1666,6 +1668,7 @@ o "Sunniva Meltzer":"https://www.sintef.no/alle-ansatte/ansatt/sunniva.meltzer/"
 
 === Former PhD students and their present positions ===
 
+o "Paulina Souza Tedesco":"https://www.mn.uio.no/fysikk/english/people/aca/paulinte/", University of Oslo, started 2020, defended thesis September 2024, Machine Learning and Meteorology, co-supervisor. Now researcher at the Institute for Meteorology, Oslo, Norway
 o "Jane Kim":"https://www.ohio.edu/cas/janekim", Michigan State University, started fall 2018. Defended thesis July 20,  2023. Research topic: Machine Learning and the Nuclear Many-body problem. Now post-doctoral research fellow at University of Ohio, Athens, USA
 o "Julie Butler":"https://www.linkedin.com/in/julie-butler-ph-d-4b2741103", Michigan State University, started fall 2018. Defended thesis July 18,  2023. Research topic: Machine Learning and the Nuclear Many-body problem. Now assistant professor at Mt Union university, Ackron, Ohio
 o "Benjamin Hall":"https://www.linkedin.com/in/benjamin-hall-85206a95/", Michigan State University, started 2017. Defended thesis August 25, 2022. Research topic: Quantum Computing  and the Nuclear Many-body problem. Present job: scientist and researcher at "Super.Tech":"https://www.super.tech/"
@@ -1718,25 +1721,21 @@ o Debra Richman, committee member, defends thesis December 2020.
 o Roy Ready, committee member. Defended thesis May 2021.
 o Nathan Watwood, committee member. Defended thesis February 2021. 
 o Ben Hall, chair, thesis defense August  2022
-o Udiani Omokuyani, committee member
+o Udiani Omokuyani, committee member, defended thesis December 2024
 o Julie Butler, chair, defended thesis July 2023
 o Jane Kim, chair, defended thesis July 2023
 o Khan Zhu, committee member. 
 o Byeon Heejun, committee member. Defended thesis December 2020.
 o Golubev Timofey, committee member. Defended thesis December 2020.
 o Hermansen, Kirby, committee member
-o Watkins Jacob, , committee member
+o Watkins Jacob, , committee member, defended thesis spring 2024.
+o Givens Gabriel, , committee member, defended thesis November 2024.
 o Hill Matthew Steven, committee member
 o Larose, Ryan, committee member, defended thesis May 2022
 
 
 === Present Master of Science Students ===
 
-o Daniel Haass Beccatini Lima (2022-2024)
-o Håkon Kvernmoen (2022-2024)
-o Keran Chen (2022-2024)
-o Simen Løken (2022-2024)
-o Henrik Modahl Breitenstein (2022-2024)
 o Odin Johansen (2023-2025)
 o Jonny Igeh Aarstad (2023-2025)
 o Yevgehnii Volkov (2023-2025)
@@ -1748,6 +1747,11 @@ o Joseph Ivan Panana Vera (2023-2025), co-supervisor
 
 === Former Master of Science Students  ===
 
+o Daniel Haass Beccatini Lima (2022-2024)
+o Håkon Kvernmoen (2022-2024)
+o Keran Chen (2022-2024)
+o Simen Løken (2022-2024)
+o Henrik Modahl Breitenstein (2022-2024)
 o Linus Ekstrøm (UiO 2020-2022)
 o Philip Karim Niane Sørli (UiO 2020-2022)
 o Karl Henrik Fredly (UiO 2020-2022)
