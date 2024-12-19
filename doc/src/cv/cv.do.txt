@@ -1,6 +1,6 @@
 TITLE: Biographical  information
-AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics and Center for Computing in Science Education, University of Oslo, Norway & Department of Physics and Astronomy and Facility for Rare Isotope Beams, Michigan State University, USA
-DATE: January 2024
+AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics and Center for Computing in Science Education, University of Oslo, Norway
+DATE: December 2024
 
 ===== Professional preparation, education  and personal data: =====
 
@@ -17,7 +17,7 @@ DATE: January 2024
 o Associate Professor of Physics, University of Oslo, 1999-2001;
 o Professor of Physics, University of Oslo,2001-present;
 o Adjunct Professor of Physics, Michigan State University, 2003-2011;
-o Professor of Physics, Michigan State University,2012-2023;
+o Professor of Physics, Michigan State University, 2012-2023;
 
 
 ===== Brief research overview =====
@@ -133,8 +133,6 @@ algorithmic aspects to the mathematical properties of such methods, including ma
 
 * Referee for the Canadian Research Council
 
-* Referee for the Israeli Research Council
-
 * Referee for the South African Research Council
 
 * Referee for the British Research Council, SFTC
@@ -154,8 +152,6 @@ algorithmic aspects to the mathematical properties of such methods, including ma
 * Referee for the Danish Resource Council
 
 * Referee for the Serbian Research Ministry
-
-* Referee for the Russian Research Council
 
 * Referee for the Research Council of Luxembourg
 
@@ -180,12 +176,6 @@ o International Advisory Board for Conference on Computational Physics
 o International Advisory committee for EURORIB15, EURORIB18, EURORIB24
 o International Advisory committee for SIAM conference on Computational Science and Engineering in Boston, 2013
 
-
-
-
-
-
-
 ===== Awards: =====
 
 o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2000/11/det-viktigste-er-aa-inspirere.html", 2000 (250kNOK)
@@ -202,7 +192,7 @@ o _Olav Thon Foundation_ "National prize for excellence in teaching award":"http
 o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"https://web.pa.msu.edu/alumni/awards/osgood_fac_awards.html"
 o "University of Oslo merited teacher award 2020":"https://titan.uio.no/utdanning/2020/to-fysikere-belonnes-for%20undervisningen-sin"
 o "College of Natural Science Norman L and Olga K. Fritz Excellence in Teaching Award, Michigan State University, 2021":"https://natsci.msu.edu/faculty-staff/awards/#eta"
-#o Elected fellow of the American Association for the Advancement of Science, 2025
+#o Elected fellow of the American Association for the Advancement of Science, March 2025
 
 ===== Citation metrics and some selected research highlights: =====
 
@@ -232,7 +222,7 @@ o Julie Butler, Morten Hjorth-Jensen, and Gustav R. Jansen, _Coupled-Cluster Cal
 
 o Bryce Fore, Jane Kim, Morten Hjorth-Jensen, Alessandro Lovato, _Investigating the crust of neutron stars with neural-network quantum states_, Nature Communications Physics under review and URL:"https://arxiv.org/abs/2407.21207"
 
-o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, Nature under review and URL:"https://arxiv.org/abs/2401.11694"
+o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, Nature Physics under review and URL:"https://arxiv.org/abs/2401.11694"
 
 o Niyaz R. Beysengulov, Johannes Pollanen, Øyvind S. Schøyen, Stian D. Bilek, Jonas B. Flaten, Oskar Leinonen, Håkon Emil Kristiansen, Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, Coulomb interaction-driven entanglement of electrons on helium, PRX Quantum 5, 030324 (2024) and URL:"https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.030324"
  
