@@ -1,27 +1,63 @@
 TITLE: Publications 
-AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway & Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
-DATE: today
+AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway
+DATE: January 2025
 
 
-
-
-=====  Research, Publications, books, refereed scientific articles and proceedings =====
+=====  Research, Publications, books, refereed scientific articles, talks and research grants  =====
 
 === Books: ===
-o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2020.
-o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2020.
+#o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2024.
+#o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2024.
 o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
 
 === Publications in journals with a referee system: ===
 
+#o Stian D. Bilek, Jonas B. Flaten, H{\aa}kon Kvernmoen, Oskar Leinonen, Christopher Linder\"{a}lv, and Morten Hjorth-Jensen, _Time-dependent many-body approaches to qua#ntum dot systems_, The Journal of Physical Chemistry A under review and URL:"https://arxiv.org/abs/2403.xxxx"
 
-o Aynom T. Teweldebrhan, Thomas Schuler, John Burkhart, and Morten Hjorth-Jensen, *Coupled machine learning and the limits of acceptability approach applied in parameter identification for a distributed hydrological model*, "Hydrology and Earth System Sciences, (2020), in press":"https://hess.copernicus.org/preprints/hess-2019-464/"
+o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Deep learning of phase transitions with minimal examples_, Physical Review E under review (2025) and URL:"https://arxiv.org/abs/2501.05547"
 
-o Robert Solli, Daniel Bazin, Michelle P. Kuchera, Ryan R. Strauss, Morten Hjorth-Jensen, *Unsupervised Learning for Identifying Events in Active Target Experiments*, "Nuclear Instruments and Methods in Physics Research Section A, (2020), submitted":"https://arxiv.org/abs/2008.02757"
+o Julie Butler, Morten Hjorth-Jensen, and Gustav R. Jansen, _Coupled-Cluster Calculations of Infinite Nuclear Matter in the Complete Basis Limit Using Bayesian Machine Learning_, Physical Review C under review  (2024)  and URL:"https://arxiv.org/abs/2409.18234"
 
-o John M. Aiken, Riccardo De Bin, Morten Hjorth-Jensen, Marcos D. Caballero, Predicting time to graduation at a large enrollment American university, "arXiv:2005.05104, PLOS ONE accepted for publication":"https://arxiv.org/abs/2005.05104"
+o Bryce Fore, Jane Kim, Morten Hjorth-Jensen, Alessandro Lovato, _Investigating the crust of neutron stars with neural-network quantum states_, Nature Communications in press  and URL:"https://arxiv.org/abs/2407.21207"
 
-o Calvin W. Johnson, Kristina D. Launey, Naftali Auerbach, Sonia Bacca, Bruce R. Barrett, Carl Brune, Mark A. Caprio, Pierre Descouvemont, W. H. Dickhoff, Charlotte Elster, Patrick J. Fasano, Kevin Fossez, Heiko Hergert, Morten Hjorth-Jensen, Linda Hlophe, Baishan Hu, Rodolfo M. Id Betan, Andrea Idini, Sebastian König, Konstantinos Kravvaris, Dean Lee, Jin Lei, Pieter Maris, Alexis Mercenne, Kosho Minomo, Rodrigo Navarro Perez, Witold Nazarewicz, F. M. Nunes, Marek Ploszajczak, Sofia Quaglioni, Jimmy Rotureau, Gautam Rupak, Andrey M. Shirokov, Ian Thompson, James P. Vary, Alexander Volya, Furong Xu, Remco G.T. Zegers, Vladimir Zelevinsky, Xilin Zhang, *From Bound States to the Continuum*, "Journal of Physics G, (2020), in press":"https://iopscience.iop.org/article/10.1088/1361-6471/abb129"
+o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, Nature Communications  under review and URL:"https://arxiv.org/abs/2401.11694"
+
+o Niyaz R. Beysengulov, Johannes Pollanen, Øyvind S. Schøyen, Stian D. Bilek, Jonas B. Flaten, Oskar Leinonen, Håkon Emil Kristiansen, Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, Coulomb interaction-driven entanglement of electrons on helium, PRX Quantum 5, 030324 (2024) and URL:"https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.030324"
+ 
+
+o Julie Butler, Morten Hjorth-Jensen, and Justin G. Lietz, _Accelerating the Convergence of Coupled Cluster Calculations of the Homogeneous Electron Gas Using Bayesian Ridge Regression_, Journal of Chemical Physics _161_, 134108 (2024)  and URL:"https://doi.org/10.1063/5.0222773"
+
+o Jane Kim, Gabriel Pescia, Bryce Fore, Jannes Nys, Giuseppe Carleo, Stefano Gandolfi, Morten Hjorth-Jensen, Alessandro Lovato, _Neural-network quantum states for ultra-cold Fermi gases_, Nature Communications Physics _7_, 148 (2024) and URL:"https://www.nature.com/articles/s42005-024-01613-w"
+
+
+o Bryce Fore, Jane M. Kim, Giuseppe Carleo, Morten Hjorth-Jensen, Alessandro Lovato, and Maria Piarulli, _Dilute neutron star matter from neural-network quantum states_, "Physical Review  Research 5, 033062 (2023)":"https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033062"
+
+o Mauro Rigo, Benjamin Hall, Morten Hjorth-Jensen, Alessandro Lovato, Francesco Pederiva, _Solving the nuclear pairing model with neural network quantum states_, "Physical Review E _107_, 025310 (2023)":"https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.025310"
+
+o Even M. Nordhagen, Jane M. Kim, Bryce Fore, Alessandro Lovato, Morten Hjorth-Jensen, _Efficient Solutions of Fermionic Systems using Artificial Neural Networks_, "Frontiers in Physics 11, 1061580 (2023)":"https://doi.org/10.3389/fphy.2023.1061580"
+
+o Kaspara Skovli Gåsvær, Pedro G. Lind, Johannes Langguth, Morten Hjorth-Jensen, Michael Kreil, Daniel Thilo Schroeder, _Harmful Conspiracies in Temporal Interaction Networks: Understanding the Dynamics of Digital Wildfires through Phase Transitions_, URL:"https://arxiv.org/abs/2310.05542" and Complex Networks 2023, Springer, in press
+
+o D. Mroczek, M. Hjorth-Jensen, J. Noronha-Hostler, P. Parotto, C. Ratti, R. Vilalta, _Mapping out the thermodynamic stability of a QCD equation of state with a critical point using active learning_, "Physical Review C _107_, 054911 (2023)":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.054911"
+
+o Oliver Lerstøl Hebnes, Marianne Etzelmüller Bathen, Øyvind Sigmundson Schøyen, Sebastian G. Winther Larsen, Lasse Vines, Morten Hjorth-Jensen, _Predicting Solid State Material Platforms for Quantum Technologies_, "npj Computational Materials 8, 207 (2022)":"https://www.nature.com/articles/s41524-022-00888-3" 
+
+
+o Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen, Tanja Horn, Michelle P. Kuchera, Dean Lee, Witold Nazarewicz, Kostas Orginos, Peter Ostroumov, Long-Gang Pang, Alan Poon, Nobuo Sato, Malachi Schram, Alexander Scheinker, Michael S. Smith, Xin-Nian Wang, Veronique Ziegler, _Machine Learning in Nuclear Physics_, "Reviews of Modern Physics 94, 031003 (2022)":"https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.031003"
+
+
+o D. Rhodes, B. A. Brown, J. Henderson, A. Gade, J. Ash, P. C. Bender, R. Elder, B. Elman, M. Grinder, M. Hjorth-Jensen, H. Iwasaki, B. Longfellow, T. Mijatovic, M. Spieker, D. Weisshaar, and C. Y. Wu, _Exploring the role of high-j configurations in collective observables through the Coulomb excitation of 106Cd_, "Physical Review  C _103_, L051301 (2021)":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.L051301"
+
+
+o Dean Lee, Scott Bogner, B. Alex Brown, Serdar Elhatisari, Evgeny Epelbaum,  Heiko Hergert, Morten Hjorth-Jensen, Hermann Krebs, Ning Li, Bing-Nan Lu,  Ulf-G. Meissner, Robert B. Wiringa, _Hidden spin-isospin exchange symmetry_, "Physical Review Letters _127_, 062501 (2021)":"https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.062501"
+
+o Aynom T. Teweldebrhan, Thomas Schuler, John Burkhart, and Morten Hjorth-Jensen, *Coupled machine learning and the limits of acceptability approach applied in parameter identification for a distributed hydrological model*, "Hydrology and Earth System Sciences 24, (2020), 4641":"https://hess.copernicus.org/articles/24/4641/2020/"
+
+o Robert Solli, Daniel Bazin, Michelle P. Kuchera, Ryan R. Strauss, Morten Hjorth-Jensen, *Unsupervised Learning for Identifying Events in Active Target Experiments*, "Nuclear Instruments and Methods in Physics Research Section A _1010_, 165461, (2020)":"https://www.sciencedirect.com/science/article/abs/pii/S0168900221004460"
+
+o John M. Aiken, Riccardo De Bin, Morten Hjorth-Jensen, Marcos D. Caballero, Predicting time to graduation at a large enrollment American university, "PLoS ONE 15, e0242334 (2020)":"https://doi.org/10.1371/journal.pone.0242334"
+
+o Calvin W. Johnson, Kristina D. Launey, Naftali Auerbach, Sonia Bacca, Bruce R. Barrett, Carl Brune, Mark A. Caprio, Pierre Descouvemont, W. H. Dickhoff, Charlotte Elster, Patrick J. Fasano, Kevin Fossez, Heiko Hergert, Morten Hjorth-Jensen, Linda Hlophe, Baishan Hu, Rodolfo M. Id Betan, Andrea Idini, Sebastian König, Konstantinos Kravvaris, Dean Lee, Jin Lei, Pieter Maris, Alexis Mercenne, Kosho Minomo, Rodrigo Navarro Perez, Witold Nazarewicz, F. M. Nunes, Marek Ploszajczak, Sofia Quaglioni, Jimmy Rotureau, Gautam Rupak, Andrey M. Shirokov, Ian Thompson, James P. Vary, Alexander Volya, Furong Xu, Remco G.T. Zegers, Vladimir Zelevinsky, Xilin Zhang, *From Bound States to the Continuum*, "Journal of Physics G Phys. 47, 123001  (2020)":"https://urldefense.com/v3/__https://iopscience.iop.org/article/10.1088/1361-6471/abb129__;!!HXCxUKc!nOuho6Yd_SYxj9PUxWEODhuHbyyRAD_27R1bipWQvrj6Jjnwzdi7Z4FRJSF1-w$"
 
 
 o D. A. Torres, R. Chapman, V. Kumar, B. Hadinia, A. Hodsdon, M. Labiche, X. Liang, D. O’Donnell, J. Ollier, R. Orlandi, J. F. Smith, K. -M. Spohr, P. Wady, Z. M. Wang, L. Corradi, E. Fioretto, A. Gadea, G. de Angelis, N. Mărginean, D. R. Napoli, E. Sahin, A. M. Stefanini, J. J. Valiente-Dobón, F. D. Vedova, M. Axiotis, T. Martinez, S. Szilner, D. Bazzacco, S. Beghini, E. Farnea, R. Mărginean, D. Mengoni, G. Montagnoli, F. Recchia, F. Scarlassara, C. A. Ur, S. M. Lenzi, S. Lunardi, T. Kröll, F. Haas, T. Faul, M. Hjorth-Jensen, B. G. Carlsson, S. J. Freeman, A. G. Smith, G. Jones, N. Thompson, G. Pollarolo, G. S. Simpson, *Study of medium-spin states of neutron-rich 87, 89, 91Rb isotopes*, "European Physical Journal A 55 (2019) p.158":"https://epja.epj.org/articles/epja/abs/2019/09/10050_2019_Article_12839/10050_2019_Article_12839.html"
@@ -326,6 +362,9 @@ o Morten Hjorth-Jensen and Eivind Osnes, *Effective interactions through third o
 
 === Contributions to Conference and Workshop Proceedings (refereed and non-refereed) ===
 
+o "Douglas Beck, Joseph Carlson, Zohreh Davoudi, Joseph Formaggio, Sofia Quaglioni, Martin Savage, Joao Barata, Tanmoy Bhattacharya, Michael Bishof, Ian Cloet, Andrea Delgado, Michael DeMarco, Caleb Fink, Adrien Florio, Marianne Francois, Dorota Grabowska, Shannon Hoogerheide, Mengyao Huang, Kazuki Ikeda, Marc Illa, Kyungseon Joo, Dmitri Kharzeev, Karol Kowalski, Wai Kin Lai, Kyle Leach, Ben Loer, Ian Low, Joshua Martin, David Moore, Thomas Mehen, Niklas Mueller, James Mulligan, Pieter Mumm, Francesco Pederiva, Rob Pisarski, Mateusz Ploskon, Sanjay Reddy, Gautam Rupak, Hersh Singh, Maninder Singh, Ionel Stetcu, Jesse Stryker, Paul Szypryt, Semeon Valgushev, Brent VanDevender, Samuel Watkins, Christopher Wilson, Xiaojun Yao, Andrei Afanasev, Akif Baha Balantekin, Alessandro Baroni, Raymond Bunker, Bipasha Chakraborty, Ivan Chernyshev, Vincenzo Cirigliano, Benjamin Clark, Shashi Kumar Dhiman, Weijie Du, Dipangkar Dutta, Robert Edwards, Abraham Flores, Alfredo Galindo-Uribarri, Ronald Fernando Garcia Ruiz, Vesselin Gueorguiev, Fanqing Guo, Erin Hansen, Hector Hernandez, Koichi Hattori, Philipp Hauke, Morten Hjorth-Jensen, Keith Jankowski, Calvin Johnson, Denis Lacroix, Dean Lee, Huey-Wen Lin, Xiaohui Liu, Felipe J. Llanes-Estrada, John Looney, Misha Lukin, Alexis Mercenne, Jeff Miller, Emil Mottola, Berndt Mueller, Benjamin Nachman, John Negele, John Orrell, Amol Patwardhan, Daniel Phillips, Stephen Poole, Irene Qualters, Mike Rumore, Thomas Schaefer, Jeremy Scott, Rajeev Singh, James Vary, Juan-Jose Galvez-Viruet, Kyle Wendt, Hongxi Xing, Liang Yang, Glenn Young, Fanyi Zhao, Quantum Information Science and Technology for Nuclear Physics. Input into U.S. Long-Range Planning, 2023":"https://arxiv.org/abs/2303.00113"
+
+
 o Osnes, E, Engeland, T, and Hjorth-Jensen, M, *Large-scale shell-model study of Sn Isotopes*, European Journal of Physics Web of Conferences _95_,01010 (2015)
 
 o Malthe-Sørenssen, Anders; Hjorth-Jensen, Morten; Langtangen, Hans Petter; Mørken, Knut Martin. *Integrasjon av beregninger i fysikkundervisningen*, UNIPED, 38:303, 2015.
@@ -466,4 +505,6 @@ o Hjorth-Jensen, Morten; Engeland, Torgeir; Holt, Anne; Osnes, Eivind.  Perturba
 o Holt, Anne; Engeland, Torgeir; Hjorth-Jensen, Morten; Osnes, Eivind.  The structure of the neutron deficient Sn isotopes. Nuclear Physics A 1994 ;Volume 570. p. 137c-144c Conference: International Symposium on Nuclear Structure Physics Today Location: Chung Yuan Christian Univ, Chungli, Taiwan Date: MAY 11-15, 1993 
 
 o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern meson-exchange potentials, Edited by A. Covello, 3rd international spring seminar on nuclear physics, Ischia, Italy, May 21-25, 1990, (World Scientific Singapore, 1991), pages 87-97 
+
+
 
