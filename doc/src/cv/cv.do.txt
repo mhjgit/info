@@ -1649,7 +1649,6 @@ o "Danny Jammoa":"https://directory.natsci.msu.edu/Directory/Profiles/Person/101
 o "Patrick Cook":"https://directory.natsci.msu.edu/Directory/Profiles/Person/101818", Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning.
 o "Aymeric McRae":"https://directory.natsci.msu.edu/Directory/Profiles/Person/101941?org=60", Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning.
 o "Nicholas Cariello":"https://directory.natsci.msu.edu/Directory/Profiles/Person_Embed/101812?org=34&group=77", Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning.
-o "Katarzyna Michałowska":"https://www.sintef.no/en/all-employees/employee/katarzyna.michalowska/", University of Oslo, started 2021, defends thesis fall 2024, Machine Learning, co-supervisor
 o Einar Aurbakken, University of Oslo, started 2020, defends thesis fall 2024, Quantum Chemistry and Many-body Physics, co-supervisor
 o "Andreas H. Mjøs":"https://www.mn.uio.no/fysikk/english/people/aca/andrehmj/", started fall 2021. Thesis topic: Bayesian statistics applied to nuclear physics experiments, co-supervisor
 o "Erlend Lima":"https://www.mn.uio.no/fysikk/personer/vit/erlenlim/", started fall 2021. Thesis topic: Bayesian statistics applied to nuclear physics experiments, co-supervisor 
@@ -1661,7 +1660,7 @@ o "Sunniva Meltzer":"https://www.sintef.no/alle-ansatte/ansatt/sunniva.meltzer/"
 === Former PhD students and their present positions ===
 
 o "Paulina Souza Tedesco":"https://www.mn.uio.no/fysikk/english/people/aca/paulinte/", University of Oslo, started 2020, defended thesis September 2024, Machine Learning and Meteorology, co-supervisor. Now researcher at the Institute for Meteorology, Oslo, Norway
-o "Jane Kim":"https://www.ohio.edu/cas/janekim", Michigan State University, started fall 2018. Defended thesis July 20,  2023. Research topic: Machine Learning and the Nuclear Many-body problem. Now post-doctoral research fellow at University of Ohio, Athens, USA
+o "Jane Kim":"https://www.ohio.edu/cas/janekim", Michigan State University, started fall 2018. Defended thesis July 20,  2023. Research topic: Machine Learning and the Nuclear Many-body problem. Now post-doctoral research fellow at University of Ohio, Athens, USA.
 o "Julie Butler":"https://www.linkedin.com/in/julie-butler-ph-d-4b2741103", Michigan State University, started fall 2018. Defended thesis July 18,  2023. Research topic: Machine Learning and the Nuclear Many-body problem. Now Assistant Professor at Mt Union university, Ackron, Ohio
 o "Benjamin Hall":"https://www.linkedin.com/in/benjamin-hall-85206a95/", Michigan State University, started 2017. Defended thesis August 25, 2022. Research topic: Quantum Computing  and the Nuclear Many-body problem. Present job: scientist and researcher at "Super.Tech":"https://www.super.tech/"
 o John Mark Aiken, University of Oslo, started 2017, defended thesis September 2020, co-supervisor. Research Topic: Machine Learning applied to Physics Education Research. Now post-doctoral fellow at the University of Oslo and scientist at Expert Analytics
@@ -1673,9 +1672,9 @@ o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.htm
 o "Gustav Jansen":"https://www.ornl.gov/staff-profile/gustav-r-jansen" (PhD UiO 2012), now permanent position as scientist at the Computational Science Division of Oak Ridge National Laboratory  
 o "Torquil MacDonald Sørensen":"http://www.mn.uio.no/math/english/people/aca/tmac/" (PhD UiO 2012), post-doctoral fellow at the Department of Mathematics, UiO
 o "Jon Kerr Nilsen":"http://www.usit.uio.no/english/about/organisation/bps/rc/ris/staff/jonkni/" (PhD UiO 2010), senior engineer at the University of Oslo center for information technologies (co-supervisor)
-o "Marius Lysebo":"https://www.hioa.no/tilsatt/marlys" (PhD UiO 2010), Professor at Oslo University College, (co-supervisor)
-o "Elise Bergli":"http://www.aas.vgs.no/om-oss/organisasjon/alle-ansatte/" (PhD UiO 2010), teacher Ås high school, Norway and Assistant Professor at the Norwegian University of Life Sciences.
-o "Eirik Ovrum":"https://www.hbv.no/om-hbv-kontakt-oss-ansatte/eirik-ovrum-article125026-6688.html" (PhD UiO 2007), now Associate Professor at the University College of Southeast of Norway
+o "Marius Lysebo":"https://www.oslomet.no/om/ansatt/marlys/" (PhD UiO 2010), Professor at Oslo University College, (co-supervisor)
+o "Elise Bergli":"https://www.nmbu.no/om/ansatte/elise-bergli" (PhD UiO 2010), teacher Ås high school, Norway and Assistant Professor at the Norwegian University of Life Sciences.
+o "Eirik Ovrum":"https://www.maritimeinformed.com/people/eirik-ovrum.1697014576.html" (PhD UiO 2007), principal consultant DNV
 o "Gaute Hagen":"https://www.ornl.gov/staff-profile/gaute-hagen" (PhD UiB and UiO 2005), now permanent position as scientist at the Physics Division of Oak Ridge National Laboratory. Recipient of the Department of Energy Early career award
 
 === Post-doctoral fellows and their present positions ===
@@ -1683,7 +1682,7 @@ o "Gaute Hagen":"https://www.ornl.gov/staff-profile/gaute-hagen" (PhD UiB and Ui
 o "Andreas Ekstrøm":"https://www.chalmers.se/en/Staff/Pages/Andreas-Ekstrom.aspx" (UiO and MSU 2010-2014), Professor  at Chalmers Technological University in Gothenburg, Sweden
 o "Øyvind Jensen":"https://ife.no/employee/oyvind-jensen/" (UiO 2011), researcher at the "Institute for Energy Technology":"https://www.ife.no/en"
 o "Simen Kvaal":"http://www.mn.uio.no/kjemi/english/people/aca/simenkv/index.html" (UiO 2008-2012), Associate Professor, Department of Chemistry, University of Oslo. Recipient of an ERC starting grant
-o Elise Bergli (UiO 2010-2011), now teacher at Ås high school, Norway
+o "Elise Bergli":"https://www.nmbu.no/om/ansatte/elise-bergli" (PD UiO 2010-2011), teacher Ås high school, Norway and Assistant Professor at the Norwegian University of Life Sciences.
 o "Sølve Selstø":"https://www.oslomet.no/om/ansatt/solvese/" (UiO 2008-2010), now  Professor at Oslo Metropolitan University
 o "Nicolas Michel":"https://www.researchgate.net/profile/N-Michel-2" (MSU 2013), Professor at Institute of modern physics Lanzhou, China
 
