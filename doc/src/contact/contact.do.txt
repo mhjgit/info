@@ -5,14 +5,12 @@ DATE:
 ===== Address and contact information =====
 
 !bblock
-* Facility for Rare Ion Beams/National Superconducting Cyclotron Laboratory and Department of Physics and Astronomy
-* Street address: 640 South Shaw Lane
-* Michigan State University
-* East Lansing, 48824 Michigan, USA
-* Office: 2131 at the National Superconducting Cyclotron Laboratory
-* Cellphone: +1-517-249-1375
-* Office: +1-517-9087290
-* Email: hjensen@msu.edu/hjensen@frib.msu.edu
+* Department of Physics
+* Street address: Sem Sealands vei 24
+* University of Oslo, Oslo, Norway
+* Office: FØ470, Physics building
+* Cellphone: +47-48257387
+* Email: mhjensen@uio.no
 !eblock
 
 
