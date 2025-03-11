@@ -220,9 +220,9 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Deep learning of phase transitions with minimal examples_, Physical Review E under review (2025) and URL:"https://arxiv.org/abs/2501.05547"
 
-o Julie Butler, Morten Hjorth-Jensen, and Gustav R. Jansen, _Coupled-Cluster Calculations of Infinite Nuclear Matter in the Complete Basis Limit Using Bayesian Machine Learning_, Physical Review C under review  (2024)  and URL:"https://arxiv.org/abs/2409.18234"
+o Julie Butler, Morten Hjorth-Jensen, and Gustav R. Jansen, _Coupled-Cluster Calculations of Infinite Nuclear Matter in the Complete Basis Limit Using Bayesian Machine Learning_, Physical Review C in press  (2025)  and URL:"https://arxiv.org/abs/2409.18234"
 
-o Bryce Fore, Jane Kim, Morten Hjorth-Jensen, Alessandro Lovato, _Investigating the crust of neutron stars with neural-network quantum states_, Nature Communications in press  and URL:"https://arxiv.org/abs/2407.21207"
+o Bryce Fore, Jane Kim, Morten Hjorth-Jensen, Alessandro Lovato, _Investigating the crust of neutron stars with neural-network quantum states_, Nature Communications in press  (2025) and URL:"https://arxiv.org/abs/2407.21207"
 
 o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, Nature Communications  under review and URL:"https://arxiv.org/abs/2401.11694"
 
