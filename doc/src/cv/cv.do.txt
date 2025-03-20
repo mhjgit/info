@@ -192,7 +192,7 @@ o _Olav Thon Foundation_ "National prize for excellence in teaching award":"http
 o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"https://web.pa.msu.edu/alumni/awards/osgood_fac_awards.html"
 o "University of Oslo merited teacher award 2020":"https://titan.uio.no/utdanning/2020/to-fysikere-belonnes-for%20undervisningen-sin"
 o "College of Natural Science Norman L and Olga K. Fritz Excellence in Teaching Award, Michigan State University, 2021":"https://natsci.msu.edu/faculty-staff/awards/#eta"
-#o Elected fellow of the American Association for the Advancement of Science, March 2025
+o Elected fellow of the American Association for the Advancement of Science, March 2025
 
 ===== Citation metrics and some selected research highlights: =====
 
@@ -220,9 +220,10 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Deep learning of phase transitions with minimal examples_, Physical Review E under review (2025) and URL:"https://arxiv.org/abs/2501.05547"
 
-o Julie Butler, Morten Hjorth-Jensen, and Gustav R. Jansen, _Coupled-Cluster Calculations of Infinite Nuclear Matter in the Complete Basis Limit Using Bayesian Machine Learning_, Physical Review C in press  (2025)  and URL:"https://arxiv.org/abs/2409.18234"
+o Julie Butler, Morten Hjorth-Jensen, and Gustav R. Jansen, _Coupled-Cluster Calculations of Infinite Nuclear Matter in the Complete Basis Limit Using Bayesian Machine Learning_, Physical Review C _111_,  (2025)  and URL:"https://arxiv.org/abs/2409.18234"
 
-o Bryce Fore, Jane Kim, Morten Hjorth-Jensen, Alessandro Lovato, _Investigating the crust of neutron stars with neural-network quantum states_, Nature Communications in press  (2025) and URL:"https://arxiv.org/abs/2407.21207"
+
+o Bryce Fore, Jane Kim, Morten Hjorth-Jensen, Alessandro Lovato, _Investigating the crust of neutron stars with neural-network quantum states_, Communications Physics _8_, 108  (2025) and URL:"https://www.nature.com/articles/s42005-025-02015-2"
 
 o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, Nature Communications  under review and URL:"https://arxiv.org/abs/2401.11694"
 
@@ -231,7 +232,7 @@ o Niyaz R. Beysengulov, Johannes Pollanen, Øyvind S. Schøyen, Stian D. Bilek, 
 
 o Julie Butler, Morten Hjorth-Jensen, and Justin G. Lietz, _Accelerating the Convergence of Coupled Cluster Calculations of the Homogeneous Electron Gas Using Bayesian Ridge Regression_, Journal of Chemical Physics _161_, 134108 (2024)  and URL:"https://doi.org/10.1063/5.0222773"
 
-o Jane Kim, Gabriel Pescia, Bryce Fore, Jannes Nys, Giuseppe Carleo, Stefano Gandolfi, Morten Hjorth-Jensen, Alessandro Lovato, _Neural-network quantum states for ultra-cold Fermi gases_, Nature Communications Physics _7_, 148 (2024) and URL:"https://www.nature.com/articles/s42005-024-01613-w"
+o Jane Kim, Gabriel Pescia, Bryce Fore, Jannes Nys, Giuseppe Carleo, Stefano Gandolfi, Morten Hjorth-Jensen, Alessandro Lovato, _Neural-network quantum states for ultra-cold Fermi gases_, Communications Physics _7_, 148 (2024) and URL:"https://www.nature.com/articles/s42005-024-01613-w"
 
 
 o Bryce Fore, Jane M. Kim, Giuseppe Carleo, Morten Hjorth-Jensen, Alessandro Lovato, and Maria Piarulli, _Dilute neutron star matter from neural-network quantum states_, "Physical Review  Research 5, 033062 (2023)":"https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033062"
