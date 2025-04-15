@@ -192,7 +192,7 @@ o _Olav Thon Foundation_ "National prize for excellence in teaching award":"http
 o "Thomas H. Osgood Faculty Teaching award at Michigan State University, 2018":"https://web.pa.msu.edu/alumni/awards/osgood_fac_awards.html"
 o "University of Oslo merited teacher award 2020":"https://titan.uio.no/utdanning/2020/to-fysikere-belonnes-for%20undervisningen-sin"
 o "College of Natural Science Norman L and Olga K. Fritz Excellence in Teaching Award, Michigan State University, 2021":"https://natsci.msu.edu/faculty-staff/awards/#eta"
-o Elected fellow of the American Association for the Advancement of Science, March 2025
+o "Elected fellow of the American Association for the Advancement of Science, March 2025":"https://www.science.org/doi/10.1126/science.adx6365"
 
 ===== Citation metrics and some selected research highlights: =====
 
