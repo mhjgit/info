@@ -179,13 +179,13 @@ o International Advisory committee for SIAM conference on Computational Science 
 ===== Awards: =====
 
 o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2000/11/det-viktigste-er-aa-inspirere.html", 2000 (250kNOK)
-o Elected Fellow of the American Physical Society, 2007
+o "Elected Fellow of the American Physical Society, 2007":"https://www.aps.org/funding-recognition/aps-fellowship/dnp-fellowship"
 o Oak Ridge National Laboratory excellence in research award, 2008
-o Outstanding referee award of the American Physical Society, 2008
+o "Outstanding referee award of the American Physical Society, 2008":"https://journals.aps.org/OutstandingReferees"
 o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2011/08/undervisning-for-framtidig-forsking.html" for the _Computing in Science Education_ project, 2011 (250kNOK)
 o NOKUT (Norwegian entity of quality assessment in higher education) "award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2012/04/uio-tok-andreplass-i-utdanningskvalitet.html" for the _Computing in Science Education_ project, 2012
-o Elected member of the Norwegian Academy of Sciences and Letters, 2013
-o Elected member of the Royal Norwegian Society of Sciences and Letters, 2015 
+o "Elected member of the Norwegian Academy of Sciences and Letters, 2013":"https://dnva.no/medlemmer/15"
+o "Elected member of the Royal Norwegian Society of Sciences and Letters, 2015":"https://www.dknvs.no/akademiet/medlemmer/gruppe-ii-fysikk/"
 o "University of Oslo award for excellence in teaching":"http://www.uniforum.uio.no/nyheter/2015/10/instituttet-som-lofter-fram-gode-forelesere.html" for developing the Computational Physics group, 2015 (250kNOK)
 o Favorite graduate teacher at the Department of Physics and Astronomy at Michigan State University, 2016 
 o _Olav Thon Foundation_ "National prize for excellence in teaching award":"https://www.ntbinfo.no/pressemelding/olav-thon-stiftelsen-annonserte-arets-priser-42-millioner-til-forskning-og-undervisning?publisherId=8983491&releaseId=16475069" (National, all Norwegian higher education institutions, 500kNOK), 2018
