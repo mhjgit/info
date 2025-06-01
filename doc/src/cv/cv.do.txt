@@ -1,6 +1,6 @@
 TITLE: Biographical  information
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics and Center for Computing in Science Education, University of Oslo, Norway
-DATE: March 2025
+DATE: June 2025
 
 ===== Professional preparation, education  and personal data: =====
 
@@ -1717,17 +1717,29 @@ o Ben Hall, chair, thesis defense August  2022
 o Udiani Omokuyani, committee member, defended thesis December 2024
 o Julie Butler, chair, defended thesis July 2023
 o Jane Kim, chair, defended thesis July 2023
-o Khan Zhu, committee member. 
 o Byeon Heejun, committee member. Defended thesis December 2020.
 o Golubev Timofey, committee member. Defended thesis December 2020.
-o Hermansen, Kirby, committee member
-o Watkins Jacob, , committee member, defended thesis spring 2024.
-o Givens Gabriel, , committee member, defended thesis November 2024.
-o Hill Matthew Steven, committee member
-o Larose, Ryan, committee member, defended thesis May 2022
-
+o Hermansen, Kirby, committee member, defended thesis December 2023.
+o Watkins Jacob, committee member, defended thesis spring 2024.
+o Givens Gabriel, committee member, defended thesis November 2024.
+o Shuyue Xue, committee member, defended thesis June 2025.
+o Larose, Ryan, committee member, defended thesis May 2022.
+o Adam Hartley, committee member
+o Khan Zhu, committee member
+o Nicolas Cariello, co-supervisor and committee member
+o Aymeric McRae, co-supervisor and committee member
+o Danny Jammooa, co-supervisor and committee member
+o Patrick Cook,  co-supervisor and committee member
 
 === Present Master of Science Students ===
+
+o Oskar Ekedi Idland (2024-2026)
+o Aleksander Nistad Sekkelsten (2025-2027)
+o Antons Cveckovskis (2024-2026)
+o Jacob Wiig Ryther (2024-2026)
+o Javid Rezai (2024-2026) co-supervisor
+
+=== Former Master of Science Students  ===
 
 o Odin Johansen (2023-2025)
 o Jonny Igeh Aarstad (2023-2025)
@@ -1735,11 +1747,6 @@ o Yevgehnii Volkov (2023-2025)
 o Ida Madsen (2023-2025), co-supervisor
 o Luis Roberto Jiminez Arteta (2023-2025), co-supervisor
 o Joseph Ivan Panana Vera (2023-2025), co-supervisor
-
-
-
-=== Former Master of Science Students  ===
-
 o Daniel Haass Beccatini Lima (2022-2024)
 o Håkon Kvernmoen (2022-2024)
 o Keran Chen (2022-2024)
