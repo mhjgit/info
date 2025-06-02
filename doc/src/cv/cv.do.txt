@@ -4,7 +4,6 @@ DATE: June 2025
 
 ===== Professional preparation, education  and personal data: =====
 
-#* Professor of Physics at the University of Oslo, Norway
 * Norwegian citizen, born in Haugesund, Norway
 * Norwegian University of Science and Technology, Trondheim, Norway,  Sivil Ingeniør in Theoretical Physics (Master of Science equivalent),  1988 
 * University of Oslo, Norway,  Ph.D in Theoretical Nuclear Physics, 1993
@@ -22,9 +21,13 @@ o Professor of Physics, Michigan State University, 2012-2023;
 
 ===== Brief research overview =====
 
-I am a theoretical physicist with a strong interest in 
-computational physics, computational science and many-body theory in general, and 
-the nuclear many-body problem and nuclear structure problems in particular. 
+I am a computational physicist focusing on quantum many-body theory,
+quantum computing, and machine learning. I emphasize computational
+methods as a theoretical technique, in particular the development of
+state-of-the-art algorithms for the study of strongly-interacting
+systems.
+
+
 This means that I study various methods for solving either Schrödinger's equation or 
 Dirac's equation for many interacting particles, spanning from 
 algorithmic aspects to the mathematical properties of such methods, including machine learning and quantum computing. 
