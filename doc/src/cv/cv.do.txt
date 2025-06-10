@@ -221,7 +221,7 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 #o Stian D. Bilek, Jonas B. Flaten, H{\aa}kon Kvernmoen, Oskar Leinonen, Christopher Linder\"{a}lv, and Morten Hjorth-Jensen, _Time-dependent many-body approaches to qua#ntum dot systems_, The Journal of Physical Chemistry A under review and URL:"https://arxiv.org/abs/2403.xxxx"
 
-o Juan Manuel Scarpetta, John Henry Reina, and Morten Hjorth-Jensen, _Machine learning non-Markovian two-level quantum noise spectroscopy_, Physical Review Research, under review
+o Juan Manuel Scarpetta, John Henry Reina, and Morten Hjorth-Jensen, _Machine learning non-Markovian two-level quantum noise spectroscopy_, Physical Review Research, under review and URL:"https://arxiv.org/abs/2506.06555"
 
 o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Deep learning of phase transitions with minimal examples_, Physical Review E, in press (2025) and URL:"https://arxiv.org/abs/2501.05547"
 
