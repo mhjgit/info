@@ -225,11 +225,13 @@ o Juan Manuel Scarpetta, John Henry Reina, and Morten Hjorth-Jensen, _Machine le
 
 o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Deep learning of phase transitions with minimal examples_, Physical Review E, in press (2025) and URL:"https://arxiv.org/abs/2501.05547"
 
+o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, Nature Communications  in press (2025)  and URL:"https://arxiv.org/abs/2401.11694"
+
+
 o Julie Butler, Morten Hjorth-Jensen, and Gustav R. Jansen, _Coupled-Cluster Calculations of Infinite Nuclear Matter in the Complete Basis Limit Using Bayesian Machine Learning_, Physical Review C _111_,  (2025)  and URL:"https://arxiv.org/abs/2409.18234"
 
 o Bryce Fore, Jane Kim, Morten Hjorth-Jensen, Alessandro Lovato, _Investigating the crust of neutron stars with neural-network quantum states_, Communications Physics _8_, 108  (2025) and URL:"https://www.nature.com/articles/s42005-025-02015-2"
 
-o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, Nature Communications  in press  and URL:"https://arxiv.org/abs/2401.11694"
 
 o Niyaz R. Beysengulov, Johannes Pollanen, Øyvind S. Schøyen, Stian D. Bilek, Jonas B. Flaten, Oskar Leinonen, Håkon Emil Kristiansen, Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, Coulomb interaction-driven entanglement of electrons on helium, PRX Quantum 5, 030324 (2024) and URL:"https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.030324"
  
