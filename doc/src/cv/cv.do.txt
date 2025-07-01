@@ -225,7 +225,7 @@ o Juan Manuel Scarpetta, John Henry Reina, and Morten Hjorth-Jensen, _Machine le
 
 o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Deep learning of phase transitions with minimal examples_, Physical Review E, in press (2025) and URL:"https://arxiv.org/abs/2501.05547"
 
-o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, Nature Communications  in press (2025)  and URL:"https://arxiv.org/abs/2401.11694"
+o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, Nature Communications  _16_, 5929 (2025)   and URL:"https://www.nature.com/articles/s41467-025-61362-4"
 
 
 o Julie Butler, Morten Hjorth-Jensen, and Gustav R. Jansen, _Coupled-Cluster Calculations of Infinite Nuclear Matter in the Complete Basis Limit Using Bayesian Machine Learning_, Physical Review C _111_,  (2025)  and URL:"https://arxiv.org/abs/2409.18234"
