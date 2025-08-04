@@ -221,6 +221,8 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 #o Stian D. Bilek, Jonas B. Flaten, H{\aa}kon Kvernmoen, Oskar Leinonen, Christopher Linder\"{a}lv, and Morten Hjorth-Jensen, _Time-dependent many-body approaches to qua#ntum dot systems_, The Journal of Physical Chemistry A under review and URL:"https://arxiv.org/abs/2403.xxxx"
 
+o E. Lima, L. L. Braseth, A. H. Mjøs, M. Hjorth-Jensen, A. Kvellestad, A. C. Larsen, Regularized Unfolding of gamma-ray Spectra for Nuclear Physics Applications, Physical Review C under review and URL:"https://arxiv.org/abs/2506.xxx"
+
 o Juan Manuel Scarpetta, John Henry Reina, and Morten Hjorth-Jensen, _Machine learning non-Markovian two-level quantum noise spectroscopy_, Physical Review Research, under review and URL:"https://arxiv.org/abs/2506.06555"
 
 o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Deep learning of phase transitions with minimal examples_, Physical Review E, in press (2025) and URL:"https://arxiv.org/abs/2501.05547"
@@ -262,47 +264,47 @@ o D. Rhodes, B. A. Brown, J. Henderson, A. Gade, J. Ash, P. C. Bender, R. Elder,
 
 o Dean Lee, Scott Bogner, B. Alex Brown, Serdar Elhatisari, Evgeny Epelbaum,  Heiko Hergert, Morten Hjorth-Jensen, Hermann Krebs, Ning Li, Bing-Nan Lu,  Ulf-G. Meissner, Robert B. Wiringa, _Hidden spin-isospin exchange symmetry_, "Physical Review Letters _127_, 062501 (2021)":"https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.062501"
 
-o Aynom T. Teweldebrhan, Thomas Schuler, John Burkhart, and Morten Hjorth-Jensen, *Coupled machine learning and the limits of acceptability approach applied in parameter identification for a distributed hydrological model*, "Hydrology and Earth System Sciences 24, (2020), 4641":"https://hess.copernicus.org/articles/24/4641/2020/"
+o Aynom T. Teweldebrhan, Thomas Schuler, John Burkhart, and Morten Hjorth-Jensen, _Coupled machine learning and the limits of acceptability approach applied in parameter identification for a distributed hydrological model_, "Hydrology and Earth System Sciences 24, (2020), 4641":"https://hess.copernicus.org/articles/24/4641/2020/"
 
-o Robert Solli, Daniel Bazin, Michelle P. Kuchera, Ryan R. Strauss, Morten Hjorth-Jensen, *Unsupervised Learning for Identifying Events in Active Target Experiments*, "Nuclear Instruments and Methods in Physics Research Section A _1010_, 165461, (2020)":"https://www.sciencedirect.com/science/article/abs/pii/S0168900221004460"
+o Robert Solli, Daniel Bazin, Michelle P. Kuchera, Ryan R. Strauss, Morten Hjorth-Jensen, _Unsupervised Learning for Identifying Events in Active Target Experiments_, "Nuclear Instruments and Methods in Physics Research Section A _1010_, 165461, (2020)":"https://www.sciencedirect.com/science/article/abs/pii/S0168900221004460"
 
-o John M. Aiken, Riccardo De Bin, Morten Hjorth-Jensen, Marcos D. Caballero, Predicting time to graduation at a large enrollment American university, "PLoS ONE 15, e0242334 (2020)":"https://doi.org/10.1371/journal.pone.0242334"
+o John M. Aiken, Riccardo De Bin, Morten Hjorth-Jensen, Marcos D. Caballero, _Predicting time to graduation at a large enrollment American university_, "PLoS ONE 15, e0242334 (2020)":"https://doi.org/10.1371/journal.pone.0242334"
 
-o Calvin W. Johnson, Kristina D. Launey, Naftali Auerbach, Sonia Bacca, Bruce R. Barrett, Carl Brune, Mark A. Caprio, Pierre Descouvemont, W. H. Dickhoff, Charlotte Elster, Patrick J. Fasano, Kevin Fossez, Heiko Hergert, Morten Hjorth-Jensen, Linda Hlophe, Baishan Hu, Rodolfo M. Id Betan, Andrea Idini, Sebastian König, Konstantinos Kravvaris, Dean Lee, Jin Lei, Pieter Maris, Alexis Mercenne, Kosho Minomo, Rodrigo Navarro Perez, Witold Nazarewicz, F. M. Nunes, Marek Ploszajczak, Sofia Quaglioni, Jimmy Rotureau, Gautam Rupak, Andrey M. Shirokov, Ian Thompson, James P. Vary, Alexander Volya, Furong Xu, Remco G.T. Zegers, Vladimir Zelevinsky, Xilin Zhang, *From Bound States to the Continuum*, "Journal of Physics G Phys. 47, 123001  (2020)":"https://urldefense.com/v3/__https://iopscience.iop.org/article/10.1088/1361-6471/abb129__;!!HXCxUKc!nOuho6Yd_SYxj9PUxWEODhuHbyyRAD_27R1bipWQvrj6Jjnwzdi7Z4FRJSF1-w$"
-
-
-o D. A. Torres, R. Chapman, V. Kumar, B. Hadinia, A. Hodsdon, M. Labiche, X. Liang, D. O’Donnell, J. Ollier, R. Orlandi, J. F. Smith, K. -M. Spohr, P. Wady, Z. M. Wang, L. Corradi, E. Fioretto, A. Gadea, G. de Angelis, N. Mărginean, D. R. Napoli, E. Sahin, A. M. Stefanini, J. J. Valiente-Dobón, F. D. Vedova, M. Axiotis, T. Martinez, S. Szilner, D. Bazzacco, S. Beghini, E. Farnea, R. Mărginean, D. Mengoni, G. Montagnoli, F. Recchia, F. Scarlassara, C. A. Ur, S. M. Lenzi, S. Lunardi, T. Kröll, F. Haas, T. Faul, M. Hjorth-Jensen, B. G. Carlsson, S. J. Freeman, A. G. Smith, G. Jones, N. Thompson, G. Pollarolo, G. S. Simpson, *Study of medium-spin states of neutron-rich 87, 89, 91Rb isotopes*, "European Physical Journal A 55 (2019) p.158":"https://epja.epj.org/articles/epja/abs/2019/09/10050_2019_Article_12839/10050_2019_Article_12839.html"
-
-o Marcos Daniel Caballero, Morten Hjorth-Jensen, Integrating a Computational Perspective in Physics Courses, arXiv:1802.08871, "Nova Publishers, New Trends in Physics Education Research (2018)":"https://novapublishers.com/shop/new-trends-in-physics-education-research/"
+o Calvin W. Johnson, Kristina D. Launey, Naftali Auerbach, Sonia Bacca, Bruce R. Barrett, Carl Brune, Mark A. Caprio, Pierre Descouvemont, W. H. Dickhoff, Charlotte Elster, Patrick J. Fasano, Kevin Fossez, Heiko Hergert, Morten Hjorth-Jensen, Linda Hlophe, Baishan Hu, Rodolfo M. Id Betan, Andrea Idini, Sebastian König, Konstantinos Kravvaris, Dean Lee, Jin Lei, Pieter Maris, Alexis Mercenne, Kosho Minomo, Rodrigo Navarro Perez, Witold Nazarewicz, F. M. Nunes, Marek Ploszajczak, Sofia Quaglioni, Jimmy Rotureau, Gautam Rupak, Andrey M. Shirokov, Ian Thompson, James P. Vary, Alexander Volya, Furong Xu, Remco G.T. Zegers, Vladimir Zelevinsky, Xilin Zhang, _From Bound States to the Continuum_, "Journal of Physics G Phys. 47, 123001  (2020)":"https://urldefense.com/v3/__https://iopscience.iop.org/article/10.1088/1361-6471/abb129__;!!HXCxUKc!nOuho6Yd_SYxj9PUxWEODhuHbyyRAD_27R1bipWQvrj6Jjnwzdi7Z4FRJSF1-w$"
 
 
-o "Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.96.024323", *First-principles calculations for c-coefficients of the isobaric mass multiplet equation in the 1p0f shell*, *Physical Review C* Rapids, 96:024323 (2017). 
+o D. A. Torres, R. Chapman, V. Kumar, B. Hadinia, A. Hodsdon, M. Labiche, X. Liang, D. O’Donnell, J. Ollier, R. Orlandi, J. F. Smith, K. -M. Spohr, P. Wady, Z. M. Wang, L. Corradi, E. Fioretto, A. Gadea, G. de Angelis, N. Mărginean, D. R. Napoli, E. Sahin, A. M. Stefanini, J. J. Valiente-Dobón, F. D. Vedova, M. Axiotis, T. Martinez, S. Szilner, D. Bazzacco, S. Beghini, E. Farnea, R. Mărginean, D. Mengoni, G. Montagnoli, F. Recchia, F. Scarlassara, C. A. Ur, S. M. Lenzi, S. Lunardi, T. Kröll, F. Haas, T. Faul, M. Hjorth-Jensen, B. G. Carlsson, S. J. Freeman, A. G. Smith, G. Jones, N. Thompson, G. Pollarolo, G. S. Simpson, _Study of medium-spin states of neutron-rich 87, 89, 91Rb isotopes_, "European Physical Journal A 55 (2019) p.158":"https://epja.epj.org/articles/epja/abs/2019/09/10050_2019_Article_12839/10050_2019_Article_12839.html"
 
-o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Motivation and Overarching Aims*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, Volume _936_ pages 1-4 (2017).
+o Marcos Daniel Caballero, Morten Hjorth-Jensen, _Integrating a Computational Perspective in Physics Courses_, arXiv:1802.08871, "Nova Publishers, New Trends in Physics Education Research (2018)":"https://novapublishers.com/shop/new-trends-in-physics-education-research/"
 
-o "Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jensen":"http://www.springer.com/us/book/9783319533353", *High-performance computing and infinite nuclear matter*, *Lecture Notes in Physics*, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, Volume _936_ pages 293-399 (2017).
 
-o "Fei Yuan, Sam Novario, Nathan Parzuchowski, Sarah Reimann, Scott K. Bogner and Morten Hjorth-Jensen":"http://aip.scitation.org/doi/abs/10.1063/1.4995615".,   *First principle calculations of quantum dot systems*, Journal of Chemical Physics, 147:164109 (2017).
+o "Erich W. Ormand, Alex B. Brown and Morten Hjorth-Jensen":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.96.024323", _First-principles calculations for c-coefficients of the isobaric mass multiplet equation in the 1p0f shell_, *Physical Review C* Rapids, 96:024323 (2017). 
 
-o "Morten Hjorth-Jensen":"https://physics.aps.org/articles/v10/72", *Scattering Experiments Tease Out the Strong Force*, *Physics*, 10:72 (2017).
+o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", _Motivation and Overarching Aims*, *Lecture Notes in Physics_, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, Volume _936_ pages 1-4 (2017).
 
-o "Naofumi Tsunoda, Takaharu Otsuka, Noritaka Shimizu, Morten Hjorth-Jensen, Kazuo Takayanagi, Toshio Suzuki":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.95.021304", *Exotic neutron-rich medium-mass nuclei with realistic nuclear forces*, *Physical Review C* Rapids, 95:021304(R) (2017).
+o "Justin Lietz, Sam Novario, Gustav, Jansen, Gaute Hagen, and Morten Hjorth-Jensen":"http://www.springer.com/us/book/9783319533353", _High-performance computing and infinite nuclear matter_, Lecture Notes in Physics, Editors M. Hjorth-Jensen, M.P. Lombardo and U. van Kolck, Volume _936_ pages 293-399 (2017).
 
-o G. Hagen, M. Hjorth-Jensen, G. R. Jansen, T. Papenbrock, *Emergent properties of nuclei from ab initio coupled-cluster calculations*, *Physica Scripta*, 91:063006 (2016).
+o "Fei Yuan, Sam Novario, Nathan Parzuchowski, Sarah Reimann, Scott K. Bogner and Morten Hjorth-Jensen":"http://aip.scitation.org/doi/abs/10.1063/1.4995615".,   _First principle calculations of quantum dot systems_, Journal of Chemical Physics, 147:164109 (2017).
 
-o G. Hagen, A. Ekstrom, C. Forssen , G. R. Jansen, W. Nazarewicz, T. Papenbrock, K. A. Wendt, S. Bacca, N. Barnea, B. Carlsson, C. Drischler, K. Hebeler, M. Hjorth-Jensen, M. Miorelli, G. Orlandini, A. Schwenk, and J. Simonis,  *Charge, neutron, and weak size of the atomic nucleus*,  *Nature Physics*, 12:186–190 (2016).
+o "Morten Hjorth-Jensen":"https://physics.aps.org/articles/v10/72", _Scattering Experiments Tease Out the Strong Force_, *Physics*, 10:72 (2017).
 
-o A. Ekstrom, G. R. Jansen, K. A. Wendt, G. Hagen, T. Papenbrock, B. D. Carlsson, C. Forssen, M. Hjorth-Jensen, P. Navratil, W. Nazarewicz,   *Accurate nuclear radii and binding energies from a chiral interaction*, *Physical Review C*, 91, 051301(R) (2015).
+o "Naofumi Tsunoda, Takaharu Otsuka, Noritaka Shimizu, Morten Hjorth-Jensen, Kazuo Takayanagi, Toshio Suzuki":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.95.021304", _Exotic neutron-rich medium-mass nuclei with realistic nuclear forces_, *Physical Review C* Rapids, 95:021304(R) (2017).
 
-o A. Ekstrom, B. D. Carlsson, K. A. Wendt, C. Forssén, M. Hjorth-Jensen, R. Machleidt, S. M. Wild,  *Statistical uncertainties of a chiral interaction at next-to-next-to leading order*,   *Journal of Physics G*, 42:034003 (2015).
+o G. Hagen, M. Hjorth-Jensen, G. R. Jansen, T. Papenbrock, _Emergent properties of nuclei from ab initio coupled-cluster calculations_, *Physica Scripta*, 91:063006 (2016).
 
-o A. B. Balantekin, J. Carlson, D. J. Dean, G. M. Fuller, R. J. Furnstahl, M. Hjorth-Jensen, R. V. F. Janssens, Bao-An Li, W. Nazarewicz, F. M. Nunes, W. E. Ormand, S. Reddy, B. M. Sherrill ,  *Nuclear Theory and Science of the Facility for Rare Isotope Beams*,   *Modern Physics Letters A*, 29:1430010 (2014).
+o G. Hagen, A. Ekstrom, C. Forssen , G. R. Jansen, W. Nazarewicz, T. Papenbrock, K. A. Wendt, S. Bacca, N. Barnea, B. Carlsson, C. Drischler, K. Hebeler, M. Hjorth-Jensen, M. Miorelli, G. Orlandini, A. Schwenk, and J. Simonis,  _Charge, neutron, and weak size of the atomic nucleus_,  *Nature Physics*, 12:186–190 (2016).
 
-o Zs. Vajta, M. Stanoiu, D. Sohler, G. R. Jansen, F. Azaiez, Zs. Dombrádi, O. Sorlin, B. A. Brown, M. Belleguic, C. Borcea, C. Bourgeois, Z. Dlouhy, Z. Elekes, Zs. Fülöp, S. Grévy, D. Guillemaud-Mueller, G. Hagen, M. Hjorth-Jensen, F. Ibrahim, A. Kerek, A. Krasznahorkay, M. Lewitowicz, S. M. Lukyanov, S. Mandal, P. Mayet, J. Mrázek, F. Negoita, Yu.-E. Penionzhkevich, Zs. Podolyák, P. Roussel-Chomaz, M. G. Saint-Laurent, H. Savajols, G. Sletten, J. Timár, C. Timis, and A. Yamamoto,   *Excited states in the neutron-rich nucleus 25F,   *Physical Review C*, 89:054323 (2014).
+o A. Ekstrom, G. R. Jansen, K. A. Wendt, G. Hagen, T. Papenbrock, B. D. Carlsson, C. Forssen, M. Hjorth-Jensen, P. Navratil, W. Nazarewicz,   _Accurate nuclear radii and binding energies from a chiral interaction_, *Physical Review C*, 91, 051301(R) (2015).
 
-o A. Sanetullaev, M.B. Tsang, W.G. Lynch, Jenny Lee, D. Bazin, K.P. Chan, D. Coupland, V. Henzl, D. Henzlova, M. Kilburn, A.M. Rogers, Z.Y. Sun, M. Youngs, R.J. Charity, L.G. Sobotka, M. Famiano, S. Hudan, D. Shapira, W.A. Peters, C. Barbieri, M. Hjorth-Jensen, M. Horoi, T. Otsuka, T. Suzuki, Y. Utsuno  *Neutron spectroscopic factors of 55Ni hole-states from (p,d) transfer reactions*,   *Physics Letters B*, 736:137 (2014).
+o A. Ekstrom, B. D. Carlsson, K. A. Wendt, C. Forssén, M. Hjorth-Jensen, R. Machleidt, S. M. Wild,  _Statistical uncertainties of a chiral interaction at next-to-next-to leading order_,   *Journal of Physics G*, 42:034003 (2015).
 
-o G. Hagen, T. Papenbrock,   A. Ekstrom, G. Baardsen, S. Gandolfi, K. A. Wendt, M. Hjorth-Jensen, and C. Horowitz,  *Coupled-cluster calculations of nucleonic matter*,   *Physical Review C*,  89:014319 (2014).
+o A. B. Balantekin, J. Carlson, D. J. Dean, G. M. Fuller, R. J. Furnstahl, M. Hjorth-Jensen, R. V. F. Janssens, Bao-An Li, W. Nazarewicz, F. M. Nunes, W. E. Ormand, S. Reddy, B. M. Sherrill ,  _Nuclear Theory and Science of the Facility for Rare Isotope Beams_,   *Modern Physics Letters A*, 29:1430010 (2014).
+
+o Zs. Vajta, M. Stanoiu, D. Sohler, G. R. Jansen, F. Azaiez, Zs. Dombrádi, O. Sorlin, B. A. Brown, M. Belleguic, C. Borcea, C. Bourgeois, Z. Dlouhy, Z. Elekes, Zs. Fülöp, S. Grévy, D. Guillemaud-Mueller, G. Hagen, M. Hjorth-Jensen, F. Ibrahim, A. Kerek, A. Krasznahorkay, M. Lewitowicz, S. M. Lukyanov, S. Mandal, P. Mayet, J. Mrázek, F. Negoita, Yu.-E. Penionzhkevich, Zs. Podolyák, P. Roussel-Chomaz, M. G. Saint-Laurent, H. Savajols, G. Sletten, J. Timár, C. Timis, and A. Yamamoto,   _Excited states in the neutron-rich nucleus 25F_,   *Physical Review C*, 89:054323 (2014).
+
+o A. Sanetullaev, M.B. Tsang, W.G. Lynch, Jenny Lee, D. Bazin, K.P. Chan, D. Coupland, V. Henzl, D. Henzlova, M. Kilburn, A.M. Rogers, Z.Y. Sun, M. Youngs, R.J. Charity, L.G. Sobotka, M. Famiano, S. Hudan, D. Shapira, W.A. Peters, C. Barbieri, M. Hjorth-Jensen, M. Horoi, T. Otsuka, T. Suzuki, Y. Utsuno,  _Neutron spectroscopic factors of 55Ni hole-states from (p,d) transfer reactions_,   *Physics Letters B*, 736:137 (2014).
+
+o G. Hagen, T. Papenbrock,   A. Ekstrom, G. Baardsen, S. Gandolfi, K. A. Wendt, M. Hjorth-Jensen, and C. Horowitz,  _Coupled-cluster calculations of nucleonic matter_,   Physical Review C,  89:014319 (2014).
 
 o T. Papenbrock, G. Hagen, M. Hjorth-Jensen, and  D. J. Dean,   *Coupled-cluster computations of atomic nuclei*,   *Reports on Progress in Physics*, 77:096302 (2014).
 
