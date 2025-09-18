@@ -228,7 +228,7 @@ o E. Lima, L. L. Braseth, A. H. Mjøs, M. Hjorth-Jensen, A. Kvellestad, A. C. La
 
 o Juan Manuel Scarpetta, John Henry Reina, and Morten Hjorth-Jensen, _Machine learning non-Markovian two-level quantum noise spectroscopy_, Physical Review Research, under review and URL:"https://arxiv.org/abs/2506.06555"
 
-o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Deep learning of phase transitions with minimal examples_, Physical Review E, in press (2025) and URL:"https://arxiv.org/abs/2501.05547"
+o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Deep learning of phase transitions with minimal examples_, Physical Review E _112_, 035315 (2025) and URL:"https://doi.org/10.1103/wjvx-5nk7"
 
 o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, Nature Communications  _16_, 5929 (2025)   and URL:"https://www.nature.com/articles/s41467-025-61362-4"
 
