@@ -3,14 +3,14 @@ AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of
 DATE: December 2024
 
 
+
+
 === Present PhD students ===
 
-
-o "Øyvind Sigmundsson Schøyen":"https://www.mn.uio.no/fysikk/personer/vit/oyvinssc/", University of Oslo, started fall 2019. Thesis defense spring/summer 2024. Research topic: Time-dependent many-body theory and quantum computing
+o "Øyvind Sigmundsson Schøyen":"https://www.mn.uio.no/fysikk/personer/vit/oyvinssc/", University of Oslo, started fall 2019. Thesis defense spring/summer 2026. Research topic: Time-dependent many-body theory and quantum computing
 o "Stian Bilek":"https://www.mn.uio.no/fysikk/english/people/aca/stiandb/", University of Oslo, started fall 2020. Quantum Computing  and Machine Learning
 o "Jonas Boym Flaten":"https://www.mn.uio.no/fysikk/personer/vit/jonasbf/", University of Oslo, started fall 2020. Quantum Many-Body theories and quantum computing
 o "Oskar Leinonen":"https://www.mn.uio.no/fysikk/personer/vit/oskarlei/index.html", University of Oslo, started fall 2022. Quantum computing
-o "Danny Jammoa":"https://directory.natsci.msu.edu/Directory/Profiles/Person/101825", Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning.
 o "Patrick Cook":"https://directory.natsci.msu.edu/Directory/Profiles/Person/101818", Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning.
 o "Aymeric McRae":"https://directory.natsci.msu.edu/Directory/Profiles/Person/101941?org=60", Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning.
 o "Nicholas Cariello":"https://directory.natsci.msu.edu/Directory/Profiles/Person_Embed/101812?org=34&group=77", Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning.
@@ -23,7 +23,7 @@ o "Ruben Pariente  Bassa":"https://www.sintef.no/en/all-employees/employee/ruben
 o "Sunniva Meltzer":"https://www.sintef.no/alle-ansatte/ansatt/sunniva.meltzer/", started fall 2023, co-supervisor. Research topic: Machine learning.
 
 === Former PhD students and their present positions ===
-
+o "Danny Jammoa":"https://directory.natsci.msu.edu/Directory/Profiles/Person/101825", Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning. Defended thesis November 11, 2025. From March 2026, post-doctoral fellow at RIKEN, Tokyo, Japan
 o "Paulina Souza Tedesco":"https://www.mn.uio.no/fysikk/english/people/aca/paulinte/", University of Oslo, started 2020, defended thesis September 2024, Machine Learning and Meteorology, co-supervisor. Now researcher at the Institute for Meteorology, Oslo, Norway
 o "Jane Kim":"https://www.ohio.edu/cas/janekim", Michigan State University, started fall 2018. Defended thesis July 20,  2023. Research topic: Machine Learning and the Nuclear Many-body problem. Now post-doctoral research fellow at University of Ohio, Athens, USA.
 o "Julie Butler":"https://www.linkedin.com/in/julie-butler-ph-d-4b2741103", Michigan State University, started fall 2018. Defended thesis July 18,  2023. Research topic: Machine Learning and the Nuclear Many-body problem. Now Assistant Professor at Mt Union university, Ackron, Ohio
@@ -80,17 +80,33 @@ o Ben Hall, chair, thesis defense August  2022
 o Udiani Omokuyani, committee member, defended thesis December 2024
 o Julie Butler, chair, defended thesis July 2023
 o Jane Kim, chair, defended thesis July 2023
-o Khan Zhu, committee member. 
 o Byeon Heejun, committee member. Defended thesis December 2020.
 o Golubev Timofey, committee member. Defended thesis December 2020.
-o Hermansen, Kirby, committee member
-o Watkins Jacob, , committee member, defended thesis spring 2024.
-o Givens Gabriel, , committee member, defended thesis November 2024.
-o Hill Matthew Steven, committee member
-o Larose, Ryan, committee member, defended thesis May 2022
-
+o Hermansen, Kirby, committee member, defended thesis December 2023.
+o Watkins Jacob, committee member, defended thesis spring 2024.
+o Givens Gabriel, committee member, defended thesis November 2024.
+o Shuyue Xue, committee member, defended thesis June 9, 2025.
+o Larose, Ryan, committee member, defended thesis May 2022.
+o Adam Hartley, committee member
+o Khan Zhu, committee member
+o Nicolas Cariello, co-supervisor and committee member
+o Aymeric McRae, co-supervisor and committee member
+o Danny Jammooa, co-supervisor and committee member, defended thesis November 2025
+o Patrick Cook,  co-supervisor and committee member
 
 === Present Master of Science Students ===
+
+o Aleksander Nistad Sekkelsten (2025-2027)
+o Amund Solum Alsvik (2025-2027)
+o Henrik Tobias Fredriksen (2025-2027)
+o Kristoffer Douglas Holm Stalker (2025-2027)
+o Jørgen Tonning Vestly (2025-2027)
+o Kim Graatrud (2025-2027), co-supervisor
+o Antons Cveckovskis (2024-2026)
+o Jacob Wiig Ryther (2024-2026)
+o Javid Rezai (2024-2026) co-supervisor
+
+=== Former Master of Science Students  ===
 
 o Odin Johansen (2023-2025)
 o Jonny Igeh Aarstad (2023-2025)
@@ -98,11 +114,6 @@ o Yevgehnii Volkov (2023-2025)
 o Ida Madsen (2023-2025), co-supervisor
 o Luis Roberto Jiminez Arteta (2023-2025), co-supervisor
 o Joseph Ivan Panana Vera (2023-2025), co-supervisor
-
-
-
-=== Former Master of Science Students  ===
-
 o Daniel Haass Beccatini Lima (2022-2024)
 o Håkon Kvernmoen (2022-2024)
 o Keran Chen (2022-2024)
@@ -197,4 +208,5 @@ o Victoria Popsueva, University of Oslo, (2002-2004)
 o Eivind Brodal, University of Oslo, (2001-2003)
 o Eirik Ovrum, University of Oslo, (2001-2003)
 o Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)
+
 
