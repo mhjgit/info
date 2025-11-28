@@ -24,13 +24,15 @@ o Professor of Physics, Michigan State University, 2012-2023;
 I am a computational physicist focusing on quantum many-body theory,
 quantum computing, and machine learning. I emphasize computational
 methods as a theoretical technique, in particular the development of
-state-of-the-art algorithms for the study of strongly-interacting
-systems.
+state-of-the-art algorithms for the study of interacting quantum
+mechanical systems. My research interests include:
 
-
-This means that I study various methods for solving either Schrödinger's equation or 
-Dirac's equation for many interacting particles, spanning from 
-algorithmic aspects to the mathematical properties of such methods, including machine learning and quantum computing. 
+* Many-body entanglement in condensed matter physics.
+* Nuclear physics and dense matter.
+* Many-body theories, full configuration theory, mean-field theories, Green's function theories, coupled-cluster theories, many-body perturbation theories, and quantum Monte Carlo methods.
+* Machine learning applied to the physical sciences.
+* Quantum engineering and quantum algorithms.
+* Quantum machine learning and quantum science and technology.
 
 === Editorial boards and committees ===
 
