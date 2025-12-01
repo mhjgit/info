@@ -221,7 +221,6 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 === Publications in journals with a referee system: ===
 
-
 o Scott Bogner, Heiko Hergert, Morten Hjorth-Jensen, Ryan LaRose, Dean Lee, Matthew Patkowski, _Quantum State Preparation with Resolution Refinement_, Physical Review Letters under review and URL:"https://arxiv.org/abs/2511.14732"
 
 o Oskar Leinonen, Jonas B. Flaten, Stian D. Bilek, Øyvind S. Schøyen, Morten Hjorth-Jensen, Niyaz R. Beysengulov,  Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, _Design and Dynamics of High-Fidelity Two-Qubit Gates with Electrons on Helium_, Physical Review A under review and URL:"https://arxiv.org/abs/2506.13946"
@@ -1702,7 +1701,7 @@ o "Nicolas Michel":"https://www.researchgate.net/profile/N-Michel-2" (MSU 2013),
 
 I am (have been) member or chair person of the following graduate  student committees at Michigan State University:
 o Justin Lietz, chair, defended thesis June 2019.
-o Fei Yuan, chair.  Defended thesis January 2018.
+o Fei Yuan, chair,  defended thesis January 2018.
 o Sam Novario, chair. Defended thesis February 2018.
 o John Bower, chair together with Scott Bogner. Master of Science thesis May 2017.  
 o Adam Jones, committee member. Master of Science thesis July 2017.  
@@ -1734,11 +1733,11 @@ o Watkins Jacob, committee member, defended thesis spring 2024.
 o Givens Gabriel, committee member, defended thesis November 2024.
 o Shuyue Xue, committee member, defended thesis June 9, 2025.
 o Larose, Ryan, committee member, defended thesis May 2022.
+o Danny Jammooa, co-supervisor and committee member, defended thesis November 2025
 o Adam Hartley, committee member
 o Khan Zhu, committee member
 o Nicolas Cariello, co-supervisor and committee member
 o Aymeric McRae, co-supervisor and committee member
-o Danny Jammooa, co-supervisor and committee member, defended thesis November 2025
 o Patrick Cook,  co-supervisor and committee member
 
 === Present Master of Science Students ===
@@ -1752,6 +1751,7 @@ o Kim Graatrud (2025-2027), co-supervisor
 o Antons Cveckovskis (2024-2026)
 o Jacob Wiig Ryther (2024-2026)
 o Javid Rezai (2024-2026) co-supervisor
+o Jonathan Hermansen (2024-2026)
 
 === Former Master of Science Students  ===
 
