@@ -13,6 +13,14 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 === Publications in journals with a referee system: ===
 
+o Juan David Álvarez-Cuartas, Morten Hjorth-Jensen, and John Henry Reina, and et al, _Spin-Boson Parametric Matrix Models_, in preparation for Physical Review A
+
+
+o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Physics-Agnostic Autoencoder trained only on the ground state to investigate the critical behavior of the three-dimensional Ising Model_, in preparation for Physical Review E
+
+o Juan Manuel Scarpetta, Omar Calderon-Losada, Morten Hjorth-Jensen, and John Henry Reina, _Deep Learning Quantum Control of Single Molecules_, ", Journal of the American Chemical Society, under review and URL:"https://arxiv.org/abs/2511.14732"
+
+
 o Scott Bogner, Heiko Hergert, Morten Hjorth-Jensen, Ryan LaRose, Dean Lee, Matthew Patkowski, _Quantum State Preparation with Resolution Refinement_, Physical Review Letters under review and URL:"https://arxiv.org/abs/2511.14732"
 
 o Oskar Leinonen, Jonas B. Flaten, Stian D. Bilek, Øyvind S. Schøyen, Morten Hjorth-Jensen, Niyaz R. Beysengulov,  Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, _Design and Dynamics of High-Fidelity Two-Qubit Gates with Electrons on Helium_, Physical Review A under review and URL:"https://arxiv.org/abs/2506.13946"
@@ -31,7 +39,7 @@ o Julie Butler, Morten Hjorth-Jensen, and Gustav R. Jansen, _Coupled-Cluster Cal
 o Bryce Fore, Jane Kim, Morten Hjorth-Jensen, Alessandro Lovato, _Investigating the crust of neutron stars with neural-network quantum states_, Communications Physics _8_, 108  (2025) and URL:"https://www.nature.com/articles/s42005-025-02015-2"
 
 
-o Niyaz R. Beysengulov, Johannes Pollanen, Øyvind S. Schøyen, Stian D. Bilek, Jonas B. Flaten, Oskar Leinonen, Håkon Emil Kristiansen, Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, Coulomb interaction-driven entanglement of electrons on helium, PRX Quantum 5, 030324 (2024) and URL:"https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.030324"
+o Niyaz R. Beysengulov, Johannes Pollanen, Øyvind S. Schøyen, Stian D. Bilek, Jonas B. Flaten, Oskar Leinonen, Håkon Emil Kristiansen, Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, _Coulomb interaction-driven entanglement of electrons on helium_, PRX Quantum 5, 030324 (2024) and URL:"https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.030324"
  
 
 o Julie Butler, Morten Hjorth-Jensen, and Justin G. Lietz, _Accelerating the Convergence of Coupled Cluster Calculations of the Homogeneous Electron Gas Using Bayesian Ridge Regression_, Journal of Chemical Physics _161_, 134108 (2024)  and URL:"https://doi.org/10.1063/5.0222773"
