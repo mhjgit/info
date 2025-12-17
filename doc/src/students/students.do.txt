@@ -1,7 +1,6 @@
 TITLE: Present and former students and post-doctoral fellows
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway
-DATE: December 2024
-
+DATE: December 2025
 
 
 
@@ -17,7 +16,6 @@ o "Nicholas Cariello":"https://directory.natsci.msu.edu/Directory/Profiles/Perso
 o Einar Aurbakken, University of Oslo, started 2020, defends thesis fall 2024, Quantum Chemistry and Many-body Physics, co-supervisor
 o "Andreas H. Mjøs":"https://www.mn.uio.no/fysikk/english/people/aca/andrehmj/", started fall 2021. Thesis topic: Bayesian statistics applied to nuclear physics experiments, co-supervisor
 o "Erlend Lima":"https://www.mn.uio.no/fysikk/personer/vit/erlenlim/", started fall 2021. Thesis topic: Bayesian statistics applied to nuclear physics experiments, co-supervisor 
-o "Christina Kappatou":"https://www.mn.uio.no/geo/personer/vit/metos/chrikap/index.html", started fall 2022. Thesis topic: Geoscience and Machine Learning, co-supervisor
 o "Alf Johan Skarpeid":"https://www.mn.uio.no/smn/personer/vit/alvjs/index.html", started fall 2023, Thesis topic: Experimental condensed matter physics, co-supervisor
 o "Ruben Pariente  Bassa":"https://www.sintef.no/en/all-employees/employee/ruben.bassa/", started fall 2023, co-supervisor. Research topic: Quantum Computing.
 o "Sunniva Meltzer":"https://www.sintef.no/alle-ansatte/ansatt/sunniva.meltzer/", started fall 2023, co-supervisor. Research topic: Machine learning.
@@ -55,7 +53,7 @@ o "Nicolas Michel":"https://www.researchgate.net/profile/N-Michel-2" (MSU 2013),
 
 I am (have been) member or chair person of the following graduate  student committees at Michigan State University:
 o Justin Lietz, chair, defended thesis June 2019.
-o Fei Yuan, chair.  Defended thesis January 2018.
+o Fei Yuan, chair,  defended thesis January 2018.
 o Sam Novario, chair. Defended thesis February 2018.
 o John Bower, chair together with Scott Bogner. Master of Science thesis May 2017.  
 o Adam Jones, committee member. Master of Science thesis July 2017.  
@@ -87,11 +85,11 @@ o Watkins Jacob, committee member, defended thesis spring 2024.
 o Givens Gabriel, committee member, defended thesis November 2024.
 o Shuyue Xue, committee member, defended thesis June 9, 2025.
 o Larose, Ryan, committee member, defended thesis May 2022.
+o Danny Jammooa, co-supervisor and committee member, defended thesis November 2025
 o Adam Hartley, committee member
 o Khan Zhu, committee member
 o Nicolas Cariello, co-supervisor and committee member
 o Aymeric McRae, co-supervisor and committee member
-o Danny Jammooa, co-supervisor and committee member, defended thesis November 2025
 o Patrick Cook,  co-supervisor and committee member
 
 === Present Master of Science Students ===
@@ -105,6 +103,7 @@ o Kim Graatrud (2025-2027), co-supervisor
 o Antons Cveckovskis (2024-2026)
 o Jacob Wiig Ryther (2024-2026)
 o Javid Rezai (2024-2026) co-supervisor
+o Jonathan Hermansen (2024-2026)
 
 === Former Master of Science Students  ===
 
@@ -208,5 +207,6 @@ o Victoria Popsueva, University of Oslo, (2002-2004)
 o Eivind Brodal, University of Oslo, (2001-2003)
 o Eirik Ovrum, University of Oslo, (2001-2003)
 o Ronny Kjelsberg, Norwegian University of Science and Technology, (2001-2003)
+
 
 
