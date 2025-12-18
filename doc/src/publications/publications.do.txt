@@ -18,7 +18,7 @@ o Juan David Álvarez-Cuartas, Morten Hjorth-Jensen, and John Henry Reina, and e
 
 o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Physics-Agnostic Autoencoder trained only on the ground state to investigate the critical behavior of the three-dimensional Ising Model_, in preparation for Physical Review E
 
-o Juan Manuel Scarpetta, Omar Calderon-Losada, Morten Hjorth-Jensen, and John Henry Reina, _Deep Learning Quantum Control of Single Molecules_, ", Journal of the American Chemical Society, under review and URL:"https://arxiv.org/abs/2511.14732"
+o Juan Manuel Scarpetta, Omar Calderon-Losada, Morten Hjorth-Jensen, and John Henry Reina, _Deep Learning Quantum Control of Single Molecules_, Journal of the American Chemical Society, under review and URL:"https://arxiv.org/abs/2511.14732"
 
 
 o Scott Bogner, Heiko Hergert, Morten Hjorth-Jensen, Ryan LaRose, Dean Lee, Matthew Patkowski, _Quantum State Preparation with Resolution Refinement_, Physical Review Letters under review and URL:"https://arxiv.org/abs/2511.14732"
