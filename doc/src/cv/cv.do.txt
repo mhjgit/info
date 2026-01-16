@@ -228,7 +228,7 @@ o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, C
 
 o Juan Manuel Scarpetta, Omar Calderon-Losada, Morten Hjorth-Jensen, and John Henry Reina, _Deep learning parameter estimation and quantum control of single molecule_, Journal of the American Chemical Society, under review and URL:"https://arxiv.org/abs/2601.02517"
 
-o Scott Bogner, Heiko Hergert, Morten Hjorth-Jensen, Ryan LaRose, Dean Lee, Matthew Patkowski, _Quantum State Preparation with Resolution Refinement_, Physical Review Letters under review and URL:"https://arxiv.org/abs/2511.14732"
+o Scott Bogner, Heiko Hergert, Morten Hjorth-Jensen, Ryan LaRose, Dean Lee, Matthew Patkowski, _Quantum State Preparation with Resolution Refinement_, Physics Letters B under review and URL:"https://arxiv.org/abs/2511.14732"
 
 o Oskar Leinonen, Jonas B. Flaten, Stian D. Bilek, Øyvind S. Schøyen, Morten Hjorth-Jensen, Niyaz R. Beysengulov,  Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, _Design and Dynamics of High-Fidelity Two-Qubit Gates with Electrons on Helium_, Physical Review A under review and URL:"https://arxiv.org/abs/2506.13946"
 
