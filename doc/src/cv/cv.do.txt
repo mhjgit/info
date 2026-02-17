@@ -223,7 +223,7 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 o Alessandro Lovato, Giuseppe Carleo, Bryce Fore, Morten Hjorth-Jensen, Jane Kim, Arnau Rios, Noemi Rocco, _Neural-network quantum states for the nuclear many-body problem_, Progress in Nuclear and Particle Physics, under review and URL:"https://arxiv.org/abs/2602.13826"
 
-o Juan David Álvarez-Cuartas, Morten Hjorth-Jensen, and John Henry Reina, and et al, _Spin-Boson Parametric Matrix Models_, in preparation for Physical Review A
+#o Juan David Álvarez-Cuartas, Morten Hjorth-Jensen, and John Henry Reina, and et al, _Spin-Boson Parametric Matrix Models_, in preparation for Physical Review A
 
 
 o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Physics-Agnostic Autoencoder trained only on the ground state to investigate the critical behavior of the three-dimensional Ising Model_, in preparation for Physical Review E
