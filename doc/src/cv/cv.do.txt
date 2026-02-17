@@ -221,6 +221,8 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 === Publications in journals with a referee system: ===
 
+o Alessandro Lovato, Giuseppe Carleo, Bryce Fore, Morten Hjorth-Jensen, Jane Kim, Arnau Rios, Noemi Rocco, _Neural-network quantum states for the nuclear many-body problem_, Progress in Nuclear and Particle Physics, under review and URL:"https://arxiv.org/abs/2602.13826"
+
 o Juan David Álvarez-Cuartas, Morten Hjorth-Jensen, and John Henry Reina, and et al, _Spin-Boson Parametric Matrix Models_, in preparation for Physical Review A
 
 
