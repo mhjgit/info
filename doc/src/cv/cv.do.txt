@@ -230,9 +230,9 @@ o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, C
 
 o Juan Manuel Scarpetta, Omar Calderon-Losada, Morten Hjorth-Jensen, and John Henry Reina, _Deep learning parameter estimation and quantum control of single molecule_, Journal of the American Chemical Society, under review and URL:"https://arxiv.org/abs/2601.02517"
 
-o Scott Bogner, Heiko Hergert, Morten Hjorth-Jensen, Ryan LaRose, Dean Lee, Matthew Patkowski, _Quantum State Preparation with Resolution Refinement_, Physics Letters B in press and URL:"https://arxiv.org/abs/2511.14732"
+o Scott Bogner, Heiko Hergert, Morten Hjorth-Jensen, Ryan LaRose, Dean Lee, Matthew Patkowski, _Quantum State Preparation with Resolution Refinement_, "Physics Letters B 874, 140363 (2026)":"https://doi.org/10.1016/j.physletb.2026.140363".
 
-o Oskar Leinonen, Jonas B. Flaten, Stian D. Bilek, Øyvind S. Schøyen, Morten Hjorth-Jensen, Niyaz R. Beysengulov,  Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, _Design and Dynamics of High-Fidelity Two-Qubit Gates with Electrons on Helium_, Physical Review A in press  and URL:"https://arxiv.org/abs/2506.13946"
+o Oskar Leinonen, Jonas B. Flaten, Stian D. Bilek, Øyvind S. Schøyen, Morten Hjorth-Jensen, Niyaz R. Beysengulov,  Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, _Design and Dynamics of High-Fidelity Two-Qubit Gates with Electrons on Helium_, "Physical Review A":"https://arxiv.org/abs/2506.13946"
 
 o E. Lima, L. L. Braseth, A. H. Mjøs, M. Hjorth-Jensen, A. Kvellestad, A. C. Larsen, Regularized Unfolding of gamma-ray Spectra for Nuclear Physics Applications, Physical Review C under review and URL:"https://arxiv.org/abs/2511.16687"
 
@@ -240,9 +240,9 @@ o Kaspara Skovli Gåsvær, Pedro G. Lind, Johannes Langguth, Morten Hjorth-Jense
 
 o Juan Manuel Scarpetta, John Henry Reina, and Morten Hjorth-Jensen, _Machine learning non-Markovian two-level quantum noise spectroscopy_, "Physical Review Research 7, 043285 (2025)":"https://journals.aps.org/prresearch/abstract/10.1103/2lzl-vpjd"
 
-o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Deep learning of phase transitions with minimal examples_, Physical Review E _112_, 035315 (2025) and URL:"https://doi.org/10.1103/wjvx-5nk7"
+o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Deep learning of phase transitions with minimal examples_, "Physical Review E _112_, 035315 (2025)":"https://doi.org/10.1103/wjvx-5nk7"
 
-o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, Nature Communications  _16_, 5929 (2025)   and URL:"https://www.nature.com/articles/s41467-025-61362-4"
+o Patrick Cook, Danny Jammooa, Morten Hjorth-Jensen, Daniel D. Lee, Dean Lee, _Parametric Matrix Models_, "Nature Communications  16, 5929 (2025)":"https://www.nature.com/articles/s41467-025-61362-4"
 
 
 #o Julie Butler, Morten Hjorth-Jensen, and Gustav R. Jansen, _Coupled-Cluster Calculations of Infinite Nuclear Matter in the Complete Bas#is Limit Using Bayesian Machine Learning_, Physical Review C in press,  (2025)  and URL:"https://arxiv.org/abs/2409.18234"
