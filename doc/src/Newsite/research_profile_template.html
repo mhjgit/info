@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Research Profile Template</title>
+<style>
+  :root{
+    --bg:#f6f7f9; --card:#ffffff; --ink:#1d2733; --muted:#64748b; --line:#d9e0e8;
+    --accent:#00509e; --accent2:#00a0b0; --soft:#eaf3fb; --warning:#fff7e6;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+  a{color:var(--accent);text-decoration:none} a:hover{text-decoration:underline}
+  header{background:linear-gradient(135deg,#0b315c,#006d8f);color:#fff;padding:42px 22px}
+  .wrap{max-width:1120px;margin:0 auto}
+  .profile{display:grid;grid-template-columns:130px 1fr;gap:24px;align-items:center}
+  .avatar{width:120px;height:120px;border-radius:50%;background:rgba(255,255,255,.18);display:grid;place-items:center;border:2px solid rgba(255,255,255,.55);font-size:42px;font-weight:700}
+  h1{margin:0;font-size:clamp(30px,4vw,48px);letter-spacing:-.03em}.subtitle{font-size:18px;opacity:.92;margin-top:8px}.links{margin-top:14px;display:flex;gap:12px;flex-wrap:wrap}.pill{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.35);padding:7px 12px;border-radius:999px;color:#fff}
+  main{padding:26px 22px 60px}.grid{display:grid;grid-template-columns:1.05fr .95fr;gap:22px}.card{background:var(--card);border:1px solid var(--line);border-radius:18px;box-shadow:0 12px 30px rgba(15,23,42,.06);padding:22px;margin-bottom:22px}h2{margin:0 0 8px;font-size:23px;letter-spacing:-.01em}.hint{color:var(--muted);margin-top:0}.section-title{display:flex;justify-content:space-between;gap:16px;align-items:flex-start}.small{font-size:13px;color:var(--muted)}
+  .map-wrap{position:relative;background:#edf6fb;border:1px solid #c9dce8;border-radius:16px;overflow:hidden}.map{width:100%;height:330px;display:block}.country-dot{cursor:pointer;transition:transform .15s ease,opacity .15s ease}.country-dot:hover{transform:scale(1.18)}.tooltip{position:absolute;pointer-events:none;background:#111827;color:#fff;border-radius:10px;padding:9px 11px;font-size:13px;opacity:0;transform:translate(-50%,-120%);white-space:nowrap;box-shadow:0 12px 28px rgba(0,0,0,.2)}
+  .collab-list{display:grid;gap:10px;margin-top:16px}.collab-row{display:grid;grid-template-columns:1fr auto;gap:12px;align-items:center;border:1px solid var(--line);border-radius:13px;padding:10px 12px;background:#fbfdff}.bar{height:8px;background:#dbeafe;border-radius:99px;overflow:hidden;margin-top:5px}.bar span{display:block;height:100%;background:linear-gradient(90deg,var(--accent),var(--accent2));border-radius:99px}.count{font-weight:700;color:var(--accent)}
+  .stats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:12px}.stat{border:1px solid var(--line);border-radius:15px;padding:15px;background:#fbfdff}.stat strong{font-size:31px;display:block;color:var(--accent)}.types{display:grid;gap:9px;margin-top:12px}.type{display:grid;grid-template-columns:44px 1fr;gap:10px;align-items:center}.badge{display:grid;place-items:center;background:var(--soft);color:var(--accent);font-weight:800;border-radius:10px;height:34px}
+  .filters{display:flex;gap:10px;flex-wrap:wrap;margin:16px 0}.filters input,.filters select{border:1px solid var(--line);border-radius:11px;padding:10px 12px;font-size:14px;background:#fff}.filters input{flex:1;min-width:210px}.publication{border-top:1px solid var(--line);padding:16px 0}.publication:first-of-type{border-top:0}.publication h3{margin:0 0 6px;font-size:17px}.meta{color:var(--muted);font-size:14px}.tag{display:inline-block;background:#eef6ff;color:#0b5394;border:1px solid #cde4fb;border-radius:999px;padding:3px 9px;margin:8px 5px 0 0;font-size:12px}.buttons{margin-top:10px;display:flex;gap:9px;flex-wrap:wrap}.btn{border:1px solid var(--line);padding:7px 10px;border-radius:10px;background:#fff;font-size:13px}.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}.note{background:var(--warning);border:1px solid #f4d58d;border-radius:14px;padding:14px}.code{font-family:"SFMono-Regular",Consolas,monospace;background:#f1f5f9;border:1px solid #d8e1ec;border-radius:10px;padding:10px;overflow:auto;font-size:13px}
+  @media(max-width:850px){.grid,.profile{grid-template-columns:1fr}.avatar{width:96px;height:96px}.map{height:260px}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap profile">
+    <div class="avatar">MHJ</div>
+    <div>
+      <h1 id="profileName">Morten Hjorth-Jensen</h1>
+      <div class="subtitle" id="profileTitle">Professor of Physics · Quantum many-body theory · Machine learning · Quantum technologies</div>
+      <div class="links">
+        <a class="pill" href="https://www.mn.uio.no/fysikk/english/people/aca/mhjensen/" target="_blank">Personal webpage</a>
+        <a class="pill" href="https://orcid.org/" target="_blank">ORCID</a>
+        <a class="pill" href="https://scholar.google.com/" target="_blank">Google Scholar</a>
+        <a class="pill" href="https://www.scopus.com/" target="_blank">Scopus</a>
+      </div>
+    </div>
+  </div>
+</header>
+<main class="wrap">
+  <div class="grid">
+    <section class="card">
+      <div class="section-title">
+        <div>
+          <h2>Collaborations and top research areas from the last five years</h2>
+          <p class="hint">Interactive, editable demonstration. Click a point or a country row to show details.</p>
+        </div>
+        <div class="small">Replace the sample data in <code>collaborations</code>.</div>
+      </div>
+      <div class="map-wrap" id="mapWrap">
+        <svg class="map" viewBox="0 0 900 430" aria-label="Stylized world map with collaborator locations">
+          <rect width="900" height="430" fill="#eaf6fb"/>
+          <path d="M90,115 C140,70 225,78 266,118 C300,151 255,179 285,214 C315,251 282,300 220,307 C150,315 80,283 58,225 C39,174 54,143 90,115Z" fill="#cfe3ee"/>
+          <path d="M285,88 C345,54 413,62 455,101 C493,136 455,172 482,206 C511,241 489,292 432,307 C367,324 297,292 276,239 C252,178 239,116 285,88Z" fill="#cfe3ee"/>
+          <path d="M471,126 C531,82 621,82 675,126 C733,174 681,222 710,271 C741,324 674,365 594,350 C520,336 478,293 492,238 C506,186 427,158 471,126Z" fill="#cfe3ee"/>
+          <path d="M660,282 C709,263 759,278 787,313 C812,345 787,382 744,388 C704,394 658,370 646,334 C639,312 643,291 660,282Z" fill="#cfe3ee"/>
+          <path d="M393,244 C430,271 450,320 429,357 C405,399 358,394 338,357 C318,322 333,272 363,247 C374,238 384,238 393,244Z" fill="#cfe3ee"/>
+          <g id="dots"></g>
+        </svg>
+        <div class="tooltip" id="tooltip"></div>
+      </div>
+      <div class="collab-list" id="collabList"></div>
+    </section>
+    <aside>
+      <section class="card">
+        <h2>Research output</h2>
+        <p class="hint">Summary by type, followed by a searchable publication list.</p>
+        <div class="stats">
+          <div class="stat"><strong id="totalOutputs">0</strong><span>Total outputs</span></div>
+          <div class="stat"><strong id="totalCitations">0</strong><span>Sample citations</span></div>
+        </div>
+        <div class="types" id="outputTypes"></div>
+      </section>
+      <section class="card note">
+        <strong>How to link your own articles</strong>
+        <p>For each publication, add a persistent URL in the data block. Best choices are DOI links, arXiv links, journal pages, or an institutional repository page.</p>
+        <div class="code">doi: "https://doi.org/10.xxxx/example"<br>preprint: "https://arxiv.org/abs/xxxx.xxxxx"<br>pdf: "https://www.mn.uio.no/.../paper.pdf"</div>
+      </section>
+    </aside>
+  </div>
+  <section class="card">
+    <div class="section-title">
+      <div><h2>Selected research outputs</h2><p class="hint">Edit the JavaScript array named <code>publications</code> to add your own papers.</p></div>
+    </div>
+    <div class="filters">
+      <input id="search" placeholder="Search title, authors, journal, keyword..." />
+      <select id="typeFilter"><option value="all">All types</option></select>
+      <select id="yearFilter"><option value="all">All years</option></select>
+    </div>
+    <div id="pubList"></div>
+  </section>
+</main>
+<script>
+const profile = {
+  name: "Morten Hjorth-Jensen",
+  title: "Professor of Physics · Quantum many-body theory · Machine learning · Quantum technologies"
+};
+const collaborations = [
+  {country:"Norway", x:470, y:100, outputs:22, areas:["Quantum technologies","Many-body physics","Machine learning"]},
+  {country:"United States", x:178, y:157, outputs:18, areas:["Nuclear theory","Computational physics","Education"]},
+  {country:"Germany", x:463, y:145, outputs:9, areas:["Quantum computing","Many-body methods"]},
+  {country:"Italy", x:485, y:174, outputs:7, areas:["Nuclear physics","Ab initio methods"]},
+  {country:"Japan", x:710, y:169, outputs:6, areas:["Computational science","Nuclear physics"]},
+  {country:"France", x:447, y:164, outputs:5, areas:["Machine learning","Quantum simulation"]},
+  {country:"United Kingdom", x:433, y:137, outputs:5, areas:["Quantum algorithms","Scientific computing"]}
+];
+const publications = [
+  {title:"Quantum machine learning for many-body physics", authors:"M. Hjorth-Jensen et al.", year:2026, type:"Journal article", venue:"Example Journal of Computational Physics", citations:12, keywords:["quantum machine learning","many-body physics"], doi:"https://doi.org/10.0000/example-qml", preprint:"https://arxiv.org/"},
+  {title:"Variational quantum eigensolvers for spin systems", authors:"M. Hjorth-Jensen, Collaborators", year:2025, type:"Preprint", venue:"arXiv", citations:8, keywords:["VQE","Ising model","quantum computing"], doi:"", preprint:"https://arxiv.org/"},
+  {title:"Machine learning approaches to phase transitions", authors:"M. Hjorth-Jensen et al.", year:2024, type:"Conference article", venue:"Proceedings in Physics and AI", citations:24, keywords:["phase transitions","Ising","Potts","VAE"], doi:"https://doi.org/10.0000/example-phase", preprint:""},
+  {title:"Computational methods for nuclear many-body systems", authors:"M. Hjorth-Jensen and coauthors", year:2023, type:"Book chapter", venue:"Computational Nuclear Physics", citations:43, keywords:["nuclear physics","many-body theory"], doi:"https://doi.org/10.0000/example-nuclear", preprint:""},
+  {title:"Quantum sensing and Fisher information", authors:"M. Hjorth-Jensen et al.", year:2026, type:"Journal article", venue:"Example Quantum Science", citations:5, keywords:["quantum sensing","Fisher information"], doi:"https://doi.org/10.0000/example-sensing", preprint:"https://arxiv.org/"}
+];
+document.getElementById("profileName").textContent = profile.name;
+document.getElementById("profileTitle").textContent = profile.title;
+const dots = document.getElementById("dots"), tooltip=document.getElementById("tooltip"), mapWrap=document.getElementById("mapWrap"), collabList=document.getElementById("collabList");
+function showTip(d){tooltip.innerHTML=`<strong>${d.country}</strong><br>${d.outputs} shared outputs<br>${d.areas.join(" · ")}`; tooltip.style.opacity=1; tooltip.style.left=(d.x/900*100)+"%"; tooltip.style.top=(d.y/430*100)+"%";}
+function hideTip(){tooltip.style.opacity=0;}
+collaborations.forEach(d=>{let r=7+Math.sqrt(d.outputs)*2; let c=document.createElementNS("http://www.w3.org/2000/svg","circle"); c.setAttribute("cx",d.x); c.setAttribute("cy",d.y); c.setAttribute("r",r); c.setAttribute("fill","#00509e"); c.setAttribute("fill-opacity",".78"); c.setAttribute("stroke","#fff"); c.setAttribute("stroke-width","2"); c.classList.add("country-dot"); c.addEventListener("mouseenter",()=>showTip(d)); c.addEventListener("mouseleave",hideTip); c.addEventListener("click",()=>showTip(d)); dots.appendChild(c);});
+const maxOutputs=Math.max(...collaborations.map(d=>d.outputs));
+collaborations.sort((a,b)=>b.outputs-a.outputs).forEach(d=>{const row=document.createElement("button"); row.className="collab-row"; row.style.cursor="pointer"; row.innerHTML=`<div><strong>${d.country}</strong><div class="bar"><span style="width:${100*d.outputs/maxOutputs}%"></span></div><div class="small">${d.areas.join(" · ")}</div></div><div class="count">${d.outputs}</div>`; row.onclick=()=>showTip(d); collabList.appendChild(row);});
+const total=publications.length, cites=publications.reduce((s,p)=>s+(p.citations||0),0); document.getElementById("totalOutputs").textContent=total; document.getElementById("totalCitations").textContent=cites;
+const byType={}; publications.forEach(p=>byType[p.type]=(byType[p.type]||0)+1); Object.entries(byType).sort((a,b)=>b[1]-a[1]).forEach(([type,n])=>{const div=document.createElement("div"); div.className="type"; div.innerHTML=`<div class="badge">${n}</div><div>${type}</div>`; document.getElementById("outputTypes").appendChild(div);});
+const typeFilter=document.getElementById("typeFilter"), yearFilter=document.getElementById("yearFilter"), search=document.getElementById("search"), pubList=document.getElementById("pubList");
+[...new Set(publications.map(p=>p.type))].sort().forEach(t=>typeFilter.insertAdjacentHTML("beforeend",`<option>${t}</option>`));
+[...new Set(publications.map(p=>p.year))].sort((a,b)=>b-a).forEach(y=>yearFilter.insertAdjacentHTML("beforeend",`<option>${y}</option>`));
+function renderPubs(){const q=search.value.toLowerCase(); const type=typeFilter.value; const year=yearFilter.value; pubList.innerHTML=""; publications.filter(p=>(type==="all"||p.type===type)&&(year==="all"||String(p.year)===year)&&JSON.stringify(p).toLowerCase().includes(q)).sort((a,b)=>b.year-a.year).forEach(p=>{const div=document.createElement("article"); div.className="publication"; const links=[p.doi?`<a class="btn primary" href="${p.doi}" target="_blank">DOI / publisher</a>`:"",p.preprint?`<a class="btn" href="${p.preprint}" target="_blank">Preprint</a>`:""].join(""); div.innerHTML=`<h3>${p.title}</h3><div class="meta">${p.authors} · ${p.year} · <em>${p.venue}</em></div><div class="meta">Research output: ${p.type} · ${p.citations||0} sample citations</div><div>${p.keywords.map(k=>`<span class="tag">${k}</span>`).join("")}</div><div class="buttons">${links}</div>`; pubList.appendChild(div);}); if(!pubList.innerHTML) pubList.innerHTML="<p>No publications match the current filters.</p>";}
+[search,typeFilter,yearFilter].forEach(el=>el.addEventListener("input",renderPubs)); renderPubs();
+</script>
+</body>
+</html>

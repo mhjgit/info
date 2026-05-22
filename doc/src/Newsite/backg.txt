@@ -1,0 +1,12 @@
+I made a self-contained HTML template here:
+
+Download the HTML file￼
+
+It includes an interactive collaboration map and searchable research-output section, inspired by the KU profile’s “Collaborations and top research areas” and “Research output” blocks.  ￼
+
+To link your own articles, edit the publications array near the bottom of the HTML file and replace entries like:
+
+doi: "https://doi.org/10.xxxx/example"
+preprint: "https://arxiv.org/abs/xxxx.xxxxx"
+
+Best links: DOI, arXiv, journal page, UiO repository page, or your personal PDF page.
