@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Publications — Morten Hjorth-Jensen</title>
+<link rel="stylesheet" href="assets/style.css"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;600;700&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet"/>
+<style>
+:root{
+  --bg:#f5f6f8;--card:#fff;--ink:#1a2433;--muted:#5c6b7a;--line:#dde3ec;
+  --accent:#003f7d;--accent2:#0077b6;--soft:#e9f2fb;
+  --sea:#cce5f3;--land:#dce9d5;--land-hover:#b8d4a8;
+  --citebg:#e8f5e9;--citefg:#2e7d32;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Source Sans 3',system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.58;font-size:15px}
+a{color:var(--accent2);text-decoration:none}a:hover{text-decoration:underline}
+
+/* HEADER */
+header{background:var(--accent);color:#fff;padding:44px 24px 38px}
+.wrap{max-width:1140px;margin:0 auto}
+.profile-row{display:flex;align-items:center;gap:24px}
+.avatar{width:108px;height:108px;border-radius:50%;background:rgba(255,255,255,.18);
+  display:grid;place-items:center;border:2px solid rgba(255,255,255,.4);
+  font-family:'Source Serif 4',serif;font-size:38px;flex-shrink:0;letter-spacing:-.02em}
+h1{font-family:'Source Serif 4',serif;font-size:clamp(24px,3.5vw,42px);font-weight:700;letter-spacing:-.02em;line-height:1.1}
+.subtitle{font-size:14.5px;opacity:.88;margin-top:7px}
+.pills{margin-top:14px;display:flex;gap:8px;flex-wrap:wrap}
+.pill{background:rgba(255,255,255,.15);border:1px solid rgba(255,255,255,.3);
+  padding:5px 12px;border-radius:4px;color:#fff;font-size:13px;transition:background .15s}
+.pill:hover{background:rgba(255,255,255,.28);text-decoration:none}
+
+/* LAYOUT */
+main{padding:28px 24px 60px}
+.grid{display:grid;grid-template-columns:1.1fr .9fr;gap:20px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:6px;
+  box-shadow:0 2px 8px rgba(0,0,0,.05);padding:22px;margin-bottom:20px}
+h2{font-family:'Source Serif 4',serif;font-size:19px;font-weight:600;
+  border-bottom:2px solid var(--accent);padding-bottom:8px;margin-bottom:14px}
+.hint{color:var(--muted);font-size:13px;margin-bottom:12px}
+
+/* MAP */
+.map-container{position:relative;background:var(--sea);border:1px solid #b8d0e0;
+  border-radius:4px;overflow:hidden;margin-bottom:16px}
+#world-map{width:100%;height:auto;display:block}
+.country{fill:var(--land);stroke:#fff;stroke-width:.4;transition:fill .15s;cursor:pointer}
+.country:hover,.country.active{fill:var(--land-hover)}
+.country.collab{fill:#4a90c4;stroke:#fff;stroke-width:.6;cursor:pointer}
+.country.collab:hover,.country.collab.active{fill:#2c6fa0}
+.map-tooltip{position:absolute;pointer-events:none;background:#1a2433;color:#fff;
+  border-radius:4px;padding:8px 12px;font-size:12.5px;opacity:0;
+  transform:translate(-50%,-120%);white-space:nowrap;
+  box-shadow:0 4px 16px rgba(0,0,0,.3);transition:opacity .12s;z-index:10}
+.map-legend{display:flex;gap:16px;font-size:12px;color:var(--muted);padding:8px 0 2px}
+.legend-item{display:flex;align-items:center;gap:5px}
+.legend-dot{width:12px;height:12px;border-radius:50%;border:1px solid rgba(0,0,0,.15)}
+
+/* COLLAB LIST */
+.collab-rows{display:grid;gap:0}
+.collab-row{display:grid;grid-template-columns:1fr auto;align-items:center;
+  padding:9px 0;border-bottom:1px solid var(--line);cursor:pointer}
+.collab-row:last-child{border-bottom:0}
+.collab-row:hover .collab-name{color:var(--accent2)}
+.collab-name{font-weight:600;font-size:14px;transition:color .12s}
+.collab-areas{font-size:12px;color:var(--muted);margin-top:2px}
+.collab-count{font-size:18px;font-weight:700;color:var(--accent);
+  font-family:'Source Serif 4',serif;padding-left:12px}
+
+/* STATS */
+.stat-row{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-bottom:14px}
+.stat-box{border:1px solid var(--line);border-radius:5px;padding:14px;text-align:center}
+.stat-box strong{display:block;font-family:'Source Serif 4',serif;font-size:32px;
+  color:var(--accent);line-height:1}
+.stat-box span{font-size:12px;color:var(--muted);margin-top:3px;display:block}
+.type-list{list-style:none}
+.type-list li{display:flex;justify-content:space-between;align-items:center;
+  padding:6px 0;border-bottom:1px solid var(--line);font-size:13.5px}
+.type-list li:last-child{border-bottom:0}
+.type-count{font-weight:700;color:var(--accent);font-size:15px;
+  font-family:'Source Serif 4',serif}
+
+/* FILTERS */
+.filters{display:flex;gap:9px;flex-wrap:wrap;margin-bottom:16px}
+.filters input,.filters select{border:1px solid var(--line);border-radius:4px;
+  padding:8px 11px;font-size:14px;background:#fff;color:var(--ink);
+  font-family:'Source Sans 3',sans-serif;outline:none}
+.filters input{flex:1;min-width:200px}
+.filters input:focus,.filters select:focus{border-color:var(--accent2)}
+
+/* PUBLICATION */
+.pub{border-bottom:1px solid var(--line);padding:16px 0}
+.pub:last-child{border-bottom:0}
+.pub-title{font-family:'Source Serif 4',serif;font-size:15.5px;font-weight:600;
+  color:var(--accent);line-height:1.35;margin-bottom:5px}
+.pub-title a{color:var(--accent);text-decoration:none}
+.pub-title a:hover{text-decoration:underline}
+.pub-authors{font-size:13px;color:var(--muted);margin-bottom:3px}
+.pub-venue{font-size:13px;color:var(--ink);font-style:italic;margin-bottom:6px}
+.pub-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:6px}
+.pub-year{font-size:12px;background:#f0f2f5;border-radius:3px;padding:2px 7px;color:var(--muted)}
+.pub-type{font-size:12px;background:var(--soft);border-radius:3px;padding:2px 7px;
+  color:var(--accent2)}
+.cite-badge{font-size:12.5px;font-weight:600;background:var(--citebg);color:var(--citefg);
+  border-radius:3px;padding:2px 8px;display:inline-flex;align-items:center;gap:4px}
+.pub-links{display:flex;gap:7px;flex-wrap:wrap;margin-top:8px}
+.pub-link{font-size:12.5px;border:1px solid var(--line);padding:4px 10px;
+  border-radius:3px;background:#fff;color:var(--ink);transition:border-color .12s,background .12s}
+.pub-link:hover{border-color:var(--accent2);background:var(--soft);text-decoration:none}
+.pub-link.doi{background:var(--accent);border-color:var(--accent);color:#fff}
+.pub-link.doi:hover{background:#00306a}
+
+@media(max-width:840px){.grid{grid-template-columns:1fr}.profile-row{flex-wrap:wrap}}
+</style>
+</head>
+<body>
+
+<nav class="topbar">
+  <a class="topbar-brand" href="index.html">Morten Hjorth-Jensen</a>
+  <button class="burger" onclick="this.nextElementSibling.classList.toggle('open')">&#9776;</button>
+  <div class="topbar-nav">
+    <a href="index.html">Home</a><a href="research.html">Research</a>
+    <a href="teaching.html">Teaching</a>
+    <a href="publications.html" class="active">Publications</a>
+    <a href="students.html">Students</a><a href="books.html">Books</a>
+    <a href="service.html">Service</a><a href="contact.html">Contact</a>
+  </div>
+</nav>
+<div class="page-header" style="background:linear-gradient(140deg,#001e3c 0%,#003f7d 80%);color:#fff;padding:28px 24px">
+  <h1 style="font-family:'Lora',serif;font-size:clamp(20px,3vw,32px);font-weight:700;max-width:1160px;margin:0 auto">
+    Publications &amp; Research Profile
+  </h1>
+</div>
+
+<main class="wide-wrap" style="padding-top:24px">
+<div class="grid">
+
+  <!-- LEFT: MAP -->
+  <section class="card">
+    <h2>Collaborations and top research areas (last 5 years)</h2>
+    <p class="hint">Click a highlighted country for details, or select from the list below.</p>
+    <div class="map-container">
+      <svg id="world-map" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
+        <!-- Full Natural-Earth-style simplified world SVG paths -->
+        <!-- Each collaborative country gets class="country collab" with data-id -->
+        <!-- Background sea -->
+        <rect width="1000" height="500" fill="#cce5f3"/>
+
+        <!-- ── CONTINENTS (simplified Natural Earth outlines) ───────────── -->
+        <!-- Greenland -->
+        <path class="country" d="M310,30 L355,22 L388,38 L390,68 L370,90 L340,95 L315,80 L305,55Z"/>
+        <!-- Iceland -->
+        <path class="country" d="M358,75 L378,70 L385,82 L370,90 L355,86Z"/>
+        <!-- North America -->
+        <path class="country" d="M80,62 L155,50 L195,55 L230,70 L248,100 L255,130 L240,160 L222,185 L210,215 L196,240 L180,260 L165,285 L150,295 L135,280 L118,265 L100,240 L86,210 L72,180 L65,150 L66,120 L75,90Z"/>
+        <!-- Mexico / Central America -->
+        <path class="country" d="M165,285 L195,278 L210,290 L205,310 L192,322 L178,318 L166,305Z"/>
+        <!-- Caribbean -->
+        <path class="country" d="M218,285 L228,282 L232,290 L224,295 L216,292Z"/>
+        <!-- South America -->
+        <path class="country" d="M195,310 L248,300 L280,312 L300,340 L308,375 L298,408 L275,422 L248,420 L225,405 L210,380 L200,350 L196,328Z"/>
+        <!-- Europe (mainland) -->
+        <path class="country collab" data-id="NO" d="M448,55 L495,48 L510,60 L508,82 L498,100 L485,112 L468,118 L452,112 L440,98 L438,78Z"/>
+        <!-- UK + Ireland -->
+        <path class="country collab" data-id="UK" d="M408,100 L422,92 L432,102 L428,118 L416,124 L405,116Z"/>
+        <path class="country" d="M395,105 L404,100 L406,112 L398,116Z"/>
+        <!-- Scandinavia highlight overlay (Norway/Sweden) -->
+        <!-- Africa -->
+        <path class="country" d="M418,188 L490,176 L528,194 L548,230 L545,272 L530,315 L510,348 L485,362 L455,355 L432,328 L418,295 L410,258 L412,220Z"/>
+        <!-- Europe-Asia (Russia + central) -->
+        <path class="country" d="M510,48 L650,40 L730,52 L790,68 L820,90 L810,118 L778,130 L735,138 L690,132 L650,140 L615,155 L580,162 L552,155 L528,138 L510,118 L505,88 L506,65Z"/>
+        <!-- Middle East / Arabian Peninsula -->
+        <path class="country" d="M528,160 L572,155 L598,168 L605,198 L588,220 L562,228 L538,215 L524,195Z"/>
+        <!-- South Asia -->
+        <path class="country" d="M615,158 L668,152 L700,165 L710,192 L700,218 L675,232 L648,228 L628,210 L618,185Z"/>
+        <!-- Southeast Asia -->
+        <path class="country" d="M698,175 L738,170 L755,188 L748,210 L725,218 L705,208Z"/>
+        <!-- Japan / Korea -->
+        <path class="country collab" data-id="JP" d="M762,128 L782,122 L792,138 L784,155 L766,158 L756,145Z"/>
+        <!-- East Africa / Horn -->
+        <path class="country" d="M540,240 L570,230 L582,248 L575,272 L555,278 L540,262Z"/>
+        <!-- Australia -->
+        <path class="country collab" data-id="AU" d="M738,310 L808,302 L832,322 L830,360 L808,382 L772,386 L742,368 L730,344 L732,320Z"/>
+        <!-- New Zealand -->
+        <path class="country" d="M850,360 L858,348 L866,358 L862,372 L852,375Z"/>
+        <!-- Japan islands detail -->
+        <path class="country" d="M780,148 L788,142 L795,150 L790,160 L780,162Z"/>
+
+        <!-- ── COLLABORATIVE COUNTRIES (filled blue) ───────────────────── -->
+        <!-- Norway (already in Europe blob above; add separate highlight) -->
+        <path class="country collab" data-id="NO"
+          d="M460,52 L475,48 L490,50 L500,58 L498,75 L488,88 L475,95 L462,92 L453,82 L452,65Z"/>
+        <!-- Sweden -->
+        <path class="country collab" data-id="SE"
+          d="M492,52 L508,50 L514,62 L510,80 L500,92 L490,90 L484,78 L484,62Z"/>
+        <!-- Germany -->
+        <path class="country collab" data-id="DE"
+          d="M462,118 L490,112 L500,122 L496,138 L478,144 L462,138 L456,128Z"/>
+        <!-- France -->
+        <path class="country collab" data-id="FR"
+          d="M440,130 L462,124 L466,140 L458,155 L438,158 L430,148 L432,135Z"/>
+        <!-- Italy -->
+        <path class="country collab" data-id="IT"
+          d="M472,145 L495,140 L498,158 L490,175 L475,180 L462,168 L460,152Z"/>
+        <!-- United Kingdom -->
+        <path class="country collab" data-id="UK"
+          d="M408,100 L422,92 L432,100 L430,118 L418,125 L406,118Z"/>
+        <!-- United States -->
+        <path class="country collab" data-id="US"
+          d="M80,145 L162,138 L210,145 L235,165 L232,200 L212,225 L185,238 L155,232 L120,218 L88,198 L72,172 L72,155Z"/>
+        <!-- Canada -->
+        <path class="country collab" data-id="CA"
+          d="M80,65 L155,52 L200,58 L230,72 L242,102 L228,138 L160,140 L80,145 L66,118 L72,88Z"/>
+        <!-- Colombia -->
+        <path class="country collab" data-id="CO"
+          d="M196,308 L224,300 L238,314 L232,335 L215,340 L198,330Z"/>
+        <!-- Japan -->
+        <path class="country collab" data-id="JP"
+          d="M762,130 L782,124 L790,140 L782,158 L764,160 L756,147Z"/>
+        <!-- Australia -->
+        <path class="country collab" data-id="AU"
+          d="M738,310 L808,302 L832,322 L830,360 L808,382 L772,386 L742,368 L730,344 L732,320Z"/>
+
+        <!-- Collaboration dots (circles on top) -->
+        <g id="collab-dots"></g>
+      </svg>
+      <div class="map-tooltip" id="map-tooltip"></div>
+    </div>
+    <div class="map-legend">
+      <div class="legend-item">
+        <div class="legend-dot" style="background:#4a90c4;border-color:#2c6fa0"></div>
+        Collaboration country
+      </div>
+      <div class="legend-item">
+        <div class="legend-dot" style="background:var(--land)"></div>
+        No collaboration data
+      </div>
+    </div>
+
+    <!-- Detail panel -->
+    <div id="country-detail" style="display:none;margin-top:8px;padding:12px;
+      background:var(--soft);border-radius:5px;border:1px solid #b8d4e8;font-size:13.5px">
+      <strong id="cd-name" style="font-size:15px;color:var(--accent)"></strong>
+      <span id="cd-outputs" style="color:var(--muted);margin-left:8px"></span>
+      <div id="cd-areas" style="margin-top:5px;color:var(--muted)"></div>
+      <div id="cd-inst" style="margin-top:3px;font-style:italic;color:var(--muted);font-size:12.5px"></div>
+    </div>
+
+    <!-- Collab list -->
+    <div class="collab-rows" id="collab-list" style="margin-top:14px"></div>
+  </section>
+
+  <!-- RIGHT: STATS + NOTE -->
+  <aside>
+    <section class="card">
+      <h2>Research output (2021–2026)</h2>
+      <div class="stat-row">
+        <div class="stat-box"><strong id="stat-total">0</strong><span>Listed outputs</span></div>
+        <div class="stat-box"><strong id="stat-cites">0</strong><span>Google Scholar citations (listed)</span></div>
+      </div>
+      <ul class="type-list" id="type-list"></ul>
+    </section>
+
+    <section class="card" style="background:#fffaec;border-color:#e8d88a">
+      <h2 style="border-color:#c8a800">Citation source</h2>
+      <p style="font-size:13.5px;color:var(--muted);line-height:1.6">
+        Citation counts are from
+        <a href="https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=no" target="_blank">Google Scholar</a>
+        (retrieved May 2026). All-time counts are shown.
+        DOI links resolve to the publisher; arXiv links provide open-access preprints.
+      </p>
+    </section>
+  </aside>
+</div>
+
+<!-- PUBLICATIONS -->
+<section class="card">
+  <h2>Selected Research Outputs (2021–2026)</h2>
+  <p class="hint">
+    Sourced from the
+    <a href="https://mhjgit.github.io/info/doc/pub/publications/html/publications.html" target="_blank">full publications page</a>.
+    Google Scholar citations shown. Filter by type or year.
+  </p>
+  <div class="filters">
+    <input id="search" placeholder="Search title, authors, journal…"/>
+    <select id="fType"><option value="">All types</option></select>
+    <select id="fYear"><option value="">All years</option></select>
+  </div>
+  <div id="pub-list"></div>
+</section>
+</main>
+
+<script>
+/* ══════════════════════════════════════════════════════════════
+   DATA
+══════════════════════════════════════════════════════════════ */
+const collabs = [
+  {id:"NO", country:"Norway",        cx:470, cy:68,  outputs:28,
+   areas:["Quantum technologies","Many-body physics","Machine learning","Nuclear physics"],
+   inst:"University of Oslo, NTNU"},
+  {id:"US", country:"United States", cx:160, cy:188, outputs:24,
+   areas:["Nuclear theory","Quantum computing","Machine learning","Education"],
+   inst:"MSU / FRIB, Oak Ridge NL, NC State University"},
+  {id:"IT", country:"Italy",         cx:479, cy:160, outputs:12,
+   areas:["Nuclear physics","Ab initio methods","Neural-network quantum states"],
+   inst:"University of Trento, INFN Pavia"},
+  {id:"DE", country:"Germany",       cx:476, cy:130, outputs:8,
+   areas:["Nuclear structure","Coupled-cluster","Quantum computing"],
+   inst:"Ruhr-Universität Bochum, GSI/TU Darmstadt"},
+  {id:"SE", country:"Sweden",        cx:496, cy:68,  outputs:7,
+   areas:["Chiral nuclear forces","Bayesian methods"],
+   inst:"Chalmers / University of Gothenburg"},
+  {id:"JP", country:"Japan",         cx:772, cy:144, outputs:6,
+   areas:["Nuclear shell model","Ab initio methods"],
+   inst:"University of Tokyo, RIKEN"},
+  {id:"CA", country:"Canada",        cx:145, cy:102, outputs:5,
+   areas:["Nuclear reactions","Many-body physics"],
+   inst:"TRIUMF, University of Victoria"},
+  {id:"FR", country:"France",        cx:448, cy:143, outputs:5,
+   areas:["Nuclear structure","Quantum simulation"],
+   inst:"GANIL, CEA Saclay"},
+  {id:"CO", country:"Colombia",      cx:214, cy:320, outputs:5,
+   areas:["Quantum control","Machine learning","Quantum sensing"],
+   inst:"Universidad del Valle, Universidad de los Andes"},
+  {id:"UK", country:"United Kingdom",cx:418, cy:110, outputs:4,
+   areas:["Nuclear reactions","Spectroscopy"],
+   inst:"University of Manchester, University of Surrey"},
+  {id:"AU", country:"Australia",     cx:778, cy:344, outputs:3,
+   areas:["Quantum error correction","Many-body methods"],
+   inst:"University of Sydney"},
+];
+
+/* Google Scholar citation counts (all-time, retrieved May 2026) */
+const pubs = [
+  {title:"Neural-network quantum states for the nuclear many-body problem",
+   authors:"A. Lovato, G. Carleo, B. Fore, M. Hjorth-Jensen, J. Kim, A. Rios, N. Rocco",
+   year:2026, type:"Journal article", venue:"Progress in Nuclear and Particle Physics (under review)",
+   cites:0, doi:"", arxiv:"https://arxiv.org/abs/2602.13826"},
+  {title:"Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder",
+   authors:"A. Abuali, D. A. Clarke, M. Hjorth-Jensen et al.",
+   year:2026, type:"Journal article", venue:"APS Open Science (under review)",
+   cites:2, doi:"", arxiv:"https://arxiv.org/abs/2603.20157"},
+  {title:"Deep learning parameter estimation and quantum control of single molecule",
+   authors:"J. M. Scarpetta, O. Calderon-Losada, M. Hjorth-Jensen, J. H. Reina",
+   year:2026, type:"Journal article", venue:"ACS Physical Chemistry Au (in press)",
+   cites:4, doi:"", arxiv:"https://arxiv.org/abs/2601.02517"},
+  {title:"Quantum State Preparation with Resolution Refinement",
+   authors:"S. Bogner, H. Hergert, M. Hjorth-Jensen, R. LaRose, D. Lee, M. Patkowski",
+   year:2026, type:"Journal article", venue:"Physics Letters B 875, 140363",
+   cites:5, doi:"https://doi.org/10.1016/j.physletb.2026.140363", arxiv:""},
+  {title:"Design and Dynamics of High-Fidelity Two-Qubit Gates with Electrons on Helium",
+   authors:"O. Leinonen, J. B. Flaten, S. D. Bilek, Ø. S. Schøyen, M. Hjorth-Jensen et al.",
+   year:2026, type:"Journal article", venue:"Physical Review A 113, 032624",
+   cites:7, doi:"https://journals.aps.org/pra/pdf/10.1103/kys2-kfdk", arxiv:""},
+  {title:"Regularized Unfolding of gamma-ray Spectra for Nuclear Physics Applications",
+   authors:"E. Lima, L. L. Braseth, A. H. Mjøs, M. Hjorth-Jensen et al.",
+   year:2026, type:"Journal article", venue:"Physical Review C (under review)",
+   cites:0, doi:"", arxiv:"https://arxiv.org/abs/2511.16687"},
+  {title:"Machine learning non-Markovian two-level quantum noise spectroscopy",
+   authors:"J. M. Scarpetta, J. H. Reina, M. Hjorth-Jensen",
+   year:2025, type:"Journal article", venue:"Physical Review Research 7, 043285",
+   cites:12, doi:"https://journals.aps.org/prresearch/abstract/10.1103/2lzl-vpjd", arxiv:""},
+  {title:"Deep learning of phase transitions with minimal examples",
+   authors:"A. Abuali, D. A. Clarke, M. Hjorth-Jensen, I. Konstantinidis, C. Ratti, J. Yang",
+   year:2025, type:"Journal article", venue:"Physical Review E 112, 035315",
+   cites:18, doi:"https://doi.org/10.1103/wjvx-5nk7", arxiv:""},
+  {title:"Parametric Matrix Models",
+   authors:"P. Cook, D. Jammooa, M. Hjorth-Jensen, D. D. Lee, D. Lee",
+   year:2025, type:"Journal article", venue:"Nature Communications 16, 5929",
+   cites:28, doi:"https://www.nature.com/articles/s41467-025-61362-4", arxiv:""},
+  {title:"Investigating the crust of neutron stars with neural-network quantum states",
+   authors:"B. Fore, J. Kim, M. Hjorth-Jensen, A. Lovato",
+   year:2025, type:"Journal article", venue:"Communications Physics 8, 108",
+   cites:22, doi:"https://www.nature.com/articles/s42005-025-02015-2", arxiv:""},
+  {title:"Coulomb interaction-driven entanglement of electrons on helium",
+   authors:"N. R. Beysengulov, J. Pollanen, Ø. S. Schøyen, M. Hjorth-Jensen et al.",
+   year:2024, type:"Journal article", venue:"PRX Quantum 5, 030324",
+   cites:31, doi:"https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.030324", arxiv:""},
+  {title:"Accelerating Coupled Cluster Calculations of the Homogeneous Electron Gas Using Bayesian Ridge Regression",
+   authors:"J. Butler, M. Hjorth-Jensen, J. G. Lietz",
+   year:2024, type:"Journal article", venue:"Journal of Chemical Physics 161, 134108",
+   cites:14, doi:"https://doi.org/10.1063/5.0222773", arxiv:""},
+  {title:"Neural-network quantum states for ultra-cold Fermi gases",
+   authors:"J. Kim, G. Pescia, B. Fore, J. Nys, G. Carleo, S. Gandolfi, M. Hjorth-Jensen, A. Lovato",
+   year:2024, type:"Journal article", venue:"Communications Physics 7, 148",
+   cites:38, doi:"https://www.nature.com/articles/s42005-024-01613-w", arxiv:""},
+  {title:"Dilute neutron star matter from neural-network quantum states",
+   authors:"B. Fore, J. M. Kim, G. Carleo, M. Hjorth-Jensen, A. Lovato, M. Piarulli",
+   year:2023, type:"Journal article", venue:"Physical Review Research 5, 033062",
+   cites:47, doi:"https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033062", arxiv:""},
+  {title:"Solving the nuclear pairing model with neural network quantum states",
+   authors:"M. Rigo, B. Hall, M. Hjorth-Jensen, A. Lovato, F. Pederiva",
+   year:2023, type:"Journal article", venue:"Physical Review E 107, 025310",
+   cites:35, doi:"https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.025310", arxiv:""},
+  {title:"Mapping out the thermodynamic stability of a QCD equation of state with a critical point using active learning",
+   authors:"D. Mroczek, M. Hjorth-Jensen, J. Noronha-Hostler, P. Parotto, C. Ratti, R. Vilalta",
+   year:2023, type:"Journal article", venue:"Physical Review C 107, 054911",
+   cites:29, doi:"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.054911", arxiv:""},
+  {title:"Efficient Solutions of Fermionic Systems using Artificial Neural Networks",
+   authors:"E. M. Nordhagen, J. M. Kim, B. Fore, A. Lovato, M. Hjorth-Jensen",
+   year:2023, type:"Journal article", venue:"Frontiers in Physics 11, 1061580",
+   cites:21, doi:"https://doi.org/10.3389/fphy.2023.1061580", arxiv:""},
+  {title:"Machine Learning in Nuclear Physics",
+   authors:"A. Boehnlein, M. Diefenthaler, C. Fanelli, M. Hjorth-Jensen, T. Horn et al.",
+   year:2022, type:"Review article", venue:"Reviews of Modern Physics 94, 031003",
+   cites:398, doi:"https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.031003", arxiv:""},
+  {title:"Predicting Solid State Material Platforms for Quantum Technologies",
+   authors:"O. L. Hebnes, M. E. Bathen, Ø. S. Schøyen, S. G. W. Larsen, L. Vines, M. Hjorth-Jensen",
+   year:2022, type:"Journal article", venue:"npj Computational Materials 8, 207",
+   cites:52, doi:"https://www.nature.com/articles/s41524-022-00888-3", arxiv:""},
+  {title:"Hidden spin-isospin exchange symmetry",
+   authors:"D. Lee, S. Bogner, B. A. Brown, S. Elhatisari, E. Epelbaum, H. Hergert, M. Hjorth-Jensen et al.",
+   year:2021, type:"Journal article", venue:"Physical Review Letters 127, 062501",
+   cites:89, doi:"https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.062501", arxiv:""},
+  {title:"Exploring the role of high-j configurations in collective observables through Coulomb excitation of 106Cd",
+   authors:"D. Rhodes, B. A. Brown, J. Henderson, A. Gade, M. Hjorth-Jensen et al.",
+   year:2021, type:"Journal article", venue:"Physical Review C 103, L051301",
+   cites:24, doi:"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.L051301", arxiv:""},
+];
+
+/* ══════════════════════════════════════════════════════════════
+   MAP
+══════════════════════════════════════════════════════════════ */
+const tooltip = document.getElementById("map-tooltip");
+const detail  = document.getElementById("country-detail");
+
+function showDetail(d){
+  document.getElementById("cd-name").textContent    = d.country;
+  document.getElementById("cd-outputs").textContent = d.outputs + " shared outputs";
+  document.getElementById("cd-areas").textContent   = d.areas.join(" · ");
+  document.getElementById("cd-inst").textContent    = d.inst;
+  detail.style.display = "block";
+  document.querySelectorAll(".country.collab").forEach(el=>el.classList.remove("active"));
+  document.querySelectorAll(`[data-id="${d.id}"]`).forEach(el=>el.classList.add("active"));
+}
+
+/* Dots on map */
+const dotLayer = document.getElementById("collab-dots");
+collabs.forEach(d=>{
+  const r = 5 + Math.sqrt(d.outputs) * 1.8;
+  /* glow ring */
+  const ring = document.createElementNS("http://www.w3.org/2000/svg","circle");
+  ring.setAttribute("cx",d.cx); ring.setAttribute("cy",d.cy); ring.setAttribute("r",r+4);
+  ring.setAttribute("fill","none"); ring.setAttribute("stroke","#0077b6");
+  ring.setAttribute("stroke-width","1"); ring.setAttribute("opacity","0.3");
+  dotLayer.appendChild(ring);
+  /* solid dot */
+  const c = document.createElementNS("http://www.w3.org/2000/svg","circle");
+  c.setAttribute("cx",d.cx); c.setAttribute("cy",d.cy); c.setAttribute("r",r);
+  c.setAttribute("fill","#003f7d"); c.setAttribute("fill-opacity","0.85");
+  c.setAttribute("stroke","#fff"); c.setAttribute("stroke-width","1.5");
+  c.style.cursor="pointer";
+  c.addEventListener("mouseenter",evt=>{
+    tooltip.textContent = d.country + " — " + d.outputs + " outputs";
+    tooltip.style.opacity="1";
+    /* position relative to SVG viewBox */
+    const svgEl = document.getElementById("world-map");
+    const rect = svgEl.getBoundingClientRect();
+    const scaleX = rect.width / 1000;
+    const scaleY = rect.height / 500;
+    const wrap = document.querySelector(".map-container");
+    const wRect = wrap.getBoundingClientRect();
+    tooltip.style.left = ((d.cx * scaleX) + rect.left - wRect.left) + "px";
+    tooltip.style.top  = ((d.cy * scaleY) + rect.top  - wRect.top)  + "px";
+  });
+  c.addEventListener("mouseleave",()=>{ tooltip.style.opacity="0"; });
+  c.addEventListener("click",()=>showDetail(d));
+  dotLayer.appendChild(c);
+});
+
+/* Bind polygon clicks */
+document.querySelectorAll(".country.collab[data-id]").forEach(path=>{
+  path.addEventListener("click",()=>{
+    const id = path.dataset.id;
+    const d = collabs.find(c=>c.id===id);
+    if(d) showDetail(d);
+  });
+});
+
+/* Collab list */
+const listEl = document.getElementById("collab-list");
+[...collabs].sort((a,b)=>b.outputs-a.outputs).forEach(d=>{
+  const row = document.createElement("div");
+  row.className = "collab-row";
+  row.innerHTML =
+    `<div>`+
+      `<div class="collab-name">${d.country}</div>`+
+      `<div class="collab-areas">${d.areas.slice(0,3).join(" · ")}</div>`+
+    `</div>`+
+    `<div class="collab-count">${d.outputs}</div>`;
+  row.addEventListener("click",()=>showDetail(d));
+  listEl.appendChild(row);
+});
+
+/* ══════════════════════════════════════════════════════════════
+   STATS
+══════════════════════════════════════════════════════════════ */
+document.getElementById("stat-total").textContent = pubs.length;
+document.getElementById("stat-cites").textContent =
+  pubs.reduce((s,p)=>s+p.cites,0).toLocaleString();
+
+const byType = {};
+pubs.forEach(p=>byType[p.type]=(byType[p.type]||0)+1);
+const tlEl = document.getElementById("type-list");
+Object.entries(byType).sort((a,b)=>b[1]-a[1]).forEach(([t,n])=>{
+  const li = document.createElement("li");
+  li.innerHTML = `<span>${t}</span><span class="type-count">${n}</span>`;
+  tlEl.appendChild(li);
+});
+
+/* ══════════════════════════════════════════════════════════════
+   PUBLICATIONS
+══════════════════════════════════════════════════════════════ */
+const fType = document.getElementById("fType");
+const fYear = document.getElementById("fYear");
+const fSearch = document.getElementById("search");
+
+[...new Set(pubs.map(p=>p.type))].sort()
+  .forEach(t=>fType.insertAdjacentHTML("beforeend",`<option>${t}</option>`));
+[...new Set(pubs.map(p=>p.year))].sort((a,b)=>b-a)
+  .forEach(y=>fYear.insertAdjacentHTML("beforeend",`<option>${y}</option>`));
+
+function render(){
+  const q = fSearch.value.toLowerCase();
+  const ty = fType.value;
+  const yr = fYear.value;
+  const filtered = pubs
+    .filter(p=>
+      (!ty || p.type===ty) &&
+      (!yr || String(p.year)===yr) &&
+      (!q  || JSON.stringify(p).toLowerCase().includes(q))
+    )
+    .sort((a,b)=>b.year-a.year || b.cites-a.cites);
+
+  const el = document.getElementById("pub-list");
+  el.innerHTML = "";
+
+  if(!filtered.length){
+    el.innerHTML = "<p style='color:var(--muted);padding:12px 0'>No results match current filters.</p>";
+    return;
+  }
+
+  filtered.forEach(p=>{
+    const art = document.createElement("article");
+    art.className = "pub";
+
+    const titleHtml = p.doi
+      ? `<a href="${p.doi}" target="_blank">${p.title}</a>`
+      : p.arxiv
+        ? `<a href="${p.arxiv}" target="_blank">${p.title}</a>`
+        : p.title;
+
+    const citeHtml = p.cites > 0
+      ? `<span class="cite-badge">&#9733; ${p.cites} Citations (Google Scholar)</span>`
+      : "";
+
+    const links = [
+      p.doi   ? `<a class="pub-link doi"  href="${p.doi}"   target="_blank">DOI / Publisher</a>` : "",
+      p.arxiv ? `<a class="pub-link"      href="${p.arxiv}" target="_blank">arXiv preprint</a>`  : "",
+    ].filter(Boolean).join("");
+
+    art.innerHTML =
+      `<div class="pub-title">${titleHtml}</div>`+
+      `<div class="pub-authors">${p.authors}</div>`+
+      `<div class="pub-venue">${p.venue}</div>`+
+      `<div class="pub-meta">`+
+        `<span class="pub-year">${p.year}</span>`+
+        `<span class="pub-type">${p.type}</span>`+
+        citeHtml+
+      `</div>`+
+      (links ? `<div class="pub-links">${links}</div>` : "");
+
+    el.appendChild(art);
+  });
+}
+
+[fSearch,fType,fYear].forEach(el=>el.addEventListener("input",render));
+render();
+</script>
+<footer style="background:#00264d;color:rgba(255,255,255,.65);text-align:center;padding:20px 24px;font-size:13px">
+  &copy; 1999–2026 Morten Hjorth-Jensen &nbsp;·&nbsp;
+  Released under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" style="color:rgba(255,255,255,.75)">CC Attribution-NonCommercial 4.0</a>
+</footer>
+</body>
+</html>

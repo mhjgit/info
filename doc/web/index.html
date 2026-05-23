@@ -1,46 +1,131 @@
 <!DOCTYPE html>
-<html lang="en"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Welcome to Morten's website</title>
-	<meta name="description" content="">
-	<meta name="author" content="">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
-	<link rel="stylesheet" href="./index_files/base.css">
-	<link rel="stylesheet" href="./index_files/skeleton.css">
-	<link rel="stylesheet" href="./index_files/layout.css">
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Morten Hjorth-Jensen — Computational Physics & Quantum Science</title>
+<link rel="stylesheet" href="assets/style.css"/>
 </head>
 <body>
-	<div class="container">	
-		
-		<div id="logo" class="sixteen columns">
-			<h3>Computational Physics and Science: Morten Hjorth-Jensen's website</h3>
-		</div>
-		
-		<div id="nav" class="sixteen columns">
-			<ul>
-          <li><a href="http://mhjgit.github.io/info/doc/pub/teaching/html/teaching.html">Teaching and thesis projects</a></li>
-          <li><a href="http://mhjgit.github.io/info/doc/pub/research/html/research.html">Research</a></li>
-          <li><a href="http://mhjgit.github.io/info/doc/pub/service/html/software.html">Software</a></li>
-          <li><a href="http://mhjgit.github.io/info/doc/pub/service/html/service.html">Service to community</a></li>
-          <li><a href="http://mhjgit.github.io/info/doc/pub/books/html/books.html">Books</a></li>
-          <li><a href="http://mhjgit.github.io/info/doc/pub/cv/html/cv.html">CV</a></li>
-          <li><a href="http://mhjgit.github.io/info/doc/pub/publications/html/publications.html">Publications</a></li>
-          <li><a href="http://mhjgit.github.io/info/doc/pub/students/html/students.html">Students</a></li>
-          <li><a href="http://www.uio.no/english/studies/programmes/computational-science-master/index.html">Computational Science program</a></li>
-          <li><a href="http://mhjgit.github.io/info/doc/pub/contact/html/contact.html">Contact</a></li>
-			</ul>
-		</div>
-		<div id="theText" class="eight columns">
-        <h1>Welcome!</h1>
-<p>I am a theoretical  physicist  working on  computational physics and quantum mechanical many-body theory, quantum computing, quantum machine learning and quantum technologies and machine learning and artificial intelligence applied to the physical sciences. 
-	For those of you interested in thesis topics on quantum computing and quantum technologies and/or machine learning and aritificial intelligence applied to the physical sciences, see the thesis link here.
-You can find more about me and my research interests by clicking on the above links, or 
-<a href="https://github.com/mhjensen">GitHub address</a> or <a href="https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=no"> Google Scholar</a>.
-			</p>
-		</div>
-		<div id="bigphoto" class="seven columns  add-bottom offset-by-one">
-			<img src="./index_files/mhj.jpg">
-		</div>
-		
-	
-	</div>
-</body></html>
+
+<nav class="topbar">
+  <a class="topbar-brand" href="index.html">Morten Hjorth-Jensen</a>
+  <button class="burger" onclick="this.nextElementSibling.classList.toggle('open')">&#9776;</button>
+  <div class="topbar-nav">
+    <a href="index.html" class="active">Home</a>
+    <a href="research.html">Research</a>
+    <a href="teaching.html">Teaching</a>
+    <a href="publications.html">Publications</a>
+    <a href="students.html">Students</a>
+    <a href="books.html">Books</a>
+    <a href="service.html">Service</a>
+    <a href="contact.html">Contact</a>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="hero-inner">
+    <div class="hero-photo">MHJ</div>
+    <div>
+      <h1>Morten Hjorth-Jensen</h1>
+      <div class="hero-title">
+        Professor of Physics &nbsp;·&nbsp;
+        Department of Physics, University of Oslo, Norway<br/>
+        Department of Physics &amp; Astronomy, Michigan State University, USA
+      </div>
+      <div class="hero-pills">
+        <a class="pill" href="https://github.com/mhjensen" target="_blank">GitHub</a>
+        <a class="pill" href="https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=no" target="_blank">Google Scholar</a>
+        <a class="pill" href="https://orcid.org/0000-0003-0174-1364" target="_blank">ORCID</a>
+        <a class="pill" href="https://www.scopus.com/authid/detail.uri?authorId=7004682325" target="_blank">Scopus</a>
+        <a class="pill" href="publications.html">Publications</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="page-wrap">
+
+  <div class="card">
+    <h2>Welcome</h2>
+    <p>
+      I am a theoretical physicist working on
+      <strong>computational physics</strong> and <strong>quantum mechanical many-body theory</strong>,
+      <strong>quantum computing</strong>, <strong>quantum machine learning</strong>,
+      <strong>quantum technologies</strong>, and
+      <strong>machine learning and AI applied to the physical sciences</strong>.
+    </p>
+    <br/>
+    <p>
+      For those interested in thesis topics on quantum computing, quantum technologies,
+      or machine learning applied to the physical sciences, please see the
+      <a href="teaching.html">thesis projects page</a>.
+      You can explore my research interests using the navigation above, or visit my
+      <a href="https://github.com/mhjensen" target="_blank">GitHub</a> and
+      <a href="https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=no" target="_blank">Google Scholar</a> profiles.
+    </p>
+    <br/>
+    <p>
+      All teaching material and course codes I have developed over the years are
+      <strong>freely available</strong> from my GitHub repositories — feel free to use
+      them wherever you are located.
+    </p>
+  </div>
+
+  <div class="two-col">
+    <div class="card">
+      <h2>Research highlights</h2>
+      <h3>Quantum Many-Body Theory</h3>
+      <p style="font-size:14px;color:var(--muted)">
+        Strongly interacting fermionic systems, emergent correlations and entanglement,
+        nuclear structure, neutron stars, ultracold atomic gases.
+      </p>
+      <h3>Machine Learning in Physics</h3>
+      <p style="font-size:14px;color:var(--muted)">
+        Neural-network quantum states, physics-informed neural networks,
+        phase-transition detection, surrogate modeling for nuclear and quantum systems.
+      </p>
+      <h3>Quantum Computing &amp; QML</h3>
+      <p style="font-size:14px;color:var(--muted)">
+        VQE and UCCSD, quantum error mitigation, hybrid quantum–classical workflows,
+        quantum-enhanced learning architectures, electrons-on-helium quantum hardware.
+      </p>
+      <p style="margin-top:14px"><a href="research.html">Full research description →</a></p>
+    </div>
+
+    <div class="card">
+      <h2>Quick links</h2>
+      <ul class="content-list" style="list-style:none;padding-left:0">
+        <li style="margin-bottom:10px">
+          📄 <a href="publications.html">Selected publications (2021–2026)</a>
+        </li>
+        <li style="margin-bottom:10px">
+          🎓 <a href="teaching.html">Thesis projects &amp; courses</a>
+        </li>
+        <li style="margin-bottom:10px">
+          👥 <a href="students.html">Current &amp; former students</a>
+        </li>
+        <li style="margin-bottom:10px">
+          📚 <a href="books.html">Books &amp; lecture notes</a>
+        </li>
+        <li style="margin-bottom:10px">
+          🌐 <a href="https://github.com/CompPhysics" target="_blank">CompPhysics GitHub organisation</a>
+        </li>
+        <li style="margin-bottom:10px">
+          🌐 <a href="http://www.uio.no/english/studies/programmes/computational-science-master/" target="_blank">MSc Computational Science, UiO</a>
+        </li>
+        <li>
+          📬 <a href="contact.html">Contact information</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+</main>
+
+<footer>
+  &copy; 1999–2026 Morten Hjorth-Jensen &nbsp;·&nbsp;
+  Released under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC Attribution-NonCommercial 4.0</a>
+</footer>
+</body>
+</html>
