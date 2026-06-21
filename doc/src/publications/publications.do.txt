@@ -1,11 +1,9 @@
 TITLE: Publications 
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway
-DATE: November 2025
+DATE: June 2026
 
 
-
-=====  Research, Publications, books, refereed scientific articles, talks and research grants  =====
-
+=====  Research, Publications, books, refereed scientific articles =====
 
 === Books: ===
 #o Morten Hjorth-Jensen, *Computational Physics, an introduction*, to be published by IOP in 2024.
@@ -16,22 +14,21 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 === Publications in journals with a referee system: ===
 
+#o Juan David Álvarez-Cuartas, Patrick Cook, Morten Hjorth-Jensen, Danny Jammooa, Dean Lee, and John Hen#ry Reina, _Spin-Boson Parametric Matrix Models_, in preparation for Physical Review A
+
+o A. H. Mjøs, E. Lima, A. Kvellestad, A. C. Larsen, and M. Hjorth-Jensen, _Empirical-Bayes Unfolding of $\gamma$-ray Spectra_, Physical Review C under review and URL:"https://arxiv.org/abs/2511.16687"
+
 o Alessandro Lovato, Giuseppe Carleo, Bryce Fore, Morten Hjorth-Jensen, Jane Kim, Arnau Rios, Noemi Rocco, _Neural-network quantum states for the nuclear many-body problem_, Progress in Nuclear and Particle Physics, under review and URL:"https://arxiv.org/abs/2602.13826"
-
-#o Juan David Álvarez-Cuartas, Morten Hjorth-Jensen, and John Henry Reina, and et al, _Spin-Boson Parametric Matrix Models_, in preparation for Physical Review A
-
 
 o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder_, APS Open Science, under review and URL:"https://arxiv.org/abs/2603.20157"
 
-o Juan Manuel Scarpetta, Omar Calderon-Losada, Morten Hjorth-Jensen, and John Henry Reina, _Deep learning parameter estimation and quantum control of single molecule_, ACS Physical Chemistry Au, in press (2026) and URL:"https://arxiv.org/abs/2601.02517"
-
 o E. Lima, L. L. Braseth, A. H. Mjøs, M. Hjorth-Jensen, A. Kvellestad, A. C. Larsen, _Regularized Unfolding of gamma-ray Spectra for Nuclear Physics Applications_, Physical Review C under review and URL:"https://arxiv.org/abs/2511.16687"
 
+o Juan Manuel Scarpetta, Omar Calderon-Losada, Morten Hjorth-Jensen, and John Henry Reina, _Deep learning parameter estimation and quantum control of single molecule_, ACS Physical Chemistry Au, (2026) and URL:"doi:10.1021/acsphyschemau.6c00048"
 
 o Scott Bogner, Heiko Hergert, Morten Hjorth-Jensen, Ryan LaRose, Dean Lee, Matthew Patkowski, _Quantum State Preparation with Resolution Refinement_, "Physics Letters B 875, 140363 (2026)":"https://doi.org/10.1016/j.physletb.2026.140363"
 
 o Oskar Leinonen, Jonas B. Flaten, Stian D. Bilek, Øyvind S. Schøyen, Morten Hjorth-Jensen, Niyaz R. Beysengulov,  Zachary J. Stewart, Jared D. Weidman, Angela K. Wilson, Morten Hjorth-Jensen, _Design and Dynamics of High-Fidelity Two-Qubit Gates with Electrons on Helium_, "Physical Review A 113, 032624 (2026)":"https://journals.aps.org/pra/pdf/10.1103/kys2-kfdk"
-
 
 o Kaspara Skovli Gåsvær, Pedro G. Lind, Johannes Langguth, Morten Hjorth-Jensen, Michael Kreil, Daniel Thilo Schroeder, _The 5G COVID-19 Digital Wildfire: An evolving network of Twitter contacts to explore phase transition metaphors in viral misinformation_,  "PLoS ONE 0343661, (2026)":"https://doi.org/10.1371/journal.pone.0343661"
 
@@ -528,7 +525,5 @@ o Hjorth-Jensen, Morten; Engeland, Torgeir; Holt, Anne; Osnes, Eivind.  Perturba
 o Holt, Anne; Engeland, Torgeir; Hjorth-Jensen, Morten; Osnes, Eivind.  The structure of the neutron deficient Sn isotopes. Nuclear Physics A 1994 ;Volume 570. p. 137c-144c Conference: International Symposium on Nuclear Structure Physics Today Location: Chung Yuan Christian Univ, Chungli, Taiwan Date: MAY 11-15, 1993 
 
 o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern meson-exchange potentials, Edited by A. Covello, 3rd international spring seminar on nuclear physics, Ischia, Italy, May 21-25, 1990, (World Scientific Singapore, 1991), pages 87-97 
-
-
 
 
