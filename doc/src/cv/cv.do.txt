@@ -225,7 +225,7 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 #o Juan David Álvarez-Cuartas, Patrick Cook, Morten Hjorth-Jensen, Danny Jammooa, Dean Lee, and John Hen#ry Reina, _Spin-Boson Parametric Matrix Models_, in preparation for Physical Review A
 
-o A. H. Mjøs, E. Lima, A. Kvellestad, A. C. Larsen, and M. Hjorth-Jensen, _Empirical-Bayes Unfolding of $\gamma$-ray Spectra_, Physical Review C under review and URL:"https://arxiv.org/abs/2511.16687"
+o A. H. Mjøs, E. Lima, A. Kvellestad, A. C. Larsen, and M. Hjorth-Jensen, _Empirical-Bayes Unfolding of $\gamma$-ray Spectra_, Physical Review C under review and URL:"https://arxiv.org/abs/2606.24971"
 
 o Alessandro Lovato, Giuseppe Carleo, Bryce Fore, Morten Hjorth-Jensen, Jane Kim, Arnau Rios, Noemi Rocco, _Neural-network quantum states for the nuclear many-body problem_, Progress in Nuclear and Particle Physics, under review and URL:"https://arxiv.org/abs/2602.13826"
 
