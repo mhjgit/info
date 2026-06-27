@@ -14,7 +14,7 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 === Publications in journals with a referee system: ===
 
-#o Juan David Álvarez-Cuartas, Patrick Cook, Morten Hjorth-Jensen, Danny Jammooa, Dean Lee, and John Hen#ry Reina, _Spin-Boson Parametric Matrix Models_, in preparation for Physical Review A
+o Juan David Álvarez-Cuartas, Patrick Cook, Morten Hjorth-Jensen, Danny Jammooa, Dean Lee, and John Hen#ry Reina, _Spin-Boson Parametric Matrix Models_, in preparation for Physical Review A
 
 o A. H. Mjøs, E. Lima, A. Kvellestad, A. C. Larsen, and M. Hjorth-Jensen, _Empirical-Bayes Unfolding of $\gamma$-ray Spectra_, Physical Review C under review and URL:"https://arxiv.org/abs/2606.24971"
 
