@@ -1675,21 +1675,20 @@ o "Øyvind Sigmundsson Schøyen":"https://www.mn.uio.no/fysikk/personer/vit/oyvi
 o "Stian Bilek":"https://www.mn.uio.no/fysikk/english/people/aca/stiandb/", University of Oslo, started fall 2020. Quantum Computing  and Machine Learning
 o "Jonas Boym Flaten":"https://www.mn.uio.no/fysikk/personer/vit/jonasbf/", University of Oslo, started fall 2020. Quantum Many-Body theories and quantum computing
 o "Oskar Leinonen":"https://www.mn.uio.no/fysikk/personer/vit/oskarlei/index.html", University of Oslo, started fall 2022. Quantum computing
-o "Patrick Cook":"https://directory.natsci.msu.edu/Directory/Profiles/Person/101818", Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning.
 o "Aymeric McRae":"https://directory.natsci.msu.edu/Directory/Profiles/Person/101941?org=60", Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning.
 o "Nicholas Cariello":"https://directory.natsci.msu.edu/Directory/Profiles/Person_Embed/101812?org=34&group=77", Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning.
 o Einar Aurbakken, University of Oslo, started 2020, defends thesis fall 2024, Quantum Chemistry and Many-body Physics, co-supervisor
 o "Andreas H. Mjøs":"https://www.mn.uio.no/fysikk/english/people/aca/andrehmj/", started fall 2021. Thesis topic: Bayesian statistics applied to nuclear physics experiments, co-supervisor
 o "Erlend Lima":"https://www.mn.uio.no/fysikk/personer/vit/erlenlim/", started fall 2021. Thesis topic: Bayesian statistics applied to nuclear physics experiments, co-supervisor 
-o "Christina Kappatou":"https://www.mn.uio.no/geo/personer/vit/metos/chrikap/index.html", started fall 2022. Thesis topic: Geoscience and Machine Learning, co-supervisor
 o "Alf Johan Skarpeid":"https://www.mn.uio.no/smn/personer/vit/alvjs/index.html", started fall 2023, Thesis topic: Experimental condensed matter physics, co-supervisor
 o "Ruben Pariente  Bassa":"https://www.sintef.no/en/all-employees/employee/ruben.bassa/", started fall 2023, co-supervisor. Research topic: Quantum Computing.
 o "Sunniva Meltzer":"https://www.sintef.no/alle-ansatte/ansatt/sunniva.meltzer/", started fall 2023, co-supervisor. Research topic: Machine learning.
 
 === Former PhD students and their present positions ===
+o "Patrick Cook":"https://directory.natsci.msu.edu/Directory/Profiles/Person/101818", Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning. Defended thesis July 14, 2026.
 o "Danny Jammoa":"https://directory.natsci.msu.edu/Directory/Profiles/Person/101825", Michigan State University, started 2020, co-supervisor. Research topic: Quantum Computing and Machine Learning. Defended thesis November 11, 2025. From March 2026, post-doctoral fellow at RIKEN, Tokyo, Japan
 o "Paulina Souza Tedesco":"https://www.mn.uio.no/fysikk/english/people/aca/paulinte/", University of Oslo, started 2020, defended thesis September 2024, Machine Learning and Meteorology, co-supervisor. Now researcher at the Institute for Meteorology, Oslo, Norway
-o "Jane Kim":"https://www.ohio.edu/cas/janekim", Michigan State University, started fall 2018. Defended thesis July 20,  2023. Research topic: Machine Learning and the Nuclear Many-body problem. Now post-doctoral research fellow at University of Ohio, Athens, USA.
+o "Jane Kim":"https://www.ohio.edu/cas/janekim", Michigan State University, started fall 2018. Defended thesis July 20,  2023. Research topic: Machine Learning and the Nuclear Many-body problem. Now post-doctoral research fellow at Argonne national laboratory, Chicago, USA.
 o "Julie Butler":"https://www.linkedin.com/in/julie-butler-ph-d-4b2741103", Michigan State University, started fall 2018. Defended thesis July 18,  2023. Research topic: Machine Learning and the Nuclear Many-body problem. Now Assistant Professor at Mt Union university, Ackron, Ohio
 o "Benjamin Hall":"https://www.linkedin.com/in/benjamin-hall-85206a95/", Michigan State University, started 2017. Defended thesis August 25, 2022. Research topic: Quantum Computing  and the Nuclear Many-body problem. Present job: scientist and researcher at "Super.Tech":"https://www.super.tech/"
 o John Mark Aiken, University of Oslo, started 2017, defended thesis September 2020, co-supervisor. Research Topic: Machine Learning applied to Physics Education Research. Now post-doctoral fellow at the University of Oslo and scientist at Expert Analytics
