@@ -226,10 +226,7 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 #o Juan David Álvarez-Cuartas, Patrick Cook, Morten Hjorth-Jensen, Danny Jammooa, Dean Lee, and John Hen#ry Reina, _Spin-Boson Parametric Matrix Models_, in preparation for Physical Review A
 
 
-o Maria Elena Perruzza, Niyaz R. Beysengulov, Stian D. Bilek, Antoine Y.
- M. C. Camper, Jonas B. Flaten, Morten Hjorth-Jensen, Gunnar F. Lange, Oskar
- Leinonen, Jan Malamant, Francesco P. Massel, Johannes Pollanen, Heidi
- Sandaker, Zachary J. Stewart, Viktor Svensson, and Jared D. Weidman, _Electrons on Helium and Entangled Quantum Sensors for Particle Physics_, Nature Communications Physics under review and URL:"http://arxiv.org/abs/2606.31910"
+o Maria Elena Perruzza, Niyaz R. Beysengulov, Stian D. Bilek, Antoine Y. M. C. Camper, Jonas B. Flaten, Morten Hjorth-Jensen, Gunnar F. Lange, Oskar Leinonen, Jan Malamant, Francesco P. Massel, Johannes Pollanen, Heidi  Sandaker, Zachary J. Stewart, Viktor Svensson, and Jared D. Weidman, _Electrons on Helium and Entangled Quantum Sensors for Particle Physics_, Nature Communications Physics under review and URL:"http://arxiv.org/abs/2606.31910"
 
 o A. H. Mjøs, E. Lima, A. Kvellestad, A. C. Larsen, and M. Hjorth-Jensen, _Empirical-Bayes Unfolding of $\gamma$-ray Spectra_, Physical Review C under review and URL:"https://arxiv.org/abs/2606.24971"
 
