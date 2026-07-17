@@ -235,7 +235,7 @@ o A. H. Mjøs, E. Lima, A. Kvellestad, A. C. Larsen, and M. Hjorth-Jensen, _Empi
 
 o Alessandro Lovato, Giuseppe Carleo, Bryce Fore, Morten Hjorth-Jensen, Jane Kim, Arnau Rios, Noemi Rocco, _Neural-network quantum states for the nuclear many-body problem_, Progress in Nuclear and Particle Physics, under review and URL:"https://arxiv.org/abs/2602.13826"
 
-o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder_, APS Open Science {\bf 1}, (2026) and URL:"https://arxiv.org/abs/2603.20157"
+o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder_, APS Open Science {\bf 1}, (2026) and URL:"https://doi.org/10.1103/h8n4-94g4"
 
 o E. Lima, L. L. Braseth, A. H. Mjøs, M. Hjorth-Jensen, A. Kvellestad, A. C. Larsen, _Regularized Unfolding of gamma-ray Spectra for Nuclear Physics Applications_, Physical Review C {\bf 114}, (2026)  and URL:"https://arxiv.org/abs/2511.16687"
 
