@@ -239,7 +239,7 @@ o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, C
 
 o E. Lima, L. L. Braseth, A. H. Mjøs, M. Hjorth-Jensen, A. Kvellestad, A. C. Larsen, _Regularized Unfolding of gamma-ray Spectra for Nuclear Physics Applications_, Physical Review C {\bf 114}, (2026)  and URL:"https://arxiv.org/abs/2511.16687"
 
-o Juan Manuel Scarpetta, Omar Calderon-Losada, Morten Hjorth-Jensen, and John Henry Reina, _Deep learning parameter estimation and quantum control of single molecule_, ACS Physical Chemistry Au, (2026) and URL:"doi:10.1021/acsphyschemau.6c00048"
+o Juan Manuel Scarpetta, Omar Calderon-Losada, Morten Hjorth-Jensen, and John Henry Reina, _Deep learning parameter estimation and quantum control of single molecule_, ACS Physical Chemistry Au {\bf 6}, 858–868 (2026) and URL:"doi:10.1021/acsphyschemau.6c00048"
 
 o Scott Bogner, Heiko Hergert, Morten Hjorth-Jensen, Ryan LaRose, Dean Lee, Matthew Patkowski, _Quantum State Preparation with Resolution Refinement_, "Physics Letters B 875, 140363 (2026)":"https://doi.org/10.1016/j.physletb.2026.140363"
 
