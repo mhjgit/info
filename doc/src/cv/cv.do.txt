@@ -219,7 +219,14 @@ o Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen,
 #o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2024.
 o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
 
+o Alexei Bazavov, Zohreh Davoudi, Morten Hjorth-Jensen, Ryan LaRose, Dean Lee, and Alessandro Roggero, *Quantum Computing for Many-body Physics; From non-relativistic quantum mechanics to quantum field theory*, in preparation for Springer Verlag, estimated publication date fall 2027 
 
+o Morten Hjorth-Jensen, Gunnar Felix Lange, and Francesco Pietro Massel, *A pedestrian introduction to quantum
+sensing*, in preparation for Springer Verlag, estimated publication date fall 2027 
+
+o Morten Hjorth-Jensen, *Machine Learning and the Physical Sciences; From Discriminative methods to generative methods and reinforcement learning*, in preparation and URL:"https://github.com/EducationalMaterialUiO/MachineLearningUiO/blob/main/doc/BookML/Lecturebook.pdf". Planned published 2028
+
+o Morten Hjorth-Jensen, *Quantum mechanics for Many-particle Systems; A computational perspective, From standard methods to quantum computing and machine learning*, in preparation and URL:"https://github.com/EducationalMaterialUiO/ManyBodyPhysicsUiO/blob/main/doc/BookManybody/lecturebook.pdf".	Planned	published 2028
 
 === Publications in journals with a referee system: ===
 
