@@ -1,6 +1,6 @@
 TITLE: Publications 
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway
-DATE: June 2026
+DATE: September 2026
 
 
 =====  Research, Publications, books, refereed scientific articles =====
@@ -10,28 +10,34 @@ DATE: June 2026
 #o Morten Hjorth-Jensen, *Computational Physics, an advanced course*, to be published by IOP in 2024.
 o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.com/us/book/9783319533353", *Computational Nuclear Physics-Bridging the scales, from quarks to neutron stars*, Lectures Notes in Physics by Springer, Volume _936_ (2017).
 
+o Alexei Bazavov, Zohreh Davoudi, Morten Hjorth-Jensen, Ryan LaRose, Dean Lee, and Alessandro Roggero, *Quantum Computing for Many-body Physics; From non-relativistic quantum mechanics to quantum field theory*, in preparation for Springer Verlag, estimated publication date fall 2027 
 
+o Morten Hjorth-Jensen, Gunnar Felix Lange, and Francesco Pietro Massel, *A pedestrian introduction to quantum
+sensing*, in preparation for Springer Verlag, estimated publication date fall 2027 
+
+o Morten Hjorth-Jensen, *Machine Learning and the Physical Sciences; From Discriminative methods to generative methods and reinforcement learning*, in preparation and URL:"https://github.com/EducationalMaterialUiO/MachineLearningUiO/blob/main/doc/BookML/Lecturebook.pdf". Planned published 2028
+
+o Morten Hjorth-Jensen, *Quantum mechanics for Many-particle Systems; A computational perspective, From standard methods to quantum computing and machine learning*, in preparation and URL:"https://github.com/EducationalMaterialUiO/ManyBodyPhysicsUiO/blob/main/doc/BookManybody/lecturebook.pdf".	Planned	published 2028
 
 === Publications in journals with a referee system: ===
 
-o Juan David Álvarez-Cuartas, Patrick Cook, Morten Hjorth-Jensen, Danny Jammooa, Dean Lee, and John Hen#ry Reina, _Spin-Boson Parametric Matrix Models_, in preparation for Physical Review A
+o Scott Bogner, Cecilie Glittum, Heiko Hergert, Morten Hjorth-Jensen, Gunnar Lange, Ryan LaRose, Dean Lee,  and Francesco Pietro Massel, _Hybrid resolution refinement and the rodeo algorithm for eigenstate preparation: a demonstration on the pairing Hamiltonian_, in preparation Physical Review C
 
-o Maria Elena Perruzza, Niyaz R. Beysengulov, Stian D. Bilek, Antoine Y.
- M. C. Camper, Jonas B. Flaten, Morten Hjorth-Jensen, Gunnar F. Lange, Oskar
- Leinonen, Jan Malamant, Francesco P. Massel, Johannes Pollanen, Heidi
- Sandaker, Zachary J. Stewart, Viktor Svensson, and Jared D. Weidman, _Electrons on Helium
- and Entangled Quantum Sensors for Particle Physics_, Nature Communications Physics under
-review and URL:"http://arxiv.org/abs/2606.31910"
+
+o Juan David Álvarez-Cuartas, Patrick Cook, Morten Hjorth-Jensen, Danny Jammooa, Dean Lee, and John Henry Reina, _Tensor Parametric Matrix Model and the  Dissipative Many-Body Problem_, in preparation for Physical Review A
+
+
+o Maria Elena Perruzza, Niyaz R. Beysengulov, Stian D. Bilek, Antoine Y. M. C. Camper, Jonas B. Flaten, Morten Hjorth-Jensen, Gunnar F. Lange, Oskar Leinonen, Jan Malamant, Francesco P. Massel, Johannes Pollanen, Heidi  Sandaker, Zachary J. Stewart, Viktor Svensson, and Jared D. Weidman, _Electrons on Helium and Entangled Quantum Sensors for Particle Physics_, npj Communications Physics under review and URL:"http://arxiv.org/abs/2606.31910"
 
 o A. H. Mjøs, E. Lima, A. Kvellestad, A. C. Larsen, and M. Hjorth-Jensen, _Empirical-Bayes Unfolding of $\gamma$-ray Spectra_, Physical Review C under review and URL:"https://arxiv.org/abs/2606.24971"
 
-o Alessandro Lovato, Giuseppe Carleo, Bryce Fore, Morten Hjorth-Jensen, Jane Kim, Arnau Rios, Noemi Rocco, _Neural-network quantum states for the nuclear many-body problem_, Progress in Nuclear and Particle Physics, under review and URL:"https://arxiv.org/abs/2602.13826"
+o Alessandro Lovato, Giuseppe Carleo, Bryce Fore, Morten Hjorth-Jensen, Jane Kim, Arnau Rios, Noemi Rocco, _Neural-network quantum states for the nuclear many-body problem_, Progress in Nuclear and Particle Physics, in press and URL:"https://arxiv.org/abs/2602.13826"
 
-o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder_, APS Open Science, under review and URL:"https://arxiv.org/abs/2603.20157"
+o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder_, APS Open Science {\bf 1}, 000072 (2026) and URL:"https://link.aps.org/doi/10.1103/h8n4-94g4"
 
-o E. Lima, L. L. Braseth, A. H. Mjøs, M. Hjorth-Jensen, A. Kvellestad, A. C. Larsen, _Regularized Unfolding of gamma-ray Spectra for Nuclear Physics Applications_, Physical Review C under review and URL:"https://arxiv.org/abs/2511.16687"
+o E. Lima, L. L. Braseth, A. H. Mjøs, M. Hjorth-Jensen, A. Kvellestad, A. C. Larsen, _Regularized Unfolding of gamma-ray Spectra for Nuclear Physics Applications_, Physical Review C {\bf 114}, (2026)  and URL:"https://doi.org/10.1103/n7hl-5lbs"
 
-o Juan Manuel Scarpetta, Omar Calderon-Losada, Morten Hjorth-Jensen, and John Henry Reina, _Deep learning parameter estimation and quantum control of single molecule_, ACS Physical Chemistry Au, (2026) and URL:"doi:10.1021/acsphyschemau.6c00048"
+o Juan Manuel Scarpetta, Omar Calderon-Losada, Morten Hjorth-Jensen, and John Henry Reina, _Deep learning parameter estimation and quantum control of single molecule_, ACS Physical Chemistry Au {\bf 6}, 858–868 (2026) and URL:"doi:10.1021/acsphyschemau.6c00048"
 
 o Scott Bogner, Heiko Hergert, Morten Hjorth-Jensen, Ryan LaRose, Dean Lee, Matthew Patkowski, _Quantum State Preparation with Resolution Refinement_, "Physics Letters B 875, 140363 (2026)":"https://doi.org/10.1016/j.physletb.2026.140363"
 
@@ -532,5 +538,7 @@ o Hjorth-Jensen, Morten; Engeland, Torgeir; Holt, Anne; Osnes, Eivind.  Perturba
 o Holt, Anne; Engeland, Torgeir; Hjorth-Jensen, Morten; Osnes, Eivind.  The structure of the neutron deficient Sn isotopes. Nuclear Physics A 1994 ;Volume 570. p. 137c-144c Conference: International Symposium on Nuclear Structure Physics Today Location: Chung Yuan Christian Univ, Chungli, Taiwan Date: MAY 11-15, 1993 
 
 o Hjorth-Jensen, Morten,  Microscopic nuclear-structure calculations with modern meson-exchange potentials, Edited by A. Covello, 3rd international spring seminar on nuclear physics, Ischia, Italy, May 21-25, 1990, (World Scientific Singapore, 1991), pages 87-97 
+
+
 
 
