@@ -12,8 +12,7 @@ o "Morten Hjorth-Jensen, M.P. Lombardo and U. van Kolck":"http://www.springer.co
 
 o Alexei Bazavov, Zohreh Davoudi, Morten Hjorth-Jensen, Ryan LaRose, Dean Lee, and Alessandro Roggero, *Quantum Computing for Many-body Physics; From non-relativistic quantum mechanics to quantum field theory*, in preparation for Springer Verlag, estimated publication date fall 2027 
 
-o Morten Hjorth-Jensen, Gunnar Felix Lange, and Francesco Pietro Massel, *A pedestrian introduction to quantum
-sensing*, in preparation for Springer Verlag, estimated publication date fall 2027 
+o Morten Hjorth-Jensen, Gunnar Felix Lange, and Francesco Pietro Massel, *A pedestrian introduction to quantum sensing*, in preparation for Springer Verlag, estimated publication date fall 2027 
 
 o Morten Hjorth-Jensen, *Machine Learning and the Physical Sciences; From Discriminative methods to generative methods and reinforcement learning*, in preparation and URL:"https://github.com/EducationalMaterialUiO/MachineLearningUiO/blob/main/doc/BookML/Lecturebook.pdf". Planned published 2028
 
@@ -21,7 +20,7 @@ o Morten Hjorth-Jensen, *Quantum mechanics for Many-particle Systems; A computat
 
 === Publications in journals with a referee system: ===
 
-o Scott Bogner, Cecilie Glittum, Heiko Hergert, Morten Hjorth-Jensen, Gunnar Lange, Ryan LaRose, Dean Lee,  and Francesco Pietro Massel, _Hybrid resolution refinement and the rodeo algorithm for eigenstate preparation: a demonstration on the pairing Hamiltonian_, in preparation Physical Review C
+o Scott Bogner, Cecilie Glittum, Heiko Hergert, Morten Hjorth-Jensen, Gunnar Lange, Ryan LaRose, Dean Lee,  and Francesco Pietro Massel, _Hybrid resolution refinement and the rodeo algorithm for eigenstate preparation: a demonstration on the pairing Hamiltonian_, in preparation for Physical Review C
 
 
 o Juan David Álvarez-Cuartas, Patrick Cook, Morten Hjorth-Jensen, Danny Jammooa, Dean Lee, and John Henry Reina, _Tensor Parametric Matrix Model and the  Dissipative Many-Body Problem_, in preparation for Physical Review A
