@@ -22,13 +22,9 @@ o Morten Hjorth-Jensen, *Quantum mechanics for Many-particle Systems; A computat
 
 o Jean Paul Sadia, Morten Hjorth-Jensen, Dean Lee, Ryan LaRose, _ Digital quantum state preparation by nucleation_, Physical Review A under review and URL:"https://arxiv.org/abs/2609.37527"
 
-
-
 o Scott Bogner, Cecilie Glittum, Heiko Hergert, Morten Hjorth-Jensen, Gunnar Lange, Ryan LaRose, Dean Lee,  Francesco Pietro Massel, and Jean Paul Sadia, _Hybrid resolution refinement and the rodeo algorithm for eigenstate preparation: a demonstration on the pairing Hamiltonian_, in preparation Physical Review C
 
-
 o Juan David Álvarez-Cuartas, Patrick Cook, Morten Hjorth-Jensen, Danny Jammooa, Dean Lee, and John Henry Reina, _Tensor Parametric Matrix Model and the  Dissipative Many-Body Problem_, in preparation for Physical Review A
-
 
 o Maria Elena Perruzza, Niyaz R. Beysengulov, Stian D. Bilek, Antoine Y. M. C. Camper, Jonas B. Flaten, Morten Hjorth-Jensen, Gunnar F. Lange, Oskar Leinonen, Jan Malamant, Francesco P. Massel, Johannes Pollanen, Heidi  Sandaker, Zachary J. Stewart, Viktor Svensson, and Jared D. Weidman, _Electrons on Helium and Entangled Quantum Sensors for Particle Physics_, npj Communications Physics under review and URL:"http://arxiv.org/abs/2606.31910"
 
