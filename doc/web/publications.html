@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- Last updated: 2 October 2026 — world map rebuilt from Natural Earth 110m data; publication list and Scholar counts refreshed. -->
+<!-- Last updated: 12 November 2026 — publication statuses and Google Scholar counts refreshed. -->
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
@@ -377,14 +377,14 @@ h2{font-family:'Source Serif 4',serif;font-size:19px;font-weight:600;
     <section class="card">
       <h2>Google Scholar profile</h2>
       <div class="stat-row" style="grid-template-columns:repeat(3,1fr)">
-        <div class="stat-box"><strong>18,141</strong><span>Citations (all time)</span></div>
-        <div class="stat-box"><strong>67</strong><span>h-index</span></div>
+        <div class="stat-box"><strong>18,272</strong><span>Citations (all time)</span></div>
+        <div class="stat-box"><strong>68</strong><span>h-index</span></div>
         <div class="stat-box"><strong>171</strong><span>i10-index</span></div>
       </div>
       <ul class="type-list">
-        <li><span>Citations since 2021</span><span class="type-count">5,396</span></li>
-        <li><span>h-index since 2021</span><span class="type-count">34</span></li>
-        <li><span>i10-index since 2021</span><span class="type-count">91</span></li>
+        <li><span>Citations since 2021</span><span class="type-count">5,516</span></li>
+        <li><span>h-index since 2021</span><span class="type-count">35</span></li>
+        <li><span>i10-index since 2021</span><span class="type-count">92</span></li>
       </ul>
     </section>
 
@@ -393,7 +393,7 @@ h2{font-family:'Source Serif 4',serif;font-size:19px;font-weight:600;
       <p style="font-size:13.5px;color:var(--muted);line-height:1.6">
         Citation counts and profile metrics are from
         <a href="https://scholar.google.com/citations?user=nuiyEmwAAAAJ&hl=en" target="_blank">Google Scholar</a>
-        (retrieved 2 October 2026). All-time counts are shown; recent papers accumulate citations slowly.
+        (retrieved 12 November 2026). All-time counts are shown; recent papers accumulate citations slowly.
         DOI links resolve to the publisher; arXiv links provide open-access preprints.
       </p>
     </section>
@@ -406,7 +406,7 @@ h2{font-family:'Source Serif 4',serif;font-size:19px;font-weight:600;
   <p class="hint">
     Sourced from the
     <a href="https://mhjgit.github.io/info/doc/pub/publications/html/publications.html" target="_blank">full publications page</a>.
-    Peer-reviewed articles, review articles, white papers and submitted preprints since 2021; Google Scholar citations shown. Filter by type or year.
+    Peer-reviewed articles, review articles, white papers and submitted manuscripts since 2021; Google Scholar citations shown. Filter by type or year.
   </p>
   <div class="filters">
     <input id="search" placeholder="Search title, authors, journal…"/>
@@ -460,11 +460,11 @@ const collabs = [
    inst:"University of Sydney"},
 ];
 
-/* Google Scholar citation counts (all-time, retrieved 2 October 2026 from the public profile) */
+/* Google Scholar citation counts (all-time, retrieved 12 November 2026 from the public profile) */
 const pubs = [
   {title:"Digital quantum state preparation by nucleation",
    authors:"J. P. Sadia, M. Hjorth-Jensen, D. Lee, R. LaRose",
-   year:2026, type:"Preprint", venue:"arXiv:2609.37527 (submitted)",
+   year:2026, type:"Journal article", venue:"Physical Review A (under review)",
    cites:0, doi:"", arxiv:"https://arxiv.org/abs/2609.37527"},
   {title:"Electrons on Helium and Entangled Quantum Sensors for Particle Physics",
    authors:"M. E. Perruzza, N. R. Beysengulov, S. D. Bilek, A. Y. M. C. Camper, J. B. Flaten, M. Hjorth-Jensen, G. F. Lange, O. Leinonen, J. Malamant, F. P. Massel, J. Pollanen, H. Sandaker, Z. J. Stewart, V. Svensson, J. D. Weidman",
@@ -476,8 +476,8 @@ const pubs = [
    cites:0, doi:"", arxiv:"https://arxiv.org/abs/2606.24971"},
   {title:"Neural-network quantum states for the nuclear many-body problem",
    authors:"A. Lovato, G. Carleo, B. Fore, M. Hjorth-Jensen, J. Kim, A. Rios, N. Rocco",
-   year:2026, type:"Review article", venue:"Progress in Particle and Nuclear Physics (in press)",
-   cites:4, doi:"", arxiv:"https://arxiv.org/abs/2602.13826"},
+   year:2026, type:"Review article", venue:"Progress in Particle and Nuclear Physics 152 (2027)",
+   cites:4, doi:"https://doi.org/10.1016/j.ppnp.2026.104273", arxiv:"https://arxiv.org/abs/2602.13826"},
   {title:"Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder",
    authors:"A. Abuali, D. A. Clarke, M. Hjorth-Jensen, I. Konstantinidis, C. Ratti, J. Yang",
    year:2026, type:"Journal article", venue:"APS Open Science 1, 000072",
@@ -493,8 +493,8 @@ const pubs = [
   {title:"Quantum State Preparation with Resolution Refinement",
    authors:"S. Bogner, H. Hergert, M. Hjorth-Jensen, R. LaRose, D. Lee, M. Patkowski",
    year:2026, type:"Journal article", venue:"Physics Letters B 875, 140363",
-   cites:0, doi:"https://doi.org/10.1016/j.physletb.2026.140363", arxiv:""},
-  {title:"Design and Dynamics of High-Fidelity Two-Qubit Gates with Electrons on Helium",
+   cites:1, doi:"https://doi.org/10.1016/j.physletb.2026.140363", arxiv:""},
+  {title:"Design and Dynamics of Two-Qubit Gates with Motional States of Electrons on Helium",
    authors:"O. Leinonen, J. B. Flaten, S. D. Bilek, Ø. S. Schøyen, M. Hjorth-Jensen, N. R. Beysengulov, Z. J. Stewart, J. D. Weidman, A. K. Wilson",
    year:2026, type:"Journal article", venue:"Physical Review A 113, 032624",
    cites:1, doi:"https://doi.org/10.1103/kys2-kfdk", arxiv:"https://arxiv.org/abs/2509.13946"},
@@ -505,7 +505,7 @@ const pubs = [
   {title:"Machine learning non-Markovian two-level quantum noise spectroscopy",
    authors:"J. M. Scarpetta, J. H. Reina, M. Hjorth-Jensen",
    year:2025, type:"Journal article", venue:"Physical Review Research 7, 043285",
-   cites:5, doi:"https://doi.org/10.1103/2lzl-vpjd", arxiv:""},
+   cites:6, doi:"https://doi.org/10.1103/2lzl-vpjd", arxiv:""},
   {title:"Deep learning of phase transitions with minimal examples",
    authors:"A. Abuali, D. A. Clarke, M. Hjorth-Jensen, I. Konstantinidis, C. Ratti, J. Yang",
    year:2025, type:"Journal article", venue:"Physical Review E 112, 035315",
@@ -513,7 +513,7 @@ const pubs = [
   {title:"Parametric Matrix Models",
    authors:"P. Cook, D. Jammooa, M. Hjorth-Jensen, D. D. Lee, D. Lee",
    year:2025, type:"Journal article", venue:"Nature Communications 16, 5929",
-   cites:35, doi:"https://www.nature.com/articles/s41467-025-61362-4", arxiv:""},
+   cites:37, doi:"https://www.nature.com/articles/s41467-025-61362-4", arxiv:""},
   {title:"Investigating the crust of neutron stars with neural-network quantum states",
    authors:"B. Fore, J. Kim, M. Hjorth-Jensen, A. Lovato",
    year:2025, type:"Journal article", venue:"Communications Physics 8, 108",
@@ -529,19 +529,19 @@ const pubs = [
   {title:"Neural-network quantum states for ultra-cold Fermi gases",
    authors:"J. Kim, G. Pescia, B. Fore, J. Nys, G. Carleo, S. Gandolfi, M. Hjorth-Jensen, A. Lovato",
    year:2024, type:"Journal article", venue:"Communications Physics 7, 148",
-   cites:90, doi:"https://www.nature.com/articles/s42005-024-01613-w", arxiv:""},
+   cites:94, doi:"https://www.nature.com/articles/s42005-024-01613-w", arxiv:""},
   {title:"Dilute neutron star matter from neural-network quantum states",
    authors:"B. Fore, J. M. Kim, G. Carleo, M. Hjorth-Jensen, A. Lovato, M. Piarulli",
    year:2023, type:"Journal article", venue:"Physical Review Research 5, 033062",
-   cites:32, doi:"https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033062", arxiv:""},
+   cites:35, doi:"https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033062", arxiv:""},
   {title:"Solving the nuclear pairing model with neural network quantum states",
    authors:"M. Rigo, B. Hall, M. Hjorth-Jensen, A. Lovato, F. Pederiva",
    year:2023, type:"Journal article", venue:"Physical Review E 107, 025310",
-   cites:28, doi:"https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.025310", arxiv:""},
+   cites:30, doi:"https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.025310", arxiv:""},
   {title:"Mapping out the thermodynamic stability of a QCD equation of state with a critical point using active learning",
    authors:"D. Mroczek, M. Hjorth-Jensen, J. Noronha-Hostler, P. Parotto, C. Ratti, R. Vilalta",
    year:2023, type:"Journal article", venue:"Physical Review C 107, 054911",
-   cites:23, doi:"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.054911", arxiv:""},
+   cites:24, doi:"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.054911", arxiv:""},
   {title:"Efficient Solutions of Fermionic Systems using Artificial Neural Networks",
    authors:"E. M. Nordhagen, J. M. Kim, B. Fore, A. Lovato, M. Hjorth-Jensen",
    year:2023, type:"Journal article", venue:"Frontiers in Physics 11, 1061580",
@@ -549,11 +549,11 @@ const pubs = [
   {title:"Quantum Information Science and Technology for Nuclear Physics. Input into U.S. Long-Range Planning, 2023",
    authors:"D. Beck, J. Carlson, Z. Davoudi, J. Formaggio, S. Quaglioni, M. Savage, M. Hjorth-Jensen et al.",
    year:2023, type:"White paper", venue:"arXiv:2303.00113",
-   cites:63, doi:"", arxiv:"https://arxiv.org/abs/2303.00113"},
+   cites:69, doi:"", arxiv:"https://arxiv.org/abs/2303.00113"},
   {title:"Machine Learning in Nuclear Physics",
    authors:"A. Boehnlein, M. Diefenthaler, C. Fanelli, M. Hjorth-Jensen, T. Horn et al.",
    year:2022, type:"Review article", venue:"Reviews of Modern Physics 94, 031003",
-   cites:396, doi:"https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.031003", arxiv:"https://arxiv.org/abs/2112.02309"},
+   cites:414, doi:"https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.031003", arxiv:"https://arxiv.org/abs/2112.02309"},
   {title:"Predicting Solid State Material Platforms for Quantum Technologies",
    authors:"O. L. Hebnes, M. E. Bathen, Ø. S. Schøyen, S. G. W. Larsen, L. Vines, M. Hjorth-Jensen",
    year:2022, type:"Journal article", venue:"npj Computational Materials 8, 207",
@@ -561,11 +561,11 @@ const pubs = [
   {title:"Hidden spin-isospin exchange symmetry",
    authors:"D. Lee, S. Bogner, B. A. Brown, S. Elhatisari, E. Epelbaum, H. Hergert, M. Hjorth-Jensen et al.",
    year:2021, type:"Journal article", venue:"Physical Review Letters 127, 062501",
-   cites:40, doi:"https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.062501", arxiv:""},
+   cites:41, doi:"https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.062501", arxiv:""},
   {title:"Exploring the role of high-j configurations in collective observables through Coulomb excitation of 106Cd",
    authors:"D. Rhodes, B. A. Brown, J. Henderson, A. Gade, M. Hjorth-Jensen et al.",
    year:2021, type:"Journal article", venue:"Physical Review C 103, L051301",
-   cites:17, doi:"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.L051301", arxiv:""},
+   cites:18, doi:"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.L051301", arxiv:""},
   {title:"Unsupervised learning for identifying events in active target experiments",
    authors:"R. Solli, D. Bazin, M. Hjorth-Jensen, M. P. Kuchera, R. R. Strauss",
    year:2021, type:"Journal article", venue:"Nuclear Instruments and Methods in Physics Research A 1010, 165461",
