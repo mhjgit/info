@@ -30,7 +30,7 @@ o Maria Elena Perruzza, Niyaz R. Beysengulov, Stian D. Bilek, Antoine Y. M. C. C
 
 o A. H. Mjøs, E. Lima, A. Kvellestad, A. C. Larsen, and M. Hjorth-Jensen, _Empirical-Bayes Unfolding of $\gamma$-ray Spectra_, Physical Review C under review and URL:"https://arxiv.org/abs/2606.24971"
 
-o Alessandro Lovato, Giuseppe Carleo, Bryce Fore, Morten Hjorth-Jensen, Jane Kim, Arnau Rios, Noemi Rocco, _Neural-network quantum states for the nuclear many-body problem_, Progress in Nuclear and Particle Physics _152_, (2027),  and URL:"https://doi.org/10.1016/j.ppnp.2026.104273"
+o Alessandro Lovato, Giuseppe Carleo, Bryce Fore, Morten Hjorth-Jensen, Jane Kim, Arnau Rios, Noemi Rocco, _Neural-network quantum states for the nuclear many-body problem_, Progress in Nuclear and Particle Physics _152_, 104273 (2027),  and URL:"https://doi.org/10.1016/j.ppnp.2026.104273"
 
 o Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang, _Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder_, APS Open Science _1_, 000072 (2026) and URL:"https://link.aps.org/doi/10.1103/h8n4-94g4"
 
