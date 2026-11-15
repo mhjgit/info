@@ -1,6 +1,6 @@
 TITLE: Publications 
 AUTHOR: Morten Hjorth-Jensen {copyright, 1999-present|CC BY-NC} at Department of Physics, University of Oslo, Norway
-DATE: September 2026
+DATE: November 2026
 
 
 =====  Research, Publications, books, refereed scientific articles =====
